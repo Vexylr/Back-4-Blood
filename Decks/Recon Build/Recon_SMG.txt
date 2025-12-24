@@ -66,8 +66,8 @@ DECK COMPOSITION (15 cards)
 14. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
-15. CONFIDENT KILLER (Brawn - Offense)
-    When you or your team kills a Mutation: gain 1% damage (up to 15%) until end of level.
+15. MONEY GRUBBERS (Fortune - Utility)
+    Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.
 
 
 TOTAL + BUFFS SUMMARY
@@ -78,7 +78,7 @@ BASE DECK:
 - Sprint Speed: +15% (Run Like Hell) - lost for 3s when taking damage
 - Stamina: +20% (Cross Trainers)
 - Stamina Regen: +20% (Cross Trainers)
-- Bullet Damage: +27.5% base (+10% Silver Bullets + +7.5% Large Caliber) + +10% with SMGs (Mag Carrier) = +37.5% total with SMGs + up to +15% Confident Killer (mutation kills)
+- Bullet Damage: +27.5% base (+10% Silver Bullets + +7.5% Large Caliber) + +10% with SMGs (Mag Carrier) = +37.5% total with SMGs
 - Weakspot Damage: +20% (Ridden Slayer)
 - Ammo Capacity: +30% (SMGs via Mag Carrier)
 - Economy: Copper Scavenger + Food Scavenger

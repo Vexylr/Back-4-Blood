@@ -35,43 +35,45 @@ DECK COMPOSITION (15 cards)
 5. ROLLING THUNDER (Reflex - Mobility)
    +35% Movement Speed while firing with Shotguns. +10% Damage with Shotguns.
 
-6. AMPED UP (Brawn - Defense)
-   When a horde is triggered, your team gains 20 Health.
+6. GLASS CANNON (Reflex - Offense)
+   +25% Damage. -30% Health.
 
-7. FRESH BANDAGE (Brawn - Defense)
-   At the start of each level: recover 15 Trauma Damage, restore missing Health.
+7. CONFIDENT KILLER (Brawn - Offense)
+   When you or your team kills a Mutation: gain 1% damage (up to 15%) until end of level.
 
-8. WOODEN ARMOR (Brawn - Defense)
+8. RIDDEN SLAYER (Reflex - Offense)
+   +20% Weakspot Damage.
+
+9. WOODEN ARMOR (Brawn - Defense)
    +30% Trauma Resistance. -100% Fire Resistance.
 
-9. BODY ARMOR (Brawn - Defense)
+10. BODY ARMOR (Brawn - Defense)
    +20% Trauma Resistance.
 
-10. MOTORCYCLE HELMET (Discipline - Defense)
+11. MOTORCYCLE HELMET (Discipline - Defense)
    +15% Damage Resistance. +10 Health. DISABLES: Aim Down Sights.
 
-11. MAG COUPLER (Reflex - Offense)
+12. MAG COUPLER (Reflex - Offense)
     +50% Reload Speed. DISABLES: Aim Down Sights.
 
-12. QUICK KILL (Reflex - Offense)
+13. QUICK KILL (Reflex - Offense)
     +50% Accuracy. DISABLES: Aim Down Sights.
 
-13. COPPER SCAVENGER (Fortune - Utility)
+14. COPPER SCAVENGER (Fortune - Utility)
     You can sense nearby Copper. More Copper Piles spawn.
 
-14. AMMO SCAVENGER (Discipline - Utility)
-    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
+15. MONEY GRUBBERS (Fortune - Utility)
+    Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.
 
-15. FOOD SCAVENGER (Fortune - Utility)
-    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
-- Health: +20 (+10 Down in Front! + +10 Motorcycle Helmet)
-- Damage: +10% base (+10% Shell Carrier) + +10% while firing (Rolling Thunder) = +20% total while firing
-- Shotgun Damage: +20% (+10% Shell Carrier + +10% Rolling Thunder)
+- Health: -20% net (-30% Glass Cannon + +10 Motorcycle Helmet)
+- Damage: +45% base (+25% Glass Cannon + +10% Shell Carrier + +10% Rolling Thunder) + up to +15% Confident Killer (mutation kills)
+- Shotgun Damage: +45% base + up to +15% Confident Killer
+- Weakspot Damage: +20% (Ridden Slayer)
 - Shotgun Ammo Capacity: +30% (Shell Carrier)
 - Trauma Resistance: +50% (Wooden Armor + Body Armor)
 - Damage Resistance: +15% base (Motorcycle Helmet) + +10% while crouching (Hunker Down) = +25% total while crouched
@@ -89,12 +91,13 @@ WITH HENG:
 
 PLAYSTYLE
 
-Shotgun specialist focusing on AA12 with hip-fire accuracy. High trauma resistance (50%) and sustain cards keep you durable. AMMO SCAVENGER added for ammo sustain. Shell Carrier provides +10% shotgun damage and +30% shotgun ammo capacity. Rolling Thunder gives +10% shotgun damage and +35% movement speed while firing. Scattergun Skills provides +40% shotgun reload speed, combined with Mag Coupler for +90% total reload speed. Crouch when firing for better pellet grouping (Hunker Down provides +40% accuracy and +10% damage resistance while crouched). Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet). Amped Up provides team healing during hordes. Fresh Bandage provides trauma/health recovery at level start. Food Scavenger synergizes with Heng for trauma management. Use Magnum as offhand for mutations.
+Shotgun specialist focusing on AA12 with hip-fire accuracy. Glass Cannon provides +25% damage but reduces health (-30%), making positioning critical. Shell Carrier and Rolling Thunder provide +20% shotgun damage, combined with Glass Cannon for +45% base damage. Confident Killer stacks up to +15% more damage from mutation kills. Ridden Slayer provides +20% weakspot damage for No Hope. High trauma resistance (50%) and sustain cards keep you durable. Shell Carrier provides +30% shotgun ammo capacity. Rolling Thunder gives +35% movement speed while firing. Scattergun Skills provides +40% shotgun reload speed, combined with Mag Coupler for +90% total reload speed. Crouch when firing for better pellet grouping (Hunker Down provides +40% accuracy and +10% damage resistance while crouched). Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet). Amped Up provides team healing during hordes. Use Magnum as offhand for mutations. Learn to aim and position properly - no Down In Front for friendly fire protection.
 
 
 STRENGTHS
 
-- Good damage output (+10% base + +10% while firing = +20% total while firing)
+- Excellent damage output (+45% base, up to +60% with Confident Killer) - essential for No Hope
+- Weakspot damage (+20%) for mutation elimination
 - Excellent trauma resistance (50%)
 - Good sustain through Buckshot Bruiser temp health, food, and team healing
 - Very fast reload speed (+90% total)
@@ -106,7 +109,7 @@ STRENGTHS
 
 WEAKNESSES
 
-- Moderate health pool (+20 health)
+- Low health pool (-20% net from Glass Cannon) - positioning critical
 - No fire resistance (-100%)
 - Needs to find AA12 early for optimal performance
 - DISABLES: Aim Down Sights (hip-fire only)

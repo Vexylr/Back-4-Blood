@@ -39,26 +39,26 @@ DECK COMPOSITION (15 cards)
 5. STOCK POUCH (Reflex - Offense)
    +30% Sniper Ammo Capacity. +10% Damage with Sniper Rifles.
 
-6. DOWN IN FRONT! (Discipline - Defense)
-   While crouching you neither take nor deal Friendly Fire damage. +10 Health.
-
-7. HYPER-FOCUSED (Reflex - Offense)
+6. HYPER-FOCUSED (Reflex - Offense)
    +50% Weakspot Damage. -40% Move Speed while shooting or melee attacking.
 
-8. RIDDEN SLAYER (Reflex - Offense)
+7. RIDDEN SLAYER (Reflex - Offense)
    +20% Weakspot Damage.
 
-9. LARGE CALIBER ROUNDS (Discipline - Offense)
+8. LARGE CALIBER ROUNDS (Discipline - Offense)
    +7.5% Bullet Damage. +200% Bullet Penetration.
 
-10. SILVER BULLETS (Discipline - Offense)
+9. SILVER BULLETS (Discipline - Offense)
     +10% Bullet Damage. +15% Effective Bullet Range.
 
-11. RUN LIKE HELL (Reflex - Mobility)
+10. RUN LIKE HELL (Reflex - Mobility)
     +12% Move Speed. +15% Sprint Speed. When you take damage, you lose the benefits of Run like Hell for 3 seconds.
 
-12. ADMIN RELOAD (Fortune - Offense)
+11. ADMIN RELOAD (Fortune - Offense)
     When you stow your weapon, it reloads.
+
+12. FRONT SIGHT FOCUS (Discipline - Offense)
+    +20% Accuracy. +10% Weakspot Damage. +15% Aim Speed. +15% Recoil Control.
 
 13. COPPER SCAVENGER (Fortune - Utility)
     You can sense nearby Copper. More Copper Piles spawn.
@@ -73,9 +73,10 @@ DECK COMPOSITION (15 cards)
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
-- Health: -20% net (-30% Glass Cannon + +10 Down In Front!)
+- Health: -30% net (-30% Glass Cannon)
 - Bullet Damage: +52.5% base (+25% Glass Cannon + +7.5% Large Caliber + +10% Silver Bullets + +10% Stock Pouch Snipers) + up to +30% Patient Hunter (scoped) + up to +15% Confident Killer (mutation kills)
-- Weakspot Damage: +70% (+50% Hyper-Focused + +20% Ridden Slayer)
+- Weakspot Damage: +80% (+50% Hyper-Focused + +20% Ridden Slayer + +10% Front Sight Focus)
+- Accuracy: +20% (Front Sight Focus)
 - Bullet Penetration: +200%
 - Effective Bullet Range: +15% (Silver Bullets)
 - Ammo Capacity: +30% (Stock Pouch for snipers)
@@ -86,27 +87,27 @@ BASE DECK:
 
 WITH JIM:
 - Bullet Damage: +52.5% base + up to +30% Patient Hunter + up to +15% Confident Killer + up to +25% Clean Kill = up to +122.5% total potential
-- Weakspot Damage: +80% (+70% cards + +10% Team Weakspot from Seasoned Hunter)
+- Weakspot Damage: +90% (+80% cards + +10% Team Weakspot from Seasoned Hunter)
 - Reload: Admin Reload + +25% reload speed (Military Training)
 - Starts with: Razor Wire
 
 WITH WALKER:
-- Health: -10% net (-30% Glass Cannon + +10 Down In Front! + +10 Team Health from Pragmatic)
+- Health: -20% net (-30% Glass Cannon + +10 Team Health from Pragmatic)
 - Bullet Damage: +62.5% base (+52.5% cards + +10% Model Soldier) + up to +30% Patient Hunter + up to +15% Confident Killer = up to +107.5% total potential
-- Weakspot Damage: +70%
+- Weakspot Damage: +80%
 - Damage Reduction: 10% reduced damage from pinged mutations
 - Starts with: Frag Grenade
 
 
 PLAYSTYLE
 
-Glass cannon precision damage dealer. Glass Cannon provides +25% damage but reduces health (-30%), making positioning critical. Hyper-Focused and Ridden Slayer give massive weakspot damage (+70%, +80% with Jim). Position yourself at range for optimal weakspot shots. Use Patient Hunter's aiming stacks (aim for 2.25 seconds for max +30% damage). Focus mutations first to stack Confident Killer (+15% max). With Jim, prioritize precision kills to stack Clean Kill (+25% max) but avoid taking damage to maintain stacks. Admin Reload lets you swap weapons for instant reloads - perfect for sustained fire. Run Like Hell provides mobility (+12% move speed, +15% sprint speed) - enough for survival. Use Snipers for Stock Pouch bonus - ALL IN on sniper rifles. Stay at range, aim for weakspots, and let your massive damage do the work. Crouch when near teammates (Down in Front!) to prevent friendly fire.
+Glass cannon precision damage dealer. Glass Cannon provides +25% damage but reduces health (-30%), making positioning critical. Hyper-Focused, Ridden Slayer, and Front Sight Focus give massive weakspot damage (+80%, +90% with Jim). Position yourself at range for optimal weakspot shots. Use Patient Hunter's aiming stacks (aim for 2.25 seconds for max +30% damage). Focus mutations first to stack Confident Killer (+15% max). With Jim, prioritize precision kills to stack Clean Kill (+25% max) but avoid taking damage to maintain stacks. Admin Reload lets you swap weapons for instant reloads - perfect for sustained fire. Run Like Hell provides mobility (+12% move speed, +15% sprint speed) - enough for survival. Use Snipers for Stock Pouch bonus - ALL IN on sniper rifles. Stay at range, aim for weakspots, and let your massive damage do the work. Learn to aim and position properly - no Down In Front for friendly fire protection.
 
 
 STRENGTHS
 
 - Massive damage potential (up to +122.5% with Jim, +107.5% with Walker)
-- Massive weakspot damage (+70%, +80% with Jim) - essential for No Hope
+- Massive weakspot damage (+80%, +90% with Jim) - essential for No Hope
 - Excellent penetration (+200%) for hitting multiple targets
 - Admin Reload enables constant weapon swapping for sustained fire
 - Good mobility with Run Like Hell (+12% move speed, +15% sprint speed)
@@ -115,7 +116,7 @@ STRENGTHS
 
 WEAKNESSES
 
-- Very low health pool (-15% net) - one mistake can be fatal
+- Very low health pool (-30% net) - one mistake can be fatal
 - Requires good aiming/positioning to maximize damage stacks
 - Vulnerable if caught in close quarters
 - Needs teammates for protection

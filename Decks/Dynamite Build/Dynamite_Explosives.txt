@@ -57,17 +57,18 @@ DECK COMPOSITION (15 cards)
 13. AMMO SCAVENGER (Discipline - Utility)
     You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
-14. DOWN IN FRONT! (Discipline - Defense)
-    While crouching you neither take nor deal Friendly Fire damage. +10 Health.
+14. FOOD SCAVENGER (Fortune - Utility)
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
-15. FOOD SCAVENGER (Fortune - Utility)
+15. RUN LIKE HELL (Reflex - Mobility)
+    +12% Move Speed. +15% Sprint Speed. When you take damage, you lose the benefits of Run like Hell for 3 seconds.
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
-- Health: +10 (Down in Front!)
+- Health: +0 (no health cards - all in on explosives)
 - Accessory/Explosive Damage: +175% total (Demolitions Expert +50%, Grenade Training +25%, Bomb Squad +25% team, Pyro +100% fire damage)
 - Fire Damage: +100% (Pyro)
 - Explosive Resistance: +25% Team
@@ -86,7 +87,7 @@ WITH HOFFMAN:
 
 PLAYSTYLE
 
-Professional demolitionist and explosive specialist. Your grenades and Molotovs deal massive damage (+175% total). Use Offensive Scavenger to find items, Money Grubbers and Copper Scavenger for purchasing power. Pyro makes fire damage incredibly powerful (+100%) and gives temp health per kill (+3 temp health per fire kill). Food Scavenger provides additional sustain through food items. With Hoffman, you have +4 offensive inventory slots and generate items from kills. Your goal: eliminate bosses and mutations with explosive damage. Take down Breakers and Ogres with ease using your massive accessory damage bonuses. Use secondary weapon with unlimited ammo for common ridden, save offensive items for mutations and bosses.
+Professional demolitionist and explosive specialist. Your grenades and Molotovs deal massive damage (+175% total). Use Offensive Scavenger to find items, Money Grubbers and Copper Scavenger for purchasing power. Pyro makes fire damage incredibly powerful (+100%) and gives temp health per kill (+3 temp health per fire kill). Food Scavenger provides additional sustain through food items. With Hoffman, you have +4 offensive inventory slots and generate items from kills. Your goal: eliminate bosses and mutations with explosive damage. Take down Breakers and Ogres with ease using your massive accessory damage bonuses. Use secondary weapon with unlimited ammo for common ridden, save offensive items for mutations and bosses. Run Like Hell provides mobility (+12% move speed, +15% sprint speed) for positioning. Learn to aim and position properly - no Down In Front for friendly fire protection.
 
 
 STRENGTHS
@@ -105,7 +106,7 @@ STRENGTHS
 WEAKNESSES
 
 - Lower ammo capacity (-15% from Demolitions Expert)
-- Lower health pool (+10 health only)
+- Very low health pool (no health bonuses) - positioning critical
 - Requires offensive items to maximize effectiveness
 - Can be expensive (need copper for item purchases)
 - Lower personal weapon damage (focus on items, not weapons)

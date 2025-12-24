@@ -26,7 +26,7 @@ ALTERNATIVE: HENG
 
 DECK COMPOSITION (15 cards)
 
-1. SUPPRESSING FIRE (Discipline - Offense)
+1. SUPPRESSING FIRE (Reflex - Talent)
    Damaging Ridden with LMGs and Snipers has 40% chance to slow Ridden near target by 50% for 5 seconds.
 
 2. TACTICAL VEST (Discipline - Offense)
@@ -65,8 +65,8 @@ DECK COMPOSITION (15 cards)
 13. SAFEROOM RECOVERY (Fortune - Utility)
     Your team recovers 15 Health, 7 Trauma Damage and refills 10% Ammo at start of each level.
 
-14. DOWN IN FRONT! (Discipline - Defense)
-    While crouching you neither take nor deal Friendly Fire damage. +10 Health.
+14. MONEY GRUBBERS (Fortune - Utility)
+    Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.
 
 15. WELL RESTED (Brawn - Utility)
     +20% Team Overheal. +5% Team Healing Efficiency.
@@ -75,7 +75,7 @@ DECK COMPOSITION (15 cards)
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
-- Health: +15
+- Health: +5 (Well Rested gives team support, not personal health)
 - Bullet Damage: +30% base (+10% Tactical Vest + +2.5% Ammo Pouch + +7.5% Large Caliber + +10% Silver Bullets) + +3.5% Team Damage
 - Bullet Penetration: +200%
 - Effective Bullet Range: +15%
@@ -98,14 +98,14 @@ WITH HENG:
 
 PLAYSTYLE
 
-Mobile supplier and resource generator. Your job is to keep the team stocked with ammo, weapons, and items. Use all your scavenger cards to find and generate resources throughout each level. Help with damage using your weapon cards (Tactical Vest provides +10% LMG damage), and support the team through resource generation. With Hoffman, provide massive ammo support (+50% team ammo capacity) and generate offensive items through kills. Bounty Hunter provides copper (up to 300 per level) for team upgrades. Avenge the Fallen gives emergency power (30% damage, 20% reload, unlimited ammo for 10 seconds) when teammates go down. Saferoom Recovery provides team sustain at level start.
+Mobile supplier and resource generator. Your job is to keep the team stocked with ammo, weapons, and items. Use all your scavenger cards to find and generate resources throughout each level. Help with damage using your weapon cards (Tactical Vest provides +10% LMG damage), and support the team through resource generation. With Hoffman, provide massive ammo support (+70% team ammo capacity) and generate offensive items through kills. Bounty Hunter and Money Grubbers provide copper for team upgrades. Avenge the Fallen gives emergency power (30% damage, 20% reload, unlimited ammo for 10 seconds) when teammates go down. Saferoom Recovery provides team sustain at level start. Learn to aim and position properly - no Down In Front for friendly fire protection.
 
 
 STRENGTHS
 
 - Multiple scavenger abilities (Ammo, Weapon, Offensive, Copper) for complete resource generation
 - Massive team ammo support (+70% team capacity with Hoffman)
-- Copper generation for upgrades (up to 300 per level)
+- Copper generation for upgrades (Bounty Hunter up to 300 per level + Money Grubbers up to 75 per level)
 - Weapon and item generation ensures team is well-equipped
 - Emergency team buffs (Avenge the Fallen)
 - Good damage output while supporting
@@ -114,7 +114,7 @@ STRENGTHS
 
 WEAKNESSES
 
-- Lower personal health pool (+15 health only)
+- Lower personal health pool (+5 health only)
 - Requires active scavenging to maximize effectiveness
 - Less focused than specialized builds
 - Team-dependent for optimal utility
