@@ -4,7 +4,7 @@ Difficulty: No Hope
 Weapons: LMGs (ALL IN on LMGs for penetration and mutation control)
 Playstyles: tank
 
-This deck is optimized for high-difficulty tank gameplay in multiplayer. Focus: Maximum damage absorption, revive support, trauma resistance, and team durability.
+This deck is optimized for high-difficulty team support tank gameplay in multiplayer. Focus: Team health recovery, trauma recovery, extra lives, and revive support. You make the team more useful, not yourself tanky.
 
 
 RECOMMENDED CLEANERS
@@ -22,89 +22,91 @@ DECK COMPOSITION (15 cards)
 1. SMELLING SALTS (Reflex - Utility)
    +200% Revive Speed.
 
-2. SUPERIOR CARDIO (Reflex - Mobility)
-   +20% Stamina. +20% Sprint Efficiency. +5 Health.
+2. MEDICAL PROFESSIONAL (Discipline - Defense)
+   Defibrillators and First Aid heal 10 additional Trauma Damage and 1 Extra Life, if able.
 
-3. MOTORCYCLE JACKET (Brawn - Defense)
-   +5% Damage Resistance. +5 Health.
+3. NEEDS OF THE MANY (Discipline - Defense)
+   -10% Health. Team Effect: 1 Team Extra Life.
 
-4. PADDED SUIT (Brawn - Defense)
-   +10% Damage Resistance. +5 Health. -20% Stamina Efficiency.
+4. SAFEROOM RECOVERY (Fortune - Utility)
+   Your team recovers 15 Health, 7 Trauma Damage and refills 10% Ammo at the start of each level.
 
-5. HYDRATION PACK (Brawn - Defense)
-   +35 Health. -15% Ammo Capacity.
+5. PEP TALK (Reflex - Utility)
+   While Reviving teammates, take 3 less damage from all Ridden. Teammates recover an additional 10 Health when you revive them.
 
-6. CANNED GOODS (Brawn - Defense)
-   +45 Health. -25% Stamina.
+6. GROUP THERAPY (Discipline - Utility)
+   When you use a Medical Accessory, all teammates heal for 8 Health.
 
-7. VITAMINS (Fortune - Utility)
-   +25 Health.
+7. MEDICAL EXPERT (Reflex - Defense)
+   +50% Revive Speed. When you use a Medical Accessory, it also heals 1 Trauma to the target. Team Effect: +15% Healing Efficiency.
 
-8. DURABLE (Brawn - Defense)
-   +15% Trauma Resistance. +10 Health. +20% Fire Resistance.
+8. ANTIBIOTIC OINTMENT (Discipline - Utility)
+   +25% Healing Efficiency. When you use a Medical Accessory, the target gains 20 Temporary Health.
 
-9. BODY ARMOR (Brawn - Defense)
-   +20% Trauma Resistance.
+9. FIELD SURGEON (Discipline - Utility)
+   When you use a Medical Accessory, it also heals 3 Trauma to the target.
 
-10. WELL FED (Fortune - Utility)
-    +10 Team Health.
+10. CHARITABLE SOUL (Discipline - Utility)
+    Healing a teammate also applies 50% of the effect to you.
 
-11. SCAR TISSUE (Brawn - Defense)
-    Take 1 less damage from all Ridden. +50% Acid Resistance.
+11. SUPPORT SCAVENGER (Discipline - Utility)
+    You can sense nearby Support Accessories. More Support Accessories spawn.
 
-12. COPPER SCAVENGER (Fortune - Utility)
+12. WELL RESTED (Brawn - Utility)
+    +20% Team Overheal. +5% Team Healing Efficiency.
+
+13. COPPER SCAVENGER (Fortune - Utility)
     You can sense nearby Copper. More Copper Piles spawn.
 
-13. PEP TALK (Reflex - Utility)
-    While Reviving teammates, take 3 less damage from all Ridden. Teammates recover an additional 10 Health when you revive them.
+14. MONEY GRUBBERS (Fortune - Utility)
+    Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.
 
-14. DOWN IN FRONT! (Discipline - Defense)
-    While crouching you neither take nor deal Friendly Fire damage. +10 Health.
-
-15. FOOD SCAVENGER (Fortune - Utility)
-    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
+15. MOTORCYCLE JACKET (Brawn - Defense)
+    +5% Damage Resistance. +5 Health.
 
 
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
-- Health: +110 + 10 Team Health
-- Damage Resistance: +15% (Motorcycle Jacket + Padded Suit)
-- Trauma Resistance: +35% (Body Armor + Durable)
-- Fire Resistance: +20% (Durable)
-- Acid Resistance: +50% (Scar Tissue)
-- Damage Reduction: -1 flat + -3 while reviving = -4 total while reviving
-- Revive Speed: +200%
-- Stamina: Net -5% (but +20% Sprint Efficiency)
-- Stamina Efficiency: -20%
+- Health: -5% net (-10% Needs Of The Many + +5 Motorcycle Jacket)
+- Damage Resistance: +5% (Motorcycle Jacket)
+- Revive Speed: +250% (Smelling Salts + Medical Expert)
+- Damage Reduction: -3 flat while reviving (Pep Talk)
+- Team Extra Lives: +2 (Needs Of The Many + Medical Professional can restore lives)
+- Team Healing Efficiency: +45% (Medical Expert +15%, Antibiotic Ointment +25%, Well Rested +5%)
+- Team Overheal: +20% (Well Rested)
+- Economy: Copper Scavenger + Money Grubbers
 
 WITH DAN:
-- Revive Effects: Random effect played when Cleaner is Revived + teammates gain +10 Health
-- Damage Resistance: +15% base + +3 Team while reviving
-- Damage Reduction: -4 total while reviving
+- Revive Effects: Random effect played when Cleaner is Revived (Divine Intervention)
+- Damage Resistance: +5% base + +3 Team while reviving (Protect The Flock)
+- Damage Reduction: -3 total while reviving (Pep Talk)
+- Team Health on Revive: +10 Health (Pep Talk)
 
 
 PLAYSTYLE
 
-Ultimate tank and revive specialist. Your massive health pool (110+ health) and damage resistance allow you to stand in the open while reviving teammates. Use Smelling Salts for lightning-fast revives even under heavy fire. Pep Talk makes your revives heal teammates and reduce incoming damage (-4 total damage reduction while reviving). With Dan, you get random effects on every revive and team damage resistance during revives. Your role is to be the last person standing, able to revive the entire team during horde events. Stay near teammates to use your revive bonuses effectively. Position yourself to take aggro and protect squishier teammates.
+Team support specialist focused on keeping everyone alive. Use Support Scavenger to find medical items. Medical Professional allows First Aid/Defibs to restore extra lives and heal 10 trauma. Needs Of The Many gives the team an extra life. Saferoom Recovery provides passive team recovery (15 health, 7 trauma, 10% ammo) at each level start. Pep Talk makes your revives heal teammates (+10 health) and reduces damage taken while reviving. Group Therapy makes every medical use heal the entire team (+8 health each). Medical Expert provides +50% revive speed and +1 trauma healing. Field Surgeon adds +3 trauma healing per medical use. Antibiotic Ointment gives +20 temp health per medical use. Charitable Soul keeps you healthy while healing others (50% of healing applies to you). You have no damage output - focus entirely on team support. Learn to aim and position yourself - you don't need Down In Front since you deal no damage. With Dan, every revive triggers random effects.
 
 
 STRENGTHS
 
-- Massive health pool (110+ health)
-- Fast revives (+200% speed)
-- Team support through Well Fed and Pep Talk healing
-- High trauma resistance (35%)
-- Damage resistance (15%) + flat reduction makes you incredibly tanky
-- Pep Talk provides -4 damage reduction during revives
-- Good stumble damage for crowd control
+- Team extra lives (+2 total: Needs Of The Many + Medical Professional can restore)
+- Fast revives (+250% speed) - can revive even under fire
+- Massive team healing efficiency (+45%) - every medical item heals more
+- Team trauma recovery (Saferoom Recovery + Medical Professional + Medical Expert + Field Surgeon)
+- Team health recovery (Saferoom Recovery + Pep Talk + Group Therapy)
+- Team overheal support (+20%)
+- Medical item generation (Support Scavenger)
+- Copper generation for team upgrades
 - With Dan: Random revive effects + team damage resistance during revives
 
 
 WEAKNESSES
 
-- Reduced stamina and stamina efficiency
-- Lower damage output than DPS builds
-- Limited mobility due to stamina penalties
-- Requires positioning near teammates for maximum effectiveness
-- Large health pool means trauma can still accumulate over time
+- No damage output - completely support focused
+- Low personal health (-5% net)
+- Requires medical items to maximize effectiveness
+- Needs team coordination for optimal positioning
+- Vulnerable if caught alone or overwhelmed
+- Must learn to aim and position - no Down In Front for friendly fire protection

@@ -9,14 +9,8 @@ This deck is optimized for high-difficulty melee gameplay in multiplayer. Focus:
 
 RECOMMENDED CLEANERS
 
-PRIMARY: HOLLY
-- GRAND SLAM: +1 Health per kill (stacks with Battle Lust for +2 Health per kill)
-- CARDIO (Team): +25 Team Stamina
-- TOUGH AS NAILS (Team): +5% Team Damage Resistance
-- Starts with Bat
-
-SECONDARY: SHARICE
-- DAUNTLESS: +25% Trauma Resistance (stacks with deck's 35% = 60% total)
+PRIMARY: SHARICE
+- DAUNTLESS: +25% Trauma Resistance
 - FIRST RESPONDER (Team): +25% Team Bolstered Health
 - ARMORER: Chance to get Makeshift Armor from knocked armor
 - Starts with Fire Axe
@@ -54,25 +48,26 @@ DECK COMPOSITION (15 cards)
 8. SPIKY BITS (Brawn - Offense)
    +15 Melee Damage. +20% Damage Resistance while using a Melee Weapon. -15% Ammo Capacity.
 
-9. BODY ARMOR (Brawn - Defense)
-   +20% Trauma Resistance.
+9. EMT BAG (Discipline - Defense)
+   +50% Healing Efficiency.
 
-10. DURABLE (Brawn - Defense)
-    +15% Trauma Resistance. +10 Health. +20% Fire Resistance.
-
-11. BRAZEN (Reflex - Offense)
+10. BRAZEN (Reflex - Offense)
     +15% Melee Stamina Efficiency. +20% Melee Attack Speed.
 
-12. SLUGGER (Reflex - Offense)
+11. SLUGGER (Reflex - Offense)
     +5% Health. +10% Melee Stamina Efficiency. +20% Melee Attack Speed.
 
-13. COPPER SCAVENGER (Fortune - Utility)
+12. COPPER SCAVENGER (Fortune - Utility)
     You can sense nearby Copper. More Copper Piles spawn.
 
-14. MONEY GRUBBERS (Fortune - Utility)
+13. MONEY GRUBBERS (Fortune - Utility)
     Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.
 
-15. FOOD SCAVENGER (Fortune - Utility)
+14. FOOD SCAVENGER (Fortune - Utility)
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
+
+15. RUN LIKE HELL (Reflex - Mobility)
+    +12% Move Speed. +15% Sprint Speed. When you take damage, you lose the benefits of Run like Hell for 3 seconds.
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 
@@ -83,29 +78,18 @@ BASE DECK:
 - Melee Damage: +40% (Mean Drunk) + 20% vs Mutations (Ignore the Pain) + 15 Flat (Spiky Bits) + Berserker stacks
 - Melee Attack Speed: +40% (Brazen + Slugger) + up to +100% from stacks (Meth Head + Berserker)
 - Melee Stamina Efficiency: +25% (Brazen + Slugger) + up to +50% from Meth Head stacks
-- Trauma Resistance: +35% (Body Armor + Durable)
+- Trauma Resistance: +25% (Sharice's Dauntless)
+- Healing Efficiency: +50% (EMT Bag) - increases healing from Battle Lust and Ignore the Pain
 - Damage Resistance: +20% while using Melee Weapon (Spiky Bits)
-- Fire Resistance: +20% (Durable)
 - Economy: Copper Scavenger (sense copper + more spawns), Money Grubbers (+3 copper per loot, up to 75 total)
 
-WITH HOLLY:
-- Health: +20 + 5% + +1 per kill (Grand Slam = +2 per kill with Battle Lust)
-- Stamina: +25 Team Stamina
-- Damage Resistance: +25% (+20% Spiky Bits + 5% Tough as Nails)
-- Trauma Resistance: +35%
-- Starts with: Bat
-
 WITH SHARICE:
-- Health: +20 + 5% + +25% Team Bolstered Health
-- Trauma Resistance: +60% (+35% base + 25% Dauntless)
-- Makeshift Armor: Chance from knocked armor + Sunder = double sources
+- Health: +15 + 5% + +25% Team Bolstered Health
+- Trauma Resistance: +25% (Dauntless)
+- Makeshift Armor: Chance from knocked armor (Armorer passive)
+- Healing from melee kills: +50% more effective (EMT Bag increases Battle Lust and Ignore the Pain healing)
 - Starts with: Fire Axe
 
-WITH WALKER:
-- Health: +30 + 5% (+20 base + 10 Team Health)
-- Melee Damage: +50% base + 20% vs Mutations + 15 flat (+10% Model Soldier)
-- Damage Reduction: -1 flat + 10% reduced from pinged mutations
-- Trauma Resistance: +35%
 
 
 PLAYSTYLE
@@ -118,7 +102,8 @@ STRENGTHS
 - Incredible damage output from the start
 - Excellent sustain (health and trauma healing from multiple sources)
 - Team support via Vanguard and Down in Front!
-- High survivability with trauma resistance (35%, 60% with Sharice)
+- High survivability with trauma resistance (+25% from Sharice)
+- Enhanced healing from melee kills (+50% efficiency from EMT Bag)
 - Cleave damage handles hordes well
 - Scales better as you kill enemies (Berserker stacks)
 - All bonuses active from level start
