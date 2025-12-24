@@ -1,187 +1,123 @@
 TESLA - EXPERIMENTAL
-=======================
 
 Difficulty: No Hope
-
-Weapons: LMGs or Snipers (for Suppressing Fire utility and ammo efficiency). Prioritize weapons with good ammo economy since gadgets consume ammo heavily.
-
+Weapons: LMGs or Snipers (for Suppressing Fire utility and ammo efficiency)
 Playstyles: support
 
-This deck is optimized for high-difficulty gameplay using experimental DLC technology in multiplayer.
-Focus: Experimental gadgets, ammo generation, team buffs, and advanced tech utilization.
+This deck is optimized for high-difficulty gameplay using experimental DLC technology in multiplayer. Focus: Experimental gadgets, ammo generation, team buffs, and advanced tech utilization.
 
-RECOMMENDED CLEANERS:
----------------------
+Note: This build requires Children of the Worm expansion for experimental gadgets.
 
-PRIMARY RECOMMENDATION: EVANGELO
+
+RECOMMENDED CLEANERS
+
+PRIMARY: EVANGELO
 - BORN SURVIVOR: Can break out of grabs, +75% Breakout Speed
 - LIGHT FOOTED (Team): +5% Team Movement Speed
 - FIT: +25% Stamina Regen
 - FIRESTARTER: Start with Molotov
 
-Note: This build requires Children of the Worm expansion for experimental gadgets.
 
-DECK COMPOSITION (15 cards, in recommended order):
---------------------------------------------------
-NOTE: All cards are active from the start of the level. Order matters for 
-deck organization and understanding card priorities, but all effects are 
-active immediately.
+DECK COMPOSITION (15 cards)
 
 1. FOOD SCAVENGER (Fortune - Utility)
-   - You can sense nearby Food Items
-   - Adds a moderate amount of Food Items to the world
-   - Food Items restore an additional 3 Health
-   - Sustain through food
-   - Active immediately
+   You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 2. OUT WITH A BANG (Fortune - Utility)
-   - When a teammate is incapacitated or dies, they drop an active Pipe Bomb
-   - Emergency utility on teammate death
-   - Active when teammate goes down
+   When a teammate is incapacitated or dies, they drop an active Pipe Bomb.
 
 3. SUPPRESSING FIRE (Discipline - Offense)
-   - Damaging Ridden with LMGs and Snipers has 40% chance to slow Ridden near target by 50% for 5 seconds
-   - Crowd control utility
-   - Active when using LMGs/Snipers
+   Damaging Ridden with LMGs and Snipers has 40% chance to slow Ridden near target by 50% for 5 seconds.
 
 4. ULTRASONIC WOUND THERAPY (Brawn - Ability)
-   - Heal 6 Health over 7 seconds to nearby teammates
-   - Gadget Cost: 60 (Pistol/SMG ammo)
-   - REPLACES: Offensive Slot
-   - Team healing gadget
-   - Active when used
+   Heal 6 Health over 7 seconds to nearby teammates. Gadget Cost: 60 (Pistol/SMG ammo). REPLACES: Offensive Slot.
 
 5. EXPIRED T5 (Brawn - Ability)
-   - Create a powerful blast that deals 20 Fire Damage to Weakspots
-   - After initial blast, continue to deal 1 damage per second for 7 seconds
-   - Gadget Cost: 75 (AR ammo)
-   - REPLACES: Support Slot
-   - Powerful offensive gadget
-   - Active when used
+   Create a powerful blast that deals 20 Fire Damage to Weakspots. After initial blast, continue to deal 1 damage per second for 7 seconds. Gadget Cost: 75 (AR ammo). REPLACES: Support Slot.
 
 6. EXPERIMENTAL STUN GUN (Reflex - Ability)
-   - Enhance Bash to stun nearby enemies
-   - Refreshes after 10 seconds
-   - Gadget Cost: 30 (Pistol/SMG ammo)
-   - REPLACES: Quick Slot, FRAGILE
-   - Crowd control gadget
-   - Active when bash is used
+   Enhance Bash to stun nearby enemies. Refreshes after 10 seconds. Gadget Cost: 30 (Pistol/SMG ammo). REPLACES: Quick Slot, FRAGILE.
 
 7. WELL RESTED (Brawn - Utility)
-   - +20% Team Overheal
-   - +5% Team Healing Efficiency
-   - Team healing support
-   - Active immediately
+   +20% Team Overheal. +5% Team Healing Efficiency.
 
 8. COPPER SCAVENGER (Fortune - Utility)
-    - You can sense nearby Copper
-    - More Copper Piles spawn
-    - Copper generation for purchasing items/upgrades
-    - Active immediately
-    - NOTE: Replaced Stealthy Passage (which disables Quick Slot) to avoid conflict with Experimental Stun Gun
+   You can sense nearby Copper. More Copper Piles spawn.
 
 9. SADIST (Brawn - Offense)
-    - When a teammate within 15 meters receives 5 or more damage, gain 20% of the damage as Temporary Health
-    - Can only trigger once per second
-    - Sustain through teammate damage
-    - Active when teammate takes damage
+   When a teammate within 15 meters receives 5 or more damage, gain 20% of the damage as Temporary Health. Can only trigger once per second.
 
 10. AMMO SCAVENGER (Discipline - Utility)
-    - You can sense nearby Ammo
-    - 1 Additional Ammo crate spawn
-    - Ammo generation (critical for gadgets)
-    - Active immediately
+    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
 11. DOWN IN FRONT! (Discipline - Defense)
-    - While crouching you neither take nor deal Friendly Fire damage
-    - +10 Health
-    - ESSENTIAL for multiplayer - prevents friendly fire
-    - Active when crouching
+    While crouching you neither take nor deal Friendly Fire damage. +10 Health. ESSENTIAL for multiplayer.
 
 12. AMMO POUCH (Discipline - Offense)
-    - +25% Ammo Capacity
-    - +2.5% Bullet Damage
-    - Ammo capacity for gadgets
-    - Active immediately
+    +25% Ammo Capacity. +2.5% Bullet Damage.
 
 13. LARGE CALIBER ROUNDS (Discipline - Offense)
-   - +7.5% Bullet Damage
-   - +200% Bullet Penetration
-   - Damage and penetration for mutations
-   - Active immediately
+    +7.5% Bullet Damage. +200% Bullet Penetration.
 
 14. COMBAT TRAINING (Discipline - Offense)
-   - +5% Bullet Damage
-   - +1.5 Bullet Stumble Damage
-   - +7.5 Melee Stumble Damage
-   - Damage boost and stumble utility
-   - Active immediately
+    +5% Bullet Damage. +1.5 Bullet Stumble Damage. +7.5 Melee Stumble Damage.
 
 15. AMMO BELT (Discipline - Offense)
-    - +50% Ammo Capacity
-    - +15% Reload Speed
-    - Maximum ammo capacity for gadget usage
-    - Active immediately
+    +50% Ammo Capacity. +15% Reload Speed.
 
-TOTAL + BUFFS SUMMARY (WITH RECOMMENDED CLEANER):
---------------------------------------------------
 
-BASE DECK PERMANENT BUFFS (Always Active):
-- Health: +5 Team Health (Fit as a Fiddle)
-- Ammo Capacity: +75% (Ammo Pouch +25%, Ammo Belt +50%)
-- Bullet Damage: +2.5% (Ammo Pouch)
-- Reload Speed: +15% (Ammo Belt)
-- Team Overheal: +20% (Well Rested)
-- Team Healing Efficiency: +5% (Well Rested)
-- Team Bolstered Health: +20% (Fit as a Fiddle)
+TOTAL + BUFFS SUMMARY
 
-WITH EVANGELO (Recommended):
-- Health: +5 Team Health (base deck)
-- Ammo Capacity: +75% (base deck)
-- Stamina Regen: +25% (Fit) - helps with constant movement for gadget usage
-- Move Speed: +5% Team Movement Speed (Light Footed)
-- Breakout: Can break out of grabs, +75% Breakout Speed (Born Survivor)
-- Starts with: Molotov (offensive utility)
-- Team Benefits: +5% Team Movement Speed (Light Footed)
+BASE DECK:
+- Health: +5 Team Health
+- Ammo Capacity: +75%
+- Bullet Damage: +15% (+2.5% Ammo Pouch, +7.5% Large Caliber Rounds, +5% Combat Training)
+- Bullet Penetration: +200%
+- Reload Speed: +15%
+- Team Overheal: +20%
+- Team Healing Efficiency: +5%
+- Team Bolstered Health: +20%
 
-EXPERIMENTAL GADGETS:
-- Ultrasonic Wound Therapy: Heal 6 Health over 7 seconds to nearby teammates (Cost: 60 Pistol/SMG ammo, replaces Offensive Slot)
-- Expired T5: 20 Fire Damage to Weakspots + 1 damage/sec for 7 seconds (Cost: 75 AR ammo, replaces Support Slot)
-- Experimental Stun Gun: Bash stuns nearby enemies, refreshes after 10 seconds (Cost: 30 Sniper Rifle ammo, replaces Quick Slot, makes you FRAGILE)
+WITH EVANGELO:
+- Stamina Regen: +25%
+- Move Speed: +5% Team Movement Speed
+- Breakout: Can break out of grabs, +75% Breakout Speed
+- Starts with: Molotov
 
-SPECIAL EFFECTS:
-- Teammates drop active Pipe Bomb when incapacitated/die (Out with a Bang)
-- Gain 20% of teammate damage as Temporary Health (once per second) (Sadist)
-- Sense nearby Food Items (Food Scavenger)
-- Food Items restore +3 Health (Food Scavenger)
-- Sense nearby Ammo (Ammo Scavenger)
-- +1 Ammo crate spawn (Ammo Scavenger)
-- Sense nearby Copper (Copper Scavenger) - generates copper for upgrades
-- 40% chance to slow Ridden near target by 50% for 5 seconds (Suppressing Fire with LMGs/Snipers)
 
-PLAYSTYLE:
-----------
+EXPERIMENTAL GADGETS
 
-Experimental tech specialist using DLC gadgets. Your gadgets replace item slots but cost ammo instead of consumables. Expired T5 is your main offensive tool (20 fire damage to weakspots + 1 damage/sec for 7 seconds). Ultrasonic Wound Therapy provides team healing (6 health over 7 seconds). Experimental Stun Gun gives crowd control (bash stuns enemies) but makes you fragile. Use Ammo Scavenger and high ammo capacity (+75%) to fuel your gadgets. Copper Scavenger generates copper for upgrades and item purchases. Large Caliber Rounds and Combat Training provide additional damage for your weapons. Your goal: use experimental tech to support the team while managing ammo carefully as gadgets are expensive.
+Ultrasonic Wound Therapy
+Heal 6 Health over 7 seconds to nearby teammates. Cost: 60 Pistol/SMG ammo. Replaces Offensive Slot.
 
-STRENGTHS:
-----------
+Expired T5
+20 Fire Damage to Weakspots + 1 damage/sec for 7 seconds. Cost: 75 AR ammo. Replaces Support Slot.
+
+Experimental Stun Gun
+Bash stuns nearby enemies, refreshes after 10 seconds. Cost: 30 Sniper Rifle ammo. Replaces Quick Slot, makes you FRAGILE.
+
+
+PLAYSTYLE
+
+Experimental tech specialist using DLC gadgets. Your gadgets replace item slots but cost ammo instead of consumables. Expired T5 is your main offensive tool for mutations and bosses. Ultrasonic Wound Therapy provides team healing. Experimental Stun Gun gives crowd control but makes you fragile. Use Ammo Scavenger and high ammo capacity (+75%) to fuel your gadgets. Copper Scavenger generates copper for upgrades. Large Caliber Rounds and Combat Training provide additional damage for your weapons. Your goal: use experimental tech to support the team while managing ammo carefully as gadgets are expensive.
+
+
+STRENGTHS
 
 - Powerful experimental gadgets (3 gadgets covering offense, support, and utility)
-- Team utility through healing (Ultrasonic Wound Therapy)
+- Team utility through healing
 - High ammo capacity for gadget usage (+75%)
 - Good weapon damage (+15% bullet damage, +200% penetration)
-- Copper generation (Copper Scavenger - sense and spawn more copper)
+- Copper generation
 - Temp health generation (Sadist)
-- Food sustain (Food Scavenger)
+- Food sustain
 
-WEAKNESSES:
------------
+
+WEAKNESSES
 
 - Requires Children of the Worm expansion
 - Gadgets are expensive (ammo cost)
 - Replaces item slots (no normal offensive/support/quick items)
 - Experimental Stun Gun makes you FRAGILE
-- Requires ammo management
+- Requires constant ammo management
 - Less conventional than standard builds
-
