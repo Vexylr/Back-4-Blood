@@ -1,13 +1,15 @@
 QUARTERMASTER - SUPPLIER
-===================
 
-This deck is optimized for high-difficulty support and resource generation in multiplayer.
-Focus: Ammo generation, item scavenging, team resource management, and utility support.
+Difficulty: No Hope
+Weapons: Assault Rifles or LMGs (for Suppressing Fire synergy)
+Playstyles: support, looter
 
-RECOMMENDED CLEANERS:
----------------------
+This deck is optimized for high-difficulty support and resource generation in multiplayer. Focus: Ammo generation, item scavenging, team resource management, and utility support.
 
-PRIMARY RECOMMENDATION: HOFFMAN (Howard Robert Hoffman)
+
+RECOMMENDED CLEANERS
+
+PRIMARY: HOFFMAN
 - ALWAYS PREPARED: Chance to find ammo or Offensive Accessories when killing Ridden
 - CARGO POCKETS (Team): +15% Max Team Ammo Capacity
 - READY TO ROCK: +1 Offensive Inventory
@@ -21,209 +23,100 @@ ALTERNATIVE: HENG
 - I.E.D: Start with Pipe Bomb
 - Note: Available in Tunnels of Terror expansion
 
-DECK COMPOSITION (15 cards, in recommended order):
---------------------------------------------------
-NOTE: All cards are active from the start of the level. Order matters for 
-deck organization and understanding card priorities, but all effects are 
-active immediately.
+
+DECK COMPOSITION (15 cards)
 
 1. CROSS TRAINERS (Reflex - Mobility)
-   - +20% Stamina
-   - +20% Stamina Regen
-   - +3% Move Speed
-   - +5 Health
-   - Mobility and stamina for scavenging
-   - Active immediately
+   +20% Stamina. +20% Stamina Regen. +3% Move Speed. +5 Health.
 
 2. SUPPRESSING FIRE (Discipline - Offense)
-   - Damaging Ridden with LMGs and Snipers has 40% chance to slow Ridden near target by 50% for 5 seconds
-   - Crowd control utility
-   - Active when using LMGs/Snipers
+   Damaging Ridden with LMGs and Snipers has 40% chance to slow Ridden near target by 50% for 5 seconds.
 
 3. AMMO POUCH (Discipline - Offense)
-   - +25% Ammo Capacity
-   - +2.5% Bullet Damage
-   - Personal ammo capacity
-   - Active immediately
+   +25% Ammo Capacity. +2.5% Bullet Damage.
 
 4. LARGE CALIBER ROUNDS (Discipline - Offense)
-   - +7.5% Bullet Damage
-   - +200% Bullet Penetration
-   - Damage and penetration
-   - Active immediately
+   +7.5% Bullet Damage. +200% Bullet Penetration.
 
 5. SILVER BULLETS (Discipline - Offense)
-   - +10% Bullet Damage
-   - +15% Effective Bullet Range
-   - Damage and range
-   - Active immediately
+   +10% Bullet Damage. +15% Effective Bullet Range.
 
 6. AVENGE THE FALLEN (Discipline - Offense)
-   - When you or your teammate becomes incapacitated: all teammates gain 30% Damage, 20% Reload Speed, and Unlimited Ammo for 10 seconds
-   - Emergency power boost
-   - Active when teammate goes down
+   When you or your teammate becomes incapacitated: all teammates gain 30% Damage, 20% Reload Speed, and Unlimited Ammo for 10 seconds.
 
 7. AMMO FOR ALL (Discipline - Utility)
-   - +10% Team Ammo Capacity
-   - +3.5% Team Damage
-   - Team resource support
-   - Active immediately
+   +10% Team Ammo Capacity. +3.5% Team Damage.
 
 8. AMMO SCAVENGER (Discipline - Utility)
-   - You can sense nearby Ammo
-   - 1 Additional Ammo crate spawn
-   - Ammo generation and detection
-   - Active immediately
+   You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
 9. WEAPON SCAVENGER (Discipline - Utility)
-   - You can sense nearby Weapons
-   - More weapons spawn
-   - Weapon generation
-   - Active immediately
+   You can sense nearby Weapons. More weapons spawn.
 
 10. CONFIDENT KILLER (Brawn - Offense)
-    - When you or your team kills a Mutation: gain 1% damage (up to 15%)
-    - Stacking damage bonus
-    - Stacks until end of level
+    When you or your team kills a Mutation: gain 1% damage (up to 15%) until end of level.
 
 11. OFFENSIVE SCAVENGER (Discipline - Utility)
-    - You can sense nearby Offensive Accessories
-    - More Offensive Accessories spawn
-    - Grenade/item generation
-    - Active immediately
+    You can sense nearby Offensive Accessories. More Offensive Accessories spawn.
 
 12. BOUNTY HUNTER (Fortune - Utility)
-    - When you or your team kills a Mutation: gain 10 Copper (up to 300 per level)
-    - Copper generation
-    - Active on mutation kills
+    When you or your team kills a Mutation: gain 10 Copper (up to 300 per level).
 
 13. SAFEROOM RECOVERY (Fortune - Utility)
-    - Your team recovers 15 Health, 7 Trauma Damage and refills 10% Ammo at start of each level
-    - Team sustain at level start
-    - Triggers automatically at level start
+    Your team recovers 15 Health, 7 Trauma Damage and refills 10% Ammo at start of each level.
 
 14. DOWN IN FRONT! (Discipline - Defense)
-    - While crouching you neither take nor deal Friendly Fire damage
-    - +10 Health
-    - ESSENTIAL for multiplayer - prevents friendly fire
-    - Active when crouching
+    While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
 15. COPPER SCAVENGER (Fortune - Utility)
-    - You can sense nearby Copper
-    - More Copper Piles spawn
-    - Copper generation
-    - Active immediately
+    You can sense nearby Copper. More Copper Piles spawn.
 
-TOTAL + BUFFS SUMMARY (WITH RECOMMENDED CLEANER):
---------------------------------------------------
 
-BASE DECK PERMANENT BUFFS (Always Active):
-- Health: +15 Health (Cross Trainers +5, Well Fed +10 team)
-- Bullet Damage: +20% base (Large Caliber +7.5%, Silver Bullets +10%, Ammo Pouch +2.5%) + up to +15% Confident Killer + +3.5% Team Damage (Ammo for All)
-- Bullet Penetration: +200% (Large Caliber Rounds)
-- Effective Bullet Range: +15% (Silver Bullets)
-- Ammo Capacity: +35% personal (Ammo Pouch +25%) + +10% Team (Ammo for All)
-- Move Speed: +3% (Cross Trainers)
-- Stamina: +20% (Cross Trainers)
-- Stamina Regen: +20% (Cross Trainers)
+TOTAL + BUFFS SUMMARY
 
-WITH HOFFMAN (Recommended):
-- Health: +15 Health + 10 Team Health (base deck)
-- Ammo Capacity: +35% personal + +10% Team (Ammo for All) + +15% Team (Cargo Pockets) = +50% Team Ammo Capacity
-- Offensive Inventory: +1 (Ready to Rock)
-- Item Generation: Chance to find ammo or Offensive Accessories when killing Ridden (Always Prepared)
-- Starts with: Ammo Pack (immediate team utility)
-- Team Benefits: Massive ammo support for entire team (+50% team ammo capacity)
+BASE DECK:
+- Health: +15
+- Bullet Damage: +20% base + up to +15% Confident Killer + +3.5% Team Damage
+- Bullet Penetration: +200%
+- Effective Bullet Range: +15%
+- Ammo Capacity: +35% personal + +10% Team
+- Move Speed: +3%
+- Stamina: +20%
+- Stamina Regen: +20%
 
-WITH HENG (Alternative - Requires Tunnels of Terror):
-- Health: +15 Health + 10 Team Health (base deck)
-- Ammo Capacity: +35% personal + +10% Team (Ammo for All)
-- Item Generation: Can sense nearby Food and Cards (Scavenger Senses)
-- Food Synergy: More Food spawns (Personal Chef) + gains effects when teammates eat + +1 Trauma when consuming (Comfort Food)
-- Team Benefits: +1 Health and Stamina for each Food consumed (High Carb Diet)
-- Starts with: Pipe Bomb (offensive utility)
+WITH HOFFMAN:
+- Ammo Capacity: +50% Team (+35% personal + 10% Ammo for All + 15% Cargo Pockets)
+- Offensive Inventory: +1
+- Item Generation: Chance to find ammo or Offensive Accessories when killing Ridden
+- Starts with: Ammo Pack
 
-SCAVENGER EFFECTS:
-- Ammo Scavenger: Sense nearby ammo, +1 ammo crate spawn
-- Weapon Scavenger: Sense nearby weapons, more weapons spawn
-- Offensive Scavenger: Sense nearby offensive items, more offensive items spawn
-- Copper Scavenger: Sense nearby copper, more copper spawns
+WITH HENG:
+- Food Synergy: More Food spawns + gains effects when teammates eat + +1 Trauma when consuming
+- Team Benefits: +1 Health and Stamina for each Food consumed
+- Food Detection: Can sense nearby Food
+- Starts with: Pipe Bomb
 
-SPECIAL EFFECTS:
-- Team gains 30% Damage, 20% Reload Speed, Unlimited Ammo for 10 seconds when teammate goes down (Avenge the Fallen)
-- Team recovers 15 Health, 7 Trauma, 10% Ammo at level start (Saferoom Recovery)
-- Gain 10 Copper per mutation kill (up to 300 per level) (Bounty Hunter)
-- 40% chance to slow Ridden near target by 50% for 5 seconds (Suppressing Fire with LMGs/Snipers)
 
-DECK STRATEGY:
---------------
+PLAYSTYLE
 
-All cards are active from the start, so you benefit from everything immediately.
+Mobile supplier and resource generator. Your job is to keep the team stocked with ammo, weapons, and items. Use all your scavenger cards to find and generate resources throughout each level. Stay mobile with Cross Trainers, help with damage using your weapon cards, and support the team through resource generation. With Hoffman, provide massive ammo support (+50% team ammo capacity) and generate offensive items through kills. Bounty Hunter provides copper (up to 300 per level) for team upgrades. Avenge the Fallen gives emergency power (30% damage, 20% reload, unlimited ammo for 10 seconds) when teammates go down. Saferoom Recovery provides team sustain at level start.
 
-IMMEDIATE EFFECTS (Active from Level Start):
-- All scavenger abilities active from start (Ammo, Weapon, Offensive, Copper)
-- Team ammo support active (+10% team, +50% with Hoffman)
-- Saferoom Recovery triggers at start of each level (team health, trauma, ammo)
-- Resource generation begins immediately
 
-STACKING MECHANICS (Build During Combat):
-- Confident Killer: Stacks on mutation kills (up to 15 stacks = +15% damage, lasts until end of level)
-- Bounty Hunter: Gains 10 Copper per mutation kill (up to 300 per level)
-
-CARD GROUPINGS (How They Work Together):
-- Scavenger Group: Ammo Scavenger + Weapon Scavenger + Offensive Scavenger + Copper Scavenger
-  → Complete resource generation for entire team
-- Ammo Group: Ammo Pouch + Ammo for All + Hoffman's Cargo Pockets
-  → Massive team ammo support
-- Damage Group: Large Caliber + Silver Bullets + Confident Killer + Ammo Pouch
-  → Good damage output while supporting
-- Utility Group: Avenge the Fallen + Saferoom Recovery + Bounty Hunter
-  → Emergency power, sustain, and economy
-
-PLAYSTYLE:
-----------
-
-Mobile supplier and resource generator. Your job is to keep the team stocked with ammo, weapons, and items. Use all your scavenger cards to find and generate resources throughout each level. Stay mobile with Cross Trainers, help with damage using your weapon cards, and support the team through resource generation. With Hoffman, provide massive ammo support (+50% team ammo capacity) and generate offensive items through kills. Bounty Hunter provides copper (up to 300 per level) for team upgrades. Avenge the Fallen gives emergency power (30% damage, 20% reload, unlimited ammo for 10 seconds) when teammates go down. Saferoom Recovery provides team sustain at level start. You're the portable merchant keeping everyone supplied and stocked.
-
-HIGH DIFFICULTY CONSIDERATIONS:
---------------------------------
-
-- Resource management is crucial on high difficulties - your scavenger abilities ensure team has supplies
-- Team ammo support (+50% with Hoffman) prevents ammo starvation
-- Copper generation (Bounty Hunter) funds team upgrades and item purchases
-- Saferoom Recovery provides crucial team sustain at level start (15 health, 7 trauma, 10% ammo)
-- Avenge the Fallen provides emergency power when things go wrong (unlimited ammo + damage boost)
-- With Hoffman: Item generation from kills supplements scavenger finds
-- Good damage output allows you to contribute to combat while supporting
-- Multiple scavenger abilities ensure resource availability throughout levels
-
-EQUIPMENT PRIORITY:
--------------------
-
-1. Best weapon for mutation control (AR/LMG for Suppressing Fire synergy)
-2. Ammo capacity attachments (maximize team ammo support)
-3. Resource items (share copper and items with team)
-4. Tool kits (for team utility and saferoom upgrades)
-
-STRENGTHS:
-----------
+STRENGTHS
 
 - Multiple scavenger abilities (Ammo, Weapon, Offensive, Copper) for complete resource generation
 - Massive team ammo support (+50% team capacity with Hoffman)
-- Copper generation for upgrades (up to 300 per level with Bounty Hunter)
+- Copper generation for upgrades (up to 300 per level)
 - Weapon and item generation ensures team is well-equipped
-- Emergency team buffs (Avenge the Fallen - unlimited ammo + damage boost)
-- Good damage output (+20% base + up to +15% Confident Killer + +3.5% team) while supporting
+- Emergency team buffs (Avenge the Fallen)
+- Good damage output while supporting
 - Team sustain at level start (Saferoom Recovery)
-- With Hoffman: Additional item generation from kills + +1 offensive inventory
-- With Heng: Food synergy for enhanced team sustain + food sensing + additional food spawns
 
-WEAKNESSES:
------------
+
+WEAKNESSES
 
 - Lower personal health pool (+15 health only)
 - Requires active scavenging to maximize effectiveness
-- Less focused than specialized builds (jack of all trades)
-- Team-dependent for optimal utility (needs team to benefit from resources)
+- Less focused than specialized builds
+- Team-dependent for optimal utility
 - Moderate damage output (support role, not primary DPS)
-

@@ -1,197 +1,96 @@
 DYNAMITE - EXPLOSIVES
-=======================
 
-This deck is optimized for high-difficulty explosive and fire damage in multiplayer.
-Focus: Maximum explosive damage, offensive item capacity, grenade generation, and boss elimination.
+Difficulty: No Hope
+Weapons: Secondary weapons (unlimited ammo), any primary for mutations
+Playstyles: dps
 
-RECOMMENDED CLEANERS:
----------------------
+This deck is optimized for high-difficulty explosive and fire damage in multiplayer. Focus: Maximum explosive damage, offensive item capacity, grenade generation, and boss elimination.
 
-PRIMARY RECOMMENDATION: HOFFMAN (Howard Robert Hoffman)
+
+RECOMMENDED CLEANERS
+
+PRIMARY: HOFFMAN
 - ALWAYS PREPARED: Chance to find ammo or Offensive Accessories when killing Ridden
 - CARGO POCKETS (Team): +15% Max Team Ammo Capacity
 - READY TO ROCK: +1 Offensive Inventory
 - NEVER WITHOUT: Start with Ammo Pack
 
-DECK COMPOSITION (15 cards, in recommended order):
---------------------------------------------------
-NOTE: All cards are active from the start of the level. Order matters for 
-deck organization and understanding card priorities, but all effects are 
-active immediately.
+
+DECK COMPOSITION (15 cards)
 
 1. BELT CLIP (Reflex - Utility)
-   - +1 Quick Slot Inventory
-   - +10% Use Speed
-   - Utility and use speed
-   - Active immediately
+   +1 Quick Slot Inventory. +10% Use Speed.
 
 2. COPPER SCAVENGER (Fortune - Utility)
-   - You can sense nearby Copper
-   - More Copper Piles spawn
-   - Copper for purchasing offensive items
-   - Active immediately
+   You can sense nearby Copper. More Copper Piles spawn.
 
 3. MONEY GRUBBERS (Fortune - Utility)
-   - Each time your team loots Copper, you gain 3 additional Copper, up to 25 times
-   - Copper generation
-   - Active on copper pickups
+   Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.
 
 4. HIGHWAYMAN (Fortune - Utility)
-   - Kills with Secondary guns have 5% chance to spawn ammo, Molotov, or Bait Jar
-   - Secondary weapon item generation
-   - Active on secondary weapon kills
+   Kills with Secondary guns have 5% chance to spawn ammo, Molotov, or Bait Jar.
 
 5. AMMO STASH (Discipline - Utility)
-   - Your secondary weapons have unlimited ammo
-   - Your secondary weapons reload 20% slower
-   - Secondary weapon sustain
-   - Active immediately
+   Your secondary weapons have unlimited ammo. Your secondary weapons reload 20% slower.
 
 6. OFFENSIVE SCAVENGER (Discipline - Utility)
-   - You can sense nearby Offensive Accessories
-   - More Offensive Accessories spawn
-   - Grenade/item generation
-   - Active immediately
+   You can sense nearby Offensive Accessories. More Offensive Accessories spawn.
 
 7. GRENADE POUCH (Brawn - Utility)
-   - +1 Offensive Inventory
-   - +25% Swap Speed
-   - -5% Offensive Accessory Cost
-   - Offensive capacity and efficiency
-   - Active immediately
+   +1 Offensive Inventory. +25% Swap Speed. -5% Offensive Accessory Cost.
 
 8. DOUBLE GRENADE POUCH (Brawn - Utility)
-   - +2 Offensive Inventory
-   - Massive offensive capacity
-   - Active immediately
+   +2 Offensive Inventory.
 
 9. DEMOLITIONS EXPERT (Brawn - Offense)
-   - +50% Accessory Damage
-   - -15% Ammo Capacity
-   - Core explosive damage multiplier
-   - Active immediately
+   +50% Accessory Damage. -15% Ammo Capacity.
 
 10. GRENADE TRAINING (Brawn - Offense)
-    - +25% Accessory Damage
-    - Additional explosive damage
-    - Active immediately
+    +25% Accessory Damage.
 
 11. PYRO (Brawn - Offense)
-    - +100% Fire Damage
-    - Gain 3 Temporary Health for each kill with fire
-    - You can sense flammable objects nearby
-    - Fire damage and sustain
-    - Active immediately
+    +100% Fire Damage. Gain 3 Temporary Health for each kill with fire. You can sense flammable objects nearby.
 
 12. BOMB SQUAD (Brawn - Offense)
-    - +25% Team Explosive Damage
-    - +25% Team Explosive Resistance
-    - +1 Additional Frag Grenade spawns in each map
-    - Team explosive support
-    - Active immediately
+    +25% Team Explosive Damage. +25% Team Explosive Resistance. +1 Additional Frag Grenade spawns in each map.
 
 13. CANNED GOODS (Brawn - Defense)
-    - +45 Health
-    - -25% Stamina
-    - Health for survivability
-    - Active immediately
+    +45 Health. -25% Stamina.
 
 14. DOWN IN FRONT! (Discipline - Defense)
-    - While crouching you neither take nor deal Friendly Fire damage
-    - +10 Health
-    - ESSENTIAL for multiplayer - prevents friendly fire (even though explosives don't FF, weapons still can)
-    - Active when crouching
+    While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
 15. FIRE IN THE HOLE! (Reflex - Mobility)
-    - When you throw an Offensive Accessory, gain 20 Temporary Health and 25% Sprint Speed for 5 seconds
-    - Sustain and mobility when using explosives
-    - Active when throwing offensive items
+    When you throw an Offensive Accessory, gain 20 Temporary Health and 25% Sprint Speed for 5 seconds.
 
-TOTAL + BUFFS SUMMARY (WITH RECOMMENDED CLEANER):
---------------------------------------------------
 
-BASE DECK PERMANENT BUFFS (Always Active):
-- Health: +50 Health (Canned Goods +45, Superior Cardio +5)
+TOTAL + BUFFS SUMMARY
+
+BASE DECK:
+- Health: +55 (+45 Canned Goods + 10 Down in Front!)
 - Accessory/Explosive Damage: +175% total (Demolitions Expert +50%, Grenade Training +25%, Bomb Squad +25% team, Pyro +100% fire damage)
 - Fire Damage: +100% (Pyro)
-- Explosive Resistance: +25% Team (Bomb Squad)
+- Explosive Resistance: +25% Team
 - Offensive Inventory: +3 (Belt Clip +1 Quick, Grenade Pouch +1, Double Grenade Pouch +2)
-- Quick Slot Inventory: +1 (Belt Clip)
-- Stamina: +20% (Superior Cardio) -25% (Canned Goods) = Net -5% (but +20% Sprint Efficiency)
-- Swap Speed: +25% (Grenade Pouch)
-- Use Speed: +10% (Belt Clip)
-- Offensive Accessory Cost: -5% (Grenade Pouch)
-- Ammo Capacity: -15% (Demolitions Expert)
+- Quick Slot Inventory: +1
+- Stamina: -5% net
+- Swap Speed: +25%
+- Use Speed: +10%
+- Ammo Capacity: -15%
 
-WITH HOFFMAN (Recommended):
-- Health: +50 Health (base deck)
-- Accessory/Explosive Damage: +175% total (base deck)
-- Offensive Inventory: +3 (base deck) + +1 (Ready to Rock) = +4 total
-- Team Ammo Capacity: +15% (Cargo Pockets) - helps mitigate Demolitions Expert penalty
-- Item Generation: Chance to find ammo or Offensive Accessories when killing Ridden (Always Prepared)
-- Starts with: Ammo Pack (team utility)
-- Team Benefits: Additional ammo support + item generation from kills
+WITH HOFFMAN:
+- Offensive Inventory: +4 total (+3 base + 1 Ready to Rock)
+- Team Ammo Capacity: +15% (helps mitigate Demolitions Expert penalty)
+- Item Generation: Chance to find ammo or Offensive Accessories when killing Ridden
+- Starts with: Ammo Pack
 
-SPECIAL EFFECTS:
-- Secondary weapons have unlimited ammo (Ammo Stash)
-- Gain 3 Temporary Health per fire kill (Pyro)
-- Gain 20 Temporary Health + 25% Sprint Speed for 5 seconds when throwing offensive items (Fire in the Hole!)
-- Sense flammable objects nearby (Pyro)
-- Sense nearby Offensive Accessories (Offensive Scavenger)
-- Sense nearby Copper (Copper Scavenger)
-- 5% chance to spawn ammo/Molotov/Bait Jar on secondary kills (Highwayman)
-- +1 Frag Grenade spawns per map (Bomb Squad)
 
-DECK STRATEGY:
---------------
-
-All cards are active from the start, so you benefit from everything immediately.
-
-IMMEDIATE EFFECTS (Active from Level Start):
-- Massive explosive damage bonuses active (+175% total)
-- High offensive inventory capacity (+4 with Hoffman)
-- All scavenger abilities active (Copper, Offensive)
-- Secondary weapon unlimited ammo active
-- Fire damage bonus active (+100%)
-
-CARD GROUPINGS (How They Work Together):
-- Explosive Damage Group: Demolitions Expert + Grenade Training + Bomb Squad + Pyro
-  → Maximum explosive and fire damage output
-- Capacity Group: Grenade Pouch + Double Grenade Pouch + Belt Clip + Hoffman's Ready to Rock
-  → Maximum offensive item carrying capacity
-- Economy Group: Copper Scavenger + Money Grubbers + Offensive Scavenger + Hoffman's Always Prepared
-  → Resource generation for purchasing and finding offensive items
-- Sustain Group: Pyro + Fire in the Hole! + Canned Goods
-  → Temp health generation and health pool
-
-PLAYSTYLE:
-----------
+PLAYSTYLE
 
 Professional demolitionist and explosive specialist. Your grenades and Molotovs deal massive damage (+175% total). Use Offensive Scavenger to find items, Money Grubbers and Copper Scavenger for purchasing power. Pyro makes fire damage incredibly powerful (+100%) and gives temp health per kill (+3 temp health per fire kill). Fire in the Hole! provides sustain when throwing items (20 temp health + 25% sprint speed for 5 seconds). With Hoffman, you have +4 offensive inventory slots and generate items from kills. Your goal: eliminate bosses and mutations with explosive damage. Take down Breakers and Ogres with ease using your massive accessory damage bonuses. Use secondary weapon with unlimited ammo for common ridden, save offensive items for mutations and bosses.
 
-HIGH DIFFICULTY CONSIDERATIONS:
---------------------------------
 
-- Massive damage output (+175%) allows rapid boss/mutation elimination
-- High inventory capacity (+4 with Hoffman) means more items available per level
-- Economy cards (Copper Scavenger, Money Grubbers) fund item purchases
-- Item generation (Offensive Scavenger, Hoffman's Always Prepared) ensures item availability
-- Fire damage bonus (+100%) makes Molotovs incredibly effective
-- Team explosive damage support (+25%) benefits entire team
-- Temp health generation (Pyro, Fire in the Hole!) provides sustain
-- Health pool (+50) offsets some vulnerability, but stamina penalty limits mobility
-- Requires copper/item management - need to purchase/find items throughout levels
-
-EQUIPMENT PRIORITY:
--------------------
-
-1. Best offensive items (Frag Grenades, Molotovs for fire damage synergy)
-2. Secondary weapon (unlimited ammo, use for common ridden)
-3. Primary weapon for mutations (modest damage, focus on items)
-4. Copper for purchasing offensive items
-
-STRENGTHS:
-----------
+STRENGTHS
 
 - Massive explosive damage (+175% total, +100% fire damage)
 - High offensive item capacity (+4 with Hoffman)
@@ -199,17 +98,16 @@ STRENGTHS:
 - Temp health generation from fire kills and throwing items
 - Team explosive damage support (+25% team explosive damage)
 - Item generation through scavengers and Hoffman's abilities
-- Boss elimination specialist (take down Ogres and Breakers with ease)
+- Boss elimination specialist
 - Unlimited secondary ammo (Ammo Stash) for common ridden clearing
-- Team explosive resistance (+25%) helps entire team
+- Team explosive resistance (+25%)
 
-WEAKNESSES:
------------
 
-- Lower ammo capacity (-15% from Demolitions Expert, mitigated by Hoffman's Cargo Pockets)
+WEAKNESSES
+
+- Lower ammo capacity (-15% from Demolitions Expert)
 - Stamina penalty from Canned Goods (-25% stamina)
-- Requires offensive items to maximize effectiveness (dependent on items/copper)
+- Requires offensive items to maximize effectiveness
 - Can be expensive (need copper for item purchases)
 - Lower personal weapon damage (focus on items, not weapons)
-- Requires item management (need to find/purchase items throughout levels)
-
+- Requires item management
