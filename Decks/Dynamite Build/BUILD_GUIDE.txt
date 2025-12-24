@@ -49,12 +49,8 @@ SUSTAIN
 Pyro
   → Gives +3 temp health per fire kill
 
-Fire in the Hole!
-  → Gives 20 temp health + 25% sprint speed for 5 seconds when throwing 
-    offensive items
-
-Canned Goods
-  → Gives +45 health (partially offsetting stamina penalty)
+Food Scavenger
+  → Provides additional sustain through food items
 
 This provides good survivability.
 
@@ -98,7 +94,7 @@ KEY STRATEGIES
 ✓ Save offensive items for bosses and mutations
 ✓ Use secondary weapon with unlimited ammo for common ridden
 ✓ Use Pyro for fire damage (+100% fire damage)
-✓ Use Fire in the Hole! for sustain when throwing items
+✓ Use Food Scavenger for additional sustain
 ✓ Take down bosses and mutations with explosive damage
 ✓ Communicate when you're using items for coordination
 
@@ -107,7 +103,7 @@ CRITICAL TIPS
 
 ✗ Don't waste offensive items on common ridden - use secondary weapon
 ✗ Don't ignore item generation - you need to find/purchase items
-✗ Don't forget stamina penalty (-25% from Canned Goods)
+✗ Don't forget your low health pool - stay safe
 ✗ Don't ignore copper management - you need copper for item purchases
 
 SUMMARY

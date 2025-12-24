@@ -70,7 +70,7 @@ TOTAL + BUFFS SUMMARY
 
 BASE DECK:
 - Health: +20 (+10 Down in Front! + +10 Motorcycle Helmet)
-- Damage: +35% base (+25% Glass Cannon + +10% Shell Carrier) + +10% while firing (Rolling Thunder)
+- Damage: +10% base (+10% Shell Carrier) + +10% while firing (Rolling Thunder) = +20% total while firing
 - Shotgun Damage: +20% (+10% Shell Carrier + +10% Rolling Thunder)
 - Shotgun Ammo Capacity: +30% (Shell Carrier)
 - Trauma Resistance: +50% (Wooden Armor + Body Armor)
@@ -94,7 +94,7 @@ Shotgun specialist focusing on AA12 with hip-fire accuracy. High trauma resistan
 
 STRENGTHS
 
-- High damage output (+35% base + +10% while firing = +45% total potential)
+- Good damage output (+10% base + +10% while firing = +20% total while firing)
 - Excellent trauma resistance (50%)
 - Good sustain through Buckshot Bruiser temp health, food, and team healing
 - Very fast reload speed (+90% total)
@@ -106,7 +106,7 @@ STRENGTHS
 
 WEAKNESSES
 
-- Low health pool (-20% net)
+- Moderate health pool (+20 health)
 - No fire resistance (-100%)
 - Needs to find AA12 early for optimal performance
 - DISABLES: Aim Down Sights (hip-fire only)

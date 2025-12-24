@@ -60,26 +60,27 @@ DECK COMPOSITION (15 cards)
 10. DURABLE (Brawn - Defense)
     +15% Trauma Resistance. +10 Health. +20% Fire Resistance.
 
-11. FRESH BANDAGE (Brawn - Defense)
-    At the start of each level: recover 15 Trauma Damage, restore missing Health.
+11. BRAZEN (Reflex - Offense)
+    +15% Melee Stamina Efficiency. +20% Melee Attack Speed.
 
-12. SCAR TISSUE (Brawn - Defense)
-    Take 1 less damage from all Ridden. +50% Acid Resistance.
+12. SLUGGER (Reflex - Offense)
+    +5% Health. +10% Melee Stamina Efficiency. +20% Melee Attack Speed.
 
-13. SUNDER (Brawn - Offense)
-    Melee hits cause targets to take 3% increased damage (max 15%, stacks per hit). Melee hits that destroy Armor can create Makeshift Armor.
-
-14. FOOD SCAVENGER (Fortune - Utility)
+13. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
-15. WELL RESTED (Brawn - Utility)
+14. WELL RESTED (Brawn - Utility)
     +20% Team Overheal. +5% Team Healing Efficiency.
+
+15. AMMO SCAVENGER (Discipline - Utility)
+    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
 
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
 - Health: +15 (+10 Down in Front!, +5% Slugger)
+- Fresh Bandage: Removed to make room for standard cards
 - Melee Damage: +40% (Mean Drunk) + 20% vs Mutations (Ignore the Pain) + 15 Flat (Spiky Bits) + Berserker stacks
 - Melee Attack Speed: +40% (Brazen + Slugger) + up to +100% from stacks (Meth Head + Berserker)
 - Melee Stamina Efficiency: +25% (Brazen + Slugger) + up to +50% from Meth Head stacks

@@ -91,12 +91,12 @@ WITH HENG:
 
 PLAYSTYLE
 
-Precision rifle specialist using M1A or Ranch Rifle with Aim Down Sights. Ranch Rifle is more reliable as it's guaranteed at starting level. Optics Enthusiast provides massive weakspot damage (+75%) and Front Sight Focus adds another +10% weakspot damage for +85% total. Patient Hunter stacks while aiming (+30% damage when fully scoped). Glass Cannon gives high damage (+52.5% base) but reduces health (-30%) - partially offset by health cards and trauma resistance (65%). Aim Down Sights and hold scope for 2.25 seconds to max Patient Hunter stacks. Fresh Bandage provides passive trauma/health recovery at level start. Food Scavenger synergizes with Heng for enhanced food healing. Crouch when near teammates (Down in Front!) to prevent friendly fire.
+Precision rifle specialist using M1A or Ranch Rifle with Aim Down Sights. Ranch Rifle is more reliable as it's guaranteed at starting level. Optics Enthusiast provides massive weakspot damage (+75%) and Front Sight Focus adds another +10% weakspot damage for +85% total. Patient Hunter stacks while aiming (+30% damage when fully scoped). Glass Cannon gives high damage (+45% base) but reduces health (-30%) - partially offset by health cards and trauma resistance (65%). Aim Down Sights and hold scope for 2.25 seconds to max Patient Hunter stacks. Fresh Bandage provides passive trauma/health recovery at level start. Food Scavenger synergizes with Heng for enhanced food healing. Crouch when near teammates (Down in Front!) to prevent friendly fire.
 
 
 STRENGTHS
 
-- Massive damage output (+52.5% base + up to +30% when scoped + +85% weakspot)
+- Massive damage output (+45% base + up to +30% when scoped + +85% weakspot)
 - Excellent weakspot damage (+85% total)
 - Excellent trauma resistance (65%)
 - Reliable weapon (Ranch Rifle available at start)

@@ -67,7 +67,7 @@ DECK COMPOSITION (15 cards)
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
-- Health: +55 (+45 Canned Goods + 10 Down in Front!)
+- Health: +10 (Down in Front!)
 - Accessory/Explosive Damage: +175% total (Demolitions Expert +50%, Grenade Training +25%, Bomb Squad +25% team, Pyro +100% fire damage)
 - Fire Damage: +100% (Pyro)
 - Explosive Resistance: +25% Team
@@ -105,7 +105,7 @@ STRENGTHS
 WEAKNESSES
 
 - Lower ammo capacity (-15% from Demolitions Expert)
-- Stamina penalty from Canned Goods (-25% stamina)
+- Lower health pool (+10 health only)
 - Requires offensive items to maximize effectiveness
 - Can be expensive (need copper for item purchases)
 - Lower personal weapon damage (focus on items, not weapons)

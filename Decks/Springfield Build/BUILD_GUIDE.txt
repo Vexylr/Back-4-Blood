@@ -33,11 +33,10 @@ M1A or Ranch Rifle
 DAMAGE CALCULATION
 ───────────────────────────────────────────────────────────────────────────────
 
-Base Damage: +52.5%
+Base Damage: +45%
   • +25% Glass Cannon
   • +10% Tactical Vest (AR/LMG)
   • +10% Silver Bullets
-  • +7.5% Large Caliber
 
 Additional Bonuses:
   • Up to +30% when scoped (Patient Hunter)
