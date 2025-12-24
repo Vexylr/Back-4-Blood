@@ -1,277 +1,178 @@
-# TESLA - EXPERIMENTAL TECH BUILD GUIDE
+# TESLA Build Guide
 
-## Overview
-
-The TESLA build uses experimental DLC gadgets from the Children of the Worm expansion to provide team support through healing, crowd control, and damage. Your gadgets replace item slots and cost ammo instead of consumables, requiring careful resource management.
+Experimental gadget build using DLC stuff from Children of the Worm. Basically you're running around with gadgets that replace your normal items and they cost ammo instead. It's pretty cool if you can manage the ammo, which is the tricky part.
 
 **Difficulty:** No Hope  
 **Playstyle:** Support  
-**Expansion Required:** Children of the Worm
+**Expansion:** Children of the Worm (required)
 
 ---
 
-## Recommended Cleaners
+## Cleaners
 
-### PRIMARY: EVANGELO ⭐
+### Use Evangelo
 
-**Why Evangelo?**
-- **Born Survivor**: Break out of grabs with +75% speed (crucial when Experimental Stun Gun makes you FRAGILE)
-- **Light Footed** (Team): +5% Team Movement Speed
-- **Fit**: +25% Stamina Regen (helps with positioning and gadget usage)
-- **Firestarter**: Starts with Molotov (backup offensive item)
+His breakout ability is clutch since you're fragile as hell. The extra stamina regen is nice for positioning, and starting with a Molotov is always useful. Plus he gives the team +5% move speed which is nice.
 
-Evangelo's mobility and breakout ability synergize perfectly with a build that makes you fragile. The extra stamina regen helps you reposition to use gadgets effectively.
-
-### Alternative Cleaners
-
-- **Hoffman**: If your team needs more ammo/offensive item generation
-- **Karlee**: If you need hazard detection and utility speed
-- **Doc**: If your team needs more healing support
+If you don't have Evangelo, Hoffman works too if your team needs more ammo, or Karlee if you want hazard detection.
 
 ---
 
-## Recommended Weapons
+## Weapons
 
-### PRIMARY WEAPON OPTIONS
+**Primary: LMG or Sniper**
 
-**Best Choice: LMG (M249, RPK)**
-- Works with Suppressing Fire card (40% chance to slow Ridden)
-- High ammo capacity (important for gadget usage)
-- Good sustained damage
-- Efficient ammo consumption
+LMG works best because Suppressing Fire procs on it and you get good ammo capacity. Snipers work too if you prefer. The key is you need something with good ammo economy because your gadgets eat ammo like crazy.
 
-**Alternative: Sniper Rifle**
-- Works with Suppressing Fire card
-- High damage per shot (ammo efficient)
-- Good for mutation elimination
-- Can conserve ammo better than LMGs
+**Why not ARs?** Expired T5 costs 75 AR ammo. That's your main damage gadget, so you want to save AR ammo for it. LMGs and Snipers work with Suppressing Fire anyway, so it works out better.
 
-**Why NOT ARs?**
-- Expired T5 costs 75 AR ammo—saving AR ammo for gadgets is crucial
-- LMGs/Snipers work better with Suppressing Fire
-
-### SECONDARY WEAPON
-
-- **Pistol or SMG**: Used primarily for common Ridden
-- **Don't waste ammo**—your secondary ammo is needed for Ultrasonic Wound Therapy (60 Pistol/SMG ammo cost)
+**Secondary:** Just use a pistol or SMG for commons. Don't waste the ammo though—you need 60 Pistol/SMG ammo for your healing gadget.
 
 ---
 
-## Gadget Usage Guide
+## The Gadgets
 
-### 1. EXPIRED T5 (Support Slot - 75 AR Ammo)
+### Expired T5 (75 AR ammo)
 
-**When to Use:**
-- **Primary target**: Mutations (especially Tallboys, Reekers, Stingers)
-- Aim for **weakspots** for maximum damage (20 fire damage + 1 damage/sec for 7 seconds)
-- Use on bosses when your team needs burst damage
-- **Don't waste on common Ridden**—too expensive for the value
+This is your big damage dealer. Hits weakspots for 20 fire damage plus a DOT. Use it on mutations and bosses, not commons. It's expensive, so make every shot count.
 
-**Tips:**
-- Coordinate with team—let them know when you're using it
-- Position yourself safely—you're FRAGILE from Experimental Stun Gun
-- Best used when mutations are in optimal positions (not moving erratically)
+Pro tip: Wait for mutations to stop moving before you use it. Hitting a moving weakspot is annoying.
 
-### 2. ULTRASONIC WOUND THERAPY (Offensive Slot - 60 Pistol/SMG Ammo)
+### Ultrasonic Wound Therapy (60 Pistol/SMG ammo)
 
-**When to Use:**
-- Team members are damaged during combat
-- Between fights to top off health
-- Before/during hordes
-- When teammates are taking trauma damage
+Heals your team for 6 health over 7 seconds. Use it when people are hurt, obviously. The range isn't huge, so tell your team to group up if they need healing.
 
-**Tips:**
-- Position near multiple teammates for maximum value
-- Use proactively, not just reactively
-- Coordinate—tell team to group up for healing
-- 6 health over 7 seconds is substantial, especially with Well Rested (+5% healing efficiency)
+Don't be stingy with it—6 health over time is pretty solid, especially with the healing efficiency buffs. Just watch your ammo.
 
-### 3. EXPERIMENTAL STUN GUN (Quick Slot - 30 Sniper Rifle Ammo)
+### Experimental Stun Gun (30 Sniper ammo, refreshes every 10 seconds)
 
-**When to Use:**
-- Emergency crowd control when swarmed
-- To stun mutations that get too close
-- When teammates need breathing room
-- Refreshes every 10 seconds—use frequently
+Your bash stuns enemies in a small area. This is your "oh shit" button when things get close. Refreshes every 10 seconds, so use it pretty frequently.
 
-**WARNING: Makes you FRAGILE**
-- You take 50% more damage
-- Stay behind teammates when possible
-- Use Down in Front! and crouch near allies
-- Evangelo's Born Survivor helps if grabbed
+**Important:** This makes you FRAGILE. You take 50% more damage, so don't play like you're a tank. Stay behind your teammates.
 
 ---
 
-## Gameplay Strategy
+## How to Play
 
-### Early Game (Level Start)
+### Early Game
 
-1. **Check ammo**: Make sure you have diverse ammo types (AR, Pistol/SMG, Sniper)
-2. **Find your weapon**: Prioritize LMG or Sniper Rifle
-3. **Position safely**: You're FRAGILE, so stay behind the tank/frontliners
-4. **Use Ammo Scavenger**: Find that first ammo crate early
+Find an LMG or Sniper asap. Check your ammo—you need all three types (AR, Pistol/SMG, Sniper). Use Ammo Scavenger to find that first crate. Stay behind your team since you're fragile.
 
-### Mid-Game (During Levels)
+### During Levels
 
-1. **Ammo Management is CRITICAL**
-   - Collect all ammo types—don't ignore any
-   - Coordinate with team: "I need AR ammo for Expired T5"
-   - Use Ammo Scavenger actively—you get +1 ammo crate spawn
+**Ammo management is everything.** You're constantly balancing three different ammo types. Tell your team what you need—if you're running low on AR ammo for Expired T5, speak up. The +75% ammo capacity helps, but it's still tight.
 
-2. **Gadget Rotation**
-   - **Expired T5**: Save for mutations/bosses
-   - **Ultrasonic Wound Therapy**: Use when team health drops
-   - **Experimental Stun Gun**: Use every 10 seconds when needed
+Use Expired T5 on mutations and bosses. Use Ultrasonic when people are hurt. Use Stun Gun when you're getting swarmed. Rotate through them based on what's happening.
 
-3. **Positioning**
-   - Crouch with Down in Front! near teammates
-   - Stay behind frontliners (you're FRAGILE)
-   - Move to use gadgets effectively (near teammates for healing, good angles for Expired T5)
+**Positioning:** You're fragile, so don't be a hero. Crouch with Down in Front! near your teammates. Let the tank/frontliners take the aggro while you support from the back.
 
-### Late Game / Boss Fights
+### Boss Fights
 
-1. **Save Expired T5** for boss weakspot damage
-2. **Heal team** before boss spawns (Ultrasonic Wound Therapy)
-3. **Use Experimental Stun Gun** to create openings
-4. **Coordinate with team**: Call out when you're using gadgets
+Save Expired T5 for the boss weakspot. Heal your team before the boss spawns if possible. Use Stun Gun to create openings. Communicate with your team—tell them when you're using gadgets.
 
 ---
 
-## Team Composition Synergy
+## Team Stuff
 
-### IDEAL TEAM SETUP
+### Ideal Team
 
-1. **TESLA (You)**: Support through gadgets
-2. **Tank** (SPARTAN build): Frontline, takes aggro (protects your fragile self)
-3. **DPS** (WHITWORTH/SPRINGFIELD): Kills mutations efficiently
-4. **Healer** (FLORENCE) or **Supplier** (QUARTERMASTER): Additional support/resources
+You want a tank up front (someone running SPARTAN works great), a DPS or two, and maybe a dedicated healer or supplier. You're the weird gadget support, so don't try to fill multiple roles.
 
-### What Your Team Should Know
+### Communication
 
-- **"I need AR ammo for Expired T5"** - Call out when low
-- **"Group up for healing"** - When using Ultrasonic Wound Therapy
-- **"I'm fragile, stay in front"** - Positioning reminder
-- **"Expired T5 ready for [mutation name]"** - Coordination
+Tell your team:
+- "I need AR ammo for Expired T5" when you're low
+- "Group up for healing" before using Ultrasonic
+- "I'm fragile, stay in front of me" as a positioning reminder
+- "Expired T5 ready for [mutation]" so they know to ping it
 
 ---
 
-## Ammo Management Tips
+## Ammo Tips
 
-### Ammo Priority (Most Important First)
+**Priority order:**
+1. AR ammo (most expensive at 75 per Expired T5)
+2. Pistol/SMG ammo (60 per healing)
+3. Sniper ammo (30 per stun, but you use it more often)
 
-1. **AR Ammo**: Expired T5 costs 75—most expensive gadget
-2. **Pistol/SMG Ammo**: Ultrasonic Wound Therapy costs 60
-3. **Sniper Rifle Ammo**: Experimental Stun Gun costs 30 (but use frequently)
+**What helps:**
+- Ammo Scavenger gives you +1 ammo crate spawn and lets you sense ammo
+- The +75% ammo capacity from Ammo Pouch and Ammo Belt gives you more wiggle room
+- With Evangelo, you can use your weapons efficiently while saving ammo for gadgets
 
-### Cards That Help
-
-- **Ammo Scavenger**: +1 ammo crate spawn, sense nearby ammo
-- **Ammo Pouch** (+25%) + **Ammo Belt** (+50%) = **+75% ammo capacity**
-- With Evangelo: You can use weapons efficiently while saving ammo for gadgets
-
-### Ammo Etiquette
-
-- **DON'T** waste gadget ammo on common Ridden
-- **DO** use your primary weapon (LMG/Sniper) for most damage
-- **DO** call out when you need specific ammo types
-- **DO** prioritize ammo crates when you see them (Ammo Scavenger helps)
+**Don't:**
+- Waste gadget ammo on commons—use your primary weapon
+- Hoard ammo when your team needs help
+- Ignore ammo crates
 
 ---
 
-## Key Cards Explained
+## Important Cards
 
-### Core Gadgets
-- **Expired T5**: Your main damage tool—expensive but powerful
-- **Ultrasonic Wound Therapy**: Team healing—use proactively
-- **Experimental Stun Gun**: Crowd control—refreshes every 10 seconds
+**The gadgets:** Expired T5, Ultrasonic Wound Therapy, Experimental Stun Gun. These are your whole thing.
 
-### Essential Support Cards
-- **Down in Front!**: Prevents friendly fire (CRITICAL for multiplayer)
-- **Ammo Scavenger**: Ammo generation (absolutely necessary)
-- **Copper Scavenger**: Copper for upgrades/items
+**Must-haves:**
+- Down in Front! (prevents friendly fire—essential for multiplayer)
+- Ammo Scavenger (you'll run out of ammo without it)
+- Copper Scavenger (copper for upgrades is always useful)
 
-### Sustain Cards
-- **Food Scavenger**: Health sustain (+3 health per food)
-- **Sadist**: Temp health when teammates take damage
-- **Well Rested**: +20% team overheal, +5% healing efficiency
+**Sustain:**
+- Food Scavenger (extra health from food)
+- Sadist (temp health when teammates take damage)
+- Well Rested (team overheal and healing efficiency)
 
-### Weapon Cards
-- **Suppressing Fire**: Crowd control with LMG/Sniper
-- **Large Caliber Rounds**: +200% penetration, +7.5% damage
-- **Combat Training**: +5% damage, stumble utility
+**Weapon stuff:**
+- Suppressing Fire (crowd control with LMG/Sniper)
+- Large Caliber Rounds (+200% penetration is nice)
+- Combat Training (damage and stumble utility)
 
 ---
 
-## Common Mistakes to Avoid
+## Mistakes to Avoid
 
-❌ **Wasting Expired T5 on common Ridden** - Too expensive, save for mutations  
-❌ **Ignoring ammo management** - You'll run out mid-fight  
-❌ **Playing too aggressively** - You're FRAGILE, stay back  
-❌ **Forgetting to use gadgets** - They're your main utility  
-❌ **Not communicating with team** - Coordinate gadget usage  
-❌ **Standing in front** - Let tanks/DPS take aggro  
-❌ **Using all ammo types** - Save specific types for gadgets  
-
----
-
-## Advanced Tips
-
-1. **Gadget Combos**
-   - Stun Gun → Expired T5 on stunned mutation = easier weakspot hits
-   - Heal team before major fights
-   - Use Expired T5 when mutations are slowed by Suppressing Fire
-
-2. **Positioning Mastery**
-   - Crouch behind teammates with Down in Front!
-   - Position for Expired T5 weakspot shots
-   - Stay near team for Ultrasonic Wound Therapy range
-
-3. **Ammo Efficiency**
-   - Use primary weapon for most damage (LMG/Sniper)
-   - Reserve secondary for emergencies only
-   - Call out ammo needs early, not when completely empty
-
-4. **Team Coordination**
-   - Ping mutations before using Expired T5
-   - Tell team when you're healing (group up)
-   - Communicate when you're low on specific ammo types
+- Using Expired T5 on commons (waste of 75 AR ammo)
+- Playing too aggressively (you're fragile, stay back)
+- Ignoring ammo management (you'll run out mid-fight)
+- Forgetting you have gadgets (use them, that's the whole point)
+- Not communicating with team (coordination matters)
+- Standing in front of teammates (let them tank)
 
 ---
 
-## Build Strengths
+## Advanced Stuff
 
-✅ Powerful experimental gadgets (3 gadgets covering all needs)  
-✅ Team utility through healing and crowd control  
-✅ High ammo capacity (+75%) for gadget usage  
-✅ Good weapon damage (+15% bullet damage, +200% penetration)  
-✅ Copper generation for team upgrades  
-✅ Temp health generation (Sadist)  
-✅ Food sustain (Food Scavenger)  
+**Gadget combos:**
+Stun Gun into Expired T5 is solid—stunned mutations are easier to hit. Heal your team before major fights. Use Expired T5 when mutations are slowed by Suppressing Fire.
 
-## Build Weaknesses
+**Positioning:**
+Crouch behind teammates with Down in Front!. Position yourself for good Expired T5 angles. Stay close enough to heal but far enough to not get swarmed.
 
-⚠️ Requires Children of the Worm expansion  
-⚠️ Gadgets are expensive (ammo cost)  
-⚠️ Replaces item slots (no normal offensive/support/quick items)  
-⚠️ Experimental Stun Gun makes you FRAGILE (50% more damage)  
-⚠️ Requires constant ammo management  
-⚠️ Less conventional than standard builds  
+**Ammo efficiency:**
+Use your primary weapon (LMG/Sniper) for most damage. Only use your secondary in emergencies. Call out ammo needs early, don't wait until you're completely empty.
+
+**Team coordination:**
+Ping mutations before using Expired T5. Tell people when you're healing so they group up. Let them know when you're low on specific ammo types.
 
 ---
 
-## Quick Reference
+## Quick Stats
 
-**Gadget Costs:**
+**Gadget costs:**
 - Expired T5: 75 AR ammo
-- Ultrasonic Wound Therapy: 60 Pistol/SMG ammo  
-- Experimental Stun Gun: 30 Sniper Rifle ammo (refreshes every 10 seconds)
+- Ultrasonic Wound Therapy: 60 Pistol/SMG ammo
+- Experimental Stun Gun: 30 Sniper ammo (10 second cooldown)
 
-**Key Stats:**
-- Ammo Capacity: +75%
-- Bullet Damage: +15%
-- Bullet Penetration: +200%
-- Team Overheal: +20%
-- Team Healing Efficiency: +5%
+**Your stats:**
+- +75% ammo capacity
+- +15% bullet damage
+- +200% penetration
+- +20% team overheal
+- +5% team healing efficiency
 
-**Remember:** You're a support role. Your job is to keep the team alive, control crowds, and eliminate mutations efficiently—not to be the frontline DPS. Stay safe, manage ammo, and communicate with your team!
+---
 
+## The Bottom Line
+
+You're support. Your job is keeping people alive, controlling crowds, and killing mutations efficiently—not being the frontliner. Stay safe, watch your ammo, and talk to your team. The gadgets are powerful, but expensive. Use them wisely.
+
+The build is fun if you like managing resources and supporting the team. Just remember you're fragile, so play accordingly.
