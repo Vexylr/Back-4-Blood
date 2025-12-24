@@ -74,7 +74,7 @@ TOTAL + BUFFS SUMMARY
 
 BASE DECK:
 - Health: -15% net (-30% Glass Cannon + +15 from cards)
-- Bullet Damage: +48% base (+25% Glass Cannon + +2.5% Ammo Pouch, +5% Combat Training, +7.5% Large Caliber, +10% Silver Bullets) + up to +10% Tactical Vest (AR/LMG) + up to +30% Patient Hunter (scoped) + up to +15% Confident Killer (mutation kills)
+- Bullet Damage: +50% base (+25% Glass Cannon + +2.5% Ammo Pouch + +5% Combat Training + +7.5% Large Caliber + +10% Silver Bullets) + up to +10% Tactical Vest (AR/LMG) + up to +30% Patient Hunter (scoped) + up to +15% Confident Killer (mutation kills)
 - Bullet Penetration: +225%
 - Effective Bullet Range: +25%
 - Ammo Capacity: +55% (+30% Tactical Vest for rifles, +25% Ammo Pouch)
@@ -85,14 +85,14 @@ BASE DECK:
 - Stamina Regen: +20%
 
 WITH JIM:
-- Bullet Damage: +48% base + up to +10% Tactical Vest + up to +30% Patient Hunter + up to +15% Confident Killer + up to +25% Clean Kill = up to +128% total potential
+- Bullet Damage: +50% base + up to +10% Tactical Vest + up to +30% Patient Hunter + up to +15% Confident Killer + up to +25% Clean Kill = up to +130% total potential
 - Weakspot Damage: +10% Team Weakspot Damage
 - Reload Speed: +65% (+40% base + 25% Military Training)
 - Starts with: Razor Wire
 
 WITH WALKER:
 - Health: +5 net (-30% Glass Cannon + +25 from cards + +10 Team Health)
-- Bullet Damage: +48% base + up to +10% Tactical Vest + up to +30% Patient Hunter + up to +15% Confident Killer + 10% Model Soldier = up to +113% total potential
+- Bullet Damage: +50% base + up to +10% Tactical Vest + up to +30% Patient Hunter + up to +15% Confident Killer + 10% Model Soldier = up to +115% total potential
 - Damage Reduction: 10% reduced damage from pinged mutations
 - Starts with: Frag Grenade
 
@@ -104,7 +104,7 @@ Glass cannon precision damage dealer. Glass Cannon provides +25% damage but redu
 
 STRENGTHS
 
-- Massive damage potential (up to +128% with Jim, +113% with Walker)
+- Massive damage potential (up to +130% with Jim, +115% with Walker)
 - High weakspot damage focus (especially with Jim's +10% team weakspot)
 - Excellent penetration (+225%) for hitting multiple targets
 - Good ammo capacity (+55%) for sustained fire
