@@ -67,8 +67,7 @@ DECK COMPOSITION (15 cards)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 15. RUN LIKE HELL (Reflex - Mobility)
-    +12% Move Speed. +15% Sprint Speed. When you take damage, you lose the benefits of Run like Hell for 3 seconds.
-    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
+   +12% Move Speed. +15% Sprint Speed. When you take damage, you lose the benefits of Run like Hell for 3 seconds.
 
 
 TOTAL + BUFFS SUMMARY
