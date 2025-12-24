@@ -42,26 +42,26 @@ DECK COMPOSITION (15 cards)
 6. PATIENT HUNTER (Discipline - Offense)
    Every 0.75 seconds you Aim Down Sights increases Bullet Damage by 10% (up to 3 stacks).
 
-7. AMMO BELT (Discipline - Offense)
-   +50% Ammo Capacity. +15% Reload Speed.
+7. AMMO POUCH (Discipline - Offense)
+   +25% Ammo Capacity. +2.5% Bullet Damage.
 
-8. AMPED UP (Discipline - Defense)
-   When a horde is triggered, your team recovers 20 Health.
+8. SILVER BULLETS (Discipline - Offense)
+   +10% Bullet Damage. +15% Effective Bullet Range.
 
-9. ON YOUR MARK... (Reflex - Mobility)
-   When a horde is triggered: team restores 7.5% Ammo and gains 10% Move Speed while firing, 15% Reload Speed, and 25% Swap Speed for 30 seconds.
+9. COMBAT TRAINING (Discipline - Offense)
+   +5% Bullet Damage. +1.5 Bullet Stumble Damage. +7.5 Melee Stumble Damage.
 
-10. AMMO SCAVENGER (Discipline - Utility)
+10. AMPED UP (Discipline - Defense)
+    When a horde is triggered, your team recovers 20 Health.
+
+11. ON YOUR MARK... (Reflex - Mobility)
+    When a horde is triggered: team restores 7.5% Ammo and gains 10% Move Speed while firing, 15% Reload Speed, and 25% Swap Speed for 30 seconds.
+
+12. AMMO SCAVENGER (Discipline - Utility)
     You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
-11. FOOD SCAVENGER (Fortune - Utility)
+13. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
-
-12. COPPER SCAVENGER (Fortune - Utility)
-    You can sense nearby Copper. More Copper Piles spawn.
-
-13. WELL RESTED (Brawn - Utility)
-    +20% Team Overheal. +5% Team Healing Efficiency.
 
 14. NEEDS OF THE MANY (Discipline - Defense)
     -10% Health. Team Effect: 1 Team Extra Life.
@@ -74,27 +74,25 @@ TOTAL + BUFFS SUMMARY
 
 BASE DECK:
 - Health: -30% net (-30% Glass Cannon, -10% Needs Of The Many, +10 flat Down In Front! offsets some penalty)
-- Bullet Damage: +42.5% base (+25% Glass Cannon + +7.5% Large Caliber + +10% Stock Pouch Snipers) + up to +30% Patient Hunter (scoped) + up to +15% Confident Killer (mutation kills)
+- Bullet Damage: +60% base (+25% Glass Cannon + +2.5% Ammo Pouch + +5% Combat Training + +7.5% Large Caliber + +10% Silver Bullets + +10% Stock Pouch Snipers) + up to +30% Patient Hunter (scoped) + up to +15% Confident Killer (mutation kills)
 - Weakspot Damage: +50% (Hyper-Focused)
 - Bullet Penetration: +200% (Large Caliber Rounds)
-- Ammo Capacity: +80% (+50% Ammo Belt + +30% Stock Pouch for snipers)
-- Reload Speed: +15% base (Ammo Belt), +30% total during hordes (+15% base + +15% On Your Mark)
+- Effective Bullet Range: +15% (Silver Bullets)
+- Ammo Capacity: +55% (+25% Ammo Pouch + +30% Stock Pouch for snipers)
+- Reload Speed: +30% total during hordes (+15% On Your Mark)
 - Weapon Swap Speed: +25% during hordes (On Your Mark)
 - Move Speed: While shooting/melee: -40% (Hyper-Focused penalty). During hordes while firing: -30% net (+10% On Your Mark - 40% Hyper-Focused)
-- Economy: Copper Scavenger (sense copper + more spawns)
 - Team Support: 1 Extra Life (Needs Of The Many), +20 Health per horde (Amped Up), Ammo restore + speed buffs during hordes (On Your Mark)
-- Team Overheal: +20% (Well Rested)
-- Team Healing Efficiency: +5% (Well Rested)
 
 WITH JIM:
-- Bullet Damage: +42.5% base + up to +30% Patient Hunter + up to +15% Confident Killer + up to +25% Clean Kill = up to +112.5% total potential
+- Bullet Damage: +60% base + up to +30% Patient Hunter + up to +15% Confident Killer + up to +25% Clean Kill = up to +130% total potential
 - Weakspot Damage: +60% (+50% Hyper-Focused + +10% Team Weakspot from Seasoned Hunter)
-- Reload Speed: +40% base (+15% Ammo Belt + +25% Military Training), +55% total during hordes (+40% base + +15% On Your Mark)
+- Reload Speed: +25% base (+25% Military Training), +40% total during hordes (+25% base + +15% On Your Mark)
 - Starts with: Razor Wire
 
 WITH WALKER:
 - Health: -20% net (-30% Glass Cannon, -10% Needs Of The Many, +10 flat Down In Front!, +10 flat Team Health offsets some penalty)
-- Bullet Damage: +52.5% base (+42.5% cards + +10% Model Soldier) + up to +30% Patient Hunter + up to +15% Confident Killer = up to +97.5% total potential
+- Bullet Damage: +70% base (+60% cards + +10% Model Soldier) + up to +30% Patient Hunter + up to +15% Confident Killer = up to +115% total potential
 - Weakspot Damage: +50% (Hyper-Focused)
 - Damage Reduction: 10% reduced damage from pinged mutations
 - Starts with: Frag Grenade
@@ -104,19 +102,18 @@ PLAYSTYLE
 
 Glass cannon sniper specialist with team utility focus. Glass Cannon provides +25% damage but reduces health significantly (-30%), making positioning critical. Stock Pouch gives +10% sniper damage and +30% sniper ammo capacity. Use Patient Hunter's aiming stacks (aim for 2.25 seconds for max +30% damage). Focus mutations first to stack Confident Killer (+15% max). With Jim, prioritize precision kills to stack Clean Kill (+25% max) but avoid taking damage to maintain stacks. Hyper-Focused gives massive weakspot damage (+50%) but slows you by 40% while shooting - position safely before engaging. ALL IN on Snipers - use sniper rifles exclusively to maximize Stock Pouch bonus.
 
-Team support via Amped Up (+20 health per horde), On Your Mark (ammo + speed during hordes), and Needs Of The Many (1 extra life) make you valuable beyond just damage. Copper Scavenger ensures copper availability for team upgrades. Crouch when near teammates (Down In Front!) to prevent friendly fire. Your massive ammo capacity (+80% for snipers) and reload speed (+15-30% depending on situation) allow sustained fire. Large Caliber Rounds penetration (+200%) helps clear multiple enemies.
+Team support via Amped Up (+20 health per horde), On Your Mark (ammo + speed during hordes), and Needs Of The Many (1 extra life) make you valuable beyond just damage. Crouch when near teammates (Down In Front!) to prevent friendly fire. Your good ammo capacity (+55% for snipers) and reload speed during hordes (+30%) allow sustained fire. Large Caliber Rounds penetration (+200%) and Silver Bullets range (+15%) help clear multiple enemies at distance.
 
 
 STRENGTHS
 
-- Massive damage potential (up to +112.5% with Jim, +97.5% with Walker)
+- Massive damage potential (up to +130% with Jim, +115% with Walker)
 - High weakspot damage focus (+50-60% weakspot damage)
-- Copper Scavenger ensures copper availability throughout levels
 - Team utility during hordes (Amped Up +20 health, On Your Mark ammo + speed)
 - Team extra life (Needs Of The Many) - valuable on Nightmare/No Hope
 - Excellent penetration (+200%) for hitting multiple targets
-- Excellent ammo capacity (+80% for snipers) for sustained fire
-- Fast reload speed (+15-30% depending on situation)
+- Good ammo capacity (+55% for snipers) for sustained fire
+- Fast reload speed during hordes (+30%)
 - Team overheal support (+20% team overheal, +5% team healing efficiency)
 
 

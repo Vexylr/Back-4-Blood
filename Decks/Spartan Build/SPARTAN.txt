@@ -74,8 +74,6 @@ BASE DECK:
 - Fire Resistance: +20% (Durable)
 - Acid Resistance: +50% (Scar Tissue)
 - Damage Reduction: -1 flat + -3 while reviving = -4 total while reviving
-- Ammo Capacity: +25% (Ammo Pouch)
-- Bullet Damage: +2.5% (Ammo Pouch)
 - Revive Speed: +200%
 - Stamina: Net -5% (but +20% Sprint Efficiency)
 - Stamina Efficiency: -20%

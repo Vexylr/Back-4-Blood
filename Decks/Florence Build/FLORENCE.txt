@@ -88,13 +88,12 @@ HEALING EFFECTS (When Using Medical Accessories)
 - All teammates heal: +8 Health (Group Therapy)
 - Target gains: +3 Trauma healing (Field Surgeon)
 - Target gains: +20 Temporary Health (Antibiotic Ointment)
-- Target gains: +10% Max Health, Stamina, Stamina Regen until end of level (Experienced EMT)
 - You heal: 50% of what target receives (Charitable Soul)
 
 
 PLAYSTYLE
 
-Primary healer and medical support specialist. Your goal is to keep everyone's health bar green. Use Support Scavenger to find medical items, then use them with maximum efficiency (+90% with Doc). Group Therapy makes every medical use heal the whole team (+8 health each). Field Surgeon handles trauma (+3 trauma per use), and Antibiotic Ointment provides temp health (+20 temp health per use). Experienced EMT gives powerful buffs (+10% max health/stamina/stamina regen). Charitable Soul keeps you healthy while healing others (50% of healing applies to you). Doc's Field Medic ability gives one free 25 Health heal per teammate per level - use these strategically for emergencies. Position yourself safely, stay mobile with Dash and Energy Bar, and prioritize keeping the team alive. Crouch when near teammates (Down in Front!) to prevent friendly fire while healing.
+Primary healer and medical support specialist. Your goal is to keep everyone's health bar green. Use Support Scavenger to find medical items, then use them with maximum efficiency (+90% with Doc). Group Therapy makes every medical use heal the whole team (+8 health each). Field Surgeon handles trauma (+3 trauma per use), and Antibiotic Ointment provides temp health (+20 temp health per use). Charitable Soul keeps you healthy while healing others (50% of healing applies to you). Doc's Field Medic ability gives one free 25 Health heal per teammate per level - use these strategically for emergencies. Position yourself safely, stay mobile with Dash and Energy Bar, and prioritize keeping the team alive. Crouch when near teammates (Down in Front!) to prevent friendly fire while healing.
 
 
 STRENGTHS
@@ -104,7 +103,6 @@ STRENGTHS
 - Trauma healing capability (+3 trauma per medical use)
 - Team-wide healing with Group Therapy (+8 health to all teammates per medical use)
 - Medical item generation (Support Scavenger ensures item availability)
-- Powerful buffs with Experienced EMT (+10% max health/stamina/stamina regen)
 - Self-healing while healing others (Charitable Soul)
 - Doc's Field Medic provides free 25 Health heals (one per teammate per level) without items
 - Doc's +20% Team Trauma Resistance (Triage) benefits entire team
