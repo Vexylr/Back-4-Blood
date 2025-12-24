@@ -96,12 +96,11 @@ active immediately.
     - Health for survivability
     - Active immediately
 
-14. SUPERIOR CARDIO (Reflex - Mobility)
-    - +20% Stamina
-    - +20% Sprint Efficiency
-    - +5 Health
-    - Stamina to offset Canned Goods penalty
-    - Active immediately
+14. DOWN IN FRONT! (Discipline - Defense)
+    - While crouching you neither take nor deal Friendly Fire damage
+    - +10 Health
+    - ESSENTIAL for multiplayer - prevents friendly fire (even though explosives don't FF, weapons still can)
+    - Active when crouching
 
 15. FIRE IN THE HOLE! (Reflex - Mobility)
     - When you throw an Offensive Accessory, gain 20 Temporary Health and 25% Sprint Speed for 5 seconds

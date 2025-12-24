@@ -87,11 +87,11 @@ active immediately.
     - Ammo sustain and minor damage boost
     - Active immediately
 
-14. LARGE CALIBER ROUNDS (Discipline - Offense)
-    - +7.5% Bullet Damage
-    - +200% Bullet Penetration
-    - Damage and penetration for mutations
-    - Active immediately
+14. DOWN IN FRONT! (Discipline - Defense)
+    - While crouching you neither take nor deal Friendly Fire damage
+    - +10 Health
+    - ESSENTIAL for multiplayer - prevents friendly fire when reviving/positioning near teammates
+    - Active when crouching
 
 15. COMBAT TRAINING (Discipline - Offense)
     - +5% Bullet Damage

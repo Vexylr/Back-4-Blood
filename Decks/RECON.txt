@@ -109,13 +109,11 @@ active immediately.
     - Stamina regen
     - Active immediately
 
-14. COLD BREW COFFEE (Discipline - Mobility)
-    - +15% Reload Speed
-    - +25% Aim Speed
-    - +25% Weapon Swap Speed
-    - +25% Use Speed
-    - Speed and efficiency bonuses
-    - Active immediately
+14. DOWN IN FRONT! (Discipline - Defense)
+    - While crouching you neither take nor deal Friendly Fire damage
+    - +10 Health
+    - ESSENTIAL for multiplayer - prevents friendly fire when moving fast near teammates
+    - Active when crouching
 
 15. UTILITY SCAVENGER (Discipline - Utility)
     - You can sense nearby Quick Accessories

@@ -98,11 +98,11 @@ active immediately.
     - Massive damage boost
     - Active immediately
 
-14. HELLFIRE (Reflex - Mobility)
-    - +45% Move Speed while firing
-    - +3% Move Speed while not firing
-    - Mobility while shooting
-    - Active immediately
+14. DOWN IN FRONT! (Discipline - Defense)
+    - While crouching you neither take nor deal Friendly Fire damage
+    - +10 Health
+    - ESSENTIAL for multiplayer - prevents friendly fire from shotgun spread
+    - Active when crouching
 
 15. FOOD SCAVENGER (Fortune - Utility)
     - You can sense nearby Food Items

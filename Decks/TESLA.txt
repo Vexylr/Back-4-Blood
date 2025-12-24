@@ -86,11 +86,11 @@ active immediately.
     - Ammo generation (critical for gadgets)
     - Active immediately
 
-11. FIT AS A FIDDLE (Brawn - Utility)
-    - +20% Team Bolstered Health
-    - +5 Team Health
-    - Team health support
-    - Active immediately
+11. DOWN IN FRONT! (Discipline - Defense)
+    - While crouching you neither take nor deal Friendly Fire damage
+    - +10 Health
+    - ESSENTIAL for multiplayer - prevents friendly fire
+    - Active when crouching
 
 12. AMMO POUCH (Discipline - Offense)
     - +25% Ammo Capacity

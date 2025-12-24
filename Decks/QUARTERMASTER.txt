@@ -102,10 +102,11 @@ active immediately.
     - Team sustain at level start
     - Triggers automatically at level start
 
-14. WELL FED (Fortune - Utility)
-    - +10 Team Health
-    - Team health boost
-    - Active immediately
+14. DOWN IN FRONT! (Discipline - Defense)
+    - While crouching you neither take nor deal Friendly Fire damage
+    - +10 Health
+    - ESSENTIAL for multiplayer - prevents friendly fire
+    - Active when crouching
 
 15. COPPER SCAVENGER (Fortune - Utility)
     - You can sense nearby Copper
