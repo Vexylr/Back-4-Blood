@@ -15,11 +15,11 @@ PRIMARY: KARLEE
 - BAG OF TRICKS: +1 Quick Inventory
 - NIMBLE FINGERED: Start with Tool Kit
 
-ALTERNATIVE: EVANGELO
-- BORN SURVIVOR: Can break out of grabs, +75% Breakout Speed
-- LIGHT FOOTED (Team): +5% Team Movement Speed
-- FIT: +25% Stamina Regen
-- FIRESTARTER: Start with Molotov
+ALTERNATIVE: WALKER
+- MODEL SOLDIER: +10% Damage
+- PRAGMATIC (Team): +10 Team Health
+- INCOMING!: Pings reduce mutation damage by 10%
+- EQUIPPED: Start with Frag Grenade
 
 
 DECK COMPOSITION (15 cards)
@@ -92,15 +92,16 @@ WITH KARLEE:
 - Quick Inventory: +1
 - Starts with: Tool Kit
 
-WITH EVANGELO:
-- Breakout: Enhanced breakout capability + team movement speed
-- Stamina Regen: +25% additional
-- Starts with: Molotov
+WITH WALKER:
+- Bullet Damage: +10% (Model Soldier)
+- Health: +10 Team Health
+- Damage Reduction: 10% reduced damage from pinged mutations
+- Starts with: Frag Grenade
 
 
 PLAYSTYLE
 
-Fast-moving scout that runs ahead to clear obstacles, detect hazards, and report back to team. With Karlee, sense sleepers and traps to prevent team wipes, and sense Tool Kits for objectives. Use SMGs for maximum speed bonuses (up to +75% movement speed while firing). Your incredible movement speed lets you kite enemies and escape dangerous situations. Breakout ensures you can escape grabs when separated from team (30s cooldown, enhanced with Evangelo). Your role: clear the path, detect threats, and handle yourself solo when needed. Stay mobile, stay ahead, but don't abandon the team completely. Use your speed to kite mutations and common ridden while team focuses fire.
+Fast-moving scout that runs ahead to clear obstacles, detect hazards, and report back to team. With Karlee, sense sleepers and traps to prevent team wipes, and sense Tool Kits for objectives. Use SMGs for maximum speed bonuses (up to +75% movement speed while firing). Your incredible movement speed lets you kite enemies and escape dangerous situations. Breakout ensures you can escape grabs when separated from team (30s cooldown). Your role: clear the path, detect threats, and handle yourself solo when needed. Stay mobile, stay ahead, but don't abandon the team completely. Use your speed to kite mutations and common ridden while team focuses fire. With Walker, you get +10% damage and can ping mutations to reduce their damage output.
 
 
 STRENGTHS
@@ -114,7 +115,7 @@ STRENGTHS
 - Food sustain through Food Scavenger
 - Copper generation for team upgrades
 - With Karlee: +50% Team Use Speed + +1 Quick Inventory + starts with Tool Kit
-- With Evangelo: Enhanced breakout capability + team movement speed
+- With Walker: +10% damage + team health support + ping mutations for damage reduction
 
 
 WEAKNESSES

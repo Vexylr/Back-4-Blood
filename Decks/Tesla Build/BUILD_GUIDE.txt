@@ -17,19 +17,22 @@ damage taken), so stay behind your teammates and let them tank. Your job is
 using three experimental gadgets to help the team survive and kill mutations 
 efficiently.
 
-You're fragile, so don't play like a hero. Crouch with Down in Front! near 
-your teammates to avoid friendly fire. Stay behind frontliners and support from 
-the back. Move when you need to use gadgets effectively - get near teammates for 
-healing, find good angles for Expired T5 weakspot shots.
+You're fragile (Glass Cannon -30% health), so don't play like a hero. Learn to 
+aim and position properly - this is a dynamic deck. Stay behind frontliners and 
+support from the back. Move when you need to use gadgets effectively - get near 
+teammates for healing, find good angles for Expired T5 weakspot shots. With Pyro 
+and Glass Cannon, your T5 explosions are devastating (double fire damage + 25% 
+more from Glass Cannon).
 
 GADGETS & USAGE
 ───────────────────────────────────────────────────────────────────────────────
 
-Expired T5 (75 AR ammo)
-  → Your main damage tool. Use it on mutations and bosses, always aiming for 
-    weakspots. It deals 20 fire damage to weakspots plus a damage-over-time 
-    effect. Don't waste it on common ridden - it's too expensive for what you 
-    get.
+Expired T5 (75 AR/LMG ammo)
+  → Your main damage tool. With Pyro (+100% fire damage) and Glass Cannon (+25% 
+    damage), it deals massive damage to weakspots (~50 fire damage per explosion). 
+    Use it on mutations and bosses, always aiming for weakspots. Don't waste it on 
+    common ridden - it's too expensive. Use shotgun to balance ammo across all 
+    three gadget ammo types.
 
 Ultrasonic Wound Therapy (60 Pistol/SMG ammo)
   → Provides team healing. When teammates are hurt, position yourself near them 
@@ -57,46 +60,52 @@ on your weapons - use your primary weapon for most damage.
 WEAPONS
 ───────────────────────────────────────────────────────────────────────────────
 
-Primary: LMG or Sniper
-  → LMG works best because Suppressing Fire procs on it (40% chance to slow 
-    enemies) and you get good ammo capacity. Snipers work fine too. Don't use 
-    ARs though - you need to save AR ammo for Expired T5.
+Primary: Shotgun
+  → Best weapon choice for this build. Balances ammo consumption across all three 
+    gadget ammo types (AR/LMG for T5, Pistol/SMG for healing, Sniper for stun gun).
+    Shotgun ammo is not used by any gadget, so you can use it freely for common 
+    ridden without impacting gadget ammo pools.
 
-Secondary: Pistol or SMG
-  → Use for commons, but don't waste the ammo. You need 60 Pistol/SMG ammo for 
-    your healing gadget, so be careful with it.
+Secondary: Belgian or any
+  → Use for commons. Admin Reload lets you swap weapons for instant reloads, 
+    perfect for sustained fire.
 
 RECOMMENDED CLEANER
 ───────────────────────────────────────────────────────────────────────────────
 
-Evangelo
-  → Born Survivor helps you break out of grabs (important since you're fragile)
-  → Fit gives +25% stamina regen for constant movement and gadget usage
-  → Light Footed gives +5% team movement speed
-  → Starts with Molotov for backup offensive utility
+Tala (Primary)
+  → Bleeding attacks cause damage over time, works well with T5 explosions
+  → Team effect: +1 Warped Chest spawns per map (team benefit)
+  → Can summon Jeff with whistle for additional team utility
+  → Starts with Bait Jar
+  → Note: Available in River of Blood expansion
 
 KEY STRATEGIES
 ───────────────────────────────────────────────────────────────────────────────
 
-✓ Find your weapon early - LMG or Sniper
+✓ Find your shotgun early - balances ammo for all gadgets
 ✓ Check your ammo situation right away - you need all three types
-✓ Use Ammo Scavenger to find that first crate quickly
+✓ Use Admin Reload to swap weapons for instant reloads
 ✓ Stay behind your team since you're fragile
-✓ Use Expired T5 on mutations and bosses, aiming for weakspots
+✓ Use Expired T5 on mutations and bosses, aiming for weakspots (Pyro + Glass 
+  Cannon = massive damage)
+✓ With Tala: Mark enemies first, then T5 for additional damage
 ✓ Use Ultrasonic when people are hurt and tell your team to group up
 ✓ Use Stun Gun when swarmed or when mutations get close
 ✓ Save Expired T5 for important targets - don't waste it on commons
 ✓ Communicate with your team about ammo needs and gadget usage
+✓ Learn to aim and position - no Down In Front for friendly fire protection
 
 CRITICAL TIPS
 ───────────────────────────────────────────────────────────────────────────────
 
-✗ Avoid using Expired T5 on common ridden - it's a waste of 75 AR ammo
-✗ Don't play aggressively - you're fragile, stay back
+✗ Avoid using Expired T5 on common ridden - it's a waste of 75 AR/LMG ammo
+✗ Don't play aggressively - you're fragile (Glass Cannon), stay back
 ✗ Don't ignore ammo management or you'll run out mid-fight
 ✗ Don't forget you have gadgets - use them, that's the whole point
 ✗ Don't stand in front of teammates - let them tank
 ✗ Don't waste gadget ammo types on your weapons
+✗ Don't rely on Down In Front - learn to aim and position properly
 
 SUMMARY
 ───────────────────────────────────────────────────────────────────────────────

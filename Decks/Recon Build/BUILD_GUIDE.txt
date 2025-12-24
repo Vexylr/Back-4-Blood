@@ -33,8 +33,7 @@ SOLO SURVIVABILITY
 ───────────────────────────────────────────────────────────────────────────────
 
 Breakout ensures you can escape grabs when separated from team (30s cooldown, 
-50% reduction from base 60s). With Evangelo, you get enhanced breakout 
-capability (+75% breakout speed). This provides solo survivability.
+50% reduction from base 60s). This provides solo survivability when separated.
 
 HAZARD DETECTION
 ───────────────────────────────────────────────────────────────────────────────
@@ -46,19 +45,18 @@ prevents team wipes from unexpected hazards. You can also sense Tool Kits
 STAMINA
 ───────────────────────────────────────────────────────────────────────────────
 
-High stamina pool (+35% + +10% team) and regeneration (+50% + +10% team) 
-allows constant movement and kiting. You can run and gun indefinitely with 
-proper stamina management.
+High stamina pool (+20%) and regeneration (+20%) from Cross Trainers allows 
+constant movement and kiting. You can run and gun indefinitely with proper 
+stamina management.
 
 DAMAGE OUTPUT
 ───────────────────────────────────────────────────────────────────────────────
 
-Your damage output is good:
-  • +20% base bullet damage (Ammo Pouch +2.5%, Silver Bullets +10%, Large 
-    Caliber +7.5%)
+Your damage output is excellent:
+  • +27.5% base bullet damage (Silver Bullets +10%, Large Caliber +7.5%)
   • +10% with SMGs (Mag Carrier)
-  • +10% weakspot damage (Front Sight Focus)
-  • Total: +30% with SMGs, plus weakspot bonus
+  • +70% weakspot damage (Ridden Slayer +20%, Hyper-Focused +50%)
+  • Total: +37.5% bullet damage with SMGs, +70% weakspot damage
 
 You can contribute while maintaining speed.
 
@@ -71,14 +69,14 @@ using SMG). This maximizes your movement speed bonuses and keeps you mobile.
 TEAM UTILITY
 ───────────────────────────────────────────────────────────────────────────────
 
-Mandatory PT
-  → Gives +10% team stamina and stamina regen
-
 With Karlee: DEXTEROUS
   → Gives +50% team use speed for objectives
 
-Utility Scavenger
-  → Generates Quick Accessories for the team
+Food Scavenger
+  → Generates Food Items for team sustain
+
+Copper Scavenger
+  → Generates more Copper for team upgrades
 
 RECOMMENDED CLEANERS
 ───────────────────────────────────────────────────────────────────────────────
@@ -89,12 +87,11 @@ Karlee (Primary)
   → +1 quick inventory gives utility
   → Starts with Tool Kit for immediate objective utility
 
-Evangelo (Alternative)
-  → Enhanced breakout capability (+75% breakout speed) improves solo 
-    survivability
-  → +5% team movement speed helps the whole team
-  → +25% stamina regen improves mobility
-  → Starts with Molotov
+Walker (Alternative)
+  → +10% damage (Model Soldier) increases your DPS output
+  → +10 team health (Pragmatic) helps team survivability
+  → Ping mutations to reduce their damage by 10% (Incoming!)
+  → Starts with Frag Grenade for mutation control
 
 KEY STRATEGIES
 ───────────────────────────────────────────────────────────────────────────────
