@@ -1,0 +1,14 @@
+Card Name: Life Insurance
+Category: Fortune
+Type: Defense
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
++ 2 Extra Life
+Team EffectTEAM EFFECTS
+10% Reduced Incap Trauma
+Swarm:
++ 2 Extra Life
+Team EffectTEAM EFFECTS
+10% Reduced Incap Trauma

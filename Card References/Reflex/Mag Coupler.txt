@@ -1,0 +1,11 @@
+Card Name: Mag Coupler
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 50% Reload Speed
+DISABLES: Aim Down Sights
+Swarm:
+This card is not available in Swarm mode.

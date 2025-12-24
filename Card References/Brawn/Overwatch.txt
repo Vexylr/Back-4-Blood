@@ -1,0 +1,10 @@
+Card Name: Overwatch
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Kills from greater than 15 meters grant 5 Temporary Health to teammates within 15 meters of the target.
+Swarm:
+Kills from greater than 15 meters grant 5 Temporary Health to teammates within 15 meters of the target.

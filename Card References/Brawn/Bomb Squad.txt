@@ -1,0 +1,13 @@
+Card Name: Bomb Squad
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+1 Additional Frag Grenade spawns in each map.
+Team EffectTEAM EFFECTS:
++ 25% Team Explosive Damage
++ 20% Team Explosive Resistance
+Swarm:
+This card is not available in Swarm mode.

@@ -1,0 +1,13 @@
+Card Name: Ether Bomb
+Category: Brawn (Expansion - River of Blood)
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Emit a gas that attracts Ridden to you for 7 seconds, but also slow your movement speed by 50%.
+
+Gadget Cost: 50 Assault Rifle ammo
+REPLACES: Support Slot
+Swarm:
+This card is not available in Swarm mode.

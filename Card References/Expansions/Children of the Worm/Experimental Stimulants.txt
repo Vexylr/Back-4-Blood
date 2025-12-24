@@ -1,0 +1,13 @@
+Card Name: Experimental Stimulants
+Category: Reflex (Expansion - Children of the Worm)
+Type: Talent
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Create a cloud that grants 20% Damage and 30% Reload Speed.
+
+Gadget Cost: 40 Assault Rifle ammo
+REPLACES: Support Slot
+Swarm:
+This card is not available in Swarm mode.

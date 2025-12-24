@@ -1,0 +1,12 @@
+Card Name: Box O' Bags
+Category: Fortune
+Type: Defense
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+- 10% Health
+Team EffectTEAM EFFECTS
+1 Team Support Inventory
+Swarm:
+This card is not available in Swarm mode.

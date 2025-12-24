@@ -1,0 +1,10 @@
+Card Name: Face Your Fears
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Heal 1 Temporary Health whenever you kill a Ridden within 2.5 meters.
+Swarm:
+Heal 1 Temporary Health whenever you kill a Ridden within 2.5 meters.

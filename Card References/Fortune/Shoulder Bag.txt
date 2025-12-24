@@ -1,0 +1,10 @@
+Card Name: Shoulder Bag
+Category: Fortune
+Type: Defense
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
++ 2 Support Inventory
+Swarm:
++ 2 Support Inventory

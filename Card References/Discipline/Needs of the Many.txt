@@ -1,0 +1,12 @@
+Card Name: Needs of the Many
+Category: Discipline
+Type: Defense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+- 10% Health
+Team EffectTEAM EFFECTS
+1 Team Extra Life
+Swarm:
+This card is not available in Swarm mode.

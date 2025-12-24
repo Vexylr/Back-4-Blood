@@ -1,0 +1,13 @@
+Card Name: Expired T5
+Category: Discipline (Expansion - Children of the Worm)
+Type: Ability
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Create a powerful blast that deals 20 Fire Damage to Weakspots. After the initial blast, continue to deal 1 damage per second for 7 seconds.
+
+Gadget Cost: 75 Assault Rifle ammo
+REPLACES: Support Slot
+Swarm:
+This card is not available in Swarm mode.

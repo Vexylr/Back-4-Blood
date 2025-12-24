@@ -1,0 +1,13 @@
+Card Name: Experimental Stun Gun
+Category: Discipline (Expansion - Children of the Worm)
+Type: Utility
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Enhance Bash to stun nearby enemies. Refreshes after 10 seconds.
+
+Gadget Cost: 30 Sniper Rifle ammo
+REPLACES: Quick Slot, FRAGILE
+Swarm:
+This card is not available in Swarm mode.

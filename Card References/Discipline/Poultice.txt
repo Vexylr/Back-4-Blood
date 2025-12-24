@@ -1,0 +1,10 @@
+Card Name: Poultice
+Category: Discipline
+Type: Defense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+When you use a Medical Accessory, the target recovers an additional 20 Health over 30 seconds.
+Swarm:
+When you use a Medical Accessory, the target recovers an additional 20 Health and 20 Trauma over 30 seconds.

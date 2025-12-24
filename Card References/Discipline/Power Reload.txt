@@ -1,0 +1,10 @@
+Card Name: Power Reload
+Category: Discipline
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Reloading a gun within 1 second of reaching low ammo will increase its magazine size by 30% until the next reload.
+Swarm:
+Reloading a gun within 1 second of reaching low ammo will increase its magazine size by 30% until the next reload.

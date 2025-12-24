@@ -1,0 +1,10 @@
+Card Name: Smelling Salts
+Category: Reflex
+Type: Utility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 200% Revive Speed
+Swarm:
++ 200% Revive Speed

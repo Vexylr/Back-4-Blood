@@ -1,0 +1,16 @@
+Card Name: Energy Drink
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 15% Stamina
++ 25% Weapon Swap Speed
++ 15% Move Speed while firing
++ 10% Slow Resistance
+Swarm:
++ 15% Stamina
++ 25% Weapon Swap Speed
++ 15% Move Speed while firing
++ 10% Slow Resistance

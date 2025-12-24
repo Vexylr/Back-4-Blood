@@ -1,0 +1,10 @@
+Card Name: Magician's Apprentice
+Category: Fortune (Expansion - Tunnels of Terror)
+Type: Talent
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+You have an additional 10% chance to not consume Accessories when used.
+Swarm:
+This card is not available in Swarm mode.

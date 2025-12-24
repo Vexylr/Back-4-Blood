@@ -1,0 +1,13 @@
+Card Name: Rousing Speech
+Category: Reflex
+Type: Utility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Team EffectTEAM EFFECTS:
+Teammates recover an additional 10 Health when revived
++ 50% Team Revive Speed
++ 10% Reduced Incap Trauma
+Swarm:
+This card is not available in Swarm mode.

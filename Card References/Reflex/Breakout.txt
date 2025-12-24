@@ -1,0 +1,12 @@
+Card Name: Breakout
+Category: Reflex
+Type: Utility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Breakout: Hold E (PC)(PC) Square (PlayStation)(PlayStation) X (Xbox) (Xbox) to free yourself from Grabs.
++ 50% Breakout Cooldown Reduction. (Base 60 seconds).
+Swarm:
+Breakout: Hold E (PC)(PC) Square (PlayStation)(PlayStation) X (Xbox) (Xbox) to free yourself from Grabs.
++ 50% Breakout Cooldown Reduction. (Base 60 seconds).

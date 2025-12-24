@@ -1,0 +1,11 @@
+Card Name: Reckless
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 40% Sprint Efficiency
+When you take damage while Sprinting, you lose all Stamina.
+Swarm:
+This card is not available in Swarm mode.

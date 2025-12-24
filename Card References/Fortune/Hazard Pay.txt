@@ -1,0 +1,10 @@
+Card Name: Hazard Pay
+Category: Fortune
+Type: Utility
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+Gain 250 bonus Copper at the start of each level.
+Swarm:
+This card is not available in Swarm mode.

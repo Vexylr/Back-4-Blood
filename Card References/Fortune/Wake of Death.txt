@@ -1,0 +1,7 @@
+Card Name: Wake of Death
+Category: Fortune
+Affinity: Fortune
+
+Description:
+You can shoot while sprinting
+

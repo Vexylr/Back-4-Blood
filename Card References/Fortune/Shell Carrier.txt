@@ -1,0 +1,12 @@
+Card Name: Shell Carrier
+Category: Fortune
+Type: Offense
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
++ 30% Shotgun Ammo Capacity
++ 10% Damage with Shotguns
+Swarm:
++ 30% Shotgun Ammo Capacity
++ 10% Damage with Shotguns

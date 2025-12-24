@@ -1,0 +1,12 @@
+Card Name: Pumped Up
+Category: Reflex (Expansion - Tunnels of Terror)
+Type: Stat
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Your Temporary Health decays 20% slower.
+1 Additional Pain Meds spawns in each map.
++ 5% Health
+Swarm:
+This card is not available in Swarm mode.

@@ -1,0 +1,10 @@
+Card Name: Bravado
+Category: Brawn (Expansion - Tunnels of Terror)
+Type: Talent
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+When a teammate within 15 meters receives Trauma Damage, heal 15% of that amount as Trauma Health.
+Swarm:
+This card is not available in Swarm mode.

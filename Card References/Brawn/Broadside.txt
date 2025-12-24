@@ -1,0 +1,10 @@
+Card Name: Broadside
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Precision Kills have a 20% chance to cause Ridden to explode, dealing 15 damage to other Ridden within 4 meters.
+Swarm:
+This card is not available in Swarm mode.

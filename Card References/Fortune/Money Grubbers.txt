@@ -1,0 +1,10 @@
+Card Name: Money Grubbers
+Category: Fortune
+Type: Utility
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.
+Swarm:
+This card is not available in Swarm mode.

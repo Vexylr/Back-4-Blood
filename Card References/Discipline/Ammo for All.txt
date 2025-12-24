@@ -1,0 +1,14 @@
+Card Name: Ammo for All
+Category: Discipline
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Team EffectTEAM EFFECTS
++ 10% Team Ammo Capacity
++ 3.5% Team Damage
+Swarm:
+Team EffectTEAM EFFECTS
++ 10% Team Ammo Capacity
++ 3.5% Team Damage

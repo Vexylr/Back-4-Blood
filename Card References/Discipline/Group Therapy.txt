@@ -1,0 +1,10 @@
+Card Name: Group Therapy
+Category: Discipline
+Type: Defense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+When you use a Medical Accessory, all teammates heal for 8 Health.
+Swarm:
+When you use a Medical Accessory, all teammates heal for 8 Health.

@@ -1,0 +1,12 @@
+Card Name: Ignore the Pain
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
++ 20% Melee Damage against Mutations
+When you deal Melee damage to a Mutation heal 2 Health and 3 Stamina.
+Swarm:
++ 20% Melee Damage against Mutations
+When you deal Melee damage to a Mutation heal 2 Health and 3 Stamina.

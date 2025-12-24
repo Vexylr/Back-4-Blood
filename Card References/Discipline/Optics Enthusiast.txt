@@ -1,0 +1,10 @@
+Card Name: Optics Enthusiast
+Category: Discipline
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
++ 30% Accuracy
+Swarm:
++ 30% Accuracy

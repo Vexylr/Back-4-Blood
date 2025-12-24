@@ -1,0 +1,10 @@
+Card Name: Soften Up
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Melee hits cause the target to deal 3% reduced damage, to a maximum of 15% reduced damage.
+Swarm:
+Melee hits cause the target to deal 3% reduced damage, to a maximum of 15% reduced damage.

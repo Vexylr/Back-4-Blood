@@ -1,0 +1,7 @@
+Card Name: Gunslinger
+Category: Fortune
+Affinity: Fortune
+
+Description:
+When you stow your weapon, it reloads
+

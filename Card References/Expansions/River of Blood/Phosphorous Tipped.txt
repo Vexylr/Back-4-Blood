@@ -1,0 +1,10 @@
+Card Name: Phosphorous Tipped
+Category: Discipline (Expansion - River of Blood)
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Continuos gunfire gives an escalating chance to set targets on fire.
+Swarm:
+This card is not available in Swarm mode.

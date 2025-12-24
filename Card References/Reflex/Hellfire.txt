@@ -1,0 +1,12 @@
+Card Name: Hellfire
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 45% Move Speed while firing.
++ 3% Move Speed while not firing.
+Swarm:
++ 45% Move Speed while firing.
++ 3% Move Speed while not firing.

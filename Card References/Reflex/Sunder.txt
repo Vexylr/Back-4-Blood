@@ -1,0 +1,7 @@
+Card Name: Sunder
+Category: Reflex
+Affinity: Reflex
+
+Description:
+Melee hits cause the target to take 20% increased damage for 5 seconds
+

@@ -1,0 +1,16 @@
+Card Name: Brazen
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 15% Melee Stamina Efficiency
++ 20% Melee Attack Speed
++ 15% Bow Stamina Efficiency
++ 20% Bow Attack Speed
+Swarm:
++ 15% Melee Stamina Efficiency
++ 20% Melee Attack Speed
++ 15% Bow Stamina Efficiency
++ 20% Bow Attack Speed

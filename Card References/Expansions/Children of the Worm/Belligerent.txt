@@ -1,0 +1,11 @@
+Card Name: Belligerent
+Category: Fortune (Expansion - Children of the Worm)
+Type: Talent
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+Gain a stacking 4% increase to Damage each time a Horde is called up to 6 stacks. (30 second cooldown between Hordes.)
+Stacks are reset when a Cleaner is incapped or killed.
+Swarm:
+This card is not available in Swarm mode.

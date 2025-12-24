@@ -1,0 +1,7 @@
+Card Name: Dance All Day
+Category: Reflex
+Affinity: Reflex
+
+Description:
++10% Movement Speed; No Movement Penalty for strafe and backpedal; Disables Sprint
+

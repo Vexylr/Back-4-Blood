@@ -1,0 +1,7 @@
+Card Name: Heavy Attack
+Category: Reflex
+Affinity: Reflex
+
+Description:
+Charge: Hold LMB with melee weapons to burst forward; Charge attacks deal 100% increased damage
+

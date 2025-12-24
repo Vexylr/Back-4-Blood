@@ -1,0 +1,13 @@
+Card Name: Ultrasonic Wound Therapy
+Category: Brawn (Expansion - Children of the Worm)
+Type: Ability
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Heal 6 Health over 7 seconds to nearby teammates.
+
+Gadget Cost: 60 Pistol and SMG ammo
+REPLACES: Offensive Slot
+Swarm:
+This card is not available in Swarm mode.

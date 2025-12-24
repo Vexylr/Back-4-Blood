@@ -1,0 +1,10 @@
+Card Name: Wounded Animal
+Category: Fortune
+Type: Defense
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+Kills while at Critical Health recover 1 Health.
+Swarm:
+Kills while at Critical Health recover 1 Health.

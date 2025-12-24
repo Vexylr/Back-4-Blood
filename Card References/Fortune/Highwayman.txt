@@ -1,0 +1,10 @@
+Card Name: Highwayman
+Category: Fortune
+Type: Utility
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+Kills with Secondary guns have a 5% chance to spawn ammo, Molotov, or a Bait Jar.
+Swarm:
+Kills with Secondary guns have a 5% chance to spawn ammo, Molotov, or a Bait Jar.

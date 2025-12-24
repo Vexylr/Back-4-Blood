@@ -1,0 +1,12 @@
+Card Name: On Your Mark...
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Team EffectTEAM EFFECTS:
+When a horde is triggered, your team restores 7.5% Ammo and gains 10% Move Speed while firing, 15% Reload Speed, and 25% Swap Speed for 30 seconds.
+Swarm:
+Team EffectTEAM EFFECTS:
+When a horde is triggered, your team restores 7.5% Ammo and gains 10% Move Speed while firing, 15% Reload Speed, and 25% Swap Speed for 30 seconds.

@@ -1,0 +1,13 @@
+Card Name: Sonic Disruptor
+Category: Discipline (Expansion - River of Blood)
+Type: Defense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Emit a pulse that deal heavy Stumble damage to nearby enemies and has a chance to knock off armor.
+
+Gadget Cost: 75 Pistol and SMG ammo
+REPLACES: Offensive Slot
+Swarm:
+This card is not available in Swarm mode.

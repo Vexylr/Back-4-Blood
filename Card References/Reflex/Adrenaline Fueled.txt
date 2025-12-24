@@ -1,0 +1,10 @@
+Card Name: Adrenaline Fueled
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+When you kill an enemy, gain 5 Stamina instantly and an additional 7 Stamina over 7 seconds, stacking up to 5 times.
+Swarm:
+When you kill an enemy, gain 5 Stamina instantly and an additional 7 Stamina over 7 seconds, stacking up to 5 times.

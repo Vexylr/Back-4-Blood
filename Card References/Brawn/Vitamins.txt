@@ -1,0 +1,10 @@
+Card Name: Vitamins
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
++ 25 Health
+Swarm:
++ 25 Health

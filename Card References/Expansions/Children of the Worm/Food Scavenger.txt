@@ -1,0 +1,14 @@
+Card Name: Food Scavenger
+Category: Fortune (Expansion - Children of the Worm)
+Type: Talent
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+You can sense nearby Food Items.
+Adds a moderate amount of Food Items to the world.
+Food Items restore an additional 3 Health.
+Swarm:
+You can sense nearby Food Items.
+Adds a moderate amount of Food Items to the world.
+Food Items restore an additional 3 Health.

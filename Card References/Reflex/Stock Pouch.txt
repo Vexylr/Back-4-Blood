@@ -1,0 +1,12 @@
+Card Name: Stock Pouch
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 30% Sniper Ammo Capacity
++ 10% Damage with Sniper Rifles
+Swarm:
++ 30% Sniper Ammo Capacity
++ 10% Damage with Sniper Rifles

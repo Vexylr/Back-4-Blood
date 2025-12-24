@@ -1,0 +1,12 @@
+Card Name: Scar Tissue
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Take 1 less damage from all Ridden
++ 50% Acid Resistance
+Swarm:
+Take 1 less damage from all Ridden
++ 50% Acid Resistance

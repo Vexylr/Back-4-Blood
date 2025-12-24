@@ -1,0 +1,10 @@
+Card Name: Saferoom Recovery
+Category: Fortune
+Type: Defense
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+Your team recovers 15 Health, 7 Trauma Damage and refills 10% Ammo at the start of each level.
+Swarm:
+This card is not available in Swarm mode.

@@ -1,0 +1,10 @@
+Card Name: In the Zone
+Category: Discipline
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Precision Kills grant 5% Reload Speed for 5 seconds (stacking up to 10 times).
+Swarm:
+Precision Kills grant 5% Reload Speed for 5 seconds (stacking up to 10 times).

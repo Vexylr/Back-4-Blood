@@ -1,0 +1,11 @@
+Card Name: Knowledge is Power
+Category: Discipline
+Type: Utility
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
++ 10% Weakspot Damage
+Allows players to see values for damage they deal and enemy health bars.
+Swarm:
+This card is not available in Swarm mode.

@@ -1,0 +1,18 @@
+Card Name: Slugger
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 5% Health
++ 10% Melee Stamina Efficiency
++ 20% Melee Attack Speed
++ 10% Bow Stamina Efficiency
++ 20% Bow Attack Speed
+Swarm:
++ 5% Health
++ 10% Melee Stamina Efficiency
++ 20% Melee Attack Speed
++ 10% Bow Stamina Efficiency
++ 20% Bow Attack Speed

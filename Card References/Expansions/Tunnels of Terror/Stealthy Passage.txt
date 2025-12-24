@@ -1,0 +1,14 @@
+Card Name: Stealthy Passage
+Category: Reflex (Expansion - Tunnels of Terror)
+Type: Talent
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Allows disarming of door alarms, car alarms, and birds.
+The target will trigger if you are interrupted.
+DISABLES: Quick Slot
+Team EffectTEAM EFFECTS
+Gain 25 Copper per success.
+Swarm:
+This card is not available in Swarm mode.

@@ -1,0 +1,7 @@
+Card Name: Team Stamina
+Category: Reflex
+Affinity: Reflex
+
+Description:
++10% Team Stamina
+

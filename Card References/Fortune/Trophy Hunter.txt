@@ -1,0 +1,7 @@
+Card Name: Trophy Hunter
+Category: Fortune
+Affinity: Fortune
+
+Description:
+When you kill a Mutation, gain 10 Copper (up to 300 per level); This card applies to you and your teammates
+

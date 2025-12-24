@@ -1,0 +1,10 @@
+Card Name: Field Surgeon
+Category: Discipline
+Type: Defense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+When you use a Medical Accessory, it also heals 3 Trauma to the target.
+Swarm:
+This card is not available in Swarm mode.

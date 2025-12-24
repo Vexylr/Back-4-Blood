@@ -1,0 +1,10 @@
+Card Name: Miraculous Recovery
+Category: Reflex
+Type: Defense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+When you use a Medical Accessory, it has a 25% chance to have 100% increased effect.
+Swarm:
+This card is not available in Swarm mode.

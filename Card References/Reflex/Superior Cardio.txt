@@ -1,0 +1,13 @@
+Card Name: Superior Cardio
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 20% Stamina
++ 20% Sprint Efficiency
++ 5 Health
+Swarm:
++ 50% Sprint Efficiency
++ 5 Health

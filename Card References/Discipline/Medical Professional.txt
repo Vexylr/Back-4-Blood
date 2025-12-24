@@ -1,0 +1,10 @@
+Card Name: Medical Professional
+Category: Discipline
+Type: Defense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Defibrillators and First Aid heal 10 additional Trauma Damage and 1 Extra Life, if able.
+Swarm:
+This card is not available in Swarm mode.

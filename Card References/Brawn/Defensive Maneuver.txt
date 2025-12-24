@@ -1,0 +1,10 @@
+Card Name: Defensive Maneuver
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+When you take a hit for 15 or more damage, gain 25% Damage Resistance for 3 seconds.
+Swarm:
+When you take a hit for 15 or more damage, gain 25% Damage Resistance for 3 seconds.

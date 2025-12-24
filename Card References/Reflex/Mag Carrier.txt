@@ -1,0 +1,12 @@
+Card Name: Mag Carrier
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 30% Pistol/SMG Ammo Capacity.
++ 10% Damage with Pistols and SMGs.
+Swarm:
++ 30% Pistol/SMG Ammo Capacity.
++ 10% Damage with Pistols and SMGs.

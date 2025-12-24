@@ -1,0 +1,13 @@
+Card Name: Empowered Assault
+Category: Brawn (Expansion - River of Blood)
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+After you kill a Mutation, the next time you damage a Mutation is guaranteed to cause them to Stumble.
+
+Team EffectTEAM EFFECTS
++ 5% Team Stumble Damage
+Swarm:
+This card is not available in Swarm mode.

@@ -1,0 +1,10 @@
+Card Name: Lucky Pennies
+Category: Fortune
+Type: Utility
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+Whenever you or your team loots Copper, you have a 35% chance to find 100% additional Copper.
+Swarm:
+This card is not available in Swarm mode.

@@ -1,0 +1,12 @@
+Card Name: Combat Training
+Category: Discipline
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
++ 5% Bullet Damage
++ 1.5 Bullet Stumble Damage
++ 7.5 Melee Stumble Damage
+Swarm:
+This card is not available in Swarm mode.

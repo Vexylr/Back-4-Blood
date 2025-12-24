@@ -1,0 +1,14 @@
+Card Name: Tunnel Vision
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Every 0.75 seconds you Aim Down Sights gives 5% Weakspot Damage (up to 3 stacks).
++ 50% Aim Speed
+- 5% Damage Resistance
+Swarm:
+Every 0.75 seconds you Aim Down Sights gives 5% Weakspot Damage (up to 3 stacks).
++ 50% Aim Speed
+- 5% Damage Resistance

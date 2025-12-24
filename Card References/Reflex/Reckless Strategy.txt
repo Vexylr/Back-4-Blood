@@ -1,0 +1,11 @@
+Card Name: Reckless Strategy
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 30% Weakspot Damage
+- 5% Damage Resistance
+Swarm:
+This card is not available in Swarm mode.

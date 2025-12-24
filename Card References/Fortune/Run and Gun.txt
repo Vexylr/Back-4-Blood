@@ -1,0 +1,10 @@
+Card Name: Run and Gun
+Category: Fortune
+Type: Mobility
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+You can shoot while sprinting.
+Swarm:
+This card is not available in Swarm mode.

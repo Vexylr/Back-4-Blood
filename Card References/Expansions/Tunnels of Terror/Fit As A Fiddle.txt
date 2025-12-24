@@ -1,0 +1,12 @@
+Card Name: Fit As A Fiddle
+Category: Brawn (Expansion - Tunnels of Terror)
+Type: Stat
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Team EffectTEAM EFFECTS
+20% Team Bolstered Health
++ 5 Team Health
+Swarm:
+This card is not available in Swarm mode.

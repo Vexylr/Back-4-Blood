@@ -1,0 +1,10 @@
+Card Name: Ridden Slayer
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 20% Weakspot Damage
+Swarm:
++ 35% Weakspot Damage

@@ -1,0 +1,12 @@
+Card Name: Two is One and One is None
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+You can equip a Primary weapon in your Secondary slot.
+- 25% Swap Speed
+Swarm:
+You can equip a Primary weapon in your Secondary slot.
+- 25% Swap Speed

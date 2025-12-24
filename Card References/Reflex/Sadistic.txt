@@ -1,0 +1,10 @@
+Card Name: Sadistic
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Each Precision Kill gives 5% increased Weakspot Damage for 10 Seconds.
+Swarm:
+Each Precision Kill gives 5% increased Weakspot Damage for 10 Seconds.

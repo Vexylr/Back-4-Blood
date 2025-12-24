@@ -1,0 +1,11 @@
+Card Name: Out With A Bang
+Category: Brawn (Expansion - Children of the Worm)
+Type: Talent
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Team EffectTEAM EFFECTS
+When a teammate is incapacitated or dies, they drop an active Pipe Bomb.
+Swarm:
+This card is not available in Swarm mode.

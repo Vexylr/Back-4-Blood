@@ -1,0 +1,11 @@
+Card Name: Sadist
+Category: Brawn (Expansion - Tunnels of Terror)
+Type: Talent
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+When a teammate within 15 meters receives 5 or more damage, gain 20% of the damage as Temporary Health.
+Can only trigger once per second.
+Swarm:
+This card is not available in Swarm mode.

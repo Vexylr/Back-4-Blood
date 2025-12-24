@@ -1,0 +1,10 @@
+Card Name: Double Grenade Pouch
+Category: Fortune
+Type: Offense
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
++ 2 Offensive Inventory
+Swarm:
++ 2 Offensive Inventory

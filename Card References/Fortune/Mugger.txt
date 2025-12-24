@@ -1,0 +1,10 @@
+Card Name: Mugger
+Category: Fortune
+Type: Utility
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+Kills with Melee weapons have a 5% chance to spawn ammo, Razor Wire or a Bear Trap.
+Swarm:
+Kills with Melee weapons have a 5% chance to spawn ammo, Razor Wire or a Bear Trap.

@@ -1,0 +1,10 @@
+Card Name: Meatgrinder
+Category: Discipline
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Gain 30% Move Speed and Accuracy while crouched and using an LMG.
+Swarm:
+Gain 30% Move Speed and Accuracy while crouched and using an LMG.

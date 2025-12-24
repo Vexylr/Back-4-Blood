@@ -1,0 +1,10 @@
+Card Name: Power Swap
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Changing weapons within 1 second of reaching low ammo grants + 20% Bullet and Melee Damage for 5 seconds.
+Swarm:
+Changing weapons within 1 second of reaching low ammo grants + 20% Bullet and Melee Damage for 5 seconds.

@@ -1,0 +1,13 @@
+Card Name: Weaponsmith
+Category: Discipline (Expansion - Tunnels of Terror)
+Type: Ability
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Allows the ability to unbolt attachments from weapons outside of Saferooms. Unbolting attachments costs 400 Copper.
+
+Team EffectTEAM EFFECTS
+Additional copies of Weaponsmith played reduce its cost by 100 Copper.
+Swarm:
+This card is not available in Swarm mode.

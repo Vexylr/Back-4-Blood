@@ -1,0 +1,11 @@
+Card Name: Quick Kill
+Category: Discipline
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
++ 50% Accuracy
+DISABLES: Aim Down Sights
+Swarm:
+This card is not available in Swarm mode.

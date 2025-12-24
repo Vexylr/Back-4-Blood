@@ -1,0 +1,7 @@
+Card Name: Offensive Scavenger
+Category: Reflex
+Affinity: Reflex
+
+Description:
+You can sense nearby Offensive Accessories; More Offensive Accessories spawn
+

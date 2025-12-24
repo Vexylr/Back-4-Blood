@@ -1,0 +1,12 @@
+Card Name: Mandatory PT
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Team EffectTEAM EFFECTS:
++ 10% Team Stamina
++ 10% Team Stamina Regen
+Swarm:
+This card is not available in Swarm mode.

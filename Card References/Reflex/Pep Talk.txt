@@ -1,0 +1,12 @@
+Card Name: Pep Talk
+Category: Reflex
+Type: Utility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+While Reviving teammates, take 3 less damage from all Ridden.
+Teammates recover an additional 10 Health when you revive them.
+Swarm:
+While Reviving teammates, take 3 less damage from all Ridden.
+Teammates recover an additional 10 Health when you revive them.

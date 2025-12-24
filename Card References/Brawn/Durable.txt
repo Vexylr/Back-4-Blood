@@ -1,0 +1,13 @@
+Card Name: Durable
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
++ 15% Trauma Resistance
++ 10 Health
++ 20% Fire Resistance
+Swarm:
++ 50% Trauma Resistance
++ 5 Health

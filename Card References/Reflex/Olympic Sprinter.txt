@@ -1,0 +1,12 @@
+Card Name: Olympic Sprinter
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 30% Sprint Efficiency
+- 7% Damage Resistance
+Swarm:
++ 30% Sprint Efficiency
+- 7% Damage Resistance

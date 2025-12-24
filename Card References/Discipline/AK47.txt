@@ -1,0 +1,7 @@
+Card Name: AK47
+Category: Discipline
+Affinity: Discipline
+
+Description:
+Grants you an AK47 starter weapon
+

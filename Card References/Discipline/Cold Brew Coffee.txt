@@ -1,0 +1,16 @@
+Card Name: Cold Brew Coffee
+Category: Discipline
+Type: Mobility
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
++ 15% Reload Speed
++ 25% Aim Speed
++ 25% Weapon Swap Speed
++ 25% Use Speed
+Swarm:
++ 15% Reload Speed
++ 25% Aim Speed
++ 25% Weapon Swap Speed
++ 25% Use Speed

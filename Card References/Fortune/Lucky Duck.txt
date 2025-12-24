@@ -1,0 +1,7 @@
+Card Name: Lucky Duck
+Category: Fortune
+Affinity: Fortune
+
+Description:
+Whenever your team loots Copper, you have a 35% chance to find 35% additional Copper
+

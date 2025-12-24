@@ -1,0 +1,14 @@
+Card Name: Pyro
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
++ 100% Fire Damage.
+Gain 3 Temporary Health for each kill with fire.
+You can sense flammable objects nearby.
+Swarm:
++ 100% Fire Damage.
+Gain 3 Temporary Health for each kill with fire.
+You can sense flammable objects nearby.

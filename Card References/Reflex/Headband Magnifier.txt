@@ -1,0 +1,12 @@
+Card Name: Headband Magnifier
+Category: Reflex
+Type: Utility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 125% Use Speed
+When you take damage, you have a chance to be blinded for 1 second.
+Swarm:
++ 125% Use Speed
+When you take damage, you have a chance to be blinded for 1 second.

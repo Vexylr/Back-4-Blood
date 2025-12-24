@@ -1,0 +1,10 @@
+Card Name: Utility Belt
+Category: Fortune
+Type: Utility
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
++ 2 Quick Slot Inventory
+Swarm:
++ 2 Quick Slot Inventory

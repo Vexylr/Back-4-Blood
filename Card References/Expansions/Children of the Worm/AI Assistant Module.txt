@@ -1,0 +1,13 @@
+Card Name: AI Assistant Module
+Category: Fortune (Expansion - Children of the Worm)
+Type: Ability
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+5% Item Reuse chance that increases by 10% after every item used. Resets on Reuse.
+
+Gadget Cost: 20 Icon Ammo Sniper
+REPLACES: Quick Slot, FRAGILE
+Swarm:
+This card is not available in Swarm mode.

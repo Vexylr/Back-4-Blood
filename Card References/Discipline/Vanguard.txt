@@ -1,0 +1,10 @@
+Card Name: Vanguard
+Category: Discipline
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Melee kills heal 1 Health to yourself, and teammates within 10 meters.
+Swarm:
+Melee kills heal 1 Health to yourself, and teammates within 10 meters.

@@ -1,0 +1,10 @@
+Card Name: Buckshot Bruiser
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+When using Shotguns, gain 0.25 Temporary Health for each pellet that hits.
+Swarm:
+When using Shotguns, gain 0.25 Temporary Health for each pellet that hits.

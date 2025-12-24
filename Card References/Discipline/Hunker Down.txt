@@ -1,0 +1,10 @@
+Card Name: Hunker Down
+Category: Discipline
+Type: Defense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+While crouching, gain 10% Damage Resistance and 40% Accuracy.
+Swarm:
+While crouching, gain 10% Damage Resistance and 40% Accuracy.

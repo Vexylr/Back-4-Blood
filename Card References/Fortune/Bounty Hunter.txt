@@ -1,0 +1,10 @@
+Card Name: Bounty Hunter
+Category: Fortune
+Type: Utility
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+When you or your team kills a Mutation, gain 10 Copper (up to 300 per level).
+Swarm:
+This card is not available in Swarm mode.

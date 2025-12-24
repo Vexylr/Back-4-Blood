@@ -1,0 +1,10 @@
+Card Name: Marked for Death
+Category: Discipline
+Type: Utility
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Mutations you ping are highlighted and your team deals 10% increased damage to highlighted enemies.
+Swarm:
+Mutations you ping are highlighted and your team deals 10% increased damage to highlighted enemies.

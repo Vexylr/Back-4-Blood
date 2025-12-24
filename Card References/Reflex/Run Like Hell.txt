@@ -1,0 +1,14 @@
+Card Name: Run Like Hell
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 12% Move Speed
++ 15% Sprint Speed
+When you take damage, you lose the benefits of Run like Hell for 3 seconds.
+Swarm:
++ 12% Move Speed
++ 15% Sprint Speed
+When you take damage, you lose the benefits of Run like Hell for 3 seconds.

@@ -1,0 +1,14 @@
+Card Name: Cleansing Fire
+Category: Brawn (Expansion - River of Blood)
+Type: Utility
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Gain a stacking + 5% Damage Resistance every second you're on fire, for a maximum 5 stacks lasting for 15 seconds.
+
+Fire removes most negative status effects.
+
++ 40% Fire Resistance
+Swarm:
+This card is not available in Swarm mode.

@@ -1,0 +1,11 @@
+Card Name: Wooden Armor
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
++ 30% Trauma Resistance
+- 100% Fire Resistance
+Swarm:
+This card is not available in Swarm mode.

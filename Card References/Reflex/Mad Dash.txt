@@ -1,0 +1,12 @@
+Card Name: Mad Dash
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 20% Sprint Speed
+- 40% Sprint Stamina Efficiency
+Swarm:
++ 20% Sprint Speed
+- 40% Sprint Stamina Efficiency

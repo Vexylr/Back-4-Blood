@@ -1,0 +1,12 @@
+Card Name: Combat Medic
+Category: Reflex
+Type: Defense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 50% Use Speed
+Teammates recover an additional 20 Health when you revive them.
+Swarm:
++ 50% Use Speed
+Teammates recover an additional 20 Health when you revive them.

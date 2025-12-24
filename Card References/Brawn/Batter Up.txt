@@ -1,0 +1,7 @@
+Card Name: Batter Up
+Category: Brawn
+Affinity: Brawn
+
+Description:
++25% Melee Damage, +25% Melee Cleave Power
+

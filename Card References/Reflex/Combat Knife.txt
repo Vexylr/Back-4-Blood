@@ -1,0 +1,7 @@
+Card Name: Combat Knife
+Category: Reflex
+Affinity: Reflex
+
+Description:
+Turns your Bash into a Knife that counts as a melee weapon
+

@@ -1,0 +1,10 @@
+Card Name: Over-Protective
+Category: Discipline (Expansion - Tunnels of Terror)
+Type: Talent
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+When a teammte within 15 meters receives 5 or more damage, gain 20% increased Damage for 5 seconds.
+Swarm:
+This card is not available in Swarm mode.

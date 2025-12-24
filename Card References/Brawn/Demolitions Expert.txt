@@ -1,0 +1,11 @@
+Card Name: Demolitions Expert
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
++ 50% Accessory Damage
+- 15% Ammo Capacity
+Swarm:
+This card is not available in Swarm mode.

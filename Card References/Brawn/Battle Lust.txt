@@ -1,0 +1,10 @@
+Card Name: Battle Lust
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Melee kills heal 1 Health and 0.125 Trauma.
+Swarm:
+Melee kills heal 1 Health and 0.125 Trauma.

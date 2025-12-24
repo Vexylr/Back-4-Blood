@@ -1,0 +1,10 @@
+Card Name: Grenade Training
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
++ 25% Accessory Damage
+Swarm:
+This card is not available in Swarm mode.

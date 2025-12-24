@@ -1,0 +1,14 @@
+Card Name: Padded Suit
+Category: Discipline
+Type: Defense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
++ 10% Damage Resistance
++ 5 Health
+- 20% Stamina Efficiency
+Swarm:
++ 10% Damage Resistance
++ 5 Health
+- 20% Stamina Efficiency

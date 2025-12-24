@@ -1,0 +1,11 @@
+Card Name: Copper Scavenger
+Category: Fortune
+Type: Utility
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+You can sense nearby Copper.
+More Copper Piles spawn.
+Swarm:
+This card is not available in Swarm mode.

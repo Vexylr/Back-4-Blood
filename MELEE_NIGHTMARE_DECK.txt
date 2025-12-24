@@ -1,0 +1,230 @@
+BACK 4 BLOOD - MELEE NIGHTMARE MULTIPLAYER DECK
+================================================
+
+This deck is optimized for melee gameplay on Nightmare difficulty in multiplayer.
+Focus: High damage, trauma resistance, sustain, and team support.
+
+DECK COMPOSITION (15 cards, in recommended order):
+--------------------------------------------------
+NOTE: All cards are active from the start of the level. Order matters for 
+deck organization and understanding card priorities, but all effects are 
+active immediately.
+
+CORE FOUNDATION (Critical Cards):
+
+1. METH HEAD (Reflex - Offense)
+   - Each Melee swing grants 5% Melee Speed and 5% Melee Stamina Efficiency (stacks up to 10x)
+   - Melee Attacks no longer stick in tough enemies
+   - CRITICAL: Foundation card - gives massive stamina efficiency and speed from first swing
+   - DISABLES: Aim Down Sights (not needed for melee)
+
+2. BATTLE LUST (Brawn - Defense)
+   - Melee kills heal 1 Health and 0.125 Trauma
+   - Essential sustain for Nightmare difficulty
+   - Provides both health and trauma healing from melee kills
+   - Active from your very first kill
+
+3. DOWN IN FRONT! (Discipline - Defense)
+   - While crouching you neither take nor deal Friendly Fire damage
+   - +10 Health
+   - ESSENTIAL for multiplayer - prevents friendly fire when crouched
+   - Critical for melee builds that fight in close quarters with teammates
+   - Active immediately - just crouch to activate
+
+4. VANGUARD (Discipline - Offense)
+   - Melee kills heal 1 Health to yourself AND teammates within 10 meters
+   - Multiplayer team support - keep your team healthy while you melee
+   - Works immediately from start
+
+DAMAGE MULTIPLIERS (All Active Simultaneously):
+
+5. MEAN DRUNK (Brawn - Offense)
+   - +40% Melee Damage
+   - Melee Attacks cause cleave through enemies (hits multiple targets)
+   - Massive damage boost and AOE capability - active from first swing
+
+6. BERSERKER (Brawn - Offense)
+   - Each Melee kill grants 5% Melee Damage, 5% Melee Speed, 5% Move Speed for 4 seconds
+   - Stacking buffs that make you stronger as you kill
+   - Synergizes with Meth Head - stacks start building immediately
+
+7. IGNORE THE PAIN (Brawn - Defense)
+   - +20% Melee Damage against Mutations (active immediately)
+   - When you deal Melee damage to a Mutation: heal 2 Health and 3 Stamina
+   - Great for taking down specials and sustaining during mutation fights
+
+8. SPIKY BITS (Brawn - Offense)
+   - +15 Melee Damage (flat damage boost, active immediately)
+   - +20% Damage Resistance while using a Melee Weapon (active immediately)
+   - Flat damage is powerful, plus defensive bonus
+   - -15% Ammo Capacity (negligible for melee build)
+
+9. BODY ARMOR (Brawn - Defense)
+   - +20% Trauma Resistance (active from level start)
+   - Essential for Nightmare - trauma is one of the biggest threats
+   - Stacks with other trauma resistance
+
+10. DURABLE (Brawn - Defense)
+    - +15% Trauma Resistance (active immediately)
+    - +10 Health (active immediately)
+    - +20% Fire Resistance (active immediately)
+    - Combined with Body Armor = 35% trauma resistance total
+
+11. FRESH BANDAGE (Brawn - Defense)
+    - At the start of each level: recover 15 Trauma Damage, restore missing Health
+    - Passive healing between levels on Nightmare is crucial
+    - Triggers automatically at each level start
+
+12. SCAR TISSUE (Brawn - Defense)
+    - Take 1 less damage from all Ridden (active immediately)
+    - +50% Acid Resistance (active immediately)
+    - Flat damage reduction is powerful, plus acid resist for blighted ridden
+
+13. SUNDER (Brawn - Offense)
+    - Melee hits cause targets to take 3% increased damage (max 15%, stacks per hit)
+    - Melee hits that destroy Armor can create Makeshift Armor
+    - Debuff enemies and get armor - great for mutations
+
+14. BRAZEN (Reflex - Offense)
+    - +15% Melee Stamina Efficiency (active immediately)
+    - +20% Melee Attack Speed (active immediately)
+    - Permanent bonuses that stack with Meth Head and Berserker
+
+15. SLUGGER (Reflex - Offense)
+    - +5% Health (active immediately)
+    - +10% Melee Stamina Efficiency (active immediately)
+    - +20% Melee Attack Speed (active immediately)
+    - All bonuses are permanent and stack with other cards
+
+TOTAL + BUFFS SUMMARY:
+----------------------
+
+PERMANENT BUFFS (Always Active):
+- Health: +20 Health (Down in Front! +10, Durable +10) + 5% Health (Slugger)
+- Melee Damage: +40% (Mean Drunk) + 20% vs Mutations (Ignore the Pain) + 15 Flat Damage (Spiky Bits)
+- Melee Attack Speed: +40% (Brazen +20%, Slugger +20%) + up to +50% (Meth Head max stacks) + up to +50% (Berserker stacks)
+- Melee Stamina Efficiency: +25% (Brazen +15%, Slugger +10%) + up to +50% (Meth Head max stacks)
+- Trauma Resistance: +35% (Body Armor +20%, Durable +15%)
+- Damage Resistance: +20% while using Melee Weapon (Spiky Bits)
+- Fire Resistance: +20% (Durable)
+- Acid Resistance: +50% (Scar Tissue)
+- Damage Reduction: -1 flat damage from all Ridden (Scar Tissue)
+- Move Speed: Up to +50% (Berserker stacks)
+
+STACKING BUFFS (Build During Combat):
+- Meth Head: Up to +50% Melee Speed and +50% Melee Stamina Efficiency (10 stacks)
+- Berserker: Up to significant bonuses per kill (+5% Melee Damage, +5% Melee Speed, +5% Move Speed for 4 sec each kill)
+- Sunder: Up to +15% increased damage taken by enemies (debuff, stacks per hit)
+
+MAXIMUM POTENTIAL (All Stacks Active):
+- Melee Damage: +40% base + 20% vs Mutations + 15 flat + Berserker stacks
+- Melee Attack Speed: +40% base + up to +100% from stacks (Meth Head + Berserker)
+- Melee Stamina Efficiency: +25% base + up to +50% from Meth Head stacks = up to +75% total
+- Move Speed: Up to +50% from Berserker stacks
+
+SPECIAL EFFECTS:
+- Cleave through enemies (Mean Drunk)
+- Melee attacks don't stick in tough enemies (Meth Head)
+- Friendly fire protection when crouched (Down in Front!)
+- Heal 1 Health + 0.125 Trauma per melee kill (Battle Lust)
+- Heal 1 Health to self + teammates within 10m per melee kill (Vanguard)
+- Heal 2 Health + 3 Stamina when dealing melee damage to mutations (Ignore the Pain)
+- Recover 15 Trauma + restore missing Health at level start (Fresh Bandage)
+- Melee hits that destroy armor can create Makeshift Armor (Sunder)
+- -15% Ammo Capacity (Spiky Bits - negligible for melee build)
+
+ALTERNATIVE/SUBSTITUTION OPTIONS:
+---------------------------------
+
+NOTE: Down in Front! is HIGHLY RECOMMENDED to keep for all multiplayer builds.
+
+- If you want MORE damage: Replace SLUGGER with BATTER UP (+25% Melee Damage, +25% Cleave)
+- If you want MORE sustain: Replace SUNDER with FACE YOUR FEARS (Temp health from nearby kills)
+- If you want MORE team support: Replace BRAZEN with HEAVY HITTER (Stumble on first melee hit)
+- If you want MORE trauma resist: Replace SLUGGER with WOODEN ARMOR (+30% Trauma, -100% Fire Resist)
+
+EXPANSION CARDS (if available):
+--------------------------------
+
+- POWER STRIKE (Tunnels of Terror): Every 3 seconds gain +10 Bash Damage (stacks 10x)
+  - Good for bash/knife builds
+- PUMPED UP (Tunnels of Terror): Temp health decays 20% slower, +5% Health
+  - Good for sustain
+
+DECK STRATEGY:
+--------------
+All cards are active from the start, so you benefit from everything immediately.
+
+IMMEDIATE EFFECTS (Active from Level Start):
+- All damage bonuses stack: Mean Drunk (+40%), Spiky Bits (+15 flat), Ignore the Pain (+20% vs mutations)
+- All trauma resistance stacks: Body Armor (+20%), Durable (+15%) = 35% total
+- All stamina efficiency stacks: Meth Head (up to +50%), Brazen (+15%), Slugger (+10%)
+- All attack speed stacks: Meth Head (up to +50%), Berserker (up to +50%), Brazen (+20%), Slugger (+20%)
+- Fresh Bandage triggers at start of each level (trauma and health recovery)
+- Scar Tissue provides flat -1 damage reduction from all sources
+
+STACKING MECHANICS (Build as You Fight):
+- Meth Head: Stacks on each swing (up to 10 stacks = +50% speed/efficiency)
+- Berserker: Stacks on each kill (up to significant bonuses, 4 sec duration)
+- Sunder: Stacks on each melee hit (up to 15% increased damage taken by enemies)
+- Soften Up: Stacks on each melee hit (up to 15% reduced damage dealt by enemies)
+
+CARD GROUPINGS (How They Work Together):
+- Multiplayer Safety: Down in Front! + Vanguard
+  → Prevents friendly fire and provides team healing
+- Sustain Group: Battle Lust + Vanguard + Ignore the Pain + Fresh Bandage
+  → Multiple healing sources keep you and team alive
+- Damage Group: Mean Drunk + Berserker + Spiky Bits + Ignore the Pain + Sunder
+  → Massive damage output from multiple sources
+- Defense Group: Body Armor + Durable + Scar Tissue + Spiky Bits + Down in Front!
+  → Trauma resistance, damage reduction, and friendly fire protection
+- Speed Group: Meth Head + Berserker + Brazen + Slugger
+  → Incredible attack speed and stamina efficiency
+
+PLAYSTYLE:
+----------
+
+Frontline melee tank that clears common ridden for the team. Crouch when near teammates (Down in Front!) to prevent friendly fire. Prioritize common ridden to stack Berserker buffs and maintain sustain. Your cleave damage from Mean Drunk handles hordes efficiently. Meth Head stacks build quickly (10 swings = max), and Berserker makes you stronger with each kill. Vanguard heals teammates when you kill, making you valuable team support. Stay aggressive - all bonuses are active from level start, and your trauma resistance + healing handles sustain well.
+
+NIGHTMARE CONSIDERATIONS:
+-------------------------
+
+- Trauma is the biggest threat - this deck has 35% trauma resistance (Body Armor + Durable)
+  → Combined with Fresh Bandage healing 15 trauma each level start
+- All trauma resistance is active from level start - no need to wait
+- Battle Lust provides trauma healing during combat (0.125 trauma per kill)
+- High damage output from the start helps kill enemies before they deal damage
+- Team healing via Vanguard keeps everyone alive (active from first kill)
+- Flat damage reduction from Scar Tissue (-1 per hit) is crucial on Nightmare
+- All defensive bonuses stack immediately - you're tanky from the first engagement
+
+EQUIPMENT PRIORITY:
+-------------------
+
+1. Best melee weapon (Axe, Machete, or Bat)
+2. Secondary weapon for ranged threats (any SMG/Pistol)
+3. Medical accessories (use when needed, but you have good sustain)
+4. Tool kits (for team utility)
+
+WEAKNESSES:
+-----------
+
+- Limited range capability (melee only)
+- Vulnerable to special mutations if caught alone
+- Requires good positioning and map knowledge
+- Needs team coordination (someone needs to handle snipers/long range)
+
+STRENGTHS:
+----------
+
+- Friendly fire protection via Down in Front! (essential for multiplayer)
+- Incredible damage output from the start (all damage cards active immediately)
+- Excellent sustain (health and trauma healing from multiple sources)
+- Team support via Vanguard (active from first kill) and Down in Front! (prevents FF)
+- High survivability with trauma resistance (35% + Fresh Bandage)
+- Cleave damage handles hordes well (Mean Drunk active immediately)
+- Scales even better as you kill enemies (Berserker stacks)
+- All bonuses active from level start - no waiting for cards to "come online"
+- Stacking mechanics make you stronger as you fight (Meth Head, Berserker, Sunder)
+- Can safely fight in front of teammates without taking or dealing friendly fire (when crouched)
+

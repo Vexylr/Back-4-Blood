@@ -1,0 +1,12 @@
+Card Name: Antibiotic Ointment
+Category: Discipline
+Type: Defense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
++ 25% Healing Efficiency
+When you use a Medical Accessory, the target gains 20 Temporary Health.
+Swarm:
++ 25% Healing Efficiency
+When you use a Medical Accessory, the target gains 20 Temporary Health.

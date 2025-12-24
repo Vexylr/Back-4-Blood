@@ -1,0 +1,12 @@
+Card Name: Fanny Pack
+Category: Fortune
+Type: Defense
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
++ 1 Support Inventory
++ 15% Trauma Resistance
+Swarm:
++ 1 Support Inventory
++ 15% Trauma Resistance

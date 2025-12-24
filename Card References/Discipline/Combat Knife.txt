@@ -1,0 +1,10 @@
+Card Name: Combat Knife
+Category: Discipline
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Turns your Bash into a Knife that counts as a melee weapon.
+Swarm:
+Turns your Bash into a Knife that counts as a melee weapon.

@@ -1,0 +1,10 @@
+Card Name: Pinata
+Category: Fortune (Expansion - Tunnels of Terror)
+Type: Talent
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
+Killing Ridden with an Accessory has a 10% chance to drop an Accessory.
+Swarm:
+This card is not available in Swarm mode.

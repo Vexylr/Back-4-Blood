@@ -1,0 +1,7 @@
+Card Name: Resourceful
+Category: Fortune
+Affinity: Fortune
+
+Description:
+Your secondary weapons have unlimited ammo
+

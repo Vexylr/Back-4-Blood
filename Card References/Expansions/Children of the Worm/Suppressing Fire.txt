@@ -1,0 +1,10 @@
+Card Name: Suppressing Fire
+Category: Reflex (Expansion - Children of the Worm)
+Type: Talent
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Damaging Ridden with LMGs and Snipers has a 40% chance to slow Ridden near the target by 50% for 5 seconds.
+Swarm:
+This card is not available in Swarm mode.

@@ -1,0 +1,12 @@
+Card Name: Well Fed
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Team EffectTEAM EFFECTS
+10 Team Health
+Swarm:
+Team EffectTEAM EFFECTS
+10 Team Health

@@ -1,0 +1,14 @@
+Card Name: Hazmat Specialist
+Category: Discipline (Expansion - River of Blood)
+Type: Utility
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
++ 35% Acid Resistance
+Your Bait Jars do direct damage to targets and can hit Weakspots.
+
+Team EffectTEAM EFFECTS
+Killing Mutations that are covered with Bait has a 75% chance to create another Bait Jar.
+Swarm:
+This card is not available in Swarm mode.

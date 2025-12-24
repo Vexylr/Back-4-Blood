@@ -1,0 +1,7 @@
+Card Name: Overheal
+Category: Fortune
+Affinity: Fortune
+
+Description:
+Healing that exceeds your maximum Health will grant Temporary Health
+

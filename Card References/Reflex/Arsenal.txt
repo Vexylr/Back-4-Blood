@@ -1,0 +1,7 @@
+Card Name: Arsenal
+Category: Reflex
+Affinity: Reflex
+
+Description:
+You can equip a Primary weapon in your Secondary slot
+

@@ -1,0 +1,12 @@
+Card Name: Large Caliber Rounds
+Category: Discipline
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
++ 7.5% Bullet Damage
++ 200% Bullet Penetration
+Swarm:
++ 7.5% Bullet Damage
++ 200% Bullet Penetration

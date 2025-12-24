@@ -1,0 +1,10 @@
+Card Name: Confident Killer
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+When you or your team kills a Mutation gain 1% damage (up to 15%) until the end of the level.
+Swarm:
+When you or your team kills a Mutation gain 1% damage (up to 15%) until the end of the level.

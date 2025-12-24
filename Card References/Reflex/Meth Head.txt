@@ -1,0 +1,14 @@
+Card Name: Meth Head
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Each Melee swing grants 5% Melee Speed and 5% Melee Stamina Efficiency for 6 seconds, stacking up to 10 times.
+Your Melee Attacks no longer stick in tough enemies.
+DISABLES: Aim Down Sights
+Swarm:
+Each Melee swing grants 5% Melee Speed and 5% Melee Stamina Efficiency for 6 seconds, stacking up to 10 times.
+Your Melee Attacks no longer stick in tough enemies.
+DISABLES: Aim Down Sights

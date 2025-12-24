@@ -1,0 +1,11 @@
+Card Name: Canned Goods
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
++ 45 Health
+- 25% Stamina
+Swarm:
+This card is not available in Swarm mode.

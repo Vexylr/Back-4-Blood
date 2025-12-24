@@ -1,0 +1,12 @@
+Card Name: Inspiring Sacrifice
+Category: Discipline
+Type: Offense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Team EffectTEAM EFFECTS:
+When you or a teammate becomes incapacitated, all teammates recover 20 health over 10 seconds.
+Swarm:
+Team EffectTEAM EFFECTS:
+When you or a teammate becomes incapacitated, all teammates recover for 20 health over 15 seconds

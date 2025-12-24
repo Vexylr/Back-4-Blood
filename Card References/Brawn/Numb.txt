@@ -1,0 +1,10 @@
+Card Name: Numb
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Gain + 10% Damage Resistance while you have Temporary Health.
+Swarm:
+Gain + 10% Damage Resistance while you have Temporary Health.

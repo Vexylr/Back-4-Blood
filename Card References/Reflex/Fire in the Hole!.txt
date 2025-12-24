@@ -1,0 +1,10 @@
+Card Name: Fire in the Hole!
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+When you throw an Offensive Accessory, gain 20 Temporary Health and 25% Sprint Speed for 5 seconds.
+Swarm:
+When you throw an Offensive Accessory, gain 20 Temporary Health and 25% Sprint Speed for 5 seconds.

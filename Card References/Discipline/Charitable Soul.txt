@@ -1,0 +1,10 @@
+Card Name: Charitable Soul
+Category: Discipline
+Type: Defense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Healing a teammate also applies 50% of the effect to you.
+Swarm:
+Healing a teammate also applies 50% of the effect to you.

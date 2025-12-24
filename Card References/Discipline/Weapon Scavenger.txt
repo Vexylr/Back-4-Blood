@@ -1,0 +1,11 @@
+Card Name: Weapon Scavenger
+Category: Discipline
+Type: Utility
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+You can sense nearby Weapons.
+More weapons spawn.
+Swarm:
+This card is not available in Swarm mode.

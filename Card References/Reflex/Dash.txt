@@ -1,0 +1,12 @@
+Card Name: Dash
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
++ 5% Move Speed
++ 5% Sprint Speed
+Swarm:
++ 5% Move Speed
++ 5% Sprint Speed

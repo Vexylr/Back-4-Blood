@@ -1,0 +1,10 @@
+Card Name: Shredder
+Category: Reflex
+Type: Offense
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Each bullet hit causes the target to take 1% increased damage for 3 seconds (stacks up to 15%).
+Swarm:
+Each bullet hit causes the target to take 1% increased damage for 3 seconds (stacks up to 15%).

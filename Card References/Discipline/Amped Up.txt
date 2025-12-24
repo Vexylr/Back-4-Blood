@@ -1,0 +1,11 @@
+Card Name: Amped Up
+Category: Discipline
+Type: Defense
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Team EffectTEAM EFFECTS:
+When a horde is triggered, your team recovers 20 Health.
+Swarm:
+This card is not available in Swarm mode.

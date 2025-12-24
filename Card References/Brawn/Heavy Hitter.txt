@@ -1,0 +1,11 @@
+Card Name: Heavy Hitter
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Melee hits always Stumble Ridden the first time they are hit.
+This effect can only occur once per target.
+Swarm:
+This card is not available in Swarm mode.

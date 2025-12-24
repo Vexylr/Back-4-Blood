@@ -1,0 +1,12 @@
+Card Name: Heavy Attack
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Press Right Mouse Button (PC) with Melee weapons to perform a Heavy Attack.
+
+Heavy attacks deal 100% increased damage and expend 50% more Stamina.
+Swarm:
+This card is not available in Swarm mode.

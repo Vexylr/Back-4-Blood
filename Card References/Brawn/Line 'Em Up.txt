@@ -1,0 +1,16 @@
+Card Name: Line 'Em Up
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
++ 10% Effective Bullet Range
++ 15% Recoil Control
++ 25% Bullet Penetration
++ 25% Aim Speed
+Swarm:
++ 10% Effective Bullet Range
++ 15% Recoil Control
++ 25% Bullet Penetration
++ 25% Aim Speed

@@ -1,0 +1,16 @@
+Card Name: Stimulants
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Pain Meds you apply also grant
++ 20% Stamina Regen,
++ 15% Reload Speed, and
++ 15% Weapon Swap Speed for 60 seconds.
+Swarm:
+Pain Meds you apply also grant
++ 20% Stamina Regen,
++ 15% Reload Speed, and
++ 15% Weapon Swap Speed for 60 seconds.

@@ -1,0 +1,13 @@
+Card Name: Second Chance
+Category: Brawn
+Type: Defense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
++ 1 Extra Life
++ 15 Health
++ 25% Bleed out Resistance
+Swarm:
++ 1 Extra Life
++ 10 Health

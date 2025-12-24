@@ -1,0 +1,13 @@
+Card Name: Drone Spotter
+Category: Brawn (Expansion - River of Blood)
+Type: Utility
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Begin marking nearby Mutations every 7 seconds. Gain 20% chance to negate damage while active.
+
+Gadget Cost: 20 Icon Ammo Sniper
+REPLACES: Quick Slot, FRAGILE
+Swarm:
+This card is not available in Swarm mode.

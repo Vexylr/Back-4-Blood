@@ -1,0 +1,10 @@
+Card Name: Wasteland Chef
+Category: Discipline (Expansion - River of Blood)
+Type: Utility
+Affinity: Discipline
+
+Description:
+Campaign & Trial of the Worm:
+Gain the ability to melee food items to create a Gourmet Dinner or a Mediocre Meal. Using the Combat Knife increases your odds of a Gourmet Dinner.
+Swarm:
+This card is not available in Swarm mode.

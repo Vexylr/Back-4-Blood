@@ -1,0 +1,10 @@
+Card Name: Pep in Your Step
+Category: Reflex
+Type: Mobility
+Affinity: Reflex
+
+Description:
+Campaign & Trial of the Worm:
+Precision Kills grant you 8% Move Speed for 5 seconds.
+Swarm:
+Precision Kills grant you 8% Move Speed for 5 seconds.

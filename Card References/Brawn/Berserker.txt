@@ -1,0 +1,10 @@
+Card Name: Berserker
+Category: Brawn
+Type: Offense
+Affinity: Brawn
+
+Description:
+Campaign & Trial of the Worm:
+Each Melee kill grants 5% Melee Damage, 5% Melee Speed, and 5% Move Speed for 4 seconds.
+Swarm:
+Each Melee kill grants 5% Melee Damage, 5% Melee Speed, and 5% Move Speed for 4 seconds.

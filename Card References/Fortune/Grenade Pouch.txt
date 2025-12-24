@@ -1,0 +1,14 @@
+Card Name: Grenade Pouch
+Category: Fortune
+Type: Offense
+Affinity: Fortune
+
+Description:
+Campaign & Trial of the Worm:
++ 1 Offensive Inventory
++ 25% Swap Speed
+- 5% Offensive Accessory Cost
+Swarm:
++ 1 Offensive Inventory
++ 25% Swap Speed
+- 5% Offensive Accessory Cost
