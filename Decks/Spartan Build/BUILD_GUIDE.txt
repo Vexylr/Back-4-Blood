@@ -1,0 +1,62 @@
+SPARTAN BUILD GUIDE
+
+OVERVIEW
+--------
+
+Ultimate tank and revive specialist. Your massive health pool (110+ health) and damage resistance allow you to stand in the open while reviving teammates. You're the last person standing, able to revive the entire team during horde events.
+
+HOW TO PLAY
+-----------
+
+Your role is tank. Position yourself to take aggro and protect squishier teammates. Your job is to revive teammates quickly and safely. Use Smelling Salts for lightning-fast revives (+200% speed) even under heavy fire. Pep Talk makes your revives heal teammates and reduce incoming damage (-4 total damage reduction while reviving).
+
+REVIVE FOCUS:
+
+Smelling Salts gives +200% revive speed - you can revive teammates incredibly fast even under fire. Pep Talk reduces incoming damage by 3 while reviving (combined with Scar Tissue's -1 flat = -4 total damage reduction while reviving), and teammates gain +10 health when you revive them.
+
+WITH DAN:
+
+Random effects play whenever a Cleaner is Revived (Divine Intervention), and you get +3 team damage resistance during revives (Protect the Flock). This makes Dan perfect for this build - every revive becomes more valuable.
+
+POSITIONING:
+
+Stay near teammates to use your revive bonuses effectively. Position yourself to take aggro - you have massive health and damage resistance, so let enemies attack you instead of squishier teammates. Crouch when near teammates (Down in Front!) to prevent friendly fire.
+
+WEAPONS:
+
+Use Assault Rifles or LMGs for penetration and mutation control. Your damage output is modest - focus on survival and revives, let DPS builds handle mutations. Good stumble damage helps with crowd control.
+
+SURVIVABILITY:
+
+Massive health pool (110+ health) - can take incredible punishment. +15% damage resistance (Motorcycle Jacket + Padded Suit) + flat -1 damage reduction from all Ridden (Scar Tissue). +35% trauma resistance prevents health pool degradation. Combined, you're incredibly tanky.
+
+SUSTAIN:
+
+Well Fed gives +10 team health. Pep Talk heals teammates when you revive them (+10 health each). Your role is to survive and revive, not to deal damage.
+
+STAMINA PENALTIES:
+
+Canned Goods reduces stamina by 25% and Padded Suit reduces stamina efficiency by 20%. This limits your mobility, but you don't need to move much - position yourself and let enemies come to you.
+
+WHAT TO DO:
+
+1. Position yourself to take aggro
+2. Revive teammates quickly (Smelling Salts)
+3. Use Pep Talk during revives (heals teammates and reduces damage)
+4. Stay near teammates for revive opportunities
+5. Crouch when near teammates (Down in Front!)
+6. Use your health pool to tank damage
+7. Let DPS builds handle mutations
+
+WHAT NOT TO DO:
+
+- Don't focus on damage (let DPS builds handle that)
+- Don't play aggressively (you're tanky but not invincible)
+- Don't abandon teammates (your job is to revive them)
+- Don't waste your health (trauma can still accumulate over time)
+- Don't forget to use Pep Talk during revives
+
+SUMMARY:
+
+You're the ultimate tank and revive specialist. Your massive health pool and damage resistance let you stand in the open while reviving teammates. With Dan, every revive provides random effects and team damage resistance. Your job: be the last person standing, revive the entire team during hordes, and protect squishier teammates by taking aggro.
+

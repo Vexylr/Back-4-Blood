@@ -1,0 +1,70 @@
+AXEMAN BUILD GUIDE
+
+OVERVIEW
+--------
+
+Frontline melee specialist using Fire Axe or Claws. Focused on melee damage, cleave, and team healing through kills. With Sharice, you have the best trauma resistance possible (55%). Your job is to clear common ridden, heal teammates, and provide crowd control.
+
+HOW TO PLAY
+-----------
+
+Your role is frontliner/tank. Get in front of your team, crouch when near them (Down in Front!), and clear common ridden with your melee weapon. Mean Drunk gives you cleave - your attacks hit multiple enemies in a large area. Vanguard heals teammates when you kill (+1 health to all within 10 meters).
+
+POSITIONING:
+
+Crouch when near teammates (Down in Front!) to prevent friendly fire. You'll be in front clearing common ridden, so position yourself where you can protect your team while staying within Vanguard range (10 meters) to heal them with your kills.
+
+MELEE COMBAT:
+
+Use Fire Axe or Claws. Mean Drunk gives you cleave - your attacks hit multiple enemies. This is perfect for hordes. Meth Head stacks build quickly (10 swings = max stacks for +50% speed and stamina efficiency). Heavy Hitter provides crowd control with first-hit stumbles.
+
+SUSTAIN:
+
+Battle Lust heals you +1 health and +0.125 trauma per melee kill. Vanguard heals you AND teammates within 10 meters +1 health per melee kill. This healing is active from your very first kill, so stay aggressive and keep killing.
+
+TRAUMA RESISTANCE:
+
+You have +30% trauma resistance (Durable + Fanny Pack). With Sharice, you get +55% total - the best possible trauma resistance for melee builds. This makes you very durable on high difficulties.
+
+CROWD CONTROL:
+
+Heavy Hitter makes your first melee hit against each target always Stumble them. This provides excellent crowd control, especially useful for mutations.
+
+WITH SHARICE:
+
++55% trauma resistance total is the best possible for melee builds. Makeshift Armor generation from knocked armor synergizes with your offensive inventory. Starts with Fire Axe and Flash Bang.
+
+PLAYSTYLE PRIORITIES:
+
+1. Crouch when near teammates (Down in Front!)
+2. Clear common ridden with cleave damage
+3. Stack Meth Head with swings (10 swings = max)
+4. Use Vanguard to heal teammates (stay within 10 meters)
+5. Use Battle Lust for personal sustain
+6. Use Heavy Hitter for crowd control (first-hit stumbles)
+7. Use Food Scavenger for additional sustain
+8. Stay aggressive - your sustain depends on kills
+
+WHAT TO DO:
+
+1. Get your melee weapon early (Fire Axe or Claws)
+2. Crouch when near teammates
+3. Clear common ridden aggressively
+4. Stack Meth Head quickly
+5. Stay within 10 meters of teammates to heal them
+6. Use Heavy Hitter for crowd control
+7. Use food for additional sustain
+8. Stay aggressive - your sustain depends on kills
+
+WHAT NOT TO DO:
+
+- Don't forget to crouch (Down in Front! prevents friendly fire)
+- Don't abandon your team (you heal them with kills)
+- Don't waste time - start swinging immediately to build stacks
+- Don't get separated from team - you need to be within 10 meters to heal them
+- Don't ignore mutations - Heavy Hitter helps with crowd control
+
+SUMMARY:
+
+You're a frontline melee specialist. Get in front, crouch when near teammates, clear hordes with cleave damage, and heal your team through kills. Heavy Hitter provides crowd control with first-hit stumbles. With Sharice, you have the best trauma resistance possible (55%) for melee builds. Stay aggressive and keep killing to maintain sustain.
+

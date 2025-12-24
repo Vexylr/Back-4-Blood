@@ -1,0 +1,62 @@
+TRENCHGUN BUILD GUIDE
+
+OVERVIEW
+--------
+
+Shotgun specialist using the AA12 with hip-fire accuracy. High damage output, excellent trauma resistance (65%), and sustain through kills and food. Your job is to deal damage while maintaining sustain through bash/melee kills and food.
+
+HOW TO PLAY
+-----------
+
+Your role is DPS/frontliner. Use the AA12 as your primary weapon with hip-fire (you can't aim down sights). Crouch when firing for better pellet grouping and damage resistance. Use bash periodically to maintain Meth Head stacks for stamina efficiency.
+
+POSITIONING:
+
+Crouch when firing (Hunker Down provides +10% accuracy and +10% damage resistance while crouched). This improves pellet grouping and makes you tankier. Crouch when near teammates (Down in Front!) to prevent friendly fire.
+
+WEAPONS:
+
+AA12 as primary - must find early for optimal performance. Use Magnum as offhand for mutations. You can't aim down sights (Meth Head, Mag Coupler, Quick Kill disable ADS), so hip-fire only.
+
+SUSTAIN:
+
+Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet - AA12 fires many pellets, so you get significant temp health). Battle Lust heals from bash/melee kills (+1 health + 0.125 trauma per kill). Food Scavenger synergizes with Heng for trauma management.
+
+METH HEAD STACKS:
+
+Maintain Meth Head stacks with periodic bash attacks. This gives you up to +50% melee attack speed and stamina efficiency, which helps with bash sustain. The stacks last 6 seconds, so bash periodically to maintain them.
+
+WITH HENG:
+
+Food synergy is excellent. More Food spawns, you gain effects when teammates eat food, and food restores +1 trauma when you consume it. Team gains +1 health and stamina per food consumed. This provides excellent sustain.
+
+TRAUMA RESISTANCE:
+
+You have 65% trauma resistance (Wooden Armor + Body Armor + Motorcycle Helmet) - excellent protection. This offsets Glass Cannon's health penalty and keeps you durable on high difficulties.
+
+DAMAGE OUTPUT:
+
+Glass Cannon gives +25% damage. Combined with your shotgun's high base damage and fast reload speed (+50%), you deal good damage. Your focus is sustained fire with the AA12, not burst damage.
+
+WHAT TO DO:
+
+1. Find AA12 early (critical for optimal performance)
+2. Crouch when firing for better accuracy and damage resistance
+3. Use bash periodically to maintain Meth Head stacks
+4. Use Magnum for mutations
+5. Use food for sustain (especially with Heng)
+6. Crouch when near teammates (Down in Front!)
+7. Stay aggressive - your sustain depends on kills
+
+WHAT NOT TO DO:
+
+- Don't try to aim down sights (you can't - hip-fire only)
+- Don't ignore Meth Head stacks (maintain with bash)
+- Don't waste food (important for sustain with Heng)
+- Don't forget fire resistance is negative (-100%) - avoid fire damage
+- Don't play at long range (shotgun is close-range)
+
+SUMMARY:
+
+You're an AA12 shotgun specialist. Crouch when firing for better accuracy and defense, maintain Meth Head stacks with bash, and use food for sustain. Your high trauma resistance offsets Glass Cannon's health penalty. With Heng, food synergy provides excellent sustain. Your goal: deal sustained damage with the AA12 while maintaining survivability through kills and food.
+

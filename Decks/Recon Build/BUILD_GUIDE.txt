@@ -1,0 +1,67 @@
+RECON BUILD GUIDE
+
+OVERVIEW
+--------
+
+Fast-moving scout that runs ahead to clear obstacles, detect hazards, and report back to team. Your incredible movement speed (up to +75% while firing with SMG) lets you kite enemies and escape dangerous situations. You handle yourself solo when separated from the team.
+
+HOW TO PLAY
+-----------
+
+Your role is scout/support. Run ahead to clear obstacles (birds, sleepers, bear traps) and detect hazards. Report back to team what they should expect. Use your speed to kite enemies and escape dangerous situations. Don't abandon the team completely - balance scouting with team coordination.
+
+SPEED:
+
+Your movement speed is up to +75% while firing with SMG (+11% base + +45% Hellfire + +15% Energy Drink + +4% Speed Demon). This incredible speed lets you kite enemies effectively and escape dangerous situations. Use SMGs for maximum speed bonuses.
+
+BREAKOUT:
+
+Breakout ensures you can escape grabs when separated from team (30s cooldown, 50% reduction from base 60s). With Evangelo, you get enhanced breakout capability (+75% breakout speed). This provides solo survivability.
+
+HAZARD DETECTION:
+
+With Karlee, you can sense nearby hazards (sleepers, traps, etc.). This prevents team wipes from unexpected hazards. You can also sense Tool Kits (Hack It) for objectives.
+
+STAMINA:
+
+High stamina pool (+35% + +10% team) and regeneration (+50% + +10% team) allows constant movement and kiting. You can run and gun indefinitely with proper stamina management.
+
+WEAPONS:
+
+Use SMGs for Speed Demon synergy (+4% move speed + +35% reload speed while using SMG). Your damage output is good (+22.5% base + +10% weakspot), so you can contribute while maintaining speed.
+
+TEAM UTILITY:
+
+Mandatory PT gives +10% team stamina and stamina regen. With Karlee, DEXTEROUS gives +50% team use speed for objectives. Utility Scavenger generates Quick Accessories for the team.
+
+WITH KARLEE:
+
+Hazard detection prevents team wipes. +50% team use speed helps with objectives. +1 quick inventory gives utility. Starts with Tool Kit for immediate objective utility.
+
+WITH EVANGELO:
+
+Enhanced breakout capability (+75% breakout speed) improves solo survivability. +5% team movement speed helps the whole team. +25% stamina regen improves mobility.
+
+WHAT TO DO:
+
+1. Run ahead to scout and clear obstacles
+2. Detect hazards (especially with Karlee)
+3. Use SMG for maximum speed bonuses
+4. Kite enemies with your movement speed
+5. Use Breakout when grabbed (30s cooldown)
+6. Report back to team about threats
+7. Use your speed to escape dangerous situations
+8. Don't abandon the team completely
+
+WHAT NOT TO DO:
+
+- Don't abandon the team completely (balance scouting with coordination)
+- Don't forget your low health (+10 only) - mistakes are costly
+- Don't stop moving (speed is your defense)
+- Don't get separated without Breakout available (30s cooldown)
+- Don't ignore hazards (especially with Karlee's detection)
+
+SUMMARY:
+
+You're the fast-moving scout. Run ahead to clear obstacles, detect hazards, and report back to team. Use your incredible movement speed to kite enemies and escape dangerous situations. Breakout provides solo survivability when separated. With Karlee, hazard detection prevents team wipes. Your goal: clear the path, detect threats, and handle yourself solo when needed, while staying coordinated with the team.
+
