@@ -59,7 +59,7 @@ Total Potential:
 WEAPONS
 ───────────────────────────────────────────────────────────────────────────────
 
-Use Assault Rifles or LMGs. Tactical Vest gives +10% damage with these 
+Use Snipers. Stock Pouch gives +10% damage with Snipers and +30% sniper ammo capacity 
 weapons. M1A or Ranch Rifle work great for precision. Snipers also work well 
 and benefit from Suppressing Fire utility. Prioritize weapons with good 
 weakspot damage and manageable recoil.

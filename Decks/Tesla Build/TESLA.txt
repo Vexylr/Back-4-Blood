@@ -1,7 +1,7 @@
 TESLA - EXPERIMENTAL
 
 Difficulty: No Hope
-Weapons: LMGs or Snipers (for Suppressing Fire utility and ammo efficiency)
+Weapons: Any (focus on gadgets, use weapons for common ridden only)
 Playstyles: support
 
 This deck is optimized for high-difficulty gameplay using experimental DLC technology in multiplayer. Focus: Experimental gadgets, ammo generation, team buffs, and advanced tech utilization.
@@ -26,10 +26,7 @@ DECK COMPOSITION (15 cards)
 2. OUT WITH A BANG (Fortune - Utility)
    When a teammate is incapacitated or dies, they drop an active Pipe Bomb.
 
-3. SUPPRESSING FIRE (Discipline - Offense)
-   Damaging Ridden with LMGs and Snipers has 40% chance to slow Ridden near target by 50% for 5 seconds.
-
-4. ULTRASONIC WOUND THERAPY (Brawn - Ability)
+3. ULTRASONIC WOUND THERAPY (Brawn - Ability)
    Heal 6 Health over 7 seconds to nearby teammates. Gadget Cost: 60 (Pistol/SMG ammo). REPLACES: Offensive Slot.
 
 5. EXPIRED T5 (Brawn - Ability)
@@ -53,30 +50,30 @@ DECK COMPOSITION (15 cards)
 11. DOWN IN FRONT! (Discipline - Defense)
     While crouching you neither take nor deal Friendly Fire damage. +10 Health. ESSENTIAL for multiplayer.
 
-12. AMMO POUCH (Discipline - Offense)
+12. AMMO BELT (Discipline - Offense)
+    +50% Ammo Capacity. +15% Reload Speed.
+
+13. AMMO POUCH (Discipline - Offense)
     +25% Ammo Capacity. +2.5% Bullet Damage.
 
-13. LARGE CALIBER ROUNDS (Discipline - Offense)
-    +7.5% Bullet Damage. +200% Bullet Penetration.
+14. FIT AS A FIDDLE (Brawn - Utility)
+    +20% Team Bolstered Health. +5 Team Health.
 
-14. COMBAT TRAINING (Discipline - Offense)
-    +5% Bullet Damage. +1.5 Bullet Stumble Damage. +7.5 Melee Stumble Damage.
-
-15. AMMO BELT (Discipline - Offense)
-    +50% Ammo Capacity. +15% Reload Speed.
+15. MANDATORY PT (Brawn - Mobility)
+    +10% Team Stamina. +10% Team Stamina Regen.
 
 
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
 - Health: +5 Team Health
-- Ammo Capacity: +75%
-- Bullet Damage: +15% (+2.5% Ammo Pouch, +7.5% Large Caliber Rounds, +5% Combat Training)
-- Bullet Penetration: +200%
-- Reload Speed: +15%
-- Team Overheal: +20%
-- Team Healing Efficiency: +5%
-- Team Bolstered Health: +20%
+- Ammo Capacity: +75% (Ammo Belt + Ammo Pouch)
+- Reload Speed: +15% (Ammo Belt)
+- Team Overheal: +20% (Well Rested)
+- Team Healing Efficiency: +5% (Well Rested)
+- Team Bolstered Health: +40% (Well Rested + Fit as a Fiddle)
+- Team Stamina: +10% (Mandatory PT)
+- Team Stamina Regen: +10% (Mandatory PT)
 
 WITH EVANGELO:
 - Stamina Regen: +25%
@@ -99,7 +96,7 @@ Bash stuns nearby enemies, refreshes after 10 seconds. Cost: 30 Sniper Rifle amm
 
 PLAYSTYLE
 
-Experimental tech specialist using DLC gadgets. Your gadgets replace item slots but cost ammo instead of consumables. Expired T5 is your main offensive tool for mutations and bosses. Ultrasonic Wound Therapy provides team healing. Experimental Stun Gun gives crowd control but makes you fragile. Use Ammo Scavenger and high ammo capacity (+75%) to fuel your gadgets. Copper Scavenger generates copper for upgrades. Large Caliber Rounds and Combat Training provide additional damage for your weapons. Your goal: use experimental tech to support the team while managing ammo carefully as gadgets are expensive.
+Experimental tech specialist using DLC gadgets. Your gadgets replace item slots but cost ammo instead of consumables. Expired T5 is your main offensive tool for mutations and bosses. Ultrasonic Wound Therapy provides team healing. Experimental Stun Gun gives crowd control but makes you fragile. Use Ammo Scavenger and high ammo capacity (+75%) to fuel your gadgets. Copper Scavenger generates copper for upgrades. Your goal: use experimental tech to support the team while managing ammo carefully as gadgets are expensive. Use weapons only for common ridden - your damage comes from gadgets.
 
 
 STRENGTHS
@@ -107,7 +104,7 @@ STRENGTHS
 - Powerful experimental gadgets (3 gadgets covering offense, support, and utility)
 - Team utility through healing
 - High ammo capacity for gadget usage (+75%)
-- Good weapon damage (+15% bullet damage, +200% penetration)
+- Team stamina support (+10% team stamina and stamina regen)
 - Copper generation
 - Temp health generation (Sadist)
 - Food sustain

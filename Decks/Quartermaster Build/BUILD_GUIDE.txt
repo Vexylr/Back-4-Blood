@@ -59,9 +59,9 @@ good shape.
 DAMAGE OUTPUT
 ───────────────────────────────────────────────────────────────────────────────
 
-While your focus is support, you still have good damage output (+20% base + up 
-to +15% Confident Killer + +3.5% team damage). Use Assault Rifles or LMGs for 
-Suppressing Fire synergy (40% chance to slow enemies).
+While your focus is support, you still have good damage output (+20% base + 
++3.5% team damage). Use LMGs for Suppressing Fire synergy (40% chance to slow 
+enemies) - ALL IN on LMGs.
 
 RECOMMENDED CLEANERS
 ───────────────────────────────────────────────────────────────────────────────

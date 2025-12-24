@@ -1,7 +1,7 @@
 QUARTERMASTER - SUPPLIER
 
 Difficulty: No Hope
-Weapons: Assault Rifles or LMGs (for Suppressing Fire synergy)
+Weapons: LMGs (ALL IN on LMGs for Suppressing Fire synergy)
 Playstyles: support, looter
 
 This deck is optimized for high-difficulty support and resource generation in multiplayer. Focus: Ammo generation, item scavenging, team resource management, and utility support.
@@ -53,8 +53,8 @@ DECK COMPOSITION (15 cards)
 9. WEAPON SCAVENGER (Discipline - Utility)
    You can sense nearby Weapons. More weapons spawn.
 
-10. CONFIDENT KILLER (Brawn - Offense)
-    When you or your team kills a Mutation: gain 1% damage (up to 15%) until end of level.
+10. FOOD SCAVENGER (Fortune - Utility)
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 11. OFFENSIVE SCAVENGER (Discipline - Utility)
     You can sense nearby Offensive Accessories. More Offensive Accessories spawn.
@@ -68,21 +68,23 @@ DECK COMPOSITION (15 cards)
 14. DOWN IN FRONT! (Discipline - Defense)
     While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
-15. COPPER SCAVENGER (Fortune - Utility)
-    You can sense nearby Copper. More Copper Piles spawn.
+15. WELL RESTED (Brawn - Utility)
+    +20% Team Overheal. +5% Team Healing Efficiency.
 
 
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
 - Health: +15
-- Bullet Damage: +20% base + up to +15% Confident Killer + +3.5% Team Damage
+- Bullet Damage: +20% base + +3.5% Team Damage
 - Bullet Penetration: +200%
 - Effective Bullet Range: +15%
 - Ammo Capacity: +35% personal + +10% Team
 - Move Speed: +3%
 - Stamina: +20%
 - Stamina Regen: +20%
+- Team Overheal: +20% (Well Rested)
+- Team Healing Efficiency: +5% (Well Rested)
 
 WITH HOFFMAN:
 - Ammo Capacity: +50% Team (+35% personal + 10% Ammo for All + 15% Cargo Pockets)

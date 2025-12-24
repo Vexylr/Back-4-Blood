@@ -1,7 +1,7 @@
 SPARTAN - TANK
 
 Difficulty: No Hope
-Weapons: Assault Rifles or LMGs (for penetration and mutation control)
+Weapons: LMGs (ALL IN on LMGs for penetration and mutation control)
 Playstyles: tank
 
 This deck is optimized for high-difficulty tank gameplay in multiplayer. Focus: Maximum damage absorption, revive support, trauma resistance, and team durability.
@@ -55,14 +55,14 @@ DECK COMPOSITION (15 cards)
 12. PEP TALK (Reflex - Utility)
     While Reviving teammates, take 3 less damage from all Ridden. Teammates recover an additional 10 Health when you revive them.
 
-13. AMMO POUCH (Discipline - Offense)
-    +25% Ammo Capacity. +2.5% Bullet Damage.
+13. AMMO SCAVENGER (Discipline - Utility)
+    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
 14. DOWN IN FRONT! (Discipline - Defense)
     While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
-15. COMBAT TRAINING (Discipline - Offense)
-    +5% Bullet Damage. +1.5 Bullet Stumble Damage. +7.5 Melee Stumble Damage.
+15. FOOD SCAVENGER (Fortune - Utility)
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 
 TOTAL + BUFFS SUMMARY
@@ -74,8 +74,8 @@ BASE DECK:
 - Fire Resistance: +20% (Durable)
 - Acid Resistance: +50% (Scar Tissue)
 - Damage Reduction: -1 flat + -3 while reviving = -4 total while reviving
-- Ammo Capacity: +25%
-- Bullet Damage: +7.5% (Ammo Pouch + Combat Training)
+- Ammo Capacity: +25% (Ammo Pouch)
+- Bullet Damage: +2.5% (Ammo Pouch)
 - Revive Speed: +200%
 - Stamina: Net -5% (but +20% Sprint Efficiency)
 - Stamina Efficiency: -20%

@@ -58,7 +58,7 @@ Combined, you're incredibly tanky.
 WEAPONS
 ───────────────────────────────────────────────────────────────────────────────
 
-Use Assault Rifles or LMGs for penetration and mutation control. Your damage 
+Use LMGs for penetration and mutation control - ALL IN on LMGs. Your damage 
 output is modest - focus on survival and revives, let DPS builds handle 
 mutations. Good stumble damage helps with crowd control.
 
