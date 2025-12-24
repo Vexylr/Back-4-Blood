@@ -1,14 +1,15 @@
 TRENCHGUN - SHOTGUN
-=================
 
-This deck is optimized for high-difficulty shotgun gameplay using the AA12.
-Focus: High damage, damage resistance, trauma resistance, and melee/bash sustain.
-Community build from Reddit (r/Back4Blood).
+Difficulty: No Hope
+Weapons: AA12 (primary), Magnum (offhand)
+Playstyles: dps, front liner
 
-RECOMMENDED CLEANERS:
----------------------
+This deck is optimized for high-difficulty shotgun gameplay using the AA12. Focus: High damage, damage resistance, trauma resistance, and melee/bash sustain.
 
-PRIMARY RECOMMENDATION: HENG
+
+RECOMMENDED CLEANERS
+
+PRIMARY: HENG
 - SCAVENGER SENSES: Can sense nearby Food and Cards
 - PERSONAL CHEF: More Food spawns, gains same effects when teammates eat food
 - COMFORT FOOD: Restores an additional 1 Trauma when consuming Food
@@ -16,204 +17,97 @@ PRIMARY RECOMMENDATION: HENG
 - I.E.D: Start with Pipe Bomb
 - Note: Available in Tunnels of Terror expansion
 
-DECK COMPOSITION (15 cards, in recommended order):
---------------------------------------------------
-NOTE: All cards are active from the start of the level. Order matters for 
-deck organization and understanding card priorities, but all effects are 
-active immediately.
+
+DECK COMPOSITION (15 cards)
 
 1. BUCKSHOT BRUISER (Brawn - Defense)
-   - When using Shotguns, gain 0.25 Temporary Health for each pellet that hits
-   - Sustain through shotgun hits (multiple pellets = more temp health)
-   - Active when using shotguns
+   When using Shotguns, gain 0.25 Temporary Health for each pellet that hits.
 
 2. HUNKER DOWN (Brawn - Defense)
-   - +10% Damage Resistance while crouching
-   - +10% Accuracy while crouching
-   - Crouch for defense and accuracy
-   - Active when crouching
+   +10% Damage Resistance while crouching. +10% Accuracy while crouching.
 
 3. METH HEAD (Reflex - Offense)
-   - Every Melee swing grants 5% Melee Attack Speed and 5% Melee Stamina Efficiency for 6 seconds, stacking up to 10 times
-   - Your Melee Attacks no longer stick to tough enemies
-   - DISABLES: Aim Down Sights
-   - Maintain stacks with bash for stamina efficiency
-   - Stacks on each swing
+   Every Melee swing grants 5% Melee Attack Speed and 5% Melee Stamina Efficiency for 6 seconds, stacking up to 10 times. Your Melee Attacks no longer stick to tough enemies. DISABLES: Aim Down Sights.
 
 4. SPIKY BITS (Brawn - Offense)
-   - +15 Melee Damage
-   - +20% Damage Resistance while using a Melee Weapon
-   - -15% Ammo Capacity
-   - Flat damage and defense
-   - Active immediately
+   +15 Melee Damage. +20% Damage Resistance while using a Melee Weapon. -15% Ammo Capacity.
 
 5. MEAN DRUNK (Brawn - Offense)
-   - +40% Melee Damage
-   - Your Melee Attacks cause cleave through enemies
-   - Melee damage boost (works with bash/knife)
-   - Active immediately
+   +40% Melee Damage. Your Melee Attacks cause cleave through enemies.
 
 6. BATTLE LUST (Brawn - Defense)
-   - Melee kills heal 1 Health and 0.125 Trauma
-   - Sustain through melee kills (bash/knife)
-   - Active on melee kills
+   Melee kills heal 1 Health and 0.125 Trauma.
 
 7. BRAZEN (Reflex - Offense)
-   - +15% Melee Stamina Efficiency
-   - +20% Melee Attack Speed
-   - Melee efficiency and speed
-   - Active immediately
+   +15% Melee Stamina Efficiency. +20% Melee Attack Speed.
 
 8. WOODEN ARMOR (Brawn - Defense)
-   - +30% Trauma Resistance
-   - -100% Fire Resistance
-   - High trauma resistance
-   - Active immediately
+   +30% Trauma Resistance. -100% Fire Resistance.
 
 9. BODY ARMOR (Brawn - Defense)
-   - +20% Trauma Resistance
-   - Additional trauma resistance
-   - Active immediately
+   +20% Trauma Resistance.
 
 10. MOTORCYCLE HELMET (Brawn - Defense)
-    - +15% Trauma Resistance
-    - Additional trauma resistance
-    - Active immediately
+    +15% Trauma Resistance.
 
 11. MAG COUPLER (Reflex - Offense)
-    - +50% Reload Speed
-    - DISABLES: Aim Down Sights
-    - Fast reloads for AA12
-    - Active immediately
+    +50% Reload Speed. DISABLES: Aim Down Sights.
 
 12. QUICK KILL (Reflex - Offense)
-    - +50% Accuracy
-    - DISABLES: Aim Down Sights
-    - Accuracy without ADS (hip-fire)
-    - Active immediately
+    +50% Accuracy. DISABLES: Aim Down Sights.
 
 13. GLASS CANNON (Brawn - Offense)
-    - +25% Damage
-    - -30% Health
-    - Massive damage boost
-    - Active immediately
+    +25% Damage. -30% Health.
 
 14. DOWN IN FRONT! (Discipline - Defense)
-    - While crouching you neither take nor deal Friendly Fire damage
-    - +10 Health
-    - ESSENTIAL for multiplayer - prevents friendly fire from shotgun spread
-    - Active when crouching
+    While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
 15. FOOD SCAVENGER (Fortune - Utility)
-    - You can sense nearby Food Items
-    - Adds a moderate amount of Food Items to the world
-    - Food Items restore an additional 3 Health
-    - Sustain and trauma management through food
-    - Active immediately
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
-TOTAL + BUFFS SUMMARY:
-----------------------
 
-PERMANENT BUFFS (Always Active):
-- Health: -30% (Glass Cannon) - base health reduction
+TOTAL + BUFFS SUMMARY
+
+BASE DECK:
+- Health: -30% (Glass Cannon) + +10 (Down in Front!) = -20% net
 - Damage: +25% (Glass Cannon)
-- Melee Damage: +40% (Mean Drunk) + 15 Flat Damage (Spiky Bits)
+- Melee Damage: +40% (Mean Drunk) + 15 Flat (Spiky Bits)
 - Melee Attack Speed: +20% (Brazen) + up to +50% (Meth Head stacks)
 - Melee Stamina Efficiency: +15% (Brazen) + up to +50% (Meth Head stacks)
-- Trauma Resistance: +65% (Wooden Armor +30%, Body Armor +20%, Motorcycle Helmet +15%)
+- Trauma Resistance: +65% (Wooden Armor + Body Armor + Motorcycle Helmet)
 - Damage Resistance: +20% while using Melee Weapon (Spiky Bits) + +10% while crouching (Hunker Down)
 - Fire Resistance: -100% (Wooden Armor)
 - Reload Speed: +50% (Mag Coupler)
 - Accuracy: +50% (Quick Kill) + +10% while crouching (Hunker Down)
-- Move Speed: +3% base (Hellfire) + +45% while firing (Hellfire)
 - Ammo Capacity: -15% (Spiky Bits)
 
-STACKING BUFFS (Build During Combat):
-- Meth Head: Up to +50% Melee Attack Speed and +50% Melee Stamina Efficiency (10 stacks) - maintain with periodic bash
+WITH HENG:
+- Food Synergy: More Food spawns + gains effects when teammates eat + +1 Trauma when consuming
+- Team Benefits: +1 Health and Stamina for each Food consumed
+- Food Detection: Can sense nearby Food
+- Starts with: Pipe Bomb
 
-HEALING/SUSTAIN:
-- +0.25 Temporary Health per pellet that hits (Buckshot Bruiser - multiple pellets = more temp health)
-- +1 Health + 0.125 Trauma per melee kill (Battle Lust)
-- Food Items restore +3 Health (Food Scavenger) + +2 with Heng (Tea Time) + +1 Trauma with Heng (Gourmet)
 
-SPECIAL EFFECTS:
-- DISABLES: Aim Down Sights (Meth Head, Mag Coupler, Quick Kill) - hip-fire build
-- Crouch for damage resistance and accuracy (Hunker Down)
-- Crouch when firing for better pellet grouping (Hunker Down provides +10% accuracy while crouched)
-- Melee attacks don't stick in tough enemies (Meth Head)
-- Sense nearby Food Items (Food Scavenger)
-- Cleave through enemies with melee (Mean Drunk)
+PLAYSTYLE
 
-DECK STRATEGY:
---------------
+Shotgun specialist focusing on AA12 with hip-fire accuracy. Glass Cannon gives massive damage (+25%) but reduces health (-30%) - offset by high trauma resistance (65%) and sustain cards. Use bash periodically to maintain Meth Head stacks for stamina efficiency. Crouch when firing for better pellet grouping (Hunker Down provides +10% accuracy and damage resistance while crouched). Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet). Battle Lust heals from bash/melee kills (+1 health + 0.125 trauma per kill). Food Scavenger synergizes with Heng for trauma management. Use Magnum as offhand for mutations.
 
-All cards are active from the start, so you benefit from everything immediately.
 
-IMMEDIATE EFFECTS (Active from Level Start):
-- High damage output (+25% Glass Cannon) active from start
-- All trauma resistance stacks: Wooden Armor (+30%), Body Armor (+20%), Motorcycle Helmet (+15%) = 65% total
-- All reload and accuracy bonuses active immediately
-- Glass Cannon health reduction (-30%) active from start - need sustain
+STRENGTHS
 
-STACKING MECHANICS (Build During Combat):
-- Meth Head: Stacks on each swing (up to 10 stacks = +50% speed/efficiency) - maintain with periodic bash
-
-CARD GROUPINGS (How They Work Together):
-- Damage Group: Glass Cannon + Mean Drunk + Spiky Bits
-  → High damage output (+25% + melee bonuses)
-- Defense Group: Wooden Armor + Body Armor + Motorcycle Helmet + Spiky Bits + Hunker Down
-  → Trauma resistance (65%) and damage resistance
-- Sustain Group: Buckshot Bruiser + Battle Lust + Food Scavenger + Heng's food synergy
-  → Multiple healing sources
-- Speed Group: Meth Head + Brazen + Mag Coupler + Hellfire
-  → Attack speed, reload speed, and movement speed
-
-PLAYSTYLE:
-----------
-
-Shotgun specialist focusing on AA12 with hip-fire accuracy. Glass Cannon gives massive damage (+25%) but reduces health (-30%) - offset by high trauma resistance (65%) and sustain cards. Use bash periodically to maintain Meth Head stacks for stamina efficiency. Crouch when firing for better pellet grouping (Hunker Down provides +10% accuracy and damage resistance while crouched). Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet). Battle Lust heals from bash/melee kills (+1 health + 0.125 trauma per kill). Food Scavenger synergizes with Heng for trauma management - Heng gains effects when teammates eat food, and food provides enhanced healing. Use Magnum as offhand for mutations. Goal: high damage output while maintaining sustain through kills and food.
-
-HIGH DIFFICULTY CONSIDERATIONS:
---------------------------------
-
-- Trauma is a major threat - this deck has 65% trauma resistance (excellent!)
-- Glass Cannon reduces health (-30%) - need sustain through kills and food
-- All trauma resistance active from level start - you're protected from first engagement
-- Buckshot Bruiser provides temp health from shotgun hits - AA12 fires many pellets
-- Battle Lust provides trauma healing during combat (0.125 trauma per kill)
-- Food Scavenger + Heng provides enhanced food healing throughout levels
-- High damage output helps kill enemies before they deal damage
-- No fire resistance (-100%) - avoid fire damage when possible
-- Requires maintaining Meth Head stacks with bash for optimal stamina efficiency
-- Must find AA12 early for optimal performance
-
-EQUIPMENT PRIORITY:
--------------------
-
-1. AA12 shotgun (must find early for optimal performance)
-2. Magnum (offhand for mutations)
-3. Food items (for sustain, especially with Heng)
-4. Medical accessories (backup sustain)
-
-STRENGTHS:
-----------
-
-- High damage output (+25% Glass Cannon)
-- Excellent trauma resistance (65% - best possible)
+- High damage output (+25%)
+- Excellent trauma resistance (65%)
 - Good sustain through kills and food
 - Fast reload speed (+50%)
 - High hip-fire accuracy (+50% + crouch bonus)
-- Mobility while firing (+45% move speed)
 - Melee sustain for common ridden (bash/knife with Battle Lust)
 - With Heng: Enhanced food synergy and food sensing
 
-WEAKNESSES:
------------
 
-- Low health pool (-30% from Glass Cannon)
-- No fire resistance (-100% from Wooden Armor)
+WEAKNESSES
+
+- Low health pool (-20% net)
+- No fire resistance (-100%)
 - Requires maintaining Meth Head stacks with bash
 - Needs to find AA12 early for optimal performance
-- Requires Heng for best food synergy
-- DISABLES: Aim Down Sights (Meth Head, Mag Coupler, Quick Kill) - hip-fire only
-
+- DISABLES: Aim Down Sights (hip-fire only)

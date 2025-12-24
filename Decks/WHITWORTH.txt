@@ -1,251 +1,122 @@
 WHITWORTH - GLASS CANNON
-======================
 
-This deck is optimized for high-difficulty damage-dealing in multiplayer.
-Focus: Maximum damage output, weakspot damage, mutation elimination, and precision kills.
+Difficulty: No Hope
+Weapons: Assault Rifles, LMGs, or Snipers (prioritize precision weapons)
+Playstyles: dps
 
-RECOMMENDED CLEANERS:
----------------------
+This deck is optimized for high-difficulty damage-dealing in multiplayer. Focus: Maximum damage output, weakspot damage, mutation elimination, and precision kills.
 
-PRIMARY RECOMMENDATION: JIM (Jim Hossler)
+
+RECOMMENDED CLEANERS
+
+PRIMARY: JIM
 - CLEAN KILL: Precision kills increase damage by 2.5% (up to 10 times until taking damage)
 - SEASONED HUNTER (Team): +10% Team Weakspot Damage
 - MILITARY TRAINING: +25% Reload Speed
 - RAZOR SNARE: Start with Razor Wire
 
-ALTERNATIVE: WALKER (Elijah Walker)
+ALTERNATIVE: WALKER
 - MODEL SOLDIER: +10% Damage
 - PRAGMATIC (Team): +10 Team Health
 - INCOMING!: Pings reduce mutation damage by 10%
 - EQUIPPED: Start with Frag Grenade
 
-DECK COMPOSITION (15 cards, in recommended order):
---------------------------------------------------
-NOTE: All cards are active from the start of the level. Order matters for 
-deck organization and understanding card priorities, but all effects are 
-active immediately.
+
+DECK COMPOSITION (15 cards)
 
 1. LINE 'EM UP (Brawn - Offense)
-   - +10% Effective Bullet Range
-   - +15% Recoil Control
-   - +25% Bullet Penetration
-   - +25% Aim Speed
-   - Foundation for precision shooting
-   - Active immediately
+   +10% Effective Bullet Range, +15% Recoil Control, +25% Bullet Penetration, +25% Aim Speed.
 
 2. FRESH BANDAGE (Brawn - Defense)
-   - At the start of each level: recover 15 Trauma Damage, restore missing Health
-   - Essential sustain for glass cannon
-   - Triggers automatically at level start
+   At the start of each level: recover 15 Trauma Damage, restore missing Health.
 
 3. CONFIDENT KILLER (Brawn - Offense)
-   - When you or your team kills a Mutation: gain 1% damage (up to 15%)
-   - Stacking damage that builds during level
-   - Stacks until end of level
+   When you or your team kills a Mutation: gain 1% damage (up to 15%) until end of level.
 
 4. PATIENT HUNTER (Discipline - Offense)
-   - Every 0.75 seconds you Aim Down Sights increases Bullet Damage by 10% (up to 3 stacks)
-   - Up to +30% damage when fully scoped
-   - Stacks while aiming
+   Every 0.75 seconds you Aim Down Sights increases Bullet Damage by 10% (up to 3 stacks).
 
 5. TACTICAL VEST (Discipline - Offense)
-   - +30% Rifle Ammo Capacity
-   - +10% Damage with Assault Rifles and LMGs
-   - Weapon-specific damage boost
-   - Active immediately
+   +30% Rifle Ammo Capacity. +10% Damage with Assault Rifles and LMGs.
 
 6. DOWN IN FRONT! (Discipline - Defense)
-   - While crouching you neither take nor deal Friendly Fire damage
-   - +10 Health
-   - Essential for multiplayer positioning
-   - Active when crouching
+   While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
 7. COMBAT TRAINING (Discipline - Offense)
-   - +5% Bullet Damage
-   - +1.5 Bullet Stumble Damage
-   - +7.5 Melee Stumble Damage
-   - Base damage boost
-   - Active immediately
+   +5% Bullet Damage. +1.5 Bullet Stumble Damage. +7.5 Melee Stumble Damage.
 
 8. LARGE CALIBER ROUNDS (Discipline - Offense)
-   - +7.5% Bullet Damage
-   - +200% Bullet Penetration
-   - Damage and penetration
-   - Active immediately
+   +7.5% Bullet Damage. +200% Bullet Penetration.
 
 9. SILVER BULLETS (Discipline - Offense)
-   - +10% Bullet Damage
-   - +15% Effective Bullet Range
-   - Damage and range boost
-   - Active immediately
+   +10% Bullet Damage. +15% Effective Bullet Range.
 
 10. COLD BREW COFFEE (Discipline - Mobility)
-    - +15% Reload Speed
-    - +25% Aim Speed
-    - +25% Weapon Swap Speed
-    - +25% Use Speed
-    - Speed and efficiency bonuses
-    - Active immediately
+    +15% Reload Speed. +25% Aim Speed. +25% Weapon Swap Speed. +25% Use Speed.
 
 11. AMMO POUCH (Discipline - Offense)
-    - +25% Ammo Capacity
-    - +2.5% Bullet Damage
-    - Ammo sustain
-    - Active immediately
+    +25% Ammo Capacity. +2.5% Bullet Damage.
 
 12. SUPPRESSING FIRE (Discipline - Offense)
-    - Damaging Ridden with LMGs and Snipers has 40% chance to slow Ridden near target by 50% for 5 seconds
-    - Crowd control utility
-    - Active when using LMGs/Snipers
+    Damaging Ridden with LMGs and Snipers has 40% chance to slow Ridden near target by 50% for 5 seconds.
 
 13. DASH (Reflex - Mobility)
-    - +5% Move Speed
-    - +5% Sprint Speed
-    - Basic mobility
-    - Active immediately
+    +5% Move Speed. +5% Sprint Speed.
 
 14. CROSS TRAINERS (Reflex - Mobility)
-    - +20% Stamina
-    - +20% Stamina Regen
-    - +3% Move Speed
-    - +5 Health
-    - Mobility and sustain
-    - Active immediately
+    +20% Stamina. +20% Stamina Regen. +3% Move Speed. +5 Health.
 
 15. ON YOUR MARK... (Reflex - Mobility)
-    - When a horde is triggered: team restores 7.5% Ammo and gains 10% Move Speed while firing, 15% Reload Speed, and 25% Swap Speed for 30 seconds
-    - Team utility during hordes
-    - Active when horde triggers
+    When a horde is triggered: team restores 7.5% Ammo and gains 10% Move Speed while firing, 15% Reload Speed, and 25% Swap Speed for 30 seconds.
 
-TOTAL + BUFFS SUMMARY (WITH RECOMMENDED CLEANER):
---------------------------------------------------
 
-BASE DECK PERMANENT BUFFS (Always Active):
-- Health: +15 Health (Down in Front! +10, Cross Trainers +5)
-- Bullet Damage: +23% base (Combat Training +5%, Large Caliber +7.5%, Silver Bullets +10%, Ammo Pouch +2.5%) + up to +10% with Tactical Vest (AR/LMG) + up to +30% Patient Hunter (when fully scoped) + up to +15% Confident Killer (mutation kills)
-- Bullet Penetration: +225% (Line 'Em Up +25%, Large Caliber +200%)
-- Effective Bullet Range: +25% (Line 'Em Up +10%, Silver Bullets +15%)
-- Ammo Capacity: +55% (Tactical Vest +30% for rifles, Ammo Pouch +25%)
-- Reload Speed: +40% (Cold Brew +15%, On Your Mark +15% during hordes)
-- Aim Speed: +50% (Line 'Em Up +25%, Cold Brew +25%)
-- Move Speed: +8% base (Dash +5%, Cross Trainers +3%) + +10% while firing during hordes (On Your Mark)
-- Stamina: +20% (Cross Trainers)
-- Stamina Regen: +20% (Cross Trainers)
-
-WITH JIM (Recommended):
-- Health: +15 Health (base deck)
-- Bullet Damage: +23% base + up to +10% Tactical Vest + up to +30% Patient Hunter + up to +15% Confident Killer + up to +25% Clean Kill (precision kills, 10 stacks max) = up to +103% total damage potential
-- Weakspot Damage: +10% Team Weakspot Damage (Seasoned Hunter)
-- Reload Speed: +40% (base deck) + +25% (Military Training) = +65% total
-- Bullet Penetration: +225% (base deck)
-- Starts with: Razor Wire (defensive utility)
-
-WITH WALKER (Alternative):
-- Health: +15 Health (base deck) + +10 Team Health (Pragmatic)
-- Bullet Damage: +23% base + up to +10% Tactical Vest + up to +30% Patient Hunter + up to +15% Confident Killer + +10% (Model Soldier) = up to +88% total damage potential
-- Damage Reduction: 10% reduced damage from pinged mutations (Incoming!)
-- Bullet Penetration: +225% (base deck)
-- Starts with: Frag Grenade (offensive utility)
-
-STACKING BUFFS (Build During Combat):
-- Confident Killer: Up to +15% damage per mutation kill (until end of level)
-- Patient Hunter: Up to +30% damage when aiming (3 stacks, 0.75 sec per stack)
-- Jim's Clean Kill: Up to +25% damage (10 stacks, precision kills, resets on taking damage)
-
-MAXIMUM POTENTIAL (All Stacks Active):
+TOTAL + BUFFS SUMMARY
 
 BASE DECK:
-- Bullet Damage: +78% total (+23% base + 10% Tactical Vest + 30% Patient Hunter + 15% Confident Killer)
-- Weakspot Damage: Focus on precision shots for maximum effectiveness
+- Health: +15
+- Bullet Damage: +23% base (+2.5% Ammo Pouch, +5% Combat Training, +7.5% Large Caliber, +10% Silver Bullets) + up to +10% Tactical Vest (AR/LMG) + up to +30% Patient Hunter (scoped) + up to +15% Confident Killer (mutation kills)
+- Bullet Penetration: +225%
+- Effective Bullet Range: +25%
+- Ammo Capacity: +55% (+30% Tactical Vest for rifles, +25% Ammo Pouch)
+- Reload Speed: +40% (+15% Cold Brew, +15% On Your Mark during hordes)
+- Aim Speed: +50%
+- Move Speed: +8% base (+10% while firing during hordes)
+- Stamina: +20%
+- Stamina Regen: +20%
 
 WITH JIM:
-- Bullet Damage: +103% total potential (+23% base + 10% Tactical Vest + 30% Patient Hunter + 15% Confident Killer + 25% Clean Kill)
-- Weakspot Damage: +10% Team Weakspot Damage + precision kill stacking
-- Best for: Players who can consistently hit weakspots and avoid damage to maintain Clean Kill stacks
+- Bullet Damage: +23% base + up to +10% Tactical Vest + up to +30% Patient Hunter + up to +15% Confident Killer + up to +25% Clean Kill = up to +103% total potential
+- Weakspot Damage: +10% Team Weakspot Damage
+- Reload Speed: +65% (+40% base + 25% Military Training)
+- Starts with: Razor Wire
 
 WITH WALKER:
-- Bullet Damage: +88% total (+23% base + 10% Tactical Vest + 30% Patient Hunter + 15% Confident Killer + 10% Model Soldier)
-- More forgiving: No need to maintain precision kill stacks, consistent +10% damage
+- Health: +25 (+15 base + 10 Team Health)
+- Bullet Damage: +23% base + up to +10% Tactical Vest + up to +30% Patient Hunter + up to +15% Confident Killer + 10% Model Soldier = up to +88% total potential
+- Damage Reduction: 10% reduced damage from pinged mutations
+- Starts with: Frag Grenade
 
-SPECIAL EFFECTS:
-- +200% Bullet Penetration (Large Caliber Rounds)
-- 40% chance to slow Ridden near target by 50% for 5 seconds (Suppressing Fire with LMGs/Snipers)
-- Friendly fire protection when crouched (Down in Front!)
-- Recover 15 Trauma + restore Health at level start (Fresh Bandage)
-- Team buffs during hordes (On Your Mark)
-- Team +10% Weakspot Damage (Jim's Seasoned Hunter)
 
-DECK STRATEGY:
---------------
+PLAYSTYLE
 
-All cards are active from the start, so you benefit from everything immediately.
+Glass cannon precision damage dealer. Position yourself at range for optimal weakspot shots. Use Patient Hunter's aiming stacks (aim for 2.25 seconds for max +30% damage). Focus mutations first to stack Confident Killer (+15% max). With Jim, prioritize precision kills to stack Clean Kill (+25% max) but avoid taking damage to maintain stacks. Use Assault Rifles or LMGs for Tactical Vest bonus and Suppressing Fire utility. Stay at range, aim for weakspots, and let your massive damage do the work. Crouch when near teammates (Down in Front!) to prevent friendly fire.
 
-IMMEDIATE EFFECTS (Active from Level Start):
-- Base damage bonuses stack: Combat Training (+5%), Large Caliber (+7.5%), Silver Bullets (+10%), Ammo Pouch (+2.5%) = +23% base
-- All penetration stacks: Line 'Em Up (+25%), Large Caliber (+200%) = +225% total
-- Range bonuses active: Line 'Em Up (+10% range), Silver Bullets (+15% range) = +25% total
-- Fresh Bandage triggers at start of each level (trauma and health recovery)
-- All utility bonuses active: reload speed, aim speed, movement speed
 
-STACKING MECHANICS (Build During Combat):
-- Patient Hunter: Stacks while aiming (0.75 sec per stack, up to 3 stacks = +30% damage)
-- Confident Killer: Stacks on mutation kills (up to 15 stacks = +15% damage, lasts until end of level)
-- Jim's Clean Kill: Stacks on precision kills (up to 10 stacks = +25% damage, resets on taking damage)
-
-CARD GROUPINGS (How They Work Together):
-- Damage Group: Patient Hunter + Confident Killer + Tactical Vest + Combat Training + Large Caliber + Silver Bullets
-  → Multiple damage sources stack for massive output
-- Precision Group: Patient Hunter + Line 'Em Up + Jim's Seasoned Hunter (if using Jim)
-  → Focus on weakspot shots for maximum effectiveness
-- Mobility Group: Dash + Cross Trainers + On Your Mark
-  → Movement and positioning for optimal shots
-- Utility Group: Fresh Bandage + Down in Front! + On Your Mark
-  → Sustain and team support
-
-PLAYSTYLE:
-----------
-
-Glass cannon precision damage dealer. Position yourself at range for optimal weakspot shots. Use Patient Hunter's aiming stacks (aim for 2.25 seconds for max +30% damage). Focus mutations first to stack Confident Killer (+15% max). With Jim, prioritize precision kills to stack Clean Kill (+25% max) - but avoid taking damage to maintain stacks. Use Assault Rifles or LMGs for Tactical Vest bonus (+10% damage) and Suppressing Fire utility (40% slow chance). Stay at range, aim for weakspots, and let your massive damage do the work. Crouch when near teammates (Down in Front!) to prevent friendly fire. Your goal: eliminate 70%+ of a Breaker's health single-handedly through precision weakspot damage.
-
-HIGH DIFFICULTY CONSIDERATIONS:
---------------------------------
-
-- Low health pool (+15) means positioning is critical - stay at range
-- All damage bonuses active from start, but stacks require combat engagement
-- Fresh Bandage provides crucial trauma/health recovery at level start
-- Patient Hunter requires aiming time (2.25 sec for max stacks) - position safely
-- Confident Killer stacks on mutations - prioritize special kills early
-- With Jim: Clean Kill requires precision AND avoiding damage - high skill requirement
-- With Walker: More forgiving with consistent +10% damage and team health boost
-- Penetration allows hitting multiple targets, maximizing efficiency
-- Team utility (On Your Mark, Jim's Seasoned Hunter) makes you valuable beyond just damage
-
-EQUIPMENT PRIORITY:
--------------------
-
-1. Best precision weapon (M1A, Phoenix, or high-damage AR/LMG)
-2. Scope attachments for weakspot targeting
-3. Penetration attachments to maximize Large Caliber Rounds
-4. Medical accessories (low health pool needs backup sustain)
-
-STRENGTHS:
-----------
+STRENGTHS
 
 - Massive damage potential (up to +103% with Jim, +88% with Walker)
 - High weakspot damage focus (especially with Jim's +10% team weakspot)
 - Excellent penetration (+225%) for hitting multiple targets
 - Good ammo capacity (+55%) for sustained fire
-- Team utility during hordes (On Your Mark provides team buffs)
-- Precision kill synergy with Jim's Clean Kill (if played well)
-- Fast reload speed (+65% with Jim, +40% base)
+- Team utility during hordes
+- Fast reload speed (+65% with Jim)
 
-WEAKNESSES:
------------
 
-- Very low health pool (only +15 health) - one mistake can be fatal
+WEAKNESSES
+
+- Very low health pool (+15) - one mistake can be fatal
 - Requires good aiming/positioning to maximize damage stacks
 - Vulnerable if caught in close quarters
-- Needs teammates for protection while you deal damage
-- With Jim: Clean Kill stacks reset on taking damage - requires skill to maintain
+- Needs teammates for protection
+- With Jim: Clean Kill stacks reset on taking damage
 - Patient Hunter requires aiming time - vulnerable during stack building
-

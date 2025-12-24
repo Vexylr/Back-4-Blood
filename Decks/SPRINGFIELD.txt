@@ -1,14 +1,15 @@
 SPRINGFIELD - RIFLE
-==================
 
-This deck is optimized for high-difficulty rifle gameplay using M1A or Ranch Rifle.
-Focus: High damage, trauma resistance, accuracy, and reliable weapon availability.
-Community build from Reddit (r/Back4Blood).
+Difficulty: No Hope
+Weapons: M1A or Ranch Rifle (precision rifles)
+Playstyles: dps
 
-RECOMMENDED CLEANERS:
----------------------
+This deck is optimized for high-difficulty rifle gameplay using M1A or Ranch Rifle. Focus: High damage, trauma resistance, accuracy, and reliable weapon availability.
 
-PRIMARY RECOMMENDATION: HENG
+
+RECOMMENDED CLEANERS
+
+PRIMARY: HENG
 - SCAVENGER SENSES: Can sense nearby Food and Cards
 - PERSONAL CHEF: More Food spawns, gains same effects when teammates eat food
 - COMFORT FOOD: Restores an additional 1 Trauma when consuming Food
@@ -16,231 +17,102 @@ PRIMARY RECOMMENDATION: HENG
 - I.E.D: Start with Pipe Bomb
 - Note: Available in Tunnels of Terror expansion
 
-DECK COMPOSITION (15 cards, in recommended order):
---------------------------------------------------
-NOTE: All cards are active from the start of the level. Order matters for 
-deck organization and understanding card priorities, but all effects are 
-active immediately.
+
+DECK COMPOSITION (15 cards)
 
 1. OPTICS ENTHUSIAST (Discipline - Offense)
-   - +75% Weakspot Damage
-   - +50% Weakspot Damage Resistance
-   - +15% Aim Speed
-   - Precision damage focus - core weakspot multiplier
-   - Active immediately
+   +75% Weakspot Damage. +50% Weakspot Damage Resistance. +15% Aim Speed.
 
 2. FRESH BANDAGE (Brawn - Defense)
-   - At the start of each level: recover 15 Trauma Damage, restore missing Health
-   - Essential sustain for glass cannon builds
-   - Triggers automatically at level start
+   At the start of each level: recover 15 Trauma Damage, restore missing Health.
 
 3. PATIENT HUNTER (Discipline - Offense)
-   - Every 0.75 seconds you Aim Down Sights increases Bullet Damage by 10% (up to 3 stacks)
-   - Up to +30% damage when fully scoped - perfect for precision rifle
-   - Stacks while aiming
-   - Active when ADS
+   Every 0.75 seconds you Aim Down Sights increases Bullet Damage by 10% (up to 3 stacks).
 
 4. FRONT SIGHT FOCUS (Discipline - Offense)
-   - +20% Accuracy
-   - +10% Weakspot Damage
-   - +15% Aim Speed
-   - +15% Recoil Control
-   - Precision shooting bonuses - enhances weakspot accuracy
-   - Active immediately
+   +20% Accuracy. +10% Weakspot Damage. +15% Aim Speed. +15% Recoil Control.
 
 5. LINE 'EM UP (Brawn - Offense)
-   - +10% Effective Bullet Range
-   - +15% Recoil Control
-   - +25% Bullet Penetration
-   - +25% Aim Speed
-   - Foundation for precision shooting - range and penetration
-   - Active immediately
+   +10% Effective Bullet Range. +15% Recoil Control. +25% Bullet Penetration. +25% Aim Speed.
 
 6. DOWN IN FRONT! (Discipline - Defense)
-   - While crouching you neither take nor deal Friendly Fire damage
-   - +10 Health
-   - Essential for multiplayer positioning while scoped
-   - Active when crouching
+   While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
 7. TACTICAL VEST (Discipline - Offense)
-   - +30% Rifle Ammo Capacity
-   - +10% Damage with Assault Rifles and LMGs
-   - Rifle-specific damage and ammo boost
-   - Active immediately
+   +30% Rifle Ammo Capacity. +10% Damage with Assault Rifles and LMGs.
 
 8. GLASS CANNON (Brawn - Offense)
-   - +25% Damage
-   - -30% Health
-   - Massive damage boost - core damage multiplier
-   - Active immediately
+   +25% Damage. -30% Health.
 
 9. WOODEN ARMOR (Brawn - Defense)
-   - +30% Trauma Resistance
-   - -100% Fire Resistance
-   - High trauma resistance
-   - Active immediately
+   +30% Trauma Resistance. -100% Fire Resistance.
 
 10. BODY ARMOR (Brawn - Defense)
-    - +20% Trauma Resistance
-    - Additional trauma resistance
-    - Active immediately
+    +20% Trauma Resistance.
 
 11. DURABLE (Brawn - Defense)
-    - +15% Trauma Resistance
-    - +10 Health
-    - +20% Fire Resistance
-    - Trauma resistance and health - doesn't disable ADS
-    - Active immediately
+    +15% Trauma Resistance. +10 Health. +20% Fire Resistance.
 
 12. COLD BREW COFFEE (Discipline - Mobility)
-    - +15% Reload Speed
-    - +25% Aim Speed
-    - +25% Weapon Swap Speed
-    - +25% Use Speed
-    - Speed and efficiency bonuses - doesn't disable ADS
-    - Active immediately
+    +15% Reload Speed. +25% Aim Speed. +25% Weapon Swap Speed. +25% Use Speed.
 
 13. LARGE CALIBER ROUNDS (Discipline - Offense)
-    - +7.5% Bullet Damage
-    - +200% Bullet Penetration
-    - Damage and penetration for mutations
-    - Active immediately
+    +7.5% Bullet Damage. +200% Bullet Penetration.
 
 14. FOOD SCAVENGER (Fortune - Utility)
-    - You can sense nearby Food Items
-    - Adds a moderate amount of Food Items to the world
-    - Food Items restore an additional 3 Health
-    - Sustain and trauma management through food
-    - Active immediately
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 15. SILVER BULLETS (Discipline - Offense)
-    - +10% Bullet Damage
-    - +15% Effective Bullet Range
-    - Damage and range boost - perfect for precision rifles
-    - Active immediately
+    +10% Bullet Damage. +15% Effective Bullet Range.
 
-TOTAL + BUFFS SUMMARY (WITH RECOMMENDED CLEANER):
---------------------------------------------------
 
-BASE DECK PERMANENT BUFFS (Always Active):
-- Health: -30% (Glass Cannon) + +10 (Down in Front!) + +10 (Durable) = -20% health reduction (net)
-- Damage: +25% (Glass Cannon) + +10% (Tactical Vest - rifles) + +10% (Silver Bullets) + +7.5% (Large Caliber) = +52.5% base damage
-- Weakspot Damage: +75% (Optics Enthusiast) + +10% (Front Sight Focus) = +85% total weakspot damage
-- Bullet Damage: Up to +30% additional when fully scoped (Patient Hunter - 3 stacks)
-- Bullet Penetration: +225% (Line 'Em Up +25%, Large Caliber +200%)
-- Effective Bullet Range: +25% (Line 'Em Up +10%, Silver Bullets +15%)
-- Ammo Capacity: +30% (Tactical Vest - rifles)
-- Reload Speed: +15% (Cold Brew Coffee)
-- Accuracy: +20% (Front Sight Focus)
-- Aim Speed: +65% (Optics Enthusiast +15%, Front Sight Focus +15%, Line 'Em Up +25%, Cold Brew Coffee +25%)
-- Recoil Control: +30% (Front Sight Focus +15%, Line 'Em Up +15%)
-- Trauma Resistance: +65% (Wooden Armor +30%, Body Armor +20%, Durable +15%)
-- Fire Resistance: -80% (Wooden Armor -100%, Durable +20% = net -80%)
-- Weakspot Damage Resistance: +50% (Optics Enthusiast)
+TOTAL + BUFFS SUMMARY
 
-WITH HENG (Recommended - Requires Tunnels of Terror):
-- Health: -20% net health (Glass Cannon -30% + Down in Front! +10 + Durable +10)
-- Damage: +52.5% base damage + up to +30% when scoped (Patient Hunter stacks)
-- Weakspot Damage: +85% total (Optics Enthusiast + Front Sight Focus)
-- Trauma Resistance: +65% (base deck)
-- Food Synergy: More Food spawns (Personal Chef) + gains effects when teammates eat + +1 Trauma when consuming (Comfort Food)
-- Team Benefits: +1 Health and Stamina for each Food consumed (High Carb Diet)
-- Food Detection: Can sense nearby Food (Scavenger Senses)
-- Starts with: Pipe Bomb (offensive utility)
+BASE DECK:
+- Health: -20% net (-30% Glass Cannon + +10 Down in Front! + +10 Durable)
+- Damage: +52.5% base (+25% Glass Cannon + 10% Tactical Vest + 10% Silver Bullets + 7.5% Large Caliber) + up to +30% when scoped (Patient Hunter)
+- Weakspot Damage: +85% (+75% Optics Enthusiast + 10% Front Sight Focus)
+- Bullet Penetration: +225%
+- Effective Bullet Range: +25%
+- Ammo Capacity: +30% (rifles)
+- Trauma Resistance: +65% (Wooden Armor + Body Armor + Durable)
+- Fire Resistance: -80% net (Wooden Armor -100% + Durable +20%)
+- Aim Speed: +65%
+- Accuracy: +20%
+- Reload Speed: +15%
 
-STACKING BUFFS (Build During Combat):
-- Patient Hunter: Stacks while aiming (0.75 sec per stack, up to 3 stacks = +30% damage when fully scoped)
+WITH HENG:
+- Food Synergy: More Food spawns + gains effects when teammates eat + +1 Trauma when consuming
+- Team Benefits: +1 Health and Stamina for each Food consumed
+- Food Detection: Can sense nearby Food
+- Starts with: Pipe Bomb
 
-HEALING/SUSTAIN:
-- Food Items restore +3 Health (Food Scavenger) + Heng gains same effects when teammates eat (Personal Chef) + +1 Trauma when Heng consumes (Comfort Food)
-- Team gains +1 Health and Stamina per Food consumed (High Carb Diet)
-- Fresh Bandage: Recover 15 Trauma + restore missing Health at level start
 
-SPECIAL EFFECTS:
-- CAN Aim Down Sights (no cards disable ADS - precision build!)
-- +85% Weakspot Damage total (Optics Enthusiast + Front Sight Focus)
-- Up to +30% additional damage when fully scoped (Patient Hunter - 3 stacks)
-- +200% Bullet Penetration (Large Caliber Rounds)
-- Sense nearby Food Items (Food Scavenger)
-- Friendly fire protection when crouched (Down in Front!)
+PLAYSTYLE
 
-DECK STRATEGY:
---------------
+Precision rifle specialist using M1A or Ranch Rifle with Aim Down Sights. Ranch Rifle is more reliable as it's guaranteed at starting level. Optics Enthusiast provides massive weakspot damage (+75%) and Front Sight Focus adds another +10% weakspot damage for +85% total. Patient Hunter stacks while aiming (+30% damage when fully scoped). Glass Cannon gives high damage (+52.5% base) but reduces health (-30%) - partially offset by health cards and trauma resistance (65%). Aim Down Sights and hold scope for 2.25 seconds to max Patient Hunter stacks. Fresh Bandage provides passive trauma/health recovery at level start. Food Scavenger synergizes with Heng for enhanced food healing. Crouch when near teammates (Down in Front!) to prevent friendly fire.
 
-All cards are active from the start, so you benefit from everything immediately.
 
-IMMEDIATE EFFECTS (Active from Level Start):
-- High damage output (+57.5% base) active from start
-- Massive weakspot damage (+85% total) active immediately
-- All trauma resistance stacks: Wooden Armor (+30%), Body Armor (+20%), Durable (+15%) = 65% total
-- Glass Cannon health reduction (-30%) partially offset by health cards
+STRENGTHS
 
-STACKING MECHANICS (Build During Combat):
-- Patient Hunter: Stacks while aiming (0.75 sec per stack, up to 3 stacks = +30% damage when fully scoped)
-
-CARD GROUPINGS (How They Work Together):
-- Precision Group: Optics Enthusiast + Front Sight Focus + Patient Hunter
-  → Maximum weakspot damage (+85% + up to +30% when scoped)
-- Damage Group: Glass Cannon + Tactical Vest + Silver Bullets + Large Caliber
-  → High base damage output (+52.5%)
-- Range Group: Line 'Em Up + Silver Bullets
-  → Extended range and penetration for precision shots
-- Defense Group: Wooden Armor + Body Armor + Durable + Down in Front!
-  → Trauma resistance (65%) and friendly fire protection
-- Sustain Group: Fresh Bandage + Food Scavenger + Heng's food synergy
-  → Health and trauma recovery
-
-PLAYSTYLE:
-----------
-
-Precision rifle specialist using M1A or Ranch Rifle with Aim Down Sights. Ranch Rifle is more reliable as it's guaranteed at starting level. Optics Enthusiast provides massive weakspot damage (+75%) and Front Sight Focus adds another +10% weakspot damage for +85% total. Patient Hunter stacks while aiming (+30% damage when fully scoped). Glass Cannon gives high damage (+57.5% base) but reduces health (-30%) - partially offset by health cards and trauma resistance (65%). Aim Down Sights and hold scope for 2.25 seconds to max Patient Hunter stacks. Fresh Bandage provides passive trauma/health recovery at level start. Food Scavenger synergizes with Heng for enhanced food healing. Crouch when near teammates (Down in Front!) to prevent friendly fire. Goal: precision weakspot shots from range while maintaining sustain through food and trauma resistance.
-
-HIGH DIFFICULTY CONSIDERATIONS:
---------------------------------
-
-- Trauma is a major threat - this deck has 65% trauma resistance (excellent!)
-- Glass Cannon reduces health (-30% base, -20% net with health cards) - need sustain through food
-- All trauma resistance active from level start - you're protected from first engagement
-- Fresh Bandage provides crucial trauma/health recovery at level start (15 trauma + health restore)
-- Patient Hunter requires aiming time (2.25 sec for max stacks) - position safely
-- Massive weakspot damage (+85%) allows rapid mutation elimination when hitting weakspots
-- Food Scavenger + Heng provides enhanced food healing throughout levels
-- High damage output helps kill enemies before they deal damage
-- No fire resistance (net -80%) - avoid fire damage when possible
-- Requires precision aiming - practice weakspot shots for maximum effectiveness
-
-EQUIPMENT PRIORITY:
--------------------
-
-1. Best precision rifle (M1A or Ranch Rifle - Ranch Rifle guaranteed at start)
-2. Scope attachments for weakspot targeting
-3. Penetration attachments to maximize Large Caliber Rounds
-4. Food items (for sustain, especially with Heng)
-5. Medical accessories (backup sustain)
-
-STRENGTHS:
-----------
-
-- Massive damage output (+52.5% base + up to +30% when scoped + +85% weakspot = incredible damage potential)
-- Excellent weakspot damage (+85% total - best possible)
+- Massive damage output (+52.5% base + up to +30% when scoped + +85% weakspot)
+- Excellent weakspot damage (+85% total)
 - Excellent trauma resistance (65%)
 - Reliable weapon (Ranch Rifle available at start)
-- Can Aim Down Sights for precision shots (no ADS-disabling cards!)
+- Can Aim Down Sights for precision shots
 - Good sustain through food and Fresh Bandage
 - Fast aim speed (+65%) for quick scoping
-- High accuracy (+20%) and recoil control (+30%) for precision shots
+- High accuracy and recoil control for precision shots
 - Extended range (+25%) for safer positioning
 - Bullet penetration (+225%) for hitting multiple targets
 - Weakspot damage resistance (+50%) reduces weakspot vulnerability
-- With Heng: Enhanced food synergy and food sensing
 
-WEAKNESSES:
------------
 
-- Lower health pool (-20% net health from Glass Cannon)
-- No fire resistance (net -80% - Wooden Armor -100% + Durable +20%)
-- Requires precision aiming for maximum effectiveness (weakspot shots essential)
-- Patient Hunter requires aiming time (2.25 sec for max stacks) - vulnerable during scope time
-- Less mobile when scoped (precision requires positioning)
-- Requires good positioning and map knowledge for optimal shots
+WEAKNESSES
 
+- Lower health pool (-20% net health)
+- No fire resistance (net -80%)
+- Requires precision aiming for maximum effectiveness
+- Patient Hunter requires aiming time (2.25 sec for max stacks)
+- Less mobile when scoped
+- Requires good positioning and map knowledge

@@ -1,227 +1,111 @@
 AXEMAN - MELEE
-=================
 
-This deck is optimized for high-difficulty melee combat in multiplayer.
-Focus: Melee damage, cleave, healing on kills, trauma resistance, and team support through melee.
+Difficulty: No Hope
+Weapons: Fire Axe or Claws (melee focus)
+Playstyles: front liner, tank
 
-RECOMMENDED CLEANERS:
----------------------
+This deck is optimized for high-difficulty melee combat in multiplayer. Focus: Melee damage, cleave, healing on kills, trauma resistance, and team support through melee.
 
-PRIMARY RECOMMENDATION: SHARICE
+
+RECOMMENDED CLEANERS
+
+PRIMARY: SHARICE
 - DAUNTLESS: +25% Trauma Resistance
 - FIRST RESPONDER (Team): +25% Team Bolstered Health
 - ARMORER: Armor knocked off Ridden has chance to become Makeshift Armor
 - STUNNER: Starts with Flash Bang
-- Starts with Fire Axe (powerful melee weapon)
+- Starts with Fire Axe
 - Note: Available in Tunnels of Terror expansion
 
-DECK COMPOSITION (15 cards, in recommended order):
---------------------------------------------------
-NOTE: All cards are active from the start of the level. Order matters for 
-deck organization and understanding card priorities, but all effects are 
-active immediately.
+
+DECK COMPOSITION (15 cards)
 
 1. SLUGGER (Reflex - Offense)
-   - +5 Health
-   - +10% Melee Efficiency
-   - +20% Melee Attack Speed
-   - Foundation melee stats
-   - Active immediately
+   +5 Health. +10% Melee Efficiency. +20% Melee Attack Speed.
 
 2. METH HEAD (Reflex - Offense)
-   - Every Melee swing grants 5% Melee Attack Speed and 5% Melee Stamina Efficiency for 6 seconds, stacking up to 10 times
-   - Your Melee Attacks no longer stick to tough enemies
-   - DISABLES: Aim Down Sights
-   - Core stacking melee card
-   - Stacks on each swing
+   Every Melee swing grants 5% Melee Attack Speed and 5% Melee Stamina Efficiency for 6 seconds, stacking up to 10 times. Your Melee Attacks no longer stick to tough enemies. DISABLES: Aim Down Sights.
 
 3. BRAZEN (Reflex - Offense)
-   - +15% Melee Stamina Efficiency
-   - +20% Melee Attack Speed
-   - Melee speed and efficiency
-   - Active immediately
+   +15% Melee Stamina Efficiency. +20% Melee Attack Speed.
 
 4. VANGUARD (Discipline - Offense)
-   - Melee kills heal 1 Health to yourself and teammates within 10 meters
-   - Team healing through melee
-   - Active on melee kills
+   Melee kills heal 1 Health to yourself and teammates within 10 meters.
 
 5. DOWN IN FRONT! (Discipline - Defense)
-   - While crouching you neither take nor deal Friendly Fire damage
-   - +10 Health
-   - Essential for multiplayer melee
-   - Active when crouching
+   While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
 6. AMPED UP (Brawn - Defense)
-   - When a horde is triggered, your team gains 20 Health
-   - Emergency team health
-   - Active when horde triggers
+   When a horde is triggered, your team gains 20 Health.
 
 7. MEAN DRUNK (Brawn - Offense)
-   - +40% Melee Damage
-   - Your Melee Attacks cause cleave through enemies, dealing damage in a large area
-   - Massive damage and AOE
-   - Active immediately
+   +40% Melee Damage. Your Melee Attacks cause cleave through enemies.
 
 8. SPIKY BITS (Brawn - Offense)
-   - +15 Melee Damage
-   - +20% Damage Resistance while using a Melee Weapon
-   - -15% Ammo Capacity
-   - Flat damage and defense
-   - Active immediately
+   +15 Melee Damage. +20% Damage Resistance while using a Melee Weapon. -15% Ammo Capacity.
 
 9. DURABLE (Brawn - Defense)
-   - +15% Trauma Resistance
-   - +10 Health
-   - +20% Fire Resistance
-   - Trauma and fire protection
-   - Active immediately
+   +15% Trauma Resistance. +10 Health. +20% Fire Resistance.
 
 10. HEAVY HITTER (Brawn - Offense)
-    - Melee hits always Stumble Ridden the first time they are hit
-    - This effect can only occur once per target
-    - Crowd control utility
-    - Active on first melee hit per target
+    Melee hits always Stumble Ridden the first time they are hit (once per target).
 
 11. BATTLE LUST (Brawn - Defense)
-    - Melee kills heal 1 Health and 0.125 Trauma
-    - Personal sustain
-    - Active on melee kills
+    Melee kills heal 1 Health and 0.125 Trauma.
 
 12. FANNY PACK (Reflex - Utility)
-    - +1 Support Inventory
-    - +15% Trauma Resistance
-    - Support capacity and trauma resist
-    - Active immediately
+    +1 Support Inventory. +15% Trauma Resistance.
 
 13. DOUBLE GRENADE POUCH (Brawn - Utility)
-    - +2 Offensive Inventory
-    - Offensive capacity
-    - Active immediately
+    +2 Offensive Inventory.
 
 14. FOOD SCAVENGER (Fortune - Utility)
-    - You can sense nearby Food Items
-    - Adds a moderate amount of Food Items to the world
-    - Food Items restore an additional 3 Health
-    - Sustain through food
-    - Active immediately
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 15. COPPER SCAVENGER (Fortune - Utility)
-    - You can sense nearby Copper
-    - More Copper Piles spawn
-    - Resource generation
-    - Active immediately
+    You can sense nearby Copper. More Copper Piles spawn.
 
-TOTAL + BUFFS SUMMARY (WITH RECOMMENDED CLEANER):
---------------------------------------------------
 
-BASE DECK PERMANENT BUFFS (Always Active):
-- Health: +15 Health (Slugger +5, Down in Front! +10)
-- Melee Damage: +40% (Mean Drunk) + 15 Flat Damage (Spiky Bits)
-- Melee Attack Speed: +40% base (Brazen +20%, Slugger +20%) + up to +50% (Meth Head max stacks)
-- Melee Stamina Efficiency: +25% base (Brazen +15%, Slugger +10%) + up to +50% (Meth Head max stacks)
-- Trauma Resistance: +30% (Durable +15%, Fanny Pack +15%)
+TOTAL + BUFFS SUMMARY
+
+BASE DECK:
+- Health: +15
+- Melee Damage: +40% (Mean Drunk) + 15 Flat (Spiky Bits)
+- Melee Attack Speed: +40% base (Brazen + Slugger) + up to +50% (Meth Head stacks)
+- Melee Stamina Efficiency: +25% base + up to +50% (Meth Head stacks)
+- Trauma Resistance: +30% (Durable + Fanny Pack)
 - Damage Resistance: +20% while using Melee Weapon (Spiky Bits)
 - Fire Resistance: +20% (Durable)
-- Support Inventory: +1 (Fanny Pack)
-- Offensive Inventory: +2 (Double Grenade Pouch)
-- Ammo Capacity: -15% (Spiky Bits)
+- Support Inventory: +1
+- Offensive Inventory: +2
 
-WITH SHARICE (Recommended - Requires Tunnels of Terror):
-- Health: +15 Health (base deck) + +25% Team Bolstered Health (First Responder)
-- Melee Damage: +40% + 15 Flat (base deck)
-- Trauma Resistance: +30% (base deck) + +25% (Dauntless) = +55% TOTAL (excellent trauma mitigation!)
-- Damage Resistance: +20% while using Melee Weapon (Spiky Bits)
-- Makeshift Armor: Chance from knocked armor (Armorer)
-- Starts with: Fire Axe (powerful melee weapon) + Flash Bang (utility)
+WITH SHARICE:
+- Trauma Resistance: +55% (+30% base + 25% Dauntless)
+- Team Bolstered Health: +25%
+- Makeshift Armor: Chance from knocked armor
+- Starts with: Fire Axe + Flash Bang
 
-STACKING BUFFS (Build During Combat):
-- Meth Head: Up to +50% Melee Attack Speed and +50% Melee Stamina Efficiency (10 stacks)
 
-MAXIMUM POTENTIAL (All Stacks Active):
-- Melee Attack Speed: +90% total (+40% base + 50% Meth Head stacks)
-- Melee Stamina Efficiency: +75% total (+25% base + 50% Meth Head stacks)
-- Melee Damage: +40% + 15 flat damage
-- Trauma Resistance: +55% with Sharice (best trauma mitigation for melee)
+PLAYSTYLE
 
-SPECIAL EFFECTS:
-- Cleave through enemies (Mean Drunk)
-- Melee attacks don't stick in tough enemies (Meth Head)
-- Heal 1 Health + 0.125 Trauma per melee kill (Battle Lust)
-- Heal 1 Health to self + teammates within 10m per melee kill (Vanguard)
-- Always Stumble Ridden on first melee hit (Heavy Hitter)
-- Team gains +20 Health when horde triggers (Amped Up)
-- Friendly fire protection when crouched (Down in Front!)
-- Sense nearby Food Items (Food Scavenger)
-- Food Items restore +3 Health (Food Scavenger)
-- Sense nearby Copper (Copper Scavenger)
-- Makeshift Armor generation from knocked armor (Sharice's Armorer)
+Frontline melee specialist using Fire Axe or Claws. Crouch when near teammates (Down in Front!) to prevent friendly fire. Mean Drunk provides cleave for AOE damage, handling hordes efficiently. Meth Head stacks build quickly (10 swings = max stacks). Vanguard heals teammates when you kill (+1 health to all within 10m), and Battle Lust heals you (+1 health + 0.125 trauma per kill). Heavy Hitter provides crowd control with first-hit stumbles. Use Food Scavenger for additional sustain. With Sharice, you have +55% trauma resistance and Makeshift Armor generation.
 
-DECK STRATEGY:
---------------
 
-All cards are active from the start, so you benefit from everything immediately.
-
-IMMEDIATE EFFECTS (Active from Level Start):
-- All melee damage bonuses active: Mean Drunk (+40%), Spiky Bits (+15 flat)
-- All trauma resistance stacks: Durable (+15%), Fanny Pack (+15%) = 30% total (55% with Sharice)
-- All attack speed stacks: Brazen (+20%), Slugger (+20%) = 40% base
-- Damage resistance while using melee weapon (+20%) active immediately
-
-STACKING MECHANICS (Build During Combat):
-- Meth Head: Stacks on each swing (up to 10 stacks = +50% speed/efficiency)
-
-CARD GROUPINGS (How They Work Together):
-- Melee Damage Group: Mean Drunk + Spiky Bits + Heavy Hitter
-  → High damage output with cleave and crowd control
-- Sustain Group: Battle Lust + Vanguard + Amped Up + Food Scavenger
-  → Multiple healing sources for you and team
-- Defense Group: Durable + Fanny Pack + Spiky Bits + Down in Front! + Sharice's Dauntless
-  → Trauma resistance, damage resistance, and friendly fire protection
-- Speed Group: Meth Head + Brazen + Slugger
-  → Incredible attack speed and stamina efficiency when stacked
-
-PLAYSTYLE:
-----------
-
-Frontline melee specialist using Fire Axe or Claws. Crouch when near teammates (Down in Front!) to prevent friendly fire. Mean Drunk provides cleave for AOE damage, handling hordes efficiently. Meth Head stacks build quickly (10 swings = max stacks). Vanguard heals teammates when you kill (+1 health to all within 10m), and Battle Lust heals you (+1 health + 0.125 trauma per kill). Heavy Hitter provides crowd control with first-hit stumbles. Use Food Scavenger for additional sustain (food restores +3 health). With Sharice, you have +55% trauma resistance (best possible) and Makeshift Armor generation. Your goal: clear common ridden efficiently while healing the team through kills.
-
-HIGH DIFFICULTY CONSIDERATIONS:
---------------------------------
-
-- Trauma is a major threat - this deck has 30% trauma resistance (55% with Sharice - excellent!)
-- All defensive bonuses active from level start - you're tanky from the first engagement
-- Cleave damage from Mean Drunk handles hordes efficiently
-- Team healing through Vanguard (+1 health to teammates per kill) provides valuable support
-- Battle Lust provides personal sustain (+1 health + 0.125 trauma per kill)
-- Heavy Hitter provides crowd control (first-hit stumbles)
-- Food Scavenger provides additional sustain throughout levels
-- With Sharice: 55% trauma resistance is best possible for melee builds
-
-EQUIPMENT PRIORITY:
--------------------
-
-1. Best melee weapon (Fire Axe or Claws)
-2. Secondary weapon for ranged threats (any SMG/Pistol)
-3. Medical accessories (share with team when needed)
-4. Tool kits (for team utility)
-
-STRENGTHS:
-----------
+STRENGTHS
 
 - High melee damage (+40% + 15 flat)
-- Cleave damage handles hordes efficiently (Mean Drunk)
-- Team healing through Vanguard (+1 health to teammates per kill within 10m)
-- Personal sustain through Battle Lust (+1 health + 0.125 trauma per kill)
-- Good trauma resistance (30%) - excellent with Sharice (55%)
-- Crowd control with Heavy Hitter (first-hit stumbles)
+- Cleave damage handles hordes efficiently
+- Team healing through Vanguard
+- Personal sustain through Battle Lust
+- Good trauma resistance (30%, 55% with Sharice)
+- Crowd control with Heavy Hitter
 - Fast attack speed when Meth Head stacked (+90% total)
 - High stamina efficiency when stacked (+75% total)
 - Food sustain through Food Scavenger
 - With Sharice: Best trauma resistance possible (55%) + Makeshift Armor generation
 
-WEAKNESSES:
------------
+
+WEAKNESSES
 
 - Melee-only (limited range capability)
 - Requires good positioning and map knowledge
@@ -229,4 +113,3 @@ WEAKNESSES:
 - Needs team support for ranged threats
 - Lower health pool (+15 health only)
 - Requires maintaining Meth Head stacks for optimal performance
-

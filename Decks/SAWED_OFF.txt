@@ -1,14 +1,15 @@
-SAWED-OFF - BELGIAN
-=============
+SAWED_OFF - BELGIAN
 
-This deck is optimized for high-difficulty Belgian shotgun gameplay.
-Focus: Damage resistance, trauma resistance, sustain, and Belgian-specific mechanics.
-Community build from Reddit (r/Back4Blood).
+Difficulty: No Hope
+Weapons: Belgian (secondary), any primary for mutations
+Playstyles: dps, front liner
 
-RECOMMENDED CLEANERS:
----------------------
+This deck is optimized for high-difficulty Belgian shotgun gameplay. Focus: Damage resistance, trauma resistance, sustain, and Belgian-specific mechanics.
 
-PRIMARY RECOMMENDATION: HENG
+
+RECOMMENDED CLEANERS
+
+PRIMARY: HENG
 - SCAVENGER SENSES: Can sense nearby Food and Cards
 - PERSONAL CHEF: More Food spawns, gains same effects when teammates eat food
 - COMFORT FOOD: Restores an additional 1 Trauma when consuming Food
@@ -16,203 +17,95 @@ PRIMARY RECOMMENDATION: HENG
 - I.E.D: Start with Pipe Bomb
 - Note: Available in Tunnels of Terror expansion
 
-DECK COMPOSITION (15 cards, in recommended order):
---------------------------------------------------
-NOTE: All cards are active from the start of the level. Order matters for 
-deck organization and understanding card priorities, but all effects are 
-active immediately.
+
+DECK COMPOSITION (15 cards)
 
 1. SCATTERGUN SKILLS (Discipline - Offense)
-   - +40% Reload Speed with Shotguns
-   - Belgian/reload-focused bonus
-   - Active when using shotguns
+   +40% Reload Speed with Shotguns.
 
 2. AMMO STASH (Discipline - Utility)
-   - Your secondary weapons have unlimited ammo
-   - Your secondary weapons reload 20% slower
-   - Belgian has unlimited ammo (secondary slot)
-   - Active immediately
+   Your secondary weapons have unlimited ammo. Your secondary weapons reload 20% slower.
 
 3. MAG COUPLER (Reflex - Offense)
-   - +50% Reload Speed
-   - DISABLES: Aim Down Sights
-   - Fast reloads for Belgian
-   - Active immediately
+   +50% Reload Speed. DISABLES: Aim Down Sights.
 
 4. WIDEMOUTH MAGWELL (Reflex - Offense)
-   - +40% Reload Speed
-   - Additional reload speed
-   - Active immediately
+   +40% Reload Speed.
 
 5. HUNKER DOWN (Brawn - Defense)
-   - +10% Damage Resistance while crouching
-   - +10% Accuracy while crouching
-   - Crouch for defense and accuracy
-   - Active when crouching
+   +10% Damage Resistance while crouching. +10% Accuracy while crouching.
 
 6. MOTORCYCLE HELMET (Discipline - Defense)
-   - +15% Damage Resistance
-   - +10 Health
-   - DISABLES: Aim Down Sights
-   - Damage resistance and health - fine for hip-fire Belgian build
-   - Active immediately
+   +15% Damage Resistance. +10 Health. DISABLES: Aim Down Sights.
 
 7. PADDED SUIT (Brawn - Defense)
-   - +10% Damage Resistance
-   - +5 Health
-   - -20% Stamina Efficiency
-   - Damage resistance
-   - Active immediately
+   +10% Damage Resistance. +5 Health. -20% Stamina Efficiency.
 
 8. WOODEN ARMOR (Brawn - Defense)
-   - +30% Trauma Resistance
-   - -100% Fire Resistance
-   - High trauma resistance
-   - Active immediately
+   +30% Trauma Resistance. -100% Fire Resistance.
 
 9. BODY ARMOR (Brawn - Defense)
-   - +20% Trauma Resistance
-   - Additional trauma resistance
-   - Active immediately
+   +20% Trauma Resistance.
 
 10. DURABLE (Brawn - Defense)
-    - +15% Trauma Resistance
-    - +10 Health
-    - +20% Fire Resistance
-    - Trauma and health
-    - Active immediately
+    +15% Trauma Resistance. +10 Health. +20% Fire Resistance.
 
 11. FANNY PACK (Reflex - Utility)
-    - +1 Support Inventory
-    - +15% Trauma Resistance
-    - Support capacity and trauma resist
-    - Active immediately
+    +1 Support Inventory. +15% Trauma Resistance.
 
 12. DOWN IN FRONT! (Discipline - Defense)
-    - While crouching you neither take nor deal Friendly Fire damage
-    - +10 Health
-    - Essential for multiplayer
-    - Active when crouching
+    While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
 13. BUCKSHOT BRUISER (Brawn - Defense)
-    - When using Shotguns, gain 0.25 Temporary Health for each pellet that hits
-    - Sustain through shotgun hits (multiple pellets = more temp health)
-    - Active when using shotguns
+    When using Shotguns, gain 0.25 Temporary Health for each pellet that hits.
 
 14. FOOD SCAVENGER (Fortune - Utility)
-    - You can sense nearby Food Items
-    - Adds a moderate amount of Food Items to the world
-    - Food Items restore an additional 3 Health
-    - Sustain and trauma management through food
-    - Active immediately
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 15. FIT AS A FIDDLE (Brawn - Utility)
-    - +20% Team Bolstered Health
-    - +5 Team Health
-    - Team health support
-    - Active immediately
+    +20% Team Bolstered Health. +5 Team Health.
 
-TOTAL + BUFFS SUMMARY (WITH RECOMMENDED CLEANER):
---------------------------------------------------
 
-BASE DECK PERMANENT BUFFS (Always Active):
-- Health: +25 Health (Padded Suit +5, Durable +10, Motorcycle Helmet +10) + 5 Team Health (Fit as a Fiddle)
-- Shotgun Reload Speed: +130% (Scattergun Skills +40%, Mag Coupler +50%, Widemouth Magwell +40%)
-- Trauma Resistance: +80% (Wooden Armor +30%, Body Armor +20%, Durable +15%, Fanny Pack +15%)
-- Damage Resistance: +25% (Padded Suit +10%, Motorcycle Helmet +15%) + +10% while crouching (Hunker Down) = +35% total while crouched
-- Fire Resistance: +20% (Durable) -100% (Wooden Armor) = Net -80%
-- Accuracy: +10% while crouching (Hunker Down)
-- Support Inventory: +1 (Fanny Pack)
-- Team Bolstered Health: +20% (Fit as a Fiddle)
-- Stamina Efficiency: -20% (Padded Suit)
+TOTAL + BUFFS SUMMARY
 
-WITH HENG (Recommended - Requires Tunnels of Terror):
-- Health: +25 Health + 5 Team Health (base deck)
-- Shotgun Reload Speed: +130% (base deck)
-- Trauma Resistance: +80% (base deck)
-- Damage Resistance: +35% while crouched (base deck)
-- Food Synergy: More Food spawns (Personal Chef) + gains effects when teammates eat + +1 Trauma when consuming (Comfort Food)
-- Team Benefits: +1 Health and Stamina for each Food consumed (High Carb Diet)
-- Food Detection: Can sense nearby Food (Scavenger Senses)
-- Starts with: Pipe Bomb (offensive utility)
+BASE DECK:
+- Health: +25 + 5 Team Health
+- Shotgun Reload Speed: +130% (Scattergun Skills + Mag Coupler + Widemouth Magwell)
+- Trauma Resistance: +80% (Wooden Armor + Body Armor + Durable + Fanny Pack)
+- Damage Resistance: +25% base + +10% while crouching = +35% total while crouched
+- Fire Resistance: -80% net (Wooden Armor -100% + Durable +20%)
+- Accuracy: +10% while crouching
+- Support Inventory: +1
+- Team Bolstered Health: +20%
 
-SPECIAL EFFECTS:
-- Unlimited ammo for Belgian (Ammo Stash - Belgian is secondary weapon)
-- Belgian reloads 20% slower (Ammo Stash penalty, but +130% reload speed compensates)
-- +0.25 Temporary Health per pellet that hits (Buckshot Bruiser - Belgian fires 12 pellets, so 3 temp health per hit if all connect)
-- DISABLES: Aim Down Sights (Mag Coupler, Motorcycle Helmet) - hip-fire build
-- Crouch for damage resistance and accuracy (Hunker Down - +10% damage resistance + +10% accuracy while crouched)
-- Friendly fire protection when crouched (Down in Front!)
-- Sense nearby Food Items (Food Scavenger)
-- Food Items restore +3 Health (Food Scavenger) + Heng gains same effects when teammates eat (Personal Chef) + +1 Trauma when Heng consumes (Comfort Food)
-- Team gains +1 Health and Stamina per Food consumed (High Carb Diet)
+WITH HENG:
+- Food Synergy: More Food spawns + gains effects when teammates eat + +1 Trauma when consuming
+- Team Benefits: +1 Health and Stamina for each Food consumed
+- Food Detection: Can sense nearby Food
+- Starts with: Pipe Bomb
 
-DECK STRATEGY:
---------------
 
-All cards are active from the start, so you benefit from everything immediately.
+PLAYSTYLE
 
-IMMEDIATE EFFECTS (Active from Level Start):
-- Best possible trauma resistance (80%) active from start
-- All reload speed bonuses active (+130% total)
-- Unlimited ammo active (Belgian is secondary, Ammo Stash)
-- All defensive bonuses active
+Belgian specialist with unlimited ammo through Ammo Stash (Belgian is a secondary weapon). Extremely high trauma resistance (80%) and damage resistance (+35% while crouched) make you very tanky. Very fast reload speed (+130% total) compensates for Ammo Stash penalty (20% slower base reload). Crouch for additional defense and accuracy. Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet, 12 pellets = 3 temp health per hit if all connect). Food Scavenger synergizes with Heng for trauma management. Down in Front! prevents friendly fire when crouched.
 
-CARD GROUPINGS (How They Work Together):
-- Reload Group: Scattergun Skills + Mag Coupler + Widemouth Magwell
-  → Incredibly fast reload speed (+130%)
-- Defense Group: Motorcycle Helmet + Wooden Armor + Body Armor + Durable + Fanny Pack + Padded Suit + Hunker Down
-  → Trauma resistance (80%) and damage resistance (+35% while crouched)
-- Sustain Group: Buckshot Bruiser + Food Scavenger + Heng's food synergy
-  → Multiple healing sources
-- Utility Group: Ammo Stash + Down in Front! + Food Scavenger
-  → Unlimited ammo, friendly fire protection, and food generation
 
-PLAYSTYLE:
-----------
+STRENGTHS
 
-Belgian specialist with unlimited ammo through Ammo Stash (Belgian is a secondary weapon). Extremely high trauma resistance (80%) and damage resistance (+35% while crouched) make you very tanky. Scattergun Skills provides reload bonuses (+40% with shotguns). Very fast reload speed (+130% total) compensates for Ammo Stash penalty (20% slower base reload). Crouch for additional defense and accuracy (Hunker Down provides +10% damage resistance + +10% accuracy while crouched). Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet, 12 pellets = 3 temp health per hit if all connect). Food Scavenger synergizes with Heng for trauma management - Heng gains effects when teammates eat food, and food provides enhanced healing. Down in Front! prevents friendly fire when crouched. Goal: tanky shotgun build with unlimited ammo and high survivability.
-
-HIGH DIFFICULTY CONSIDERATIONS:
---------------------------------
-
-- Trauma is a major threat - this deck has 80% trauma resistance (excellent!)
-- All trauma resistance active from level start - you're protected from first engagement
-- Unlimited ammo (Belgian secondary) means no ammo management needed
-- Fast reload speed (+130%) allows rapid sustained fire
-- Buckshot Bruiser provides temp health from shotgun hits - Belgian fires 12 pellets per shot
-- Food Scavenger + Heng provides enhanced food healing throughout levels
-- High health pool (+25) provides survivability
-- Crouch for optimal defense (+35% damage resistance total while crouched)
-- No fire resistance (net -80%) - avoid fire damage when possible
-
-EQUIPMENT PRIORITY:
--------------------
-
-1. Belgian (secondary weapon - guaranteed availability)
-2. Primary weapon for mutations (any AR/LMG/SMG)
-3. Food items (for sustain, especially with Heng)
-4. Medical accessories (backup sustain)
-
-STRENGTHS:
-----------
-
-- Excellent trauma resistance (80% - very high)
-- Unlimited ammo (Belgian secondary, Ammo Stash)
-- Fast reload speed (+130% - incredibly fast)
+- Excellent trauma resistance (80%)
+- Unlimited ammo (Belgian secondary)
+- Fast reload speed (+130%)
 - Good sustain through kills and food
-- Temp health generation from shotgun hits (Buckshot Bruiser - 12 pellets per shot)
+- Temp health generation from shotgun hits
 - High health pool (+25 health)
-- Friendly fire protection when crouched (Down in Front!)
-- Damage resistance while crouched (+35% total with Hunker Down + Padded Suit + Motorcycle Helmet)
+- Friendly fire protection when crouched
+- Damage resistance while crouched (+35% total)
 - With Heng: Enhanced food synergy and food sensing
 
-WEAKNESSES:
------------
 
-- Negative fire resistance (net -80% - Wooden Armor -100% + Durable +20%)
+WEAKNESSES
+
+- Negative fire resistance (net -80%)
 - Requires maintaining crouch for optimal defense
 - Belgian is close-range weapon (limited range)
-- Requires Heng for best food synergy
-- DISABLES: Aim Down Sights (Mag Coupler, Motorcycle Helmet) - hip-fire only
-
+- DISABLES: Aim Down Sights (hip-fire only)
