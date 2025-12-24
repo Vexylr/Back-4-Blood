@@ -57,11 +57,11 @@ DECK COMPOSITION (15 cards)
 11. ON YOUR MARK... (Reflex - Mobility)
     When a horde is triggered: team restores 7.5% Ammo and gains 10% Move Speed while firing, 15% Reload Speed, and 25% Swap Speed for 30 seconds.
 
-12. AMMO SCAVENGER (Discipline - Utility)
-    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
+12. COPPER SCAVENGER (Fortune - Utility)
+    You can sense nearby Copper. More Copper Piles spawn.
 
-13. FOOD SCAVENGER (Fortune - Utility)
-    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
+13. AMMO SCAVENGER (Discipline - Utility)
+    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
 14. NEEDS OF THE MANY (Discipline - Defense)
     -10% Health. Team Effect: 1 Team Extra Life.
@@ -82,6 +82,7 @@ BASE DECK:
 - Reload Speed: +30% total during hordes (+15% On Your Mark)
 - Weapon Swap Speed: +25% during hordes (On Your Mark)
 - Move Speed: While shooting/melee: -40% (Hyper-Focused penalty). During hordes while firing: -30% net (+10% On Your Mark - 40% Hyper-Focused)
+- Economy: Copper Scavenger (sense copper + more spawns)
 - Team Support: 1 Extra Life (Needs Of The Many), +20 Health per horde (Amped Up), Ammo restore + speed buffs during hordes (On Your Mark)
 
 WITH JIM:

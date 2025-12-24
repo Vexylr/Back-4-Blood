@@ -52,11 +52,11 @@ DECK COMPOSITION (15 cards)
 11. SCAR TISSUE (Brawn - Defense)
     Take 1 less damage from all Ridden. +50% Acid Resistance.
 
-12. PEP TALK (Reflex - Utility)
-    While Reviving teammates, take 3 less damage from all Ridden. Teammates recover an additional 10 Health when you revive them.
+12. COPPER SCAVENGER (Fortune - Utility)
+    You can sense nearby Copper. More Copper Piles spawn.
 
-13. AMMO SCAVENGER (Discipline - Utility)
-    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
+13. PEP TALK (Reflex - Utility)
+    While Reviving teammates, take 3 less damage from all Ridden. Teammates recover an additional 10 Health when you revive them.
 
 14. DOWN IN FRONT! (Discipline - Defense)
     While crouching you neither take nor deal Friendly Fire damage. +10 Health.

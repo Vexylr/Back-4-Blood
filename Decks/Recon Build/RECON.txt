@@ -60,11 +60,11 @@ DECK COMPOSITION (15 cards)
 12. LARGE CALIBER ROUNDS (Discipline - Offense)
     +7.5% Bullet Damage. +200% Bullet Penetration.
 
-13. AMMO SCAVENGER (Discipline - Utility)
-    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
+13. COPPER SCAVENGER (Fortune - Utility)
+    You can sense nearby Copper. More Copper Piles spawn.
 
-14. DOWN IN FRONT! (Discipline - Defense)
-    While crouching you neither take nor deal Friendly Fire damage. +10 Health.
+14. AMMO SCAVENGER (Discipline - Utility)
+    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
 15. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.

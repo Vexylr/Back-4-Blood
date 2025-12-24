@@ -66,14 +66,14 @@ DECK COMPOSITION (15 cards)
 12. SLUGGER (Reflex - Offense)
     +5% Health. +10% Melee Stamina Efficiency. +20% Melee Attack Speed.
 
-13. FOOD SCAVENGER (Fortune - Utility)
+13. COPPER SCAVENGER (Fortune - Utility)
+    You can sense nearby Copper. More Copper Piles spawn.
+
+14. MONEY GRUBBERS (Fortune - Utility)
+    Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.
+
+15. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
-
-14. WELL RESTED (Brawn - Utility)
-    +20% Team Overheal. +5% Team Healing Efficiency.
-
-15. AMMO SCAVENGER (Discipline - Utility)
-    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
 
 TOTAL + BUFFS SUMMARY
@@ -86,8 +86,7 @@ BASE DECK:
 - Trauma Resistance: +35% (Body Armor + Durable)
 - Damage Resistance: +20% while using Melee Weapon (Spiky Bits)
 - Fire Resistance: +20% (Durable)
-- Team Overheal: +20% (Well Rested)
-- Team Healing Efficiency: +5% (Well Rested)
+- Economy: Copper Scavenger (sense copper + more spawns), Money Grubbers (+3 copper per loot, up to 75 total)
 
 WITH HOLLY:
 - Health: +20 + 5% + +1 per kill (Grand Slam = +2 per kill with Battle Lust)

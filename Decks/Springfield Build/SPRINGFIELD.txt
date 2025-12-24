@@ -53,17 +53,17 @@ DECK COMPOSITION (15 cards)
 11. DURABLE (Brawn - Defense)
     +15% Trauma Resistance. +10 Health. +20% Fire Resistance.
 
-12. AMMO SCAVENGER (Discipline - Utility)
+12. COPPER SCAVENGER (Fortune - Utility)
+    You can sense nearby Copper. More Copper Piles spawn.
+
+13. AMMO SCAVENGER (Discipline - Utility)
     You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
-13. FOOD SCAVENGER (Fortune - Utility)
+14. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
-14. WELL RESTED (Brawn - Utility)
+15. WELL RESTED (Brawn - Utility)
     +20% Team Overheal. +5% Team Healing Efficiency.
-
-15. SILVER BULLETS (Discipline - Offense)
-    +10% Bullet Damage. +15% Effective Bullet Range.
 
 
 TOTAL + BUFFS SUMMARY

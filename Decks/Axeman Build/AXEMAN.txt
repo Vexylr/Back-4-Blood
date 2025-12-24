@@ -53,17 +53,17 @@ DECK COMPOSITION (15 cards)
 11. BATTLE LUST (Brawn - Defense)
     Melee kills heal 1 Health and 0.125 Trauma.
 
-12. FANNY PACK (Reflex - Utility)
-    +1 Support Inventory. +15% Trauma Resistance.
+12. COPPER SCAVENGER (Fortune - Utility)
+    You can sense nearby Copper. More Copper Piles spawn.
 
-13. AMMO SCAVENGER (Discipline - Utility)
+13. MONEY GRUBBERS (Fortune - Utility)
+    Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.
+
+14. AMMO SCAVENGER (Discipline - Utility)
     You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
-14. FOOD SCAVENGER (Fortune - Utility)
+15. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
-
-15. WELL RESTED (Brawn - Utility)
-    +20% Team Overheal. +5% Team Healing Efficiency.
 
 
 TOTAL + BUFFS SUMMARY
@@ -73,14 +73,14 @@ BASE DECK:
 - Melee Damage: +40% (Mean Drunk) + 15 Flat (Spiky Bits)
 - Melee Attack Speed: +40% base (Brazen + Slugger) + up to +50% (Meth Head stacks)
 - Melee Stamina Efficiency: +25% base + up to +50% (Meth Head stacks)
-- Trauma Resistance: +30% (Durable + Fanny Pack)
+- Trauma Resistance: +15% (Durable)
 - Damage Resistance: +20% while using Melee Weapon (Spiky Bits)
 - Fire Resistance: +20% (Durable)
-- Support Inventory: +1
+- Economy: Copper Scavenger (sense copper + more spawns), Money Grubbers (+3 copper per loot, up to 75 total)
 - Offensive Inventory: +2
 
 WITH SHARICE:
-- Trauma Resistance: +55% (+30% base + 25% Dauntless)
+- Trauma Resistance: +40% (+15% base + 25% Dauntless)
 - Team Bolstered Health: +25%
 - Makeshift Armor: Chance from knocked armor
 - Starts with: Fire Axe + Flash Bang
@@ -97,12 +97,13 @@ STRENGTHS
 - Cleave damage handles hordes efficiently
 - Team healing through Vanguard
 - Personal sustain through Battle Lust
-- Good trauma resistance (30%, 55% with Sharice)
+- Good trauma resistance (15%, 40% with Sharice)
 - Crowd control with Heavy Hitter
 - Fast attack speed when Meth Head stacked (+90% total)
 - High stamina efficiency when stacked (+75% total)
 - Food sustain through Food Scavenger
-- With Sharice: Best trauma resistance possible (55%) + Makeshift Armor generation
+- With Sharice: High trauma resistance (40%) + Makeshift Armor generation
+- Copper generation for team upgrades (Copper Scavenger + Money Grubbers)
 
 
 WEAKNESSES

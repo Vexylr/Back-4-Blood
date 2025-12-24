@@ -24,50 +24,50 @@ ALTERNATIVE: WALKER
 
 DECK COMPOSITION (15 cards)
 
-1. LINE 'EM UP (Brawn - Offense)
+1. GLASS CANNON (Reflex - Offense)
+   +25% Damage. -30% Health.
+
+2. LINE 'EM UP (Brawn - Offense)
    +10% Effective Bullet Range, +15% Recoil Control, +25% Bullet Penetration, +25% Aim Speed.
 
-2. FRESH BANDAGE (Brawn - Defense)
+3. FRESH BANDAGE (Brawn - Defense)
    At the start of each level: recover 15 Trauma Damage, restore missing Health.
 
-3. CONFIDENT KILLER (Brawn - Offense)
+4. CONFIDENT KILLER (Brawn - Offense)
    When you or your team kills a Mutation: gain 1% damage (up to 15%) until end of level.
 
-4. PATIENT HUNTER (Discipline - Offense)
+5. PATIENT HUNTER (Discipline - Offense)
    Every 0.75 seconds you Aim Down Sights increases Bullet Damage by 10% (up to 3 stacks).
 
-5. STOCK POUCH (Reflex - Offense)
+6. STOCK POUCH (Reflex - Offense)
    +30% Sniper Ammo Capacity. +10% Damage with Sniper Rifles.
 
-6. DOWN IN FRONT! (Discipline - Defense)
+7. DOWN IN FRONT! (Discipline - Defense)
    While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
-7. COMBAT TRAINING (Discipline - Offense)
+8. COMBAT TRAINING (Discipline - Offense)
    +5% Bullet Damage. +1.5 Bullet Stumble Damage. +7.5 Melee Stumble Damage.
 
-8. LARGE CALIBER ROUNDS (Discipline - Offense)
+9. LARGE CALIBER ROUNDS (Discipline - Offense)
    +7.5% Bullet Damage. +200% Bullet Penetration.
 
-9. SILVER BULLETS (Discipline - Offense)
-   +10% Bullet Damage. +15% Effective Bullet Range.
+10. SILVER BULLETS (Discipline - Offense)
+    +10% Bullet Damage. +15% Effective Bullet Range.
 
-10. COLD BREW COFFEE (Discipline - Mobility)
+11. COLD BREW COFFEE (Discipline - Mobility)
     +15% Reload Speed. +25% Aim Speed. +25% Weapon Swap Speed. +25% Use Speed.
 
-11. AMMO POUCH (Discipline - Offense)
+12. AMMO POUCH (Discipline - Offense)
     +25% Ammo Capacity. +2.5% Bullet Damage.
 
-12. WELL RESTED (Brawn - Utility)
+13. COPPER SCAVENGER (Fortune - Utility)
+    You can sense nearby Copper. More Copper Piles spawn.
+
+14. WELL RESTED (Brawn - Utility)
     +20% Team Overheal. +5% Team Healing Efficiency.
 
-13. AMMO SCAVENGER (Discipline - Utility)
+15. AMMO SCAVENGER (Discipline - Utility)
     You can sense nearby Ammo. 1 Additional Ammo crate spawn.
-
-14. FOOD SCAVENGER (Fortune - Utility)
-    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
-
-15. GLASS CANNON (Reflex - Offense)
-   +25% Damage. -30% Health.
 
 
 TOTAL + BUFFS SUMMARY
