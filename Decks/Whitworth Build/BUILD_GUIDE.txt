@@ -2,7 +2,7 @@ WHITWORTH BUILD GUIDE
 
 Glass cannon precision damage dealer focused on weakspot damage and mutation elimination. You deal massive damage but have low health - positioning and precision aiming are critical. Your job is eliminating mutations and bosses efficiently through precise weakspot shots.
 
-You're playing DPS. Low health means you're fragile (+15 health total), so stay at range and let your massive damage do the work. Position yourself safely, aim for weakspots, and eliminate mutations before they become a threat.
+You're playing DPS. Low health means you're fragile (-15% net health), so stay at range and let your massive damage do the work. Position yourself safely, aim for weakspots, and eliminate mutations before they become a threat.
 
 Stay at range. You're fragile, so find a safe position where you can aim at weakspots without taking damage. Use cover and elevation when you can. Crouch when near teammates with Down in Front! to prevent friendly fire while scoped.
 
@@ -14,7 +14,7 @@ If you're using Jim, Clean Kill stacks on precision kills for up to +25% damage,
 
 Use Assault Rifles or LMGs. Tactical Vest gives +10% damage with these weapons. M1A or Ranch Rifle work great for precision. Snipers also work well and benefit from Suppressing Fire utility. Prioritize weapons with good weakspot damage and manageable recoil.
 
-Your base damage is +52.5% from cards. Add up to +30% from Patient Hunter when scoped, up to +15% from Confident Killer from mutation kills, and up to +25% from Jim's Clean Kill if you're using Jim. Total potential is up to +103% with Jim, or +88% with Walker.
+Your base damage is +50% from cards (+25% Glass Cannon + +2.5% Ammo Pouch + +5% Combat Training + +7.5% Large Caliber + +10% Silver Bullets). Add up to +30% from Patient Hunter when scoped, up to +15% from Confident Killer from mutation kills, and up to +25% from Jim's Clean Kill if you're using Jim. Total potential is up to +130% with Jim, or +115% with Walker.
 
 With Jim, focus on precision weakspot shots and avoid taking damage to maximize Clean Kill stacks. This is a high-skill build that rewards good aim.
 

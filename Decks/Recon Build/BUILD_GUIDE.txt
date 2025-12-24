@@ -12,7 +12,7 @@ With Karlee, you can sense nearby hazards (sleepers, traps, etc.). This prevents
 
 High stamina pool (+35% + +10% team) and regeneration (+50% + +10% team) allows constant movement and kiting. You can run and gun indefinitely with proper stamina management.
 
-Use SMGs for Speed Demon synergy (+4% move speed + +35% reload speed while using SMG). Your damage output is good (+22.5% base + +10% weakspot), so you can contribute while maintaining speed.
+Use SMGs for Speed Demon synergy (+4% move speed + +35% reload speed while using SMG). Your damage output is good (+20% base bullet damage + +10% with SMGs from Mag Carrier = +30% total with SMGs, plus +10% weakspot damage from Front Sight Focus), so you can contribute while maintaining speed.
 
 Mandatory PT gives +10% team stamina and stamina regen. With Karlee, DEXTEROUS gives +50% team use speed for objectives. Utility Scavenger generates Quick Accessories for the team.
 
