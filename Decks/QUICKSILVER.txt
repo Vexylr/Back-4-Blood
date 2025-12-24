@@ -1,0 +1,245 @@
+QUICKSILVER - SCOUT
+===================
+
+This deck is optimized for high-difficulty scouting and speed gameplay in multiplayer.
+Focus: Maximum movement speed, stamina, hazard detection, and solo survivability.
+
+RECOMMENDED CLEANERS:
+---------------------
+
+PRIMARY RECOMMENDATION: KARLEE (Karlee Fincher)
+- DANGER SENSE: Can sense nearby hazards
+- DEXTEROUS (Team): +50% Team Use Speed
+- BAG OF TRICKS: +1 Quick Inventory
+- NIMBLE FINGERED: Start with Tool Kit
+
+ALTERNATIVE: EVANGELO
+- BORN SURVIVOR: Can break out of grabs, +75% Breakout Speed
+- LIGHT FOOTED (Team): +5% Team Movement Speed
+- FIT: +25% Stamina Regen
+- FIRESTARTER: Start with Molotov
+
+DECK COMPOSITION (15 cards, in recommended order):
+--------------------------------------------------
+NOTE: All cards are active from the start of the level. Order matters for 
+deck organization and understanding card priorities, but all effects are 
+active immediately.
+
+1. CROSS TRAINERS (Reflex - Mobility)
+   - +20% Stamina
+   - +20% Stamina Regen
+   - +3% Move Speed
+   - +5 Health
+   - Foundation mobility and stamina
+   - Active immediately
+
+2. ENERGY DRINK (Reflex - Mobility)
+   - +15% Stamina
+   - +25% Weapon Swap Speed
+   - +15% Move Speed while firing
+   - +10% Slow Resistance
+   - Mobility and speed bonuses
+   - Active immediately
+
+3. DASH (Reflex - Mobility)
+   - +5% Move Speed
+   - +5% Sprint Speed
+   - Base movement speed
+   - Active immediately
+
+4. BREAKOUT (Reflex - Utility)
+   - Breakout: Hold E to free yourself from Grabs
+   - +50% Breakout Cooldown Reduction (Base 60 seconds)
+   - Solo survivability
+   - Active when grabbed
+
+5. SPEED DEMON (Reflex - Mobility)
+   - +4% Move Speed while using an SMG
+   - +35% Reload Speed while using an SMG
+   - SMG-specific bonuses
+   - Active when using SMG
+
+6. HELLFIRE (Reflex - Mobility)
+   - +45% Move Speed while firing
+   - +3% Move Speed while not firing
+   - Massive movement speed while shooting
+   - Active immediately
+
+7. MANDATORY PT (Brawn - Mobility)
+   - +10% Team Stamina
+   - +10% Team Stamina Regen
+   - Team stamina support
+   - Active immediately
+
+8. MAG CARRIER (Reflex - Offense)
+   - +30% Pistol/SMG Ammo Capacity
+   - +10% Damage with Pistols and SMGs
+   - SMG/pistol optimization
+   - Active immediately
+
+9. AMMO POUCH (Discipline - Offense)
+   - +25% Ammo Capacity
+   - +2.5% Bullet Damage
+   - Ammo capacity
+   - Active immediately
+
+10. FRONT SIGHT FOCUS (Discipline - Offense)
+    - +20% Accuracy
+    - +10% Weakspot Damage
+    - +15% Aim Speed
+    - +15% Recoil Control
+    - Precision shooting bonuses
+    - Active immediately
+
+11. SILVER BULLETS (Discipline - Offense)
+    - +10% Bullet Damage
+    - +15% Effective Bullet Range
+    - Damage and range
+    - Active immediately
+
+12. LARGE CALIBER ROUNDS (Discipline - Offense)
+    - +7.5% Bullet Damage
+    - +200% Bullet Penetration
+    - Damage and penetration
+    - Active immediately
+
+13. ENERGY BAR (Reflex - Mobility)
+    - +30% Stamina Regeneration
+    - +5 Health
+    - Stamina regen
+    - Active immediately
+
+14. COLD BREW COFFEE (Discipline - Mobility)
+    - +15% Reload Speed
+    - +25% Aim Speed
+    - +25% Weapon Swap Speed
+    - +25% Use Speed
+    - Speed and efficiency bonuses
+    - Active immediately
+
+15. UTILITY SCAVENGER (Discipline - Utility)
+    - You can sense nearby Quick Accessories
+    - More Quick Accessories spawn
+    - Utility item generation
+    - Active immediately
+
+TOTAL + BUFFS SUMMARY (WITH RECOMMENDED CLEANER):
+--------------------------------------------------
+
+BASE DECK PERMANENT BUFFS (Always Active):
+- Health: +10 Health (Cross Trainers +5, Energy Bar +5)
+- Move Speed: +11% base (Cross Trainers +3%, Dash +5%, Hellfire +3%) + +45% while firing (Hellfire) + +15% while firing (Energy Drink) + +4% with SMG (Speed Demon) = up to +75% while firing with SMG
+- Sprint Speed: +5% (Dash)
+- Stamina: +35% (Cross Trainers +20%, Energy Drink +15%) + +10% Team (Mandatory PT)
+- Stamina Regen: +50% (Cross Trainers +20%, Energy Bar +30%) + +10% Team (Mandatory PT)
+- Bullet Damage: +22.5% base (Mag Carrier +10% SMG/pistol, Silver Bullets +10%, Large Caliber +7.5%, Ammo Pouch +2.5%) + +10% weakspot (Front Sight Focus)
+- Ammo Capacity: +55% (Mag Carrier +30% SMG/pistol, Ammo Pouch +25%)
+- Reload Speed: +50% (Speed Demon +35% SMG, Cold Brew +15%)
+- Weapon Swap Speed: +50% (Energy Drink +25%, Cold Brew +25%)
+- Aim Speed: +40% (Front Sight Focus +15%, Cold Brew +25%)
+- Use Speed: +25% (Cold Brew)
+- Breakout Cooldown: 50% reduction (Base 60s → 30s)
+- Slow Resistance: +10% (Energy Drink)
+- Accuracy: +20% (Front Sight Focus)
+- Recoil Control: +15% (Front Sight Focus)
+- Bullet Penetration: +200% (Large Caliber Rounds)
+- Effective Bullet Range: +15% (Silver Bullets)
+
+WITH KARLEE (Recommended):
+- Health: +10 Health (base deck)
+- Move Speed: Up to +75% while firing with SMG (base deck)
+- Stamina: +35% + +10% Team (Mandatory PT)
+- Stamina Regen: +50% + +10% Team (Mandatory PT)
+- Use Speed: +25% (Cold Brew) + +50% Team (Dexterous) = +75% total use speed
+- Quick Inventory: +1 (Bag of Tricks)
+- Hazard Detection: Can sense nearby hazards (Danger Sense)
+- Starts with: Tool Kit (utility for objectives)
+- Team Benefits: +50% Team Use Speed (Dexterous) helps with objectives, hazard detection prevents team wipes
+
+WITH EVANGELO (Alternative):
+- Health: +10 Health (base deck)
+- Move Speed: Up to +75% while firing with SMG (base deck) + +5% Team (Light Footed)
+- Stamina: +35% + +10% Team (Mandatory PT)
+- Stamina Regen: +50% + +10% Team (Mandatory PT) + +25% (Fit) = +85% total stamina regen
+- Breakout: Can break out of grabs, +75% Breakout Speed (Born Survivor) + Breakout card = double escape capability
+- Starts with: Molotov (offensive utility)
+- Team Benefits: +5% Team Movement Speed (Light Footed)
+
+SPECIAL EFFECTS:
+- Breakout from grabs (Breakout card, enhanced with Evangelo's Born Survivor)
+- Sense nearby Quick Accessories (Utility Scavenger)
+- More Quick Accessories spawn (Utility Scavenger)
+- +200% Bullet Penetration (Large Caliber Rounds)
+- Sense nearby hazards (Karlee's Danger Sense)
+- Start with Tool Kit (Karlee's Nimble Fingered)
+
+DECK STRATEGY:
+--------------
+
+All cards are active from the start, so you benefit from everything immediately.
+
+IMMEDIATE EFFECTS (Active from Level Start):
+- Maximum movement speed bonuses active (up to +75% while firing with SMG)
+- High stamina pool and regeneration active
+- All speed bonuses stack immediately
+- Breakout capability active (30s cooldown)
+
+CARD GROUPINGS (How They Work Together):
+- Speed Group: Hellfire + Speed Demon + Energy Drink + Dash + Cross Trainers
+  → Maximum movement speed while maintaining combat effectiveness
+- Stamina Group: Cross Trainers + Energy Bar + Energy Drink + Mandatory PT
+  → High stamina pool and regeneration for constant movement
+- Damage Group: Mag Carrier + Silver Bullets + Large Caliber + Ammo Pouch + Front Sight Focus
+  → Good damage output while maintaining speed
+- Utility Group: Utility Scavenger + Breakout + Karlee's abilities
+  → Hazard detection, item access, and solo survivability
+
+PLAYSTYLE:
+----------
+
+Fast-moving scout that runs ahead to clear obstacles, detect hazards, and report back to team. With Karlee, sense sleepers and traps (Knowledge is Power) to prevent team wipes, and sense Tool Kits (Hack It) for objectives. Use SMGs for maximum speed bonuses (up to +75% movement speed while firing). Your incredible movement speed lets you kite enemies and escape dangerous situations. Breakout ensures you can escape grabs when separated from team (30s cooldown, enhanced with Evangelo). Your role: clear the path, detect threats, and handle yourself solo when needed. Stay mobile, stay ahead, but don't abandon the team completely. Use your speed to kite mutations and common ridden while team focuses fire.
+
+HIGH DIFFICULTY CONSIDERATIONS:
+--------------------------------
+
+- Movement speed is crucial for avoiding damage - this build maximizes speed
+- Low health pool (+10) means positioning and movement are critical
+- Breakout capability (30s cooldown) provides solo survivability when separated
+- With Karlee: Hazard detection prevents team wipes from sleepers/traps
+- High stamina pool and regen allows constant movement and kiting
+- Good damage output allows you to contribute while scouting
+- Team stamina support (Mandatory PT) benefits entire team
+- Utility Scavenger ensures tool kit availability for objectives
+- Can get separated from team - need to balance scouting with team coordination
+
+EQUIPMENT PRIORITY:
+-------------------
+
+1. Best SMG (for Speed Demon synergy and movement speed)
+2. Stun Gun (Karlee starts with one, utility for escapes)
+3. Tool kits (for objectives, especially with Karlee's Hack It)
+4. Quick slot items (Utility Scavenger generates these)
+
+STRENGTHS:
+----------
+
+- Incredible movement speed (up to +75% while firing with SMG)
+- High stamina pool (+35% + team support) and regeneration (+50-85%)
+- Solo survivability (Breakout with 30s cooldown, enhanced with Evangelo)
+- Hazard detection with Karlee (prevents team wipes)
+- Good damage output (+22.5% base + weakspot damage) while maintaining speed
+- Quick item access (Utility Scavenger generates Quick Accessories)
+- Team stamina support (Mandatory PT)
+- With Karlee: +50% Team Use Speed for objectives + +1 Quick Inventory + starts with Tool Kit
+- With Evangelo: Enhanced breakout capability + team movement speed
+
+WEAKNESSES:
+-----------
+
+- Very low health pool (+10 health only)
+- Requires constant movement to maximize effectiveness
+- Can get separated from team if not careful
+- Less defensive than other builds (relies on speed for survival)
+- Lower health means mistakes are costly
+- Needs good positioning and movement skills
+

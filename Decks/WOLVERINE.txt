@@ -1,8 +1,29 @@
-BACK 4 BLOOD - MELEE NIGHTMARE MULTIPLAYER DECK
-================================================
+WOLVERINE - MELEE
+==================
 
-This deck is optimized for melee gameplay on Nightmare difficulty in multiplayer.
+This deck is optimized for high-difficulty melee gameplay in multiplayer.
 Focus: High damage, trauma resistance, sustain, and team support.
+
+RECOMMENDED CLEANERS:
+---------------------
+
+PRIMARY RECOMMENDATION: HOLLY (Holly Forrester)
+- GRAND SLAM: +1 Health per kill (stacks with Battle Lust for massive sustain)
+- CARDIO (Team): +25 Team Stamina (crucial for melee stamina management)
+- TOUGH AS NAILS (Team): +5% Team Damage Resistance (additional tankiness)
+- Starts with Bat (melee weapon ready)
+
+SECONDARY RECOMMENDATION: SHARICE
+- DAUNTLESS: +25% Trauma Resistance (stacks with deck's 35% = 60% total!)
+- FIRST RESPONDER (Team): +25% Team Bolstered Health (increased temp health pool)
+- ARMORER: Chance to get Makeshift Armor from knocked armor (synergizes with Sunder)
+- Starts with Fire Axe (powerful melee weapon)
+- Note: Requires Tunnels of Terror expansion
+
+ALTERNATIVE: WALKER (Elijah Walker)
+- PRAGMATIC (Team): +10 Team Health
+- MODEL SOLDIER: +10% Damage (applies to melee damage)
+- INCOMING!: Pings reduce mutation damage by 10% (defensive utility)
 
 DECK COMPOSITION (15 cards, in recommended order):
 --------------------------------------------------
@@ -20,7 +41,7 @@ CORE FOUNDATION (Critical Cards):
 
 2. BATTLE LUST (Brawn - Defense)
    - Melee kills heal 1 Health and 0.125 Trauma
-   - Essential sustain for Nightmare difficulty
+   - Essential sustain for high difficulties
    - Provides both health and trauma healing from melee kills
    - Active from your very first kill
 
@@ -61,7 +82,7 @@ DAMAGE MULTIPLIERS (All Active Simultaneously):
 
 9. BODY ARMOR (Brawn - Defense)
    - +20% Trauma Resistance (active from level start)
-   - Essential for Nightmare - trauma is one of the biggest threats
+   - Essential for high difficulties - trauma is one of the biggest threats
    - Stacks with other trauma resistance
 
 10. DURABLE (Brawn - Defense)
@@ -72,7 +93,7 @@ DAMAGE MULTIPLIERS (All Active Simultaneously):
 
 11. FRESH BANDAGE (Brawn - Defense)
     - At the start of each level: recover 15 Trauma Damage, restore missing Health
-    - Passive healing between levels on Nightmare is crucial
+    - Passive healing between levels on high difficulties is crucial
     - Triggers automatically at each level start
 
 12. SCAR TISSUE (Brawn - Defense)
@@ -96,10 +117,10 @@ DAMAGE MULTIPLIERS (All Active Simultaneously):
     - +20% Melee Attack Speed (active immediately)
     - All bonuses are permanent and stack with other cards
 
-TOTAL + BUFFS SUMMARY:
-----------------------
+TOTAL + BUFFS SUMMARY (WITH RECOMMENDED CLEANER):
+--------------------------------------------------
 
-PERMANENT BUFFS (Always Active):
+BASE DECK PERMANENT BUFFS (Always Active):
 - Health: +20 Health (Down in Front! +10, Durable +10) + 5% Health (Slugger)
 - Melee Damage: +40% (Mean Drunk) + 20% vs Mutations (Ignore the Pain) + 15 Flat Damage (Spiky Bits)
 - Melee Attack Speed: +40% (Brazen +20%, Slugger +20%) + up to +50% (Meth Head max stacks) + up to +50% (Berserker stacks)
@@ -111,16 +132,56 @@ PERMANENT BUFFS (Always Active):
 - Damage Reduction: -1 flat damage from all Ridden (Scar Tissue)
 - Move Speed: Up to +50% (Berserker stacks)
 
+WITH HOLLY (Recommended):
+- Health: +20 Health + 5% Health (base) + +1 Health per kill (Grand Slam)
+- Stamina: +25 Team Stamina (Cardio) - massive boost for melee stamina pool
+- Damage Resistance: +20% (Spiky Bits) + 5% Team Damage Resistance (Tough as Nails) = +25% total
+- Trauma Resistance: +35% (base deck)
+- Healing: +1 Health per kill (Battle Lust) + +1 Health per kill (Grand Slam) = +2 Health per kill total
+- Starts with: Bat (melee weapon ready)
+
+WITH SHARICE (Alternative - Requires Tunnels of Terror):
+- Health: +20 Health + 5% Health (base) + +25% Team Bolstered Health (First Responder)
+- Trauma Resistance: +35% (base deck) + +25% (Dauntless) = +60% TOTAL (incredible trauma mitigation!)
+- Damage Resistance: +20% while using Melee Weapon (Spiky Bits)
+- Makeshift Armor: Chance from knocked armor (Armorer) + chance from Sunder card = double armor sources
+- Starts with: Fire Axe (powerful melee weapon)
+
+WITH WALKER (Alternative):
+- Health: +20 Health + 5% Health (base) + +10 Team Health (Pragmatic)
+- Melee Damage: +40% (Mean Drunk) + 20% vs Mutations (Ignore the Pain) + 15 Flat + +10% (Model Soldier) = +50% base + 20% vs Mutations + 15 flat
+- Damage Reduction: -1 flat damage (Scar Tissue) + 10% reduced damage from pinged mutations (Incoming!)
+- Trauma Resistance: +35% (base deck)
+
 STACKING BUFFS (Build During Combat):
 - Meth Head: Up to +50% Melee Speed and +50% Melee Stamina Efficiency (10 stacks)
 - Berserker: Up to significant bonuses per kill (+5% Melee Damage, +5% Melee Speed, +5% Move Speed for 4 sec each kill)
 - Sunder: Up to +15% increased damage taken by enemies (debuff, stacks per hit)
+- Holly's Grand Slam: +1 Health per kill (stacks with Battle Lust for +2 Health per kill total)
 
 MAXIMUM POTENTIAL (All Stacks Active):
+
+BASE DECK:
 - Melee Damage: +40% base + 20% vs Mutations + 15 flat + Berserker stacks
 - Melee Attack Speed: +40% base + up to +100% from stacks (Meth Head + Berserker)
 - Melee Stamina Efficiency: +25% base + up to +50% from Meth Head stacks = up to +75% total
 - Move Speed: Up to +50% from Berserker stacks
+
+WITH HOLLY:
+- Melee Damage: +40% base + 20% vs Mutations + 15 flat + Berserker stacks
+- Melee Attack Speed: +40% base + up to +100% from stacks (Meth Head + Berserker)
+- Melee Stamina Efficiency: +25% base + up to +50% from Meth Head stacks = up to +75% total + +25 Stamina pool (Cardio)
+- Move Speed: Up to +50% from Berserker stacks
+- Healing: +2 Health per kill (Battle Lust + Grand Slam) - incredible sustain
+- Damage Resistance: +25% total (+20% Spiky Bits + 5% Tough as Nails)
+
+WITH SHARICE:
+- Melee Damage: +40% base + 20% vs Mutations + 15 flat + Berserker stacks
+- Melee Attack Speed: +40% base + up to +100% from stacks (Meth Head + Berserker)
+- Melee Stamina Efficiency: +25% base + up to +50% from Meth Head stacks = up to +75% total
+- Move Speed: Up to +50% from Berserker stacks
+- Trauma Resistance: +60% TOTAL (+35% base + 25% Dauntless) - best in game for trauma mitigation
+- Makeshift Armor: Double sources (Sunder + Armorer) for maximum armor generation
 
 SPECIAL EFFECTS:
 - Cleave through enemies (Mean Drunk)
@@ -131,7 +192,21 @@ SPECIAL EFFECTS:
 - Heal 2 Health + 3 Stamina when dealing melee damage to mutations (Ignore the Pain)
 - Recover 15 Trauma + restore missing Health at level start (Fresh Bandage)
 - Melee hits that destroy armor can create Makeshift Armor (Sunder)
-- -15% Ammo Capacity (Spiky Bits - negligible for melee build)
+
+WITH HOLLY:
+- +1 Health per kill (Grand Slam) = +2 Health per kill total with Battle Lust
+- +25 Team Stamina (Cardio) - massive stamina pool for melee swings
+- +5% Team Damage Resistance (Tough as Nails) - additional tankiness for entire team
+
+WITH SHARICE:
+- +25% Trauma Resistance (Dauntless) = 60% total trauma resistance with deck
+- +25% Team Bolstered Health (First Responder) - increased temp health effectiveness
+- Makeshift Armor generation from knocked armor (Armorer) + Sunder = double armor sources
+
+WITH WALKER:
+- +10% Damage (Model Soldier) - applies to all melee damage
+- +10 Team Health (Pragmatic) - additional health pool for team
+- 10% reduced damage from pinged mutations (Incoming!) - defensive utility
 
 ALTERNATIVE/SUBSTITUTION OPTIONS:
 ---------------------------------
@@ -157,17 +232,18 @@ All cards are active from the start, so you benefit from everything immediately.
 
 IMMEDIATE EFFECTS (Active from Level Start):
 - All damage bonuses stack: Mean Drunk (+40%), Spiky Bits (+15 flat), Ignore the Pain (+20% vs mutations)
-- All trauma resistance stacks: Body Armor (+20%), Durable (+15%) = 35% total
+- All trauma resistance stacks: Body Armor (+20%), Durable (+15%) = 35% total (60% with Sharice)
 - All stamina efficiency stacks: Meth Head (up to +50%), Brazen (+15%), Slugger (+10%)
 - All attack speed stacks: Meth Head (up to +50%), Berserker (up to +50%), Brazen (+20%), Slugger (+20%)
 - Fresh Bandage triggers at start of each level (trauma and health recovery)
 - Scar Tissue provides flat -1 damage reduction from all sources
+- Cleaner bonuses active immediately: Holly's stamina boost, Sharice's trauma resist, Walker's damage boost
 
 STACKING MECHANICS (Build as You Fight):
 - Meth Head: Stacks on each swing (up to 10 stacks = +50% speed/efficiency)
 - Berserker: Stacks on each kill (up to significant bonuses, 4 sec duration)
 - Sunder: Stacks on each melee hit (up to 15% increased damage taken by enemies)
-- Soften Up: Stacks on each melee hit (up to 15% reduced damage dealt by enemies)
+- Holly's Grand Slam: +1 Health per kill (stacks with Battle Lust for +2 Health per kill total)
 
 CARD GROUPINGS (How They Work Together):
 - Multiplayer Safety: Down in Front! + Vanguard
@@ -186,17 +262,23 @@ PLAYSTYLE:
 
 Frontline melee tank that clears common ridden for the team. Crouch when near teammates (Down in Front!) to prevent friendly fire. Prioritize common ridden to stack Berserker buffs and maintain sustain. Your cleave damage from Mean Drunk handles hordes efficiently. Meth Head stacks build quickly (10 swings = max), and Berserker makes you stronger with each kill. Vanguard heals teammates when you kill, making you valuable team support. Stay aggressive - all bonuses are active from level start, and your trauma resistance + healing handles sustain well.
 
-NIGHTMARE CONSIDERATIONS:
--------------------------
+HIGH DIFFICULTY CONSIDERATIONS:
+--------------------------------
 
 - Trauma is the biggest threat - this deck has 35% trauma resistance (Body Armor + Durable)
   → Combined with Fresh Bandage healing 15 trauma each level start
+  → With Sharice: 60% trauma resistance total (best possible trauma mitigation in game)
 - All trauma resistance is active from level start - no need to wait
 - Battle Lust provides trauma healing during combat (0.125 trauma per kill)
 - High damage output from the start helps kill enemies before they deal damage
+  → With Walker: +10% additional damage (Model Soldier) for even faster kills
 - Team healing via Vanguard keeps everyone alive (active from first kill)
-- Flat damage reduction from Scar Tissue (-1 per hit) is crucial on Nightmare
+  → With Holly: +2 Health per kill total (Battle Lust + Grand Slam) for incredible sustain
+- Flat damage reduction from Scar Tissue (-1 per hit) is crucial on high difficulties
 - All defensive bonuses stack immediately - you're tanky from the first engagement
+  → With Holly: +25% Team Stamina (Cardio) + 5% Team Damage Resistance (Tough as Nails)
+  → With Sharice: 60% trauma resistance + Makeshift Armor generation
+  → With Walker: +10 Team Health + 10% reduced damage from pinged mutations
 
 EQUIPMENT PRIORITY:
 -------------------
@@ -219,12 +301,17 @@ STRENGTHS:
 
 - Friendly fire protection via Down in Front! (essential for multiplayer)
 - Incredible damage output from the start (all damage cards active immediately)
+  → With Walker: +10% additional damage boost (Model Soldier)
 - Excellent sustain (health and trauma healing from multiple sources)
+  → With Holly: +2 Health per kill total (Battle Lust + Grand Slam)
 - Team support via Vanguard (active from first kill) and Down in Front! (prevents FF)
+  → With Holly: +25 Team Stamina (Cardio) + 5% Team Damage Resistance (Tough as Nails)
 - High survivability with trauma resistance (35% + Fresh Bandage)
+  → With Sharice: 60% trauma resistance total (best possible in game)
 - Cleave damage handles hordes well (Mean Drunk active immediately)
 - Scales even better as you kill enemies (Berserker stacks)
 - All bonuses active from level start - no waiting for cards to "come online"
 - Stacking mechanics make you stronger as you fight (Meth Head, Berserker, Sunder)
 - Can safely fight in front of teammates without taking or dealing friendly fire (when crouched)
+- Cleaner bonuses provide additional power and synergize perfectly with deck
 

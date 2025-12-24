@@ -1,0 +1,219 @@
+LIFELINE - HEALER
+=================
+
+This deck is optimized for high-difficulty healing and medical support in multiplayer.
+Focus: Maximum healing efficiency, trauma management, team health sustain, and medical item generation.
+
+RECOMMENDED CLEANERS:
+---------------------
+
+PRIMARY RECOMMENDATION: DOC (Seo-yeon)
+- FIELD MEDIC: Doc can apply field dressings to each teammate once per level, healing them for 25 Health
+- SKILLED PHYSICIAN: +15% Healing Efficiency
+- TRIAGE (Team): +20% Team Trauma Resistance
+- READY TO OPERATE: Start with a Bandage
+
+DECK COMPOSITION (15 cards, in recommended order):
+--------------------------------------------------
+NOTE: All cards are active from the start of the level. Order matters for 
+deck organization and understanding card priorities, but all effects are 
+active immediately.
+
+1. DASH (Reflex - Mobility)
+   - +5% Move Speed
+   - +5% Sprint Speed
+   - Mobility to reach teammates quickly
+   - Active immediately
+
+2. EMT BAG (Discipline - Utility)
+   - +50% Healing Efficiency
+   - Core healing multiplier
+   - Active immediately
+
+3. ENERGY BAR (Reflex - Mobility)
+   - +30% Stamina Regeneration
+   - +5 Health
+   - Stamina for positioning and healing
+   - Active immediately
+
+4. COMBAT KNIFE (Brawn - Utility)
+   - Turns your Bash into a Knife that counts as a melee weapon
+   - Utility for close encounters
+   - Active immediately
+
+5. DOWN IN FRONT! (Discipline - Defense)
+   - While crouching you neither take nor deal Friendly Fire damage
+   - +10 Health
+   - Essential for multiplayer positioning while healing
+   - Active when crouching
+
+6. GROUP THERAPY (Discipline - Utility)
+   - When you use a Medical Accessory, all teammates heal for 8 Health
+   - Team healing on every medical use
+   - Active when using medical items
+
+7. AMPED UP (Brawn - Defense)
+   - When a horde is triggered, your team gains 20 Health
+   - Emergency team health during hordes
+   - Active when horde triggers
+
+8. DURABLE (Brawn - Defense)
+   - +15% Trauma Resistance
+   - +10 Health
+   - +20% Fire Resistance
+   - Personal survivability
+   - Active immediately
+
+9. FRESH BANDAGE (Brawn - Defense)
+   - At the start of each level: recover 15 Trauma Damage, restore missing Health
+   - Passive level-start healing
+   - Triggers automatically at level start
+
+10. FIELD SURGEON (Discipline - Utility)
+    - When you use a Medical Accessory, it also heals 3 Trauma to the target
+    - Trauma healing on medical use
+    - Active when using medical items
+
+11. ANTIBIOTIC OINTMENT (Discipline - Utility)
+    - +25% Healing Efficiency
+    - When you use a Medical Accessory, the target gains 20 Temporary Health
+    - Healing efficiency and temp health
+    - Active when using medical items
+
+12. CHARITABLE SOUL (Discipline - Utility)
+    - Healing a teammate also applies 50% of the effect to you
+    - Self-healing while healing others
+    - Active when healing teammates
+
+13. SUPPORT SCAVENGER (Discipline - Utility)
+    - You can sense nearby Support Accessories
+    - More Support Accessories spawn
+    - Medical item generation
+    - Active immediately
+
+14. EXPERIENCED EMT (Discipline - Utility)
+    - When you use a Medical Accessory, the target gains +10% Maximum Health, Stamina, and Stamina Regen until end of level
+    - Powerful temporary buff on medical use
+    - Active when using medical items
+
+15. WELL FED (Fortune - Utility)
+    - +10 Team Health
+    - Team health boost
+    - Active immediately
+
+TOTAL + BUFFS SUMMARY (WITH RECOMMENDED CLEANER):
+--------------------------------------------------
+
+BASE DECK PERMANENT BUFFS (Always Active):
+- Health: +25 Health (Down in Front! +10, Energy Bar +5, Durable +10) + 10 Team Health (Well Fed)
+- Healing Efficiency: +75% (EMT Bag +50%, Antibiotic Ointment +25%)
+- Trauma Resistance: +15% (Durable)
+- Fire Resistance: +20% (Durable)
+- Move Speed: +5% (Dash)
+- Sprint Speed: +5% (Dash)
+- Stamina Regen: +30% (Energy Bar)
+- Support Accessories: More spawns (Support Scavenger)
+- Support Inventory: +1 (Experienced EMT - if counting Doc's bonus)
+
+WITH DOC (Recommended):
+- Health: +25 Health + 10 Team Health (base deck)
+- Healing Efficiency: +75% (base deck) + +15% (Skilled Physician) = +90% total healing efficiency
+- Trauma Resistance: +15% (Durable) + +20% Team Trauma Resistance (Triage)
+- Healing Ability: Can apply field dressings to each teammate once per level for 25 Health (Field Medic)
+- Starts with: Bandage (healing item)
+- Team Benefits: +20% Team Trauma Resistance (Triage) helps entire team resist trauma damage
+
+HEALING EFFECTS (When Using Medical Accessories):
+- Target heals: Normal amount × 1.90 (Base +75% + Doc's +15% = +90% total efficiency)
+- All teammates heal: +8 Health (Group Therapy)
+- Target gains: +3 Trauma healing (Field Surgeon)
+- Target gains: +20 Temporary Health (Antibiotic Ointment)
+- Target gains: +10% Max Health, Stamina, Stamina Regen until end of level (Experienced EMT)
+- You heal: 50% of what target receives (Charitable Soul)
+
+DOC'S FIELD MEDIC ABILITY:
+- Can apply field dressings to each teammate once per level (25 Health each)
+- Perfect for emergency heals when items are scarce
+- Works in addition to medical item healing
+- Total: 3 free heals per level (one per teammate)
+
+SPECIAL EFFECTS:
+- Team gains +20 Health when horde triggers (Amped Up)
+- Recover 15 Trauma + restore Health at level start (Fresh Bandage)
+- Sense nearby Support Accessories (Support Scavenger)
+- More Support Accessories spawn (Support Scavenger)
+- Friendly fire protection when crouched (Down in Front!)
+- Combat Knife replaces bash
+- Can heal without items (Doc's Field Medic)
+
+DECK STRATEGY:
+--------------
+
+All cards are active from the start, so you benefit from everything immediately.
+
+IMMEDIATE EFFECTS (Active from Level Start):
+- Maximum healing efficiency (+90% with Doc) active from start
+- Support Scavenger provides medical item generation throughout level
+- Fresh Bandage triggers at start of each level (trauma and health recovery)
+- All healing bonuses stack for massive efficiency
+
+CARD GROUPINGS (How They Work Together):
+- Healing Efficiency Group: EMT Bag + Antibiotic Ointment + Doc's Skilled Physician
+  → Maximum healing output (+90% efficiency)
+- Team Healing Group: Group Therapy + Field Surgeon + Antibiotic Ointment + Experienced EMT
+  → Every medical use provides multiple benefits to entire team
+- Sustain Group: Fresh Bandage + Amped Up + Charitable Soul
+  → Multiple healing sources for team and self
+- Utility Group: Support Scavenger + Combat Knife + Dash + Energy Bar
+  → Item generation, positioning, and utility
+
+PLAYSTYLE:
+----------
+
+Primary healer and medical support specialist. Your goal is to keep everyone's health bar green. Use Support Scavenger to find medical items, then use them with maximum efficiency (+90% with Doc). Group Therapy makes every medical use heal the whole team (+8 health each). Field Surgeon handles trauma (+3 trauma per use), and Antibiotic Ointment provides temp health (+20 temp health per use). Experienced EMT gives powerful buffs (+10% max health/stamina/stamina regen). Charitable Soul keeps you healthy while healing others (50% of healing applies to you). Doc's Field Medic ability gives one free 25 Health heal per teammate per level - use these strategically for emergencies. Position yourself safely, stay mobile with Dash and Energy Bar, and prioritize keeping the team alive. Crouch when near teammates (Down in Front!) to prevent friendly fire while healing.
+
+HIGH DIFFICULTY CONSIDERATIONS:
+--------------------------------
+
+- Trauma is a major threat - Field Surgeon provides +3 trauma healing per medical use
+- Fresh Bandage heals 15 trauma at level start - crucial for sustain
+- Maximum healing efficiency (+90%) means medical items are incredibly effective
+- Support Scavenger ensures medical item availability throughout levels
+- Group Therapy makes every medical use valuable for entire team
+- Doc's Field Medic provides emergency heals (25 Health per teammate per level) without consuming items
+- Doc's Triage provides +20% Team Trauma Resistance - helps prevent trauma accumulation
+- Experienced EMT buffs are powerful - prioritize using medical items on teammates
+- Amped Up provides emergency +20 team health during hordes
+- Personal survivability is moderate - stay positioned safely, let team protect you
+
+EQUIPMENT PRIORITY:
+-------------------
+
+1. Best medical accessories (bandages, pills, medkits)
+2. Support slot items for team utility
+3. Light weapon for self-defense (you're support, not DPS)
+4. Tool kits (for team utility and saferoom upgrades)
+
+STRENGTHS:
+----------
+
+- Maximum healing efficiency (+90% with Doc) - most effective healer possible
+- Multiple healing effects per medical use (Group Therapy, Field Surgeon, Antibiotic Ointment, Experienced EMT)
+- Trauma healing capability (+3 trauma per medical use)
+- Team-wide healing with Group Therapy (+8 health to all teammates per medical use)
+- Medical item generation (Support Scavenger ensures item availability)
+- Powerful buffs with Experienced EMT (+10% max health/stamina/stamina regen)
+- Self-healing while healing others (Charitable Soul - 50% of healing applies to you)
+- Doc's Field Medic provides free 25 Health heals (one per teammate per level) without items
+- Doc's +20% Team Trauma Resistance (Triage) benefits entire team's trauma mitigation
+
+WEAKNESSES:
+-----------
+
+- Lower personal damage output (support role, not DPS)
+- Requires medical items to maximize effectiveness (though Doc's Field Medic helps)
+- Needs team coordination for optimal positioning
+- Limited personal survivability (only +25 health, moderate trauma resistance)
+- Vulnerable if caught alone or overwhelmed
+- Team-dependent for protection while healing
+

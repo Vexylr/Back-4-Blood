@@ -1,0 +1,196 @@
+WIDOWMAKER - RIFLE
+==================
+
+This deck is optimized for high-difficulty rifle gameplay using M1A or Ranch Rifle.
+Focus: High damage, trauma resistance, accuracy, and reliable weapon availability.
+Community build from Reddit (r/Back4Blood).
+
+RECOMMENDED CLEANERS:
+---------------------
+
+PRIMARY RECOMMENDATION: HENG
+- SCAVENGER SENSES: Can sense nearby Food and Cards
+- PERSONAL CHEF: More Food spawns, gains same effects when teammates eat food
+- COMFORT FOOD: Restores an additional 1 Trauma when consuming Food
+- HIGH CARB DIET (Team): +1 Health and Stamina for each Food consumed
+- I.E.D: Start with Pipe Bomb
+- Note: Available in Tunnels of Terror expansion
+
+DECK COMPOSITION (15 cards, in recommended order):
+--------------------------------------------------
+NOTE: All cards are active from the start of the level. Order matters for 
+deck organization and understanding card priorities, but all effects are 
+active immediately.
+
+1. OPTICS ENTHUSIAST (Discipline - Offense)
+   - +75% Weakspot Damage
+   - +50% Weakspot Damage Resistance
+   - +15% Aim Speed
+   - Precision damage focus
+   - Active immediately
+
+2. METH HEAD (Reflex - Offense)
+   - Every Melee swing grants 5% Melee Attack Speed and 5% Melee Stamina Efficiency for 6 seconds, stacking up to 10 times
+   - Your Melee Attacks no longer stick to tough enemies
+   - DISABLES: Aim Down Sights
+   - Maintain stacks with bash for stamina efficiency
+   - Stacks on each swing
+
+3. SPIKY BITS (Brawn - Offense)
+   - +15 Melee Damage
+   - +20% Damage Resistance while using a Melee Weapon
+   - -15% Ammo Capacity
+   - Flat damage and defense
+   - Active immediately
+
+4. MEAN DRUNK (Brawn - Offense)
+   - +40% Melee Damage
+   - Your Melee Attacks cause cleave through enemies
+   - Melee damage boost (works with bash/knife)
+   - Active immediately
+
+5. BATTLE LUST (Brawn - Defense)
+   - Melee kills heal 1 Health and 0.125 Trauma
+   - Sustain through melee kills (bash/knife)
+   - Active on melee kills
+
+6. BRAZEN (Reflex - Offense)
+   - +15% Melee Stamina Efficiency
+   - +20% Melee Attack Speed
+   - Melee efficiency and speed
+   - Active immediately
+
+7. WOODEN ARMOR (Brawn - Defense)
+   - +30% Trauma Resistance
+   - -100% Fire Resistance
+   - High trauma resistance
+   - Active immediately
+
+8. BODY ARMOR (Brawn - Defense)
+   - +20% Trauma Resistance
+   - Additional trauma resistance
+   - Active immediately
+
+9. MOTORCYCLE HELMET (Brawn - Defense)
+   - +15% Trauma Resistance
+   - Additional trauma resistance
+   - Active immediately
+
+10. MAG COUPLER (Reflex - Offense)
+    - +50% Reload Speed
+    - DISABLES: Aim Down Sights
+    - Fast reloads
+    - Active immediately
+
+11. QUICK KILL (Reflex - Offense)
+    - +50% Accuracy
+    - DISABLES: Aim Down Sights
+    - Accuracy without ADS (hip-fire)
+    - Active immediately
+
+12. GLASS CANNON (Brawn - Offense)
+    - +25% Damage
+    - -30% Health
+    - Massive damage boost
+    - Active immediately
+
+13. HELLFIRE (Reflex - Mobility)
+    - +45% Move Speed while firing
+    - +3% Move Speed while not firing
+    - Mobility while shooting
+    - Active immediately
+
+14. FOOD SCAVENGER (Fortune - Utility)
+    - You can sense nearby Food Items
+    - Adds a moderate amount of Food Items to the world
+    - Food Items restore an additional 3 Health
+    - Sustain and trauma management through food
+    - Active immediately
+
+15. SILVER BULLETS (Discipline - Offense)
+    - +10% Bullet Damage
+    - +15% Effective Bullet Range
+    - Damage and range boost
+    - Active immediately
+
+TOTAL + BUFFS SUMMARY (WITH RECOMMENDED CLEANER):
+--------------------------------------------------
+
+BASE DECK PERMANENT BUFFS (Always Active):
+- Health: -30% (Glass Cannon) - base health reduction
+- Damage: +25% (Glass Cannon) + +10% (Silver Bullets) = +35% total
+- Weakspot Damage: +75% (Optics Enthusiast)
+- Melee Damage: +40% (Mean Drunk) + 15 Flat Damage (Spiky Bits)
+- Melee Attack Speed: +20% (Brazen) + up to +50% (Meth Head stacks)
+- Melee Stamina Efficiency: +15% (Brazen) + up to +50% (Meth Head stacks)
+- Trauma Resistance: +65% (Wooden Armor +30%, Body Armor +20%, Motorcycle Helmet +15%)
+- Damage Resistance: +20% while using Melee Weapon (Spiky Bits)
+- Weakspot Damage Resistance: +50% (Optics Enthusiast)
+- Fire Resistance: -100% (Wooden Armor)
+- Reload Speed: +50% (Mag Coupler)
+- Accuracy: +50% (Quick Kill)
+- Aim Speed: +15% (Optics Enthusiast)
+- Effective Bullet Range: +15% (Silver Bullets)
+- Move Speed: +3% base (Hellfire) + +45% while firing (Hellfire)
+- Ammo Capacity: -15% (Spiky Bits)
+
+WITH HENG (Recommended - Requires Tunnels of Terror):
+- Health: -30% (Glass Cannon) - base health reduction
+- Damage: +35% total (base deck)
+- Weakspot Damage: +75% (base deck)
+- Trauma Resistance: +65% (base deck)
+- Food Synergy: More Food spawns (Personal Chef) + gains effects when teammates eat + +1 Trauma when consuming (Comfort Food)
+- Team Benefits: +1 Health and Stamina for each Food consumed (High Carb Diet)
+- Food Detection: Can sense nearby Food (Scavenger Senses)
+- Starts with: Pipe Bomb (offensive utility)
+
+STACKING BUFFS (Build During Combat):
+- Meth Head: Up to +50% Melee Attack Speed and +50% Melee Stamina Efficiency (10 stacks) - maintain with periodic bash
+
+HEALING/SUSTAIN:
+- +1 Health + 0.125 Trauma per melee kill (Battle Lust)
+- Food Items restore +3 Health (Food Scavenger) + Heng gains same effects when teammates eat (Personal Chef) + +1 Trauma when Heng consumes (Comfort Food)
+- Team gains +1 Health and Stamina per Food consumed (High Carb Diet)
+
+SPECIAL EFFECTS:
+- DISABLES: Aim Down Sights (Meth Head, Mag Coupler, Quick Kill) - hip-fire build
+- +75% Weakspot Damage (Optics Enthusiast)
+- Melee attacks don't stick in tough enemies (Meth Head)
+- Sense nearby Food Items (Food Scavenger)
+- Cleave through enemies with melee (Mean Drunk)
+
+PLAYSTYLE:
+----------
+
+Rifle specialist using M1A or Ranch Rifle. Ranch Rifle is more reliable as it's guaranteed at starting level. Optics Enthusiast provides massive weakspot damage (+75%) for precision shots. Glass Cannon gives high damage but reduces health - offset by trauma resistance (65%) and sustain. Use bash periodically to maintain Meth Head stacks. Battle Lust heals from bash/melee kills. Food Scavenger synergizes with Heng for trauma management. Hip-fire accuracy build with Quick Kill. Use offhand SMG ammo weapon for versatility. Goal: precision damage with weakspot focus while maintaining sustain.
+
+STRENGTHS:
+----------
+
+- High damage output (+35% base + 75% weakspot)
+- Excellent trauma resistance (65%)
+- Reliable weapon (Ranch Rifle available at start)
+- Good sustain through kills and food
+- Fast reload speed
+- High hip-fire accuracy
+- Mobility while firing
+- Weakspot damage resistance
+
+WEAKNESSES:
+-----------
+
+- Low health pool (-30% from Glass Cannon)
+- No fire resistance (-100%)
+- Requires maintaining Meth Head stacks with bash
+- Requires precision aiming for maximum effectiveness
+- Can replace slot 15 (Silver Bullets) with other options
+
+COMMUNITY NOTES:
+----------------
+
+- Ranch Rifle is more reliable variant (guaranteed at starting level)
+- Melee cards work with bash/knife for common ridden clearing
+- Use bash against Ridden, main weapon against mutations to preserve ammo
+- Food Scavenger synergizes with Heng's abilities
+- Replace Food Scavenger if not using Heng
+

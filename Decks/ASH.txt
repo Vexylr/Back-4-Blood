@@ -1,0 +1,168 @@
+ASH - BELGIAN
+=============
+
+This deck is optimized for high-difficulty Belgian shotgun gameplay.
+Focus: Damage resistance, trauma resistance, sustain, and Belgian-specific mechanics.
+Community build from Reddit (r/Back4Blood).
+
+RECOMMENDED CLEANERS:
+---------------------
+
+PRIMARY RECOMMENDATION: HENG
+- SCAVENGER SENSES: Can sense nearby Food and Cards
+- PERSONAL CHEF: More Food spawns, gains same effects when teammates eat food
+- COMFORT FOOD: Restores an additional 1 Trauma when consuming Food
+- HIGH CARB DIET (Team): +1 Health and Stamina for each Food consumed
+- I.E.D: Start with Pipe Bomb
+- Note: Available in Tunnels of Terror expansion
+
+DECK COMPOSITION (15 cards, in recommended order):
+--------------------------------------------------
+NOTE: All cards are active from the start of the level. Order matters for 
+deck organization and understanding card priorities, but all effects are 
+active immediately.
+
+1. SCATTERGUN SKILLS (Discipline - Offense)
+   - +40% Reload Speed with Shotguns
+   - Belgian/reload-focused bonus
+   - Active when using shotguns
+
+2. AMMO STASH (Discipline - Utility)
+   - Your secondary weapons have unlimited ammo
+   - Your secondary weapons reload 20% slower
+   - Belgian has unlimited ammo (secondary slot)
+   - Active immediately
+
+3. MAG COUPLER (Reflex - Offense)
+   - +50% Reload Speed
+   - DISABLES: Aim Down Sights
+   - Fast reloads for Belgian
+   - Active immediately
+
+4. WIDEMOUTH MAGWELL (Reflex - Offense)
+   - +40% Reload Speed
+   - Additional reload speed
+   - Active immediately
+
+5. HUNKER DOWN (Brawn - Defense)
+   - +10% Damage Resistance while crouching
+   - +10% Accuracy while crouching
+   - Crouch for defense and accuracy
+   - Active when crouching
+
+6. MOTORCYCLE HELMET (Brawn - Defense)
+   - +15% Trauma Resistance
+   - Trauma resistance
+   - Active immediately
+
+7. PADDED SUIT (Brawn - Defense)
+   - +10% Damage Resistance
+   - +5 Health
+   - -20% Stamina Efficiency
+   - Damage resistance
+   - Active immediately
+
+8. WOODEN ARMOR (Brawn - Defense)
+   - +30% Trauma Resistance
+   - -100% Fire Resistance
+   - High trauma resistance
+   - Active immediately
+
+9. BODY ARMOR (Brawn - Defense)
+   - +20% Trauma Resistance
+   - Additional trauma resistance
+   - Active immediately
+
+10. DURABLE (Brawn - Defense)
+    - +15% Trauma Resistance
+    - +10 Health
+    - +20% Fire Resistance
+    - Trauma and health
+    - Active immediately
+
+11. FANNY PACK (Reflex - Utility)
+    - +1 Support Inventory
+    - +15% Trauma Resistance
+    - Support capacity and trauma resist
+    - Active immediately
+
+12. DOWN IN FRONT! (Discipline - Defense)
+    - While crouching you neither take nor deal Friendly Fire damage
+    - +10 Health
+    - Essential for multiplayer
+    - Active when crouching
+
+13. BUCKSHOT BRUISER (Brawn - Defense)
+    - When using Shotguns, gain 0.25 Temporary Health for each pellet that hits
+    - Sustain through shotgun hits (multiple pellets = more temp health)
+    - Active when using shotguns
+
+14. FOOD SCAVENGER (Fortune - Utility)
+    - You can sense nearby Food Items
+    - Adds a moderate amount of Food Items to the world
+    - Food Items restore an additional 3 Health
+    - Sustain and trauma management through food
+    - Active immediately
+
+15. FIT AS A FIDDLE (Brawn - Utility)
+    - +20% Team Bolstered Health
+    - +5 Team Health
+    - Team health support
+    - Active immediately
+
+TOTAL + BUFFS SUMMARY:
+----------------------
+
+PERMANENT BUFFS (Always Active):
+- Health: +15 Health (Padded Suit +5, Durable +10) + 5 Team Health (Fit as a Fiddle)
+- Shotgun Reload Speed: +130% (Scattergun Skills +40%, Mag Coupler +50%, Widemouth Magwell +40%)
+- Trauma Resistance: +95% (Motorcycle Helmet +15%, Wooden Armor +30%, Body Armor +20%, Durable +15%, Fanny Pack +15%)
+- Damage Resistance: +10% (Padded Suit) + +10% while crouching (Hunker Down)
+- Fire Resistance: +20% (Durable) -100% (Wooden Armor) = Net -80% (but +20% from Durable mitigates slightly)
+- Accuracy: +10% while crouching (Hunker Down)
+- Support Inventory: +1 (Fanny Pack)
+- Team Bolstered Health: +20% (Fit as a Fiddle)
+- Stamina Efficiency: -20% (Padded Suit)
+
+SPECIAL EFFECTS:
+- Unlimited ammo for Belgian (Ammo Stash - Belgian is secondary weapon)
+- Belgian reloads 20% slower (Ammo Stash penalty)
+- +0.25 Temporary Health per pellet that hits (Buckshot Bruiser - multiple pellets = more temp health)
+- DISABLES: Aim Down Sights (Mag Coupler)
+- Crouch for damage resistance and accuracy (Hunker Down)
+- Friendly fire protection when crouched (Down in Front!)
+- Sense nearby Food Items (Food Scavenger)
+- Food Items restore +3 Health (Food Scavenger) + +2 with Heng (Tea Time) + +1 Trauma with Heng (Gourmet)
+
+PLAYSTYLE:
+----------
+
+Belgian specialist with unlimited ammo through Ammo Stash (Belgian is a secondary weapon). Extremely high trauma resistance (95%) and damage resistance make you very tanky. Scattergun Skills provides damage and reload bonuses. Very fast reload speed (+120% total) compensates for Ammo Stash penalty. Crouch for additional defense and accuracy (Hunker Down). Buckshot Bruiser provides temp health from kills. Food Scavenger synergizes with Heng for trauma management. Down in Front! prevents friendly fire when crouched. Goal: tanky shotgun build with unlimited ammo and high survivability.
+
+STRENGTHS:
+----------
+
+- Unlimited ammo (Belgian through Ammo Stash)
+- Extremely high trauma resistance (95%)
+- Good damage resistance
+- Fast reload speed (+130%)
+- Good sustain through kills and food
+- Team health support
+- Belgian-specific bonuses
+
+WEAKNESSES:
+-----------
+
+- Very low fire resistance (net -80%)
+- Reduced stamina efficiency (-20%)
+- Belgian has slower reload base (mitigated by cards)
+- Requires Heng for best food synergy
+
+COMMUNITY NOTES:
+----------------
+
+- Belgian works in secondary slot, giving unlimited ammo
+- High trauma resistance offsets fire weakness
+- Food Scavenger synergizes with Heng's abilities
+- Replace Food Scavenger if not using Heng
+
