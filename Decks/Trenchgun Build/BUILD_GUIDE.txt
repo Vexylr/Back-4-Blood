@@ -42,6 +42,11 @@ Damage Bonuses:
   • +10% shotgun damage while firing from Rolling Thunder
   • Total: +35% base, +45% while firing
 
+Damage Resistance:
+  • +15% base from Motorcycle Helmet
+  • +10% while crouching from Hunker Down
+  • Total: +25% while crouched
+
 Accuracy:
   • +50% base from Quick Kill
   • +40% while crouching from Hunker Down
@@ -73,10 +78,9 @@ Food Scavenger
 TRAUMA RESISTANCE
 ───────────────────────────────────────────────────────────────────────────────
 
-You have 65% trauma resistance from:
+You have 50% trauma resistance from:
   • Wooden Armor (+30%)
   • Body Armor (+20%)
-  • Motorcycle Helmet (+15%)
 
 This offsets Glass Cannon's health penalty and keeps you durable on high 
 difficulties.
@@ -115,8 +119,9 @@ SUMMARY
 ───────────────────────────────────────────────────────────────────────────────
 
 You're an AA12 shotgun specialist. Crouch when firing for maximum accuracy 
-(+90%) and defense, and use your movement speed while firing to kite enemies. 
-Your high trauma resistance offsets Glass Cannon's health penalty. With Heng, 
+(+90%) and defense (+25% damage resistance while crouched), and use your 
+movement speed while firing to kite enemies. Your high trauma resistance (50%) 
+offsets Glass Cannon's health penalty. With Heng, 
 food synergy provides excellent sustain. Your goal is dealing sustained damage 
 with the AA12 while maintaining survivability through temp health, food, and 
 team healing.
