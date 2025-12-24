@@ -73,14 +73,15 @@ DECK COMPOSITION (15 cards)
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
-- Health: +10
-- Move Speed: +11% base + up to +75% while firing with SMG
-- Sprint Speed: +15% (Run Like Hell)
+- Health: +10 (Cross Trainers)
+- Move Speed: +12% base (Run Like Hell) + up to +63% while firing with SMG (+12% base + +4% Speed Demon + +45% Hellfire + +2% Energy Drink) - Run Like Hell lost for 3s when taking damage
+- Sprint Speed: +15% (Run Like Hell) - lost for 3s when taking damage
 - Stamina: +20% (Cross Trainers)
 - Stamina Regen: +20% (Cross Trainers)
 - Bullet Damage: +27.5% base (+10% Silver Bullets + +7.5% Large Caliber) + +10% with SMGs (Mag Carrier) = +37.5% total with SMGs
 - Weakspot Damage: +70% (+20% Ridden Slayer + +50% Hyper-Focused)
-- Ammo Capacity: +30% (SMGs)
+- Ammo Capacity: +30% (SMGs via Mag Carrier)
+- Economy: Copper Scavenger + Food Scavenger
 - Reload: Admin Reload (automatic reload on weapon swap) + +35% reload speed with SMGs (Speed Demon)
 - Bullet Penetration: +200%
 - Breakout Cooldown: 50% reduction (30s cooldown)
