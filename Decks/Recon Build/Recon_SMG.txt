@@ -54,16 +54,13 @@ DECK COMPOSITION (15 cards)
 10. RIDDEN SLAYER (Reflex - Offense)
     +20% Weakspot Damage.
 
-11. HYPER-FOCUSED (Reflex - Offense)
-    +50% Weakspot Damage. -40% Move Speed while shooting or melee attacking.
-
-12. SILVER BULLETS (Discipline - Offense)
+11. SILVER BULLETS (Discipline - Offense)
     +10% Bullet Damage. +15% Effective Bullet Range.
 
-13. LARGE CALIBER ROUNDS (Discipline - Offense)
+12. LARGE CALIBER ROUNDS (Discipline - Offense)
     +7.5% Bullet Damage. +200% Bullet Penetration.
 
-14. COPPER SCAVENGER (Fortune - Utility)
+13. COPPER SCAVENGER (Fortune - Utility)
     You can sense nearby Copper. More Copper Piles spawn.
 
 15. FOOD SCAVENGER (Fortune - Utility)
@@ -78,8 +75,8 @@ BASE DECK:
 - Sprint Speed: +15% (Run Like Hell) - lost for 3s when taking damage
 - Stamina: +20% (Cross Trainers)
 - Stamina Regen: +20% (Cross Trainers)
-- Bullet Damage: +27.5% base (+10% Silver Bullets + +7.5% Large Caliber) + +10% with SMGs (Mag Carrier) = +37.5% total with SMGs
-- Weakspot Damage: +70% (+20% Ridden Slayer + +50% Hyper-Focused)
+- Bullet Damage: +27.5% base (+10% Silver Bullets + +7.5% Large Caliber) + +10% with SMGs (Mag Carrier) = +37.5% total with SMGs + up to +15% Confident Killer (mutation kills)
+- Weakspot Damage: +20% (Ridden Slayer)
 - Ammo Capacity: +30% (SMGs via Mag Carrier)
 - Economy: Copper Scavenger + Food Scavenger
 - Reload: Admin Reload (automatic reload on weapon swap) + +35% reload speed with SMGs (Speed Demon)
@@ -110,7 +107,8 @@ STRENGTHS
 - High stamina pool and regeneration
 - Solo survivability (Breakout with 30s cooldown)
 - Hazard detection with Karlee (prevents team wipes)
-- High damage output (+37.5% with SMGs) with massive weakspot damage (+70%)
+- Good damage output (+37.5% with SMGs, up to +52.5% with Confident Killer) with weakspot damage (+20%)
+- No movement speed penalties - fully mobile while shooting
 - Admin Reload enables constant weapon swapping for sustained fire
 - Food sustain through Food Scavenger
 - Copper generation for team upgrades
