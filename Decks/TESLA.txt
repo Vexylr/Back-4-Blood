@@ -5,7 +5,7 @@ Difficulty: No Hope
 
 Weapons: LMGs or Snipers (for Suppressing Fire utility and ammo efficiency). Prioritize weapons with good ammo economy since gadgets consume ammo heavily.
 
-Playstyles: Team support through DLC gadgets. Use Expired T5 on mutation weakspots, Ultrasonic Wound Therapy for healing, and Experimental Stun Gun for crowd control. Manage ammo carefully—gadgets are expensive. Requires Children of the Worm expansion.
+Playstyles: DLC gadget build for team support. Expired T5 for mutation damage, Ultrasonic Wound Therapy for healing, Experimental Stun Gun for CC. Requires careful ammo management—gadgets cost 30-75 ammo per use. Needs Children of the Worm expansion.
 
 This deck is optimized for high-difficulty gameplay using experimental DLC technology in multiplayer.
 Focus: Experimental gadgets, ammo generation, team buffs, and advanced tech utilization.
