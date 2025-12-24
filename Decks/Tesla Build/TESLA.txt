@@ -69,7 +69,7 @@ DECK COMPOSITION (15 cards)
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
-- Health: +5 Team Health
+- Health: +5 Health (Superior Cardio) + +5 Team Health (Fit as a Fiddle)
 - Ammo Capacity: +75% (Ammo Belt + Ammo Pouch)
 - Reload Speed: +15% (Ammo Belt)
 - Team Overheal: +20% (Well Rested)
