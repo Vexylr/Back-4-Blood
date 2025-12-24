@@ -81,13 +81,12 @@ active immediately.
    - Team healing support
    - Active immediately
 
-10. STEALTHY PASSAGE (Fortune - Utility)
-    - Allows disarming of door alarms, car alarms, and birds
-    - The target will trigger if you are interrupted
-    - DISABLES: Quick Slot
-    - Gain 25 Copper per success
-    - Utility and copper generation
-    - Active when disarming
+10. COPPER SCAVENGER (Fortune - Utility)
+    - You can sense nearby Copper
+    - More Copper Piles spawn
+    - Copper generation for purchasing items/upgrades
+    - Active immediately
+    - NOTE: Replaced Stealthy Passage (which disables Quick Slot) to avoid conflict with Experimental Stun Gun
 
 11. SADIST (Brawn - Offense)
     - When a teammate within 15 meters receives 5 or more damage, gain 20% of the damage as Temporary Health
@@ -147,13 +146,6 @@ EXPERIMENTAL GADGETS:
 - Experimental Stimulants: Cloud grants 20% Damage and 30% Reload Speed (Cost: 40 AR ammo, replaces Support Slot)
 - Crippling Frequency: Reduce incoming Damage by 1 for nearby teammates for 7 seconds (Cost: 30 AR ammo, replaces Offensive Slot)
 
-EXPERIMENTAL GADGETS:
-- Ultrasonic Wound Therapy: Heal 6 Health over 7 seconds to nearby teammates (Cost: 60 AR ammo, replaces Offensive Slot)
-- Expired T5: 20 Fire Damage to Weakspots + 1 damage/sec for 7 seconds (Cost: 75 AR ammo, replaces Support Slot)
-- Experimental Stun Gun: Bash stuns nearby enemies, refreshes after 10 seconds (Cost: 30 Pistol/SMG ammo, replaces Quick Slot, makes you FRAGILE)
-- Experimental Stimulants: Cloud grants 20% Damage and 30% Reload Speed (Cost: 40 AR ammo, replaces Support Slot)
-- Crippling Frequency: Reduce incoming Damage by 1 for nearby teammates for 7 seconds (Cost: 30 AR ammo, replaces Offensive Slot)
-
 SPECIAL EFFECTS:
 - Teammates drop active Pipe Bomb when incapacitated/die (Out with a Bang)
 - Gain 20% of teammate damage as Temporary Health (once per second) (Sadist)
@@ -161,13 +153,13 @@ SPECIAL EFFECTS:
 - Food Items restore +3 Health (Food Scavenger)
 - Sense nearby Ammo (Ammo Scavenger)
 - +1 Ammo crate spawn (Ammo Scavenger)
-- Disarm alarms and birds for 25 Copper each (Stealthy Passage)
+- Sense nearby Copper (Copper Scavenger) - generates copper for upgrades
 - 40% chance to slow Ridden near target by 50% for 5 seconds (Suppressing Fire with LMGs/Snipers)
 
 PLAYSTYLE:
 ----------
 
-Experimental tech specialist using DLC gadgets. Your gadgets replace item slots but cost ammo instead of consumables. Expired T5 is your main offensive tool (20 fire damage to weakspots). Ultrasonic Wound Therapy provides team healing. Experimental Stimulants buffs team damage and reload speed. Crippling Frequency reduces incoming damage. Experimental Stun Gun gives crowd control but makes you fragile. Use Ammo Scavenger and high ammo capacity to fuel your gadgets. Stealthy Passage generates copper by disarming traps. Your goal: use experimental tech to dominate, but manage ammo carefully as gadgets are expensive.
+Experimental tech specialist using DLC gadgets. Your gadgets replace item slots but cost ammo instead of consumables. Expired T5 is your main offensive tool (20 fire damage to weakspots). Ultrasonic Wound Therapy provides team healing. Experimental Stimulants buffs team damage and reload speed. Crippling Frequency reduces incoming damage. Experimental Stun Gun gives crowd control but makes you fragile. Use Ammo Scavenger and high ammo capacity to fuel your gadgets. Copper Scavenger generates copper for upgrades and item purchases. Your goal: use experimental tech to dominate, but manage ammo carefully as gadgets are expensive.
 
 STRENGTHS:
 ----------
@@ -175,7 +167,7 @@ STRENGTHS:
 - Powerful experimental gadgets
 - Team utility through buffs and healing
 - High ammo capacity for gadget usage
-- Copper generation (Stealthy Passage)
+- Copper generation (Copper Scavenger - sense and spawn more copper)
 - Temp health generation (Sadist)
 - Food sustain (Food Scavenger)
 
