@@ -1,31 +1,119 @@
 WHITWORTH BUILD GUIDE
+═══════════════════════════════════════════════════════════════════════════════
 
-Glass cannon precision damage dealer focused on weakspot damage and mutation elimination. You deal massive damage but have low health - positioning and precision aiming are critical. Your job is eliminating mutations and bosses efficiently through precise weakspot shots.
+OVERVIEW
+───────────────────────────────────────────────────────────────────────────────
 
-You're playing DPS. Low health means you're fragile (-15% net health), so stay at range and let your massive damage do the work. Position yourself safely, aim for weakspots, and eliminate mutations before they become a threat.
+Glass cannon precision damage dealer focused on weakspot damage and mutation 
+elimination. You deal massive damage but have low health - positioning and 
+precision aiming are critical. Your job is eliminating mutations and bosses 
+efficiently through precise weakspot shots.
 
-Stay at range. You're fragile, so find a safe position where you can aim at weakspots without taking damage. Use cover and elevation when you can. Crouch when near teammates with Down in Front! to prevent friendly fire while scoped.
+ROLE & POSITIONING
+───────────────────────────────────────────────────────────────────────────────
 
-Patient Hunter requires you to aim down sights and hold for 2.25 seconds to max your stacks. This gives you +30% damage when fully scoped, but you need to stay still while aiming. Position safely before scoping in.
+You're playing DPS. Low health means you're fragile (-15% net health), so stay 
+at range and let your massive damage do the work. Position yourself safely, aim 
+for weakspots, and eliminate mutations before they become a threat.
 
-Confident Killer stacks on mutation kills, giving you up to +15% damage. Prioritize killing mutations early to build stacks quickly.
+Stay at range. You're fragile, so find a safe position where you can aim at 
+weakspots without taking damage. Use cover and elevation when you can. Crouch 
+when near teammates with Down in Front! to prevent friendly fire while scoped.
 
-If you're using Jim, Clean Kill stacks on precision kills for up to +25% damage, but resets if you take damage. This requires skill - hit weakspots consistently and avoid taking damage to maintain stacks.
+DAMAGE STACKING
+───────────────────────────────────────────────────────────────────────────────
 
-Use Assault Rifles or LMGs. Tactical Vest gives +10% damage with these weapons. M1A or Ranch Rifle work great for precision. Snipers also work well and benefit from Suppressing Fire utility. Prioritize weapons with good weakspot damage and manageable recoil.
+Patient Hunter
+  → Aim down sights and hold for 2.25 seconds to max your stacks
+  → Gives you +30% damage when fully scoped
+  → Requires staying still while aiming, so position safely before scoping
 
-Your base damage is +50% from cards (+25% Glass Cannon + +2.5% Ammo Pouch + +5% Combat Training + +7.5% Large Caliber + +10% Silver Bullets). Add up to +30% from Patient Hunter when scoped, up to +15% from Confident Killer from mutation kills, and up to +25% from Jim's Clean Kill if you're using Jim. Total potential is up to +130% with Jim, or +115% with Walker.
+Confident Killer
+  → Stacks on mutation kills, giving you up to +15% damage
+  → Prioritize killing mutations early to build stacks quickly
 
-With Jim, focus on precision weakspot shots and avoid taking damage to maximize Clean Kill stacks. This is a high-skill build that rewards good aim.
+Clean Kill (Jim only)
+  → Stacks on precision kills for up to +25% damage
+  → Resets if you take damage
+  → Requires skill - hit weakspots consistently and avoid taking damage
 
-With Walker, it's more forgiving. You get consistent +10% damage without needing to maintain precision kill stacks, making it easier to play.
+DAMAGE CALCULATION
+───────────────────────────────────────────────────────────────────────────────
 
-Fresh Bandage heals 15 trauma and restores health at level start - crucial for your low health pool. You have minimal health bonuses, so positioning and avoiding damage is essential.
+Base Damage: +50% from cards
+  • +25% Glass Cannon
+  • +2.5% Ammo Pouch
+  • +5% Combat Training
+  • +7.5% Large Caliber
+  • +10% Silver Bullets
 
-On Your Mark gives team buffs during hordes - 7.5% ammo restore, 10% move speed while firing, 15% reload speed, and 25% swap speed for 30 seconds. Jim's Seasoned Hunter gives +10% team weakspot damage.
+Additional Bonuses:
+  • Up to +30% from Patient Hunter (scoped)
+  • Up to +15% from Confident Killer (mutation kills)
+  • Up to +25% from Jim's Clean Kill (precision kills)
 
-Position at range for optimal weakspot shots. Aim down sights for 2.25 seconds to max Patient Hunter stacks. Focus mutations first to stack Confident Killer. Prioritize weakspot shots, especially with Jim. Use Suppressing Fire with LMGs/Snipers for crowd control. Crouch when near teammates.
+Total Potential:
+  • Up to +130% with Jim
+  • Up to +115% with Walker
 
-Don't get caught in close quarters - you're fragile. Don't ignore positioning - low health means mistakes are fatal. Don't waste ammo - manage it carefully. Don't play aggressively - stay back and let your damage do the work. Don't forget to stack Patient Hunter by aiming for 2.25 seconds. With Jim, don't take unnecessary damage or you'll reset Clean Kill stacks.
+WEAPONS
+───────────────────────────────────────────────────────────────────────────────
 
-You're a precision glass cannon. Position safely, aim for weakspots, stack your damage bonuses, and eliminate mutations efficiently. Your massive damage potential makes you valuable for boss fights and mutation elimination, but your low health requires careful positioning and consistent aim.
+Use Assault Rifles or LMGs. Tactical Vest gives +10% damage with these 
+weapons. M1A or Ranch Rifle work great for precision. Snipers also work well 
+and benefit from Suppressing Fire utility. Prioritize weapons with good 
+weakspot damage and manageable recoil.
+
+RECOMMENDED CLEANERS
+───────────────────────────────────────────────────────────────────────────────
+
+Jim (Primary)
+  → Focus on precision weakspot shots and avoid taking damage to maximize 
+    Clean Kill stacks. This is a high-skill build that rewards good aim.
+
+Walker (Alternative)
+  → More forgiving with consistent +10% damage. No need to maintain precision 
+    kill stacks, making it easier to play.
+
+SUSTAIN & UTILITY
+───────────────────────────────────────────────────────────────────────────────
+
+Fresh Bandage
+  → Heals 15 trauma and restores health at level start - crucial for your low 
+    health pool. You have minimal health bonuses, so positioning and avoiding 
+    damage is essential.
+
+On Your Mark
+  → Gives team buffs during hordes: 7.5% ammo restore, 10% move speed while 
+    firing, 15% reload speed, and 25% swap speed for 30 seconds
+
+Jim's Seasoned Hunter
+  → Gives +10% team weakspot damage
+
+KEY STRATEGIES
+───────────────────────────────────────────────────────────────────────────────
+
+✓ Position at range for optimal weakspot shots
+✓ Aim down sights for 2.25 seconds to max Patient Hunter stacks
+✓ Focus mutations first to stack Confident Killer
+✓ Prioritize weakspot shots, especially with Jim
+✓ Use Suppressing Fire with LMGs/Snipers for crowd control
+✓ Crouch when near teammates
+
+CRITICAL TIPS
+───────────────────────────────────────────────────────────────────────────────
+
+✗ Don't get caught in close quarters - you're fragile
+✗ Don't ignore positioning - low health means mistakes are fatal
+✗ Don't waste ammo - manage it carefully
+✗ Don't play aggressively - stay back and let your damage do the work
+✗ Don't forget to stack Patient Hunter by aiming for 2.25 seconds
+✗ With Jim: Don't take unnecessary damage or you'll reset Clean Kill stacks
+
+SUMMARY
+───────────────────────────────────────────────────────────────────────────────
+
+You're a precision glass cannon. Position safely, aim for weakspots, stack your 
+damage bonuses, and eliminate mutations efficiently. Your massive damage 
+potential makes you valuable for boss fights and mutation elimination, but your 
+low health requires careful positioning and consistent aim.

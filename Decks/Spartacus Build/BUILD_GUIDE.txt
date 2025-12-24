@@ -1,27 +1,111 @@
 SPARTACUS BUILD GUIDE
+═══════════════════════════════════════════════════════════════════════════════
 
-Frontline melee tank that clears common ridden for the team. High damage, excellent sustain through healing on kills, and good trauma resistance make you a durable frontline fighter. Your job is handling hordes, clearing common ridden efficiently, and healing your team through kills.
+OVERVIEW
+───────────────────────────────────────────────────────────────────────────────
 
-You're playing frontliner/tank. Get in front of your team, crouch when near them with Down in Front!, and clear common ridden with your melee weapon. Your cleave damage and healing on kills keep you and your team alive while you handle the horde.
+Frontline melee tank that clears common ridden for the team. High damage, 
+excellent sustain through healing on kills, and good trauma resistance make you 
+a durable frontline fighter. Your job is handling hordes, clearing common ridden 
+efficiently, and healing your team through kills.
 
-Crouch when near teammates with Down in Front! to prevent friendly fire. You'll be in front clearing common ridden, so position yourself where you can protect your team while staying within Vanguard range (10 meters) to heal them with your kills.
+ROLE & POSITIONING
+───────────────────────────────────────────────────────────────────────────────
 
-Use Fire Axe, Machete, or Bat. Mean Drunk gives you cleave - your attacks hit multiple enemies in a large area, perfect for hordes.
+You're playing frontliner/tank. Get in front of your team, crouch when near 
+them with Down in Front!, and clear common ridden with your melee weapon. Your 
+cleave damage and healing on kills keep you and your team alive while you handle 
+the horde.
 
-Meth Head stacks build quickly - 10 swings gets you max stacks for +50% speed and stamina efficiency. Start swinging immediately and maintain stacks with periodic attacks.
+Crouch when near teammates with Down in Front! to prevent friendly fire. You'll 
+be in front clearing common ridden, so position yourself where you can protect 
+your team while staying within Vanguard range (10 meters) to heal them with 
+your kills.
 
-Berserker stacks on each kill, making you stronger as you fight. The more you kill, the faster and more powerful you become.
+WEAPONS
+───────────────────────────────────────────────────────────────────────────────
 
-Battle Lust heals you +1 health and +0.125 trauma per melee kill. Vanguard heals you AND teammates within 10 meters +1 health per melee kill. This healing is active from your very first kill, so stay aggressive and keep killing to maintain your health.
+Fire Axe, Machete, or Bat
+  → Mean Drunk gives you cleave - your attacks hit multiple enemies in a large 
+    area, perfect for hordes
 
-You have +35% trauma resistance from Body Armor and Durable, which is excellent. With Sharice, you get +60% total - the best possible trauma resistance in the game. This makes you very durable on high difficulties.
+STACKING MECHANICS
+───────────────────────────────────────────────────────────────────────────────
 
-With Holly, you get +2 health per kill total (Battle Lust + Grand Slam), giving incredible sustain. The +25 team stamina from Cardio is massive for melee stamina management. +5% team damage resistance from Tough as Nails helps the whole team.
+Meth Head
+  → Stacks build quickly - 10 swings gets you max stacks for +50% speed and 
+    stamina efficiency
+  → Start swinging immediately and maintain stacks with periodic attacks
 
-With Sharice, you get +60% trauma resistance total - the best in the game. Makeshift Armor generation from knocked armor synergizes with Sunder for double armor sources. You start with a Fire Axe.
+Berserker
+  → Stacks on each kill, making you stronger as you fight
+  → The more you kill, the faster and more powerful you become
 
-Get your melee weapon early - Fire Axe, Machete, or Bat. Crouch when near teammates. Clear common ridden aggressively. Stack Meth Head and Berserker quickly - start swinging immediately. Stay within 10 meters of teammates to heal them with Vanguard. Focus mutations when they appear - Ignore the Pain gives you +20% damage and healing vs them. Use food for additional sustain. Stay aggressive - your sustain depends on kills.
+SUSTAIN
+───────────────────────────────────────────────────────────────────────────────
 
-Don't forget to crouch - Down in Front! prevents friendly fire. Don't abandon your team - you heal them with kills. Don't waste time - start swinging immediately to build stacks. Don't ignore mutations - Ignore the Pain gives you +20% damage and healing vs them. Don't get separated from team - you need to be within 10 meters to heal them.
+Battle Lust
+  → Heals you +1 health and +0.125 trauma per melee kill
 
-You're a frontline melee tank. Get in front, crouch when near teammates, clear hordes with cleave damage, and heal your team through kills. Your trauma resistance and sustain make you durable, and your stacking mechanics make you stronger as you fight. Stay aggressive and keep killing to maintain momentum.
+Vanguard
+  → Heals you AND teammates within 10 meters +1 health per melee kill
+  → This healing is active from your very first kill, so stay aggressive and 
+    keep killing to maintain your health
+
+TRAUMA RESISTANCE
+───────────────────────────────────────────────────────────────────────────────
+
+Base: +35% from Body Armor and Durable
+
+With Holly: +35% (same)
+With Sharice: +60% total - the best possible trauma resistance in the game
+
+This makes you very durable on high difficulties.
+
+RECOMMENDED CLEANERS
+───────────────────────────────────────────────────────────────────────────────
+
+Holly (Primary)
+  → +2 health per kill total (Battle Lust + Grand Slam), giving incredible 
+    sustain
+  → +25 team stamina from Cardio is massive for melee stamina management
+  → +5% team damage resistance from Tough as Nails helps the whole team
+  → Starts with Bat
+
+Sharice (Secondary)
+  → +60% trauma resistance total - the best in the game
+  → Makeshift Armor generation from knocked armor synergizes with Sunder for 
+    double armor sources
+  → Starts with Fire Axe
+  → Note: Requires Tunnels of Terror expansion
+
+KEY STRATEGIES
+───────────────────────────────────────────────────────────────────────────────
+
+✓ Get your melee weapon early - Fire Axe, Machete, or Bat
+✓ Crouch when near teammates
+✓ Clear common ridden aggressively
+✓ Stack Meth Head and Berserker quickly - start swinging immediately
+✓ Stay within 10 meters of teammates to heal them with Vanguard
+✓ Focus mutations when they appear - Ignore the Pain gives you +20% damage and 
+  healing vs them
+✓ Use food for additional sustain
+✓ Stay aggressive - your sustain depends on kills
+
+CRITICAL TIPS
+───────────────────────────────────────────────────────────────────────────────
+
+✗ Don't forget to crouch - Down in Front! prevents friendly fire
+✗ Don't abandon your team - you heal them with kills
+✗ Don't waste time - start swinging immediately to build stacks
+✗ Don't ignore mutations - Ignore the Pain gives you +20% damage and healing 
+  vs them
+✗ Don't get separated from team - you need to be within 10 meters to heal them
+
+SUMMARY
+───────────────────────────────────────────────────────────────────────────────
+
+You're a frontline melee tank. Get in front, crouch when near teammates, clear 
+hordes with cleave damage, and heal your team through kills. Your trauma 
+resistance and sustain make you durable, and your stacking mechanics make you 
+stronger as you fight. Stay aggressive and keep killing to maintain momentum.

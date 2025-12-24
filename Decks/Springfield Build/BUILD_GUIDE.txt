@@ -1,27 +1,108 @@
 SPRINGFIELD BUILD GUIDE
+═══════════════════════════════════════════════════════════════════════════════
 
-Precision rifle specialist using M1A or Ranch Rifle with Aim Down Sights. Focused on massive weakspot damage (+85% total) for rapid mutation elimination. High trauma resistance (65%) offsets Glass Cannon's health penalty, making you durable despite the health reduction.
+OVERVIEW
+───────────────────────────────────────────────────────────────────────────────
 
-You're playing precision DPS. Use Aim Down Sights and hold your scope for 2.25 seconds to max Patient Hunter stacks - this gives you up to +30% additional damage when fully scoped. Aim for weakspots to maximize your +85% weakspot damage bonus. Position at range and eliminate mutations efficiently.
+Precision rifle specialist using M1A or Ranch Rifle with Aim Down Sights. 
+Focused on massive weakspot damage (+85% total) for rapid mutation elimination. 
+High trauma resistance (65%) offsets Glass Cannon's health penalty, making you 
+durable despite the health reduction.
 
-Use M1A or Ranch Rifle. Ranch Rifle is more reliable since it's guaranteed at starting level. These precision rifles work perfectly with your weakspot damage focus. Optics Enthusiast gives +75% weakspot damage, and Front Sight Focus adds another +10% for +85% total.
+ROLE & POSITIONING
+───────────────────────────────────────────────────────────────────────────────
 
-Aim down sights and hold for 2.25 seconds to max Patient Hunter stacks. This gives you up to +30% additional damage when fully scoped. Position safely before scoping - you're vulnerable while aiming.
+You're playing precision DPS. Use Aim Down Sights and hold your scope for 2.25 
+seconds to max Patient Hunter stacks - this gives you up to +30% additional 
+damage when fully scoped. Aim for weakspots to maximize your +85% weakspot 
+damage bonus. Position at range and eliminate mutations efficiently.
 
-Focus on weakspot shots. Your +85% weakspot damage makes precision shots incredibly effective. Optics Enthusiast also gives +50% weakspot damage resistance, reducing your vulnerability to weakspot shots.
+Stay at range for optimal weakspot shots. Position safely before scoping for 
+Patient Hunter stacks. Crouch when near teammates with Down in Front! to 
+prevent friendly fire while scoped.
 
-Stay at range for optimal weakspot shots. Position safely before scoping for Patient Hunter stacks. Crouch when near teammates with Down in Front! to prevent friendly fire while scoped.
+WEAPONS
+───────────────────────────────────────────────────────────────────────────────
 
-Fresh Bandage heals 15 trauma and restores health at level start - crucial since Glass Cannon reduces your health (-20% net). Food Scavenger synergizes with Heng for enhanced food healing throughout levels.
+M1A or Ranch Rifle
+  → Ranch Rifle is more reliable since it's guaranteed at starting level
+  → These precision rifles work perfectly with your weakspot damage focus
+  → Optics Enthusiast gives +75% weakspot damage
+  → Front Sight Focus adds another +10% for +85% total
 
-With Heng, you get more Food spawns, you gain effects when teammates eat food, and food restores +1 trauma when you consume it. Your team gains +1 health and stamina per food consumed. This food synergy provides excellent sustain.
+DAMAGE CALCULATION
+───────────────────────────────────────────────────────────────────────────────
 
-You have 65% trauma resistance from Wooden Armor, Body Armor, and Durable - excellent protection. This offsets Glass Cannon's health penalty and keeps you durable on high difficulties. All trauma resistance is active from level start.
+Base Damage: +52.5%
+  • +25% Glass Cannon
+  • +10% Tactical Vest (AR/LMG)
+  • +10% Silver Bullets
+  • +7.5% Large Caliber
 
-Your base damage is +52.5% from Glass Cannon, Tactical Vest, Silver Bullets, and Large Caliber. Add up to +30% when scoped with Patient Hunter. Combined with +85% weakspot damage, you deal incredible damage to mutations when hitting weakspots.
+Additional Bonuses:
+  • Up to +30% when scoped (Patient Hunter)
 
-Get Ranch Rifle or M1A early. Position at range for weakspot shots. Aim down sights for 2.25 seconds to max Patient Hunter stacks. Focus on weakspot shots for maximum damage. Use food for sustain, especially with Heng. Crouch when near teammates. Use Fresh Bandage for sustain at level start. Take advantage of +200% penetration to hit multiple targets.
+Weakspot Damage: +85% total
+  • +75% Optics Enthusiast
+  • +10% Front Sight Focus
 
-Don't waste weakspot damage on body shots - aim for weakspots. Don't ignore food - it's important for sustain with Heng. Don't scope unsafely - you're vulnerable during Patient Hunter stacking. Don't forget fire resistance is negative (-80% net) - avoid fire damage. Don't play aggressively - stay at range. Don't ignore positioning - you need safe spots for scoping.
+TRAUMA RESISTANCE
+───────────────────────────────────────────────────────────────────────────────
 
-You're a precision rifle specialist. Position at range, scope for 2.25 seconds to stack Patient Hunter, and aim for weakspots to maximize your +85% weakspot damage. Your high trauma resistance keeps you durable despite Glass Cannon's health penalty. With Heng, food synergy provides excellent sustain. Your goal is eliminating mutations efficiently through precise weakspot shots.
+You have 65% trauma resistance from:
+  • Wooden Armor (+30%)
+  • Body Armor (+20%)
+  • Durable (+15%)
+
+This offsets Glass Cannon's health penalty and keeps you durable on high 
+difficulties. All trauma resistance is active from level start.
+
+SUSTAIN
+───────────────────────────────────────────────────────────────────────────────
+
+Fresh Bandage
+  → Heals 15 trauma and restores health at level start - crucial since Glass 
+    Cannon reduces your health (-20% net)
+
+Food Scavenger
+  → Synergizes with Heng for enhanced food healing throughout levels
+
+RECOMMENDED CLEANER
+───────────────────────────────────────────────────────────────────────────────
+
+Heng
+  → More Food spawns, you gain effects when teammates eat food, and food 
+    restores +1 trauma when you consume it
+  → Your team gains +1 health and stamina per food consumed
+  → This food synergy provides excellent sustain
+
+KEY STRATEGIES
+───────────────────────────────────────────────────────────────────────────────
+
+✓ Get Ranch Rifle or M1A early
+✓ Position at range for weakspot shots
+✓ Aim down sights for 2.25 seconds to max Patient Hunter stacks
+✓ Focus on weakspot shots for maximum damage
+✓ Use food for sustain, especially with Heng
+✓ Crouch when near teammates
+✓ Use Fresh Bandage for sustain at level start
+✓ Take advantage of +200% penetration to hit multiple targets
+
+CRITICAL TIPS
+───────────────────────────────────────────────────────────────────────────────
+
+✗ Don't waste weakspot damage on body shots - aim for weakspots
+✗ Don't ignore food - it's important for sustain with Heng
+✗ Don't scope unsafely - you're vulnerable during Patient Hunter stacking
+✗ Don't forget fire resistance is negative (-80% net) - avoid fire damage
+✗ Don't play aggressively - stay at range
+✗ Don't ignore positioning - you need safe spots for scoping
+
+SUMMARY
+───────────────────────────────────────────────────────────────────────────────
+
+You're a precision rifle specialist. Position at range, scope for 2.25 seconds 
+to stack Patient Hunter, and aim for weakspots to maximize your +85% weakspot 
+damage. Your high trauma resistance keeps you durable despite Glass Cannon's 
+health penalty. With Heng, food synergy provides excellent sustain. Your goal 
+is eliminating mutations efficiently through precise weakspot shots.

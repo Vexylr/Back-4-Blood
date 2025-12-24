@@ -1,23 +1,122 @@
 TRENCHGUN BUILD GUIDE
+═══════════════════════════════════════════════════════════════════════════════
 
-Shotgun specialist using the AA12 with hip-fire accuracy. High damage output, excellent trauma resistance (65%), and sustain through temp health, food, and team healing. Your job is dealing damage while maintaining survivability through sustain cards and positioning.
+OVERVIEW
+───────────────────────────────────────────────────────────────────────────────
 
-You're playing DPS/frontliner. Use the AA12 as your primary weapon with hip-fire - you can't aim down sights. Crouch when firing for better pellet grouping and damage resistance. Use your fast reload speed and movement speed while firing to maintain constant pressure.
+Shotgun specialist using the AA12 with hip-fire accuracy. High damage output, 
+excellent trauma resistance (65%), and sustain through temp health, food, and 
+team healing. Your job is dealing damage while maintaining survivability through 
+sustain cards and positioning.
 
-Crouch when firing - Hunker Down provides +40% accuracy and +10% damage resistance while crouched. Combined with Quick Kill's +50% accuracy, you get +90% accuracy while crouching. This improves pellet grouping and makes you tankier. Crouch when near teammates with Down in Front! to prevent friendly fire.
+ROLE & POSITIONING
+───────────────────────────────────────────────────────────────────────────────
 
-Use AA12 as primary - you need to find it early for optimal performance. Use Magnum as offhand for mutations. You can't aim down sights (Mag Coupler and Quick Kill disable ADS), so hip-fire only.
+You're playing DPS/frontliner. Use the AA12 as your primary weapon with 
+hip-fire - you can't aim down sights. Crouch when firing for better pellet 
+grouping and damage resistance. Use your fast reload speed and movement speed 
+while firing to maintain constant pressure.
 
-Buckshot Bruiser provides temp health from shotgun hits - 0.25 per pellet, and the AA12 fires many pellets, so you get significant temp health. Amped Up provides team healing during hordes. Fresh Bandage provides trauma and health recovery at level start. Food Scavenger synergizes with Heng for trauma management.
+Crouch when firing - Hunker Down provides +40% accuracy and +10% damage 
+resistance while crouched. Combined with Quick Kill's +50% accuracy, you get 
++90% accuracy while crouching. This improves pellet grouping and makes you 
+tankier. Crouch when near teammates with Down in Front! to prevent friendly 
+fire.
 
-With Heng, food synergy is excellent. More Food spawns, you gain effects when teammates eat food, and food restores +1 trauma when you consume it. Your team gains +1 health and stamina per food consumed. This provides excellent sustain.
+WEAPONS
+───────────────────────────────────────────────────────────────────────────────
 
-You have 65% trauma resistance from Wooden Armor, Body Armor, and Motorcycle Helmet - excellent protection. This offsets Glass Cannon's health penalty and keeps you durable on high difficulties.
+Primary: AA12
+  → You need to find it early for optimal performance
+  → Mag Coupler and Quick Kill disable ADS, so hip-fire only
 
-Glass Cannon gives +25% damage, Shell Carrier gives +10% shotgun damage, and Rolling Thunder gives another +10% shotgun damage while firing. Combined with your shotgun's high base damage and very fast reload speed (+90%), you deal excellent damage. Your focus is sustained fire with the AA12, taking advantage of movement speed while firing to kite enemies.
+Secondary: Magnum
+  → Use as offhand for mutations
 
-Find AA12 early - it's critical for optimal performance. Crouch when firing for better accuracy (+90% while crouching) and damage resistance. Use Magnum for mutations. Use food for sustain, especially with Heng. Crouch when near teammates. Stay aggressive - use your movement speed while firing to kite enemies and maintain pressure.
+DAMAGE & STATS
+───────────────────────────────────────────────────────────────────────────────
 
-Don't try to aim down sights - you can't, it's hip-fire only. Don't waste food - it's important for sustain with Heng. Don't forget fire resistance is negative (-100%) - avoid fire damage. Don't play at long range - shotgun is close-range. Don't forget to crouch - optimal accuracy and defense require it.
+Damage Bonuses:
+  • +25% from Glass Cannon
+  • +10% shotgun damage from Shell Carrier
+  • +10% shotgun damage while firing from Rolling Thunder
+  • Total: +35% base, +45% while firing
 
-You're an AA12 shotgun specialist. Crouch when firing for maximum accuracy (+90%) and defense, and use your movement speed while firing to kite enemies. Your high trauma resistance offsets Glass Cannon's health penalty. With Heng, food synergy provides excellent sustain. Your goal is dealing sustained damage with the AA12 while maintaining survivability through temp health, food, and team healing.
+Accuracy:
+  • +50% base from Quick Kill
+  • +40% while crouching from Hunker Down
+  • Total: +90% while crouching
+
+Reload Speed: +90% total
+  • +50% from Mag Coupler
+  • +40% from Scattergun Skills
+
+Movement Speed: +35% while firing with Shotguns (Rolling Thunder)
+
+SUSTAIN MECHANICS
+───────────────────────────────────────────────────────────────────────────────
+
+Buckshot Bruiser
+  → Provides temp health from shotgun hits (0.25 per pellet). The AA12 fires 
+    many pellets, so you get significant temp health.
+
+Amped Up
+  → Provides team healing during hordes (+20 health)
+
+Fresh Bandage
+  → Provides trauma and health recovery at level start (15 trauma + health 
+    restore)
+
+Food Scavenger
+  → Synergizes with Heng for trauma management
+
+TRAUMA RESISTANCE
+───────────────────────────────────────────────────────────────────────────────
+
+You have 65% trauma resistance from:
+  • Wooden Armor (+30%)
+  • Body Armor (+20%)
+  • Motorcycle Helmet (+15%)
+
+This offsets Glass Cannon's health penalty and keeps you durable on high 
+difficulties.
+
+RECOMMENDED CLEANER
+───────────────────────────────────────────────────────────────────────────────
+
+Heng
+  → More Food spawns, you gain effects when teammates eat food, and food 
+    restores +1 trauma when you consume it
+  → Your team gains +1 health and stamina per food consumed
+  → This food synergy provides excellent sustain
+
+KEY STRATEGIES
+───────────────────────────────────────────────────────────────────────────────
+
+✓ Find AA12 early - it's critical for optimal performance
+✓ Crouch when firing for better accuracy (+90% while crouching) and damage 
+  resistance
+✓ Use Magnum for mutations
+✓ Use food for sustain, especially with Heng
+✓ Crouch when near teammates
+✓ Stay aggressive - use your movement speed while firing to kite enemies and 
+  maintain pressure
+
+CRITICAL TIPS
+───────────────────────────────────────────────────────────────────────────────
+
+✗ Don't try to aim down sights - you can't, it's hip-fire only
+✗ Don't waste food - it's important for sustain with Heng
+✗ Don't forget fire resistance is negative (-100%) - avoid fire damage
+✗ Don't play at long range - shotgun is close-range
+✗ Don't forget to crouch - optimal accuracy and defense require it
+
+SUMMARY
+───────────────────────────────────────────────────────────────────────────────
+
+You're an AA12 shotgun specialist. Crouch when firing for maximum accuracy 
+(+90%) and defense, and use your movement speed while firing to kite enemies. 
+Your high trauma resistance offsets Glass Cannon's health penalty. With Heng, 
+food synergy provides excellent sustain. Your goal is dealing sustained damage 
+with the AA12 while maintaining survivability through temp health, food, and 
+team healing.

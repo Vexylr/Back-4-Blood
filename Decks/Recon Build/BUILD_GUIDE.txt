@@ -1,27 +1,128 @@
 RECON BUILD GUIDE
+═══════════════════════════════════════════════════════════════════════════════
 
-Fast-moving scout that runs ahead to clear obstacles, detect hazards, and report back to team. Your incredible movement speed (up to +75% while firing with SMG) lets you kite enemies and escape dangerous situations. You handle yourself solo when separated from the team.
+OVERVIEW
+───────────────────────────────────────────────────────────────────────────────
 
-You're playing scout/support. Run ahead to clear obstacles (birds, sleepers, bear traps) and detect hazards. Report back to team what they should expect. Use your speed to kite enemies and escape dangerous situations. Don't abandon the team completely - balance scouting with team coordination.
+Fast-moving scout that runs ahead to clear obstacles, detect hazards, and 
+report back to team. Your incredible movement speed (up to +75% while firing 
+with SMG) lets you kite enemies and escape dangerous situations. You handle 
+yourself solo when separated from the team.
 
-Your movement speed is up to +75% while firing with SMG (+11% base + +45% Hellfire + +15% Energy Drink + +4% Speed Demon). This incredible speed lets you kite enemies effectively and escape dangerous situations. Use SMGs for maximum speed bonuses.
+ROLE & POSITIONING
+───────────────────────────────────────────────────────────────────────────────
 
-Breakout ensures you can escape grabs when separated from team (30s cooldown, 50% reduction from base 60s). With Evangelo, you get enhanced breakout capability (+75% breakout speed). This provides solo survivability.
+You're playing scout/support. Run ahead to clear obstacles (birds, sleepers, 
+bear traps) and detect hazards. Report back to team what they should expect. 
+Use your speed to kite enemies and escape dangerous situations. Don't abandon 
+the team completely - balance scouting with team coordination.
 
-With Karlee, you can sense nearby hazards (sleepers, traps, etc.). This prevents team wipes from unexpected hazards. You can also sense Tool Kits (Hack It) for objectives.
+MOVEMENT SPEED
+───────────────────────────────────────────────────────────────────────────────
 
-High stamina pool (+35% + +10% team) and regeneration (+50% + +10% team) allows constant movement and kiting. You can run and gun indefinitely with proper stamina management.
+Your movement speed is up to +75% while firing with SMG:
+  • +11% base (Cross Trainers +3%, Dash +5%, Energy Drink +3%)
+  • +45% Hellfire
+  • +15% Energy Drink (while firing)
+  • +4% Speed Demon (SMG)
 
-Use SMGs for Speed Demon synergy (+4% move speed + +35% reload speed while using SMG). Your damage output is good (+20% base bullet damage + +10% with SMGs from Mag Carrier = +30% total with SMGs, plus +10% weakspot damage from Front Sight Focus), so you can contribute while maintaining speed.
+This incredible speed lets you kite enemies effectively and escape dangerous 
+situations. Use SMGs for maximum speed bonuses.
 
-Mandatory PT gives +10% team stamina and stamina regen. With Karlee, DEXTEROUS gives +50% team use speed for objectives. Utility Scavenger generates Quick Accessories for the team.
+SOLO SURVIVABILITY
+───────────────────────────────────────────────────────────────────────────────
 
-With Karlee, hazard detection prevents team wipes. +50% team use speed helps with objectives. +1 quick inventory gives utility. You start with Tool Kit for immediate objective utility.
+Breakout ensures you can escape grabs when separated from team (30s cooldown, 
+50% reduction from base 60s). With Evangelo, you get enhanced breakout 
+capability (+75% breakout speed). This provides solo survivability.
 
-With Evangelo, enhanced breakout capability (+75% breakout speed) improves solo survivability. +5% team movement speed helps the whole team. +25% stamina regen improves mobility.
+HAZARD DETECTION
+───────────────────────────────────────────────────────────────────────────────
 
-Run ahead to scout and clear obstacles. Detect hazards, especially with Karlee. Use SMG for maximum speed bonuses. Kite enemies with your movement speed. Use Breakout when grabbed (30s cooldown). Report back to team about threats. Use your speed to escape dangerous situations. Don't abandon the team completely.
+With Karlee, you can sense nearby hazards (sleepers, traps, etc.). This 
+prevents team wipes from unexpected hazards. You can also sense Tool Kits 
+(Hack It) for objectives.
 
-Don't abandon the team completely - balance scouting with coordination. Don't forget your low health (+10 only) - mistakes are costly. Don't stop moving - speed is your defense. Don't get separated without Breakout available (30s cooldown). Don't ignore hazards, especially with Karlee's detection.
+STAMINA
+───────────────────────────────────────────────────────────────────────────────
 
-You're the fast-moving scout. Run ahead to clear obstacles, detect hazards, and report back to team. Use your incredible movement speed to kite enemies and escape dangerous situations. Breakout provides solo survivability when separated. With Karlee, hazard detection prevents team wipes. Your goal is clearing the path, detecting threats, and handling yourself solo when needed, while staying coordinated with the team.
+High stamina pool (+35% + +10% team) and regeneration (+50% + +10% team) 
+allows constant movement and kiting. You can run and gun indefinitely with 
+proper stamina management.
+
+DAMAGE OUTPUT
+───────────────────────────────────────────────────────────────────────────────
+
+Your damage output is good:
+  • +20% base bullet damage (Ammo Pouch +2.5%, Silver Bullets +10%, Large 
+    Caliber +7.5%)
+  • +10% with SMGs (Mag Carrier)
+  • +10% weakspot damage (Front Sight Focus)
+  • Total: +30% with SMGs, plus weakspot bonus
+
+You can contribute while maintaining speed.
+
+WEAPONS
+───────────────────────────────────────────────────────────────────────────────
+
+Use SMGs for Speed Demon synergy (+4% move speed + +35% reload speed while 
+using SMG). This maximizes your movement speed bonuses and keeps you mobile.
+
+TEAM UTILITY
+───────────────────────────────────────────────────────────────────────────────
+
+Mandatory PT
+  → Gives +10% team stamina and stamina regen
+
+With Karlee: DEXTEROUS
+  → Gives +50% team use speed for objectives
+
+Utility Scavenger
+  → Generates Quick Accessories for the team
+
+RECOMMENDED CLEANERS
+───────────────────────────────────────────────────────────────────────────────
+
+Karlee (Primary)
+  → Hazard detection prevents team wipes
+  → +50% team use speed helps with objectives
+  → +1 quick inventory gives utility
+  → Starts with Tool Kit for immediate objective utility
+
+Evangelo (Alternative)
+  → Enhanced breakout capability (+75% breakout speed) improves solo 
+    survivability
+  → +5% team movement speed helps the whole team
+  → +25% stamina regen improves mobility
+  → Starts with Molotov
+
+KEY STRATEGIES
+───────────────────────────────────────────────────────────────────────────────
+
+✓ Run ahead to scout and clear obstacles
+✓ Detect hazards, especially with Karlee
+✓ Use SMG for maximum speed bonuses
+✓ Kite enemies with your movement speed
+✓ Use Breakout when grabbed (30s cooldown)
+✓ Report back to team about threats
+✓ Use your speed to escape dangerous situations
+✓ Don't abandon the team completely
+
+CRITICAL TIPS
+───────────────────────────────────────────────────────────────────────────────
+
+✗ Don't abandon the team completely - balance scouting with coordination
+✗ Don't forget your low health (+10 only) - mistakes are costly
+✗ Don't stop moving - speed is your defense
+✗ Don't get separated without Breakout available (30s cooldown)
+✗ Don't ignore hazards, especially with Karlee's detection
+
+SUMMARY
+───────────────────────────────────────────────────────────────────────────────
+
+You're the fast-moving scout. Run ahead to clear obstacles, detect hazards, and 
+report back to team. Use your incredible movement speed to kite enemies and 
+escape dangerous situations. Breakout provides solo survivability when 
+separated. With Karlee, hazard detection prevents team wipes. Your goal is 
+clearing the path, detecting threats, and handling yourself solo when needed, 
+while staying coordinated with the team.

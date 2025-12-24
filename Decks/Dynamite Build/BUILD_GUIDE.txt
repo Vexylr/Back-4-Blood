@@ -1,27 +1,120 @@
 DYNAMITE BUILD GUIDE
+═══════════════════════════════════════════════════════════════════════════════
 
-Professional demolitionist and explosive specialist. Your grenades and Molotovs deal massive damage (+175% total). Your job is eliminating bosses and mutations with explosive damage. You're the boss elimination specialist.
+OVERVIEW
+───────────────────────────────────────────────────────────────────────────────
 
-You're playing DPS. Use your offensive items (grenades, Molotovs) to deal massive damage to bosses and mutations. Save offensive items for important targets - use your secondary weapon with unlimited ammo for common ridden. With Hoffman, you have +4 offensive inventory slots.
+Professional demolitionist and explosive specialist. Your grenades and Molotovs 
+deal massive damage (+175% total). Your job is eliminating bosses and mutations 
+with explosive damage. You're the boss elimination specialist.
 
-Your explosive damage is +175% total from Demolitions Expert, Grenade Training, Bomb Squad, and Pyro. This makes your grenades and Molotovs incredibly powerful. Combined with Pyro's +100% fire damage, Molotovs are especially devastating.
+ROLE & POSITIONING
+───────────────────────────────────────────────────────────────────────────────
 
-Use Offensive Scavenger to find items. Money Grubbers and Copper Scavenger provide purchasing power. Highwayman gives 5% chance to spawn ammo/Molotov/Bait Jar on secondary kills. With Hoffman, Always Prepared generates items from kills. This ensures you have items available.
+You're playing DPS. Use your offensive items (grenades, Molotovs) to deal 
+massive damage to bosses and mutations. Save offensive items for important 
+targets - use your secondary weapon with unlimited ammo for common ridden. With 
+Hoffman, you have +4 offensive inventory slots.
 
-With Hoffman, you have +4 offensive inventory slots (+3 base + 1 Ready to Rock). This means more items available per level. Belt Clip also gives +1 quick slot inventory.
+EXPLOSIVE DAMAGE
+───────────────────────────────────────────────────────────────────────────────
 
-Pyro gives +3 temp health per fire kill. Fire in the Hole! gives 20 temp health + 25% sprint speed for 5 seconds when throwing offensive items. Canned Goods gives +45 health (partially offsetting stamina penalty). This provides good survivability.
+Your explosive damage is +175% total from:
+  • Demolitions Expert (+50%)
+  • Grenade Training (+25%)
+  • Bomb Squad (+25% team)
+  • Pyro (+100% fire damage)
 
-Pyro makes fire damage incredibly powerful (+100%). Molotovs become especially effective. You can sense flammable objects nearby, which helps with positioning fire attacks.
+This makes your grenades and Molotovs incredibly powerful. Combined with Pyro's 
++100% fire damage, Molotovs are especially devastating.
 
-Bomb Squad gives +25% team explosive damage and +25% team explosive resistance. This helps the entire team when using explosives. +1 Frag Grenade spawns per map provides additional utility.
+ITEM GENERATION
+───────────────────────────────────────────────────────────────────────────────
 
-Use secondary weapon with unlimited ammo (Ammo Stash) for common ridden clearing. Save your primary weapon for mutations, but focus on using offensive items for damage.
+Use Offensive Scavenger to find items. Money Grubbers and Copper Scavenger 
+provide purchasing power. Highwayman gives 5% chance to spawn ammo/Molotov/Bait 
+Jar on secondary kills. With Hoffman, Always Prepared generates items from 
+kills. This ensures you have items available.
 
-With Hoffman, +4 offensive inventory slots means more items available. +15% team ammo capacity helps mitigate Demolitions Expert's -15% ammo penalty. Always Prepared generates items from kills. You start with Ammo Pack for team utility.
+ITEM CAPACITY
+───────────────────────────────────────────────────────────────────────────────
 
-Use Offensive Scavenger to find items. Collect copper for item purchases (Copper Scavenger, Money Grubbers). Save offensive items for bosses and mutations. Use secondary weapon with unlimited ammo for common ridden. Use Pyro for fire damage (+100% fire damage). Use Fire in the Hole! for sustain when throwing items. Take down bosses and mutations with explosive damage. Communicate when you're using items for coordination.
+With Hoffman, you have +4 offensive inventory slots (+3 base + 1 Ready to Rock). 
+This means more items available per level. Belt Clip also gives +1 quick slot 
+inventory.
 
-Don't waste offensive items on common ridden - use secondary weapon. Don't ignore item generation - you need to find/purchase items. Don't forget stamina penalty (-25% from Canned Goods). Don't ignore copper management - you need copper for item purchases.
+SUSTAIN
+───────────────────────────────────────────────────────────────────────────────
 
-You're the explosive specialist. Use your massive explosive damage (+175%) to eliminate bosses and mutations efficiently. With Hoffman, you have +4 offensive inventory slots and generate items from kills. Your goal is taking down Breakers and Ogres with ease using your explosive damage bonuses. Use secondary weapon for common ridden, save offensive items for important targets.
+Pyro
+  → Gives +3 temp health per fire kill
+
+Fire in the Hole!
+  → Gives 20 temp health + 25% sprint speed for 5 seconds when throwing 
+    offensive items
+
+Canned Goods
+  → Gives +45 health (partially offsetting stamina penalty)
+
+This provides good survivability.
+
+FIRE DAMAGE SPECIALIST
+───────────────────────────────────────────────────────────────────────────────
+
+Pyro makes fire damage incredibly powerful (+100%). Molotovs become especially 
+effective. You can sense flammable objects nearby, which helps with positioning 
+fire attacks.
+
+TEAM SUPPORT
+───────────────────────────────────────────────────────────────────────────────
+
+Bomb Squad
+  → Gives +25% team explosive damage and +25% team explosive resistance
+  → This helps the entire team when using explosives
+  → +1 Frag Grenade spawns per map provides additional utility
+
+WEAPONS
+───────────────────────────────────────────────────────────────────────────────
+
+Use secondary weapon with unlimited ammo (Ammo Stash) for common ridden 
+clearing. Save your primary weapon for mutations, but focus on using offensive 
+items for damage.
+
+RECOMMENDED CLEANER
+───────────────────────────────────────────────────────────────────────────────
+
+Hoffman
+  → +4 offensive inventory slots means more items available
+  → +15% team ammo capacity helps mitigate Demolitions Expert's -15% ammo 
+    penalty
+  → Always Prepared generates items from kills
+  → Starts with Ammo Pack for team utility
+
+KEY STRATEGIES
+───────────────────────────────────────────────────────────────────────────────
+
+✓ Use Offensive Scavenger to find items
+✓ Collect copper for item purchases (Copper Scavenger, Money Grubbers)
+✓ Save offensive items for bosses and mutations
+✓ Use secondary weapon with unlimited ammo for common ridden
+✓ Use Pyro for fire damage (+100% fire damage)
+✓ Use Fire in the Hole! for sustain when throwing items
+✓ Take down bosses and mutations with explosive damage
+✓ Communicate when you're using items for coordination
+
+CRITICAL TIPS
+───────────────────────────────────────────────────────────────────────────────
+
+✗ Don't waste offensive items on common ridden - use secondary weapon
+✗ Don't ignore item generation - you need to find/purchase items
+✗ Don't forget stamina penalty (-25% from Canned Goods)
+✗ Don't ignore copper management - you need copper for item purchases
+
+SUMMARY
+───────────────────────────────────────────────────────────────────────────────
+
+You're the explosive specialist. Use your massive explosive damage (+175%) to 
+eliminate bosses and mutations efficiently. With Hoffman, you have +4 offensive 
+inventory slots and generate items from kills. Your goal is taking down Breakers 
+and Ogres with ease using your explosive damage bonuses. Use secondary weapon 
+for common ridden, save offensive items for important targets.
