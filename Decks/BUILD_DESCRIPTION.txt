@@ -1,0 +1,6 @@
+Experimental Back 4 Blood deck builds optimized for high-difficulty gameplay (No Hope/Nightmare). These builds are designed for multiplayer coordination and have been tested and refined for maximum effectiveness. All builds include detailed guides and recommended cleaners.
+
+Note: These builds are experimental and may require adjustments based on playstyle and team composition.
+
+GitHub Repository: https://github.com/Vexylr/Back-4-Blood
+
