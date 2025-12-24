@@ -29,37 +29,37 @@ DECK COMPOSITION (15 cards)
 3. ULTRASONIC WOUND THERAPY (Brawn - Ability)
    Heal 6 Health over 7 seconds to nearby teammates. Gadget Cost: 60 (Pistol/SMG ammo). REPLACES: Offensive Slot.
 
-5. EXPIRED T5 (Brawn - Ability)
+4. EXPIRED T5 (Brawn - Ability)
    Create a powerful blast that deals 20 Fire Damage to Weakspots. After initial blast, continue to deal 1 damage per second for 7 seconds. Gadget Cost: 75 (AR ammo). REPLACES: Support Slot.
 
-6. EXPERIMENTAL STUN GUN (Reflex - Ability)
+5. EXPERIMENTAL STUN GUN (Reflex - Ability)
    Enhance Bash to stun nearby enemies. Refreshes after 10 seconds. Gadget Cost: 30 (Pistol/SMG ammo). REPLACES: Quick Slot, FRAGILE.
 
-7. WELL RESTED (Brawn - Utility)
+6. WELL RESTED (Brawn - Utility)
    +20% Team Overheal. +5% Team Healing Efficiency.
 
-8. COPPER SCAVENGER (Fortune - Utility)
+7. COPPER SCAVENGER (Fortune - Utility)
    You can sense nearby Copper. More Copper Piles spawn.
 
-9. SADIST (Brawn - Offense)
+8. SADIST (Brawn - Offense)
    When a teammate within 15 meters receives 5 or more damage, gain 20% of the damage as Temporary Health. Can only trigger once per second.
 
-10. AMMO SCAVENGER (Discipline - Utility)
+9. AMMO SCAVENGER (Discipline - Utility)
     You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
-11. DOWN IN FRONT! (Discipline - Defense)
+10. DOWN IN FRONT! (Discipline - Defense)
     While crouching you neither take nor deal Friendly Fire damage. +10 Health. ESSENTIAL for multiplayer.
 
-12. AMMO BELT (Discipline - Offense)
+11. AMMO BELT (Discipline - Offense)
     +50% Ammo Capacity. +15% Reload Speed.
 
-13. AMMO POUCH (Discipline - Offense)
+12. AMMO POUCH (Discipline - Offense)
     +25% Ammo Capacity. +2.5% Bullet Damage.
 
-14. FIT AS A FIDDLE (Brawn - Utility)
+13. FIT AS A FIDDLE (Brawn - Utility)
     +20% Team Bolstered Health. +5 Team Health.
 
-15. MANDATORY PT (Brawn - Mobility)
+14. MANDATORY PT (Brawn - Mobility)
     +10% Team Stamina. +10% Team Stamina Regen.
 
 

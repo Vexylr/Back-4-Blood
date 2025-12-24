@@ -66,6 +66,9 @@ DECK COMPOSITION (15 cards)
 14. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
+15. GLASS CANNON (Reflex - Offense)
+   +25% Damage. -30% Health.
+
 
 TOTAL + BUFFS SUMMARY
 
