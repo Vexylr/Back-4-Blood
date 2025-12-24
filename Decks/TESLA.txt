@@ -40,7 +40,7 @@ active immediately.
 
 4. ULTRASONIC WOUND THERAPY (Brawn - Ability)
    - Heal 6 Health over 7 seconds to nearby teammates
-   - Gadget Cost: 60 (AR ammo)
+   - Gadget Cost: 60 (Pistol/SMG ammo)
    - REPLACES: Offensive Slot
    - Team healing gadget
    - Active when used
