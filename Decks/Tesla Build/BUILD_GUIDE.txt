@@ -1,81 +1,29 @@
 TESLA BUILD GUIDE
 
-OVERVIEW
---------
+Experimental tech support build using DLC gadgets from Children of the Worm expansion. Your gadgets replace item slots and cost ammo instead of consumables. This build focuses on team support through healing, crowd control, and mutation damage, but requires careful ammo management.
 
-Experimental tech support build using DLC gadgets from Children of the Worm expansion. Your gadgets replace item slots and cost ammo instead of consumables. Focus on team support through healing, crowd control, and mutation damage while managing your ammo carefully.
+You're playing support here. The Experimental Stun Gun makes you fragile (50% more damage taken), so stay behind your teammates and let them tank. Your job is using three experimental gadgets to help the team survive and kill mutations efficiently.
 
-HOW TO PLAY
------------
+Expired T5 costs 75 AR ammo and is your main damage tool. Use it on mutations and bosses, always aiming for weakspots. It deals 20 fire damage to weakspots plus a damage-over-time effect. Don't waste it on common ridden - it's too expensive for what you get.
 
-Your role is support. You're fragile (Experimental Stun Gun makes you take 50% more damage), so stay behind your teammates and let them tank damage. Your job is to use your three experimental gadgets to help the team survive and kill mutations efficiently.
+Ultrasonic Wound Therapy costs 60 Pistol/SMG ammo and provides team healing. When teammates are hurt, position yourself near them and use it to heal 6 health over 7 seconds. Tell your team to group up before using it to get maximum value.
 
-GADGET USAGE:
+Experimental Stun Gun costs 30 Sniper ammo and gives your bash a stun effect on nearby enemies. It refreshes every 10 seconds. Use it when you're getting swarmed or when mutations get too close. Since it makes you fragile, treat it as a defensive tool.
 
-Expired T5 (75 AR ammo): Your main damage tool. Use it on mutations and bosses, aiming for weakspots. It deals 20 fire damage to weakspots plus a damage-over-time effect. Don't waste it on common ridden - it's too expensive.
+Ammo management is critical. You're balancing three ammo types constantly - AR ammo for Expired T5, Pistol/SMG ammo for healing, and Sniper ammo for stun gun. AR ammo is the priority since Expired T5 is your most expensive gadget. Tell your team what you need - call out "I need AR ammo for Expired T5" when you're running low. Use Ammo Scavenger actively to find crates. The +75% ammo capacity helps, but you'll still feel the pinch. Don't waste gadget ammo types on your weapons - use your primary weapon for most damage.
 
-Ultrasonic Wound Therapy (60 Pistol/SMG ammo): Your team healing gadget. When teammates are hurt, position yourself near them and use it to heal 6 health over 7 seconds. Tell your team to group up before using it for maximum value.
+You're fragile, so don't play like a hero. Crouch with Down in Front! near your teammates to avoid friendly fire. Stay behind frontliners and support from the back. Move when you need to use gadgets effectively - get near teammates for healing, find good angles for Expired T5 weakspot shots.
 
-Experimental Stun Gun (30 Sniper ammo): Your emergency crowd control. Your bash stuns nearby enemies and refreshes every 10 seconds. Use it when you're getting swarmed or when mutations get too close. Since it makes you fragile, use it defensively.
+Use an LMG or Sniper as your primary weapon. LMG works best because Suppressing Fire procs on it (40% chance to slow enemies) and you get good ammo capacity. Snipers work fine too. Don't use ARs though - you need to save AR ammo for Expired T5.
 
-AMMO MANAGEMENT:
+Your secondary should be a pistol or SMG for commons, but don't waste the ammo. You need 60 Pistol/SMG ammo for your healing gadget, so be careful with it.
 
-This is critical. You're constantly balancing three ammo types (AR, Pistol/SMG, Sniper) for your gadgets. Priority order:
-1. AR ammo (most expensive at 75 per Expired T5)
-2. Pistol/SMG ammo (60 per healing)
-3. Sniper ammo (30 per stun, but use frequently)
+Communication matters. Tell your team when you need specific ammo types, when you're about to heal so they can group up, and when you're ready to use Expired T5 on a mutation so they can ping it.
 
-Tell your team what you need - "I need AR ammo for Expired T5" when you're low. Use Ammo Scavenger actively to find crates. The +75% ammo capacity helps, but it's still tight. Don't waste gadget ammo on commons - use your primary weapon (LMG or Sniper) for most damage.
+Evangelo is the best cleaner for this build. Born Survivor helps you break out of grabs, which is important since you're fragile. Fit gives +25% stamina regen for constant movement and gadget usage. Light Footed gives +5% team movement speed. Starting with a Molotov gives you backup offensive utility.
 
-POSITIONING:
+Find your weapon early - LMG or Sniper. Check your ammo situation right away - you need all three types. Use Ammo Scavenger to find that first crate quickly. Stay behind your team since you're fragile. Use Expired T5 on mutations and bosses, aiming for weakspots. Use Ultrasonic when people are hurt and tell your team to group up. Use Stun Gun when swarmed or when mutations get close. Save Expired T5 for important targets - don't waste it on commons.
 
-You're fragile, so don't be a hero. Crouch with Down in Front! near your teammates to avoid friendly fire. Stay behind frontliners and support from the back. Move to use gadgets effectively - near teammates for healing, good angles for Expired T5 weakspot shots.
+Avoid using Expired T5 on common ridden. It's a waste of 75 AR ammo. Don't play aggressively - you're fragile, stay back. Don't ignore ammo management or you'll run out mid-fight. Don't forget you have gadgets - use them, that's the whole point of the build. Don't stand in front of teammates - let them tank. Don't waste gadget ammo types on your weapons.
 
-WEAPONS:
-
-Use LMG or Sniper as your primary. LMG works best because Suppressing Fire procs on it (40% chance to slow enemies) and you get good ammo capacity. Snipers work too if you prefer. Don't use ARs - you need to save AR ammo for Expired T5.
-
-Use a pistol or SMG as secondary for commons, but don't waste the ammo - you need 60 Pistol/SMG ammo for your healing gadget.
-
-TEAM COORDINATION:
-
-Tell your team:
-- "I need AR ammo for Expired T5" when you're low
-- "Group up for healing" before using Ultrasonic
-- "I'm fragile, stay in front of me" as a positioning reminder
-- "Expired T5 ready for [mutation]" so they know to ping it
-
-RECOMMENDED CLEANER:
-
-Evangelo is best because:
-- Born Survivor helps you break out of grabs (important since you're fragile)
-- Fit gives +25% stamina regen for constant movement and gadget usage
-- Light Footed gives +5% team movement speed
-- Starts with Molotov for backup offensive utility
-
-WHAT TO DO:
-
-1. Find your weapon (LMG or Sniper) early
-2. Check your ammo - you need all three types
-3. Use Ammo Scavenger to find that first crate
-4. Stay behind your team (you're fragile)
-5. Use Expired T5 on mutations/bosses (aim for weakspots)
-6. Use Ultrasonic when people are hurt (tell team to group up)
-7. Use Stun Gun when swarmed or mutations get close
-8. Communicate your ammo needs with team
-9. Crouch near teammates (Down in Front!)
-10. Save Expired T5 for important targets, don't waste on commons
-
-WHAT NOT TO DO:
-
-- Don't use Expired T5 on common ridden (waste of 75 AR ammo)
-- Don't play aggressively (you're fragile, stay back)
-- Don't ignore ammo management (you'll run out mid-fight)
-- Don't forget you have gadgets (use them, that's the whole point)
-- Don't stand in front of teammates (let them tank)
-- Don't waste gadget ammo types on your weapons
-
-SUMMARY:
-
-You're a gadget-based support. Stay safe, manage your ammo, communicate with your team, and use your experimental tech to help everyone survive. The gadgets are powerful but expensive, so use them wisely.
-
+You're a gadget-based support. Stay safe, manage your ammo carefully, communicate with your team, and use your experimental tech to help everyone survive. The gadgets are powerful but expensive, so make every use count.

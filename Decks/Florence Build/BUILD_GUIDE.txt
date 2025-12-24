@@ -1,72 +1,27 @@
 FLORENCE BUILD GUIDE
 
-OVERVIEW
---------
+Primary healer and medical support specialist. Your goal is keeping everyone's health bar green. Maximum healing efficiency (+90% with Doc) makes you the most effective healer possible. Every medical item use provides multiple benefits to the entire team.
 
-Primary healer and medical support specialist. Your goal is to keep everyone's health bar green. Maximum healing efficiency (+90% with Doc) makes you the most effective healer possible. Every medical item use provides multiple benefits to the entire team.
-
-HOW TO PLAY
------------
-
-Your role is healer/support. Use Support Scavenger to find medical items, then use them with maximum efficiency (+90% with Doc). Group Therapy makes every medical use heal the whole team (+8 health each). Field Surgeon handles trauma (+3 trauma per use), and Antibiotic Ointment provides temp health (+20 temp health per use).
-
-HEALING EFFICIENCY:
+You're playing healer/support. Use Support Scavenger to find medical items, then use them with maximum efficiency (+90% with Doc). Group Therapy makes every medical use heal the whole team (+8 health each). Field Surgeon handles trauma (+3 trauma per use), and Antibiotic Ointment provides temp health (+20 temp health per use).
 
 With Doc, you have +90% healing efficiency (+75% base + 15% Skilled Physician). This means medical items heal for almost double their normal amount. Combined with all the additional effects, every medical use is incredibly valuable.
 
-HEALING EFFECTS:
-
-When you use a medical accessory:
-- Target heals: Normal amount × 1.90 (+90% efficiency)
-- All teammates heal: +8 Health (Group Therapy)
-- Target gains: +3 Trauma healing (Field Surgeon)
-- Target gains: +20 Temporary Health (Antibiotic Ointment)
-- Target gains: +10% Max Health, Stamina, Stamina Regen until end of level (Experienced EMT)
-- You heal: 50% of what target receives (Charitable Soul)
+When you use a medical accessory, here's what happens: The target heals for normal amount times 1.90 (+90% efficiency). All teammates heal for +8 health from Group Therapy. The target gains +3 trauma healing from Field Surgeon. The target gains +20 temporary health from Antibiotic Ointment. The target gains +10% max health, stamina, and stamina regen until end of level from Experienced EMT. You heal for 50% of what the target receives from Charitable Soul.
 
 Every medical use is a team buff - use them proactively, not just reactively.
 
-DOC'S FIELD MEDIC:
-
 Doc can apply field dressings to each teammate once per level (25 Health each). This gives you 3 free heals per level without consuming items. Use these strategically for emergencies when items are scarce.
 
-POSITIONING:
-
-Position yourself safely - stay mobile with Dash and Energy Bar, but don't put yourself in danger. Your job is to keep the team alive, so stay alive yourself. Crouch when near teammates (Down in Front!) to prevent friendly fire while healing.
-
-MEDICAL ITEM GENERATION:
+Position yourself safely - stay mobile with Dash and Energy Bar, but don't put yourself in danger. Your job is keeping the team alive, so stay alive yourself. Crouch when near teammates with Down in Front! to prevent friendly fire while healing.
 
 Support Scavenger ensures medical item availability throughout levels. You can sense nearby Support Accessories, and more spawn. This ensures you always have items to use.
 
-TEAM UTILITY:
-
 Amped Up gives team +20 health when hordes trigger. Fresh Bandage heals 15 trauma and restores health at level start. Doc's Triage gives +20% team trauma resistance - helps prevent trauma accumulation for the entire team.
-
-SUSTAIN:
 
 Fresh Bandage provides crucial sustain at level start (15 trauma + health restore). Charitable Soul keeps you healthy while healing others (50% of healing applies to you). Your personal survivability is moderate (+25 health), so position safely and let the team protect you.
 
-WHAT TO DO:
+Use Support Scavenger to find medical items. Use medical items proactively - they buff the whole team. Use Doc's Field Medic strategically (free 25 Health per teammate per level). Position yourself safely. Stay mobile with Dash and Energy Bar. Crouch when near teammates. Prioritize keeping the team alive. Use Fresh Bandage for sustain at level start.
 
-1. Use Support Scavenger to find medical items
-2. Use medical items proactively (they buff the whole team)
-3. Use Doc's Field Medic strategically (free 25 Health per teammate per level)
-4. Position yourself safely
-5. Stay mobile with Dash and Energy Bar
-6. Crouch when near teammates (Down in Front!)
-7. Prioritize keeping the team alive
-8. Use Fresh Bandage for sustain at level start
+Don't hoard medical items - use them, they buff the whole team. Don't position dangerously - stay safe, you're support. Don't forget Doc's Field Medic - free heals without items. Don't ignore trauma - Field Surgeon handles it. Don't forget Group Therapy - it heals the whole team. Don't play aggressively - you're support, not DPS.
 
-WHAT NOT TO DO:
-
-- Don't hoard medical items (use them - they buff the whole team)
-- Don't position dangerously (stay safe, you're support)
-- Don't forget Doc's Field Medic (free heals without items)
-- Don't ignore trauma (Field Surgeon handles it)
-- Don't forget Group Therapy (heals whole team)
-- Don't play aggressively (you're support, not DPS)
-
-SUMMARY:
-
-You're the primary healer. Keep everyone's health bar green by using medical items with maximum efficiency. Every medical use provides multiple benefits to the entire team - healing, trauma healing, temp health, and powerful buffs. With Doc, Field Medic gives you free emergency heals without items. Your goal: keep the team alive and healthy through efficient medical item usage.
-
+You're the primary healer. Keep everyone's health bar green by using medical items with maximum efficiency. Every medical use provides multiple benefits to the entire team - healing, trauma healing, temp health, and powerful buffs. With Doc, Field Medic gives you free emergency heals without items. Your goal is keeping the team alive and healthy through efficient medical item usage.

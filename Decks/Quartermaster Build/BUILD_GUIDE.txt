@@ -1,73 +1,29 @@
 QUARTERMASTER BUILD GUIDE
 
-OVERVIEW
---------
+Mobile supplier and resource generator. Your job is keeping the team stocked with ammo, weapons, and items. You're the portable merchant keeping everyone supplied and stocked throughout each level.
 
-Mobile supplier and resource generator. Your job is to keep the team stocked with ammo, weapons, and items. You're the portable merchant keeping everyone supplied and stocked throughout each level.
+You're playing support/looter. Use all your scavenger cards to find and generate resources throughout each level. Stay mobile with Cross Trainers to cover more ground. Help with damage using your weapon cards, but your main focus is resource generation and team support.
 
-HOW TO PLAY
------------
-
-Your role is support/looter. Use all your scavenger cards to find and generate resources throughout each level. Stay mobile with Cross Trainers to cover more ground. Help with damage using your weapon cards, but your main focus is resource generation and team support.
-
-SCAVENGER ABILITIES:
-
-You have four scavenger abilities:
-- Ammo Scavenger: Sense nearby ammo, +1 ammo crate spawn
-- Weapon Scavenger: Sense nearby weapons, more weapons spawn
-- Offensive Scavenger: Sense nearby offensive items, more offensive items spawn
-- Copper Scavenger: Sense nearby copper, more copper spawns
+You have four scavenger abilities: Ammo Scavenger senses nearby ammo and gives +1 ammo crate spawn. Weapon Scavenger senses nearby weapons and makes more spawn. Offensive Scavenger senses nearby offensive items and makes more spawn. Copper Scavenger senses nearby copper and makes more spawn.
 
 Use these actively throughout each level to find and generate resources for your team.
 
-TEAM AMMO SUPPORT:
-
 With Hoffman, you provide +50% team ammo capacity (+35% personal + 10% Ammo for All + 15% Cargo Pockets). This massive ammo support prevents ammo starvation for the entire team.
 
-COPPER GENERATION:
-
-Bounty Hunter gives you 10 copper per mutation kill (up to 300 per level). Combined with Copper Scavenger (more copper spawns), you generate significant copper for team upgrades and item purchases.
-
-EMERGENCY POWER:
+Bounty Hunter gives you 10 copper per mutation kill, up to 300 per level. Combined with Copper Scavenger making more copper spawn, you generate significant copper for team upgrades and item purchases.
 
 Avenge the Fallen gives all teammates 30% damage, 20% reload speed, and unlimited ammo for 10 seconds when a teammate goes down. This provides emergency power when things go wrong.
 
-TEAM SUSTAIN:
-
 Saferoom Recovery provides team sustain at level start - 15 health, 7 trauma damage healed, and 10% ammo refilled. This helps the team start each level in good shape.
-
-DAMAGE OUTPUT:
 
 While your focus is support, you still have good damage output (+20% base + up to +15% Confident Killer + +3.5% team damage). Use Assault Rifles or LMGs for Suppressing Fire synergy (40% chance to slow enemies).
 
-WITH HOFFMAN:
+With Hoffman, +50% team ammo capacity is massive. +1 offensive inventory gives you utility. Always Prepared generates items from kills. You start with Ammo Pack for immediate team utility.
 
-+50% team ammo capacity is massive. +1 offensive inventory gives you utility. Always Prepared generates items from kills. Starts with Ammo Pack for immediate team utility.
+With Heng, food synergy provides enhanced team sustain. More Food spawns, you gain effects when teammates eat food, and food restores +1 trauma when you consume it. Your team gains +1 health and stamina per food consumed.
 
-WITH HENG:
+Use all scavenger abilities actively throughout each level. Prioritize finding resources for your team. Stay mobile with Cross Trainers. Help with damage using your weapon cards. Communicate resource locations to team. Collect copper for team upgrades with Bounty Hunter. Crouch when near teammates. Use Avenge the Fallen for emergency power when needed.
 
-Food synergy provides enhanced team sustain. More Food spawns, you gain effects when teammates eat food, and food restores +1 trauma when you consume it. Team gains +1 health and stamina per food consumed.
+Don't ignore scavenger abilities - use them actively. Don't hoard resources - share with team. Don't focus only on combat - resource generation is your priority. Don't forget team ammo support, especially with Hoffman. Don't waste copper - use it for team upgrades.
 
-WHAT TO DO:
-
-1. Use all scavenger abilities actively throughout each level
-2. Prioritize finding resources for your team
-3. Stay mobile with Cross Trainers
-4. Help with damage using your weapon cards
-5. Communicate resource locations to team
-6. Collect copper for team upgrades (Bounty Hunter)
-7. Crouch when near teammates (Down in Front!)
-8. Use Avenge the Fallen for emergency power when needed
-
-WHAT NOT TO DO:
-
-- Don't ignore scavenger abilities (use them actively)
-- Don't hoard resources (share with team)
-- Don't focus only on combat (resource generation is your priority)
-- Don't forget team ammo support (especially with Hoffman)
-- Don't waste copper (use for team upgrades)
-
-SUMMARY:
-
-You're the mobile supplier. Keep the team stocked with ammo, weapons, and items through active scavenging. With Hoffman, provide massive ammo support (+50% team capacity). Generate copper for upgrades and provide emergency power when teammates go down. Your goal: ensure the team has all the resources they need to succeed.
-
+You're the mobile supplier. Keep the team stocked with ammo, weapons, and items through active scavenging. With Hoffman, provide massive ammo support (+50% team capacity). Generate copper for upgrades and provide emergency power when teammates go down. Your goal is ensuring the team has all the resources they need to succeed.

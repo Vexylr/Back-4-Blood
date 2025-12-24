@@ -1,62 +1,25 @@
 SAWED OFF BUILD GUIDE
 
-OVERVIEW
---------
+Belgian shotgun specialist with unlimited ammo (Belgian is a secondary weapon). Extremely tanky with 80% trauma resistance and +35% damage resistance while crouched. Your job is using the Belgian for unlimited ammo while maintaining high survivability through tankiness and sustain.
 
-Belgian shotgun specialist with unlimited ammo (Belgian is a secondary weapon). Extremely tanky with 80% trauma resistance and +35% damage resistance while crouched. Your job is to use the Belgian for unlimited ammo while maintaining high survivability through tankiness and sustain.
+You're playing DPS/frontliner. Use the Belgian as your secondary weapon - it has unlimited ammo through Ammo Stash. Crouch when firing for optimal defense (+35% damage resistance total while crouched). Your extremely high trauma resistance (80%) makes you very durable despite the close-range nature of the Belgian.
 
-HOW TO PLAY
------------
+Crouch when firing and when near teammates. Hunker Down provides +10% accuracy and +10% damage resistance while crouched, and you already have +25% base damage resistance from Padded Suit and Motorcycle Helmet for +35% total while crouched. This makes you very tanky.
 
-Your role is DPS/frontliner. Use the Belgian as your secondary weapon - it has unlimited ammo through Ammo Stash. Crouch when firing for optimal defense (+35% damage resistance total while crouched). Your extremely high trauma resistance (80%) makes you very durable despite the close-range nature of the Belgian.
+Use Belgian as secondary (unlimited ammo). Use any primary weapon for mutations - you're focused on the Belgian for common ridden clearing. You can't aim down sights (Mag Coupler, Motorcycle Helmet disable ADS), so hip-fire only.
 
-POSITIONING:
+Ammo Stash gives unlimited ammo to secondary weapons. The Belgian reloads 20% slower base, but you have +130% reload speed total from Scattergun Skills, Mag Coupler, and Widemouth Magwell, so reloading is still very fast.
 
-Crouch when firing and when near teammates. Hunker Down provides +10% accuracy and +10% damage resistance while crouched, and you already have +25% base damage resistance (Padded Suit + Motorcycle Helmet) for +35% total while crouched. This makes you very tanky.
+Buckshot Bruiser provides temp health from shotgun hits - 0.25 per pellet, and the Belgian fires 12 pellets, so that's 3 temp health per hit if all connect. Food Scavenger synergizes with Heng for trauma management. Fit as a Fiddle gives +20% team bolstered health and +5 team health.
 
-WEAPONS:
+You have 80% trauma resistance from Wooden Armor, Body Armor, Durable, and Fanny Pack - the best possible trauma resistance in the game. This makes you incredibly durable on high difficulties.
 
-Belgian as secondary (unlimited ammo). Use any primary weapon for mutations - you're focused on the Belgian for common ridden clearing. You can't aim down sights (Mag Coupler, Motorcycle Helmet disable ADS), so hip-fire only.
+You have +25% base damage resistance from Padded Suit and Motorcycle Helmet, plus +10% while crouching from Hunker Down, for +35% total while crouched. Combined with +25 health and 80% trauma resistance, you're very tanky.
 
-UNLIMITED AMMO:
+With Heng, food synergy is excellent. More Food spawns, you gain effects when teammates eat food, and food restores +1 trauma when you consume it. Your team gains +1 health and stamina per food consumed. This provides excellent sustain.
 
-Ammo Stash gives unlimited ammo to secondary weapons. The Belgian reloads 20% slower base, but you have +130% reload speed total (Scattergun Skills + Mag Coupler + Widemouth Magwell), so reloading is still very fast.
+Use Belgian as secondary (unlimited ammo). Crouch when firing for optimal defense (+35% damage resistance). Use primary weapon for mutations. Use food for sustain, especially with Heng. Crouch when near teammates. Reload quickly with +130% reload speed. Stay in close range - Belgian is a close-range weapon.
 
-SUSTAIN:
+Don't try to aim down sights - you can't, it's hip-fire only. Don't forget to crouch - optimal defense requires crouching. Don't waste food - it's important for sustain with Heng. Don't forget fire resistance is negative (-80% net) - avoid fire damage. Don't play at long range - Belgian is close-range.
 
-Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet, 12 pellets = 3 temp health per hit if all connect). Food Scavenger synergizes with Heng for trauma management. Fit as a Fiddle gives +20% team bolstered health and +5 team health.
-
-TRAUMA RESISTANCE:
-
-You have 80% trauma resistance (Wooden Armor + Body Armor + Durable + Fanny Pack) - the best possible trauma resistance in the game. This makes you incredibly durable on high difficulties.
-
-DAMAGE RESISTANCE:
-
-+25% base (Padded Suit + Motorcycle Helmet) + +10% while crouching (Hunker Down) = +35% total while crouched. Combined with +25 health and 80% trauma resistance, you're very tanky.
-
-WITH HENG:
-
-Food synergy is excellent. More Food spawns, you gain effects when teammates eat food, and food restores +1 trauma when you consume it. Team gains +1 health and stamina per food consumed. This provides excellent sustain.
-
-WHAT TO DO:
-
-1. Use Belgian as secondary (unlimited ammo)
-2. Crouch when firing for optimal defense (+35% damage resistance)
-3. Use primary weapon for mutations
-4. Use food for sustain (especially with Heng)
-5. Crouch when near teammates (Down in Front!)
-6. Reload quickly with +130% reload speed
-7. Stay in close range (Belgian is close-range weapon)
-
-WHAT NOT TO DO:
-
-- Don't try to aim down sights (you can't - hip-fire only)
-- Don't forget to crouch (optimal defense requires crouching)
-- Don't waste food (important for sustain with Heng)
-- Don't forget fire resistance is negative (-80% net) - avoid fire damage
-- Don't play at long range (Belgian is close-range)
-
-SUMMARY:
-
-You're a Belgian shotgun specialist with unlimited ammo. Crouch when firing for optimal defense (+35% damage resistance) and use your extremely high trauma resistance (80%) to tank damage. Your fast reload speed (+130%) compensates for Ammo Stash penalty. With Heng, food synergy provides excellent sustain. Your goal: use unlimited Belgian ammo to clear common ridden while maintaining high survivability through tankiness.
-
+You're a Belgian shotgun specialist with unlimited ammo. Crouch when firing for optimal defense (+35% damage resistance) and use your extremely high trauma resistance (80%) to tank damage. Your fast reload speed (+130%) compensates for Ammo Stash penalty. With Heng, food synergy provides excellent sustain. Your goal is using unlimited Belgian ammo to clear common ridden while maintaining high survivability through tankiness.
