@@ -62,6 +62,9 @@ DECK COMPOSITION (15 cards)
 14. MANDATORY PT (Brawn - Mobility)
     +10% Team Stamina. +10% Team Stamina Regen.
 
+15. SUPERIOR CARDIO (Reflex - Mobility)
+    +20% Stamina. +20% Sprint Efficiency. +5 Health.
+
 
 TOTAL + BUFFS SUMMARY
 
