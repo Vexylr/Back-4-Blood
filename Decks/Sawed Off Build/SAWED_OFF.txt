@@ -97,7 +97,6 @@ STRENGTHS
 - Unlimited ammo (Belgian secondary)
 - Fast reload speed (+130%)
 - Good sustain through kills and food
-- Temp health generation from shotgun hits
 - High health pool (+25 health)
 - Friendly fire protection when crouched
 - Damage resistance while crouched (+35% total)

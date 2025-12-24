@@ -62,15 +62,14 @@ and 80% trauma resistance, you're very tanky.
 SUSTAIN
 ───────────────────────────────────────────────────────────────────────────────
 
-Buckshot Bruiser
-  → Provides temp health from shotgun hits - 0.25 per pellet, and the Belgian 
-    fires 12 pellets, so that's 3 temp health per hit if all connect
+Ammo Scavenger
+  → Ensures you have ammo for your unlimited Belgian ammo needs
 
 Food Scavenger
   → Synergizes with Heng for trauma management
 
-Fit as a Fiddle
-  → Gives +20% team bolstered health and +5 team health
+Well Rested
+  → Gives +20% team overheal and +5% team healing efficiency
 
 RECOMMENDED CLEANER
 ───────────────────────────────────────────────────────────────────────────────

@@ -80,7 +80,6 @@ TOTAL + BUFFS SUMMARY
 
 BASE DECK:
 - Health: +15 (+10 Down in Front!, +5% Slugger)
-- Fresh Bandage: Removed to make room for standard cards
 - Melee Damage: +40% (Mean Drunk) + 20% vs Mutations (Ignore the Pain) + 15 Flat (Spiky Bits) + Berserker stacks
 - Melee Attack Speed: +40% (Brazen + Slugger) + up to +100% from stacks (Meth Head + Berserker)
 - Melee Stamina Efficiency: +25% (Brazen + Slugger) + up to +50% from Meth Head stacks
