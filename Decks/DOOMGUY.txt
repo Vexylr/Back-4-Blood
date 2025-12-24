@@ -139,7 +139,7 @@ HEALING/SUSTAIN:
 SPECIAL EFFECTS:
 - DISABLES: Aim Down Sights (Meth Head, Mag Coupler, Quick Kill) - hip-fire build
 - Crouch for damage resistance and accuracy (Hunker Down)
-- Crouch when sniping for better pellet grouping
+- Crouch when firing for better pellet grouping (Hunker Down provides +10% accuracy while crouched)
 - Melee attacks don't stick in tough enemies (Meth Head)
 - Sense nearby Food Items (Food Scavenger)
 - Cleave through enemies with melee (Mean Drunk)
@@ -171,7 +171,7 @@ CARD GROUPINGS (How They Work Together):
 PLAYSTYLE:
 ----------
 
-Shotgun specialist focusing on AA12 with hip-fire accuracy. Glass Cannon gives massive damage (+25%) but reduces health (-30%) - offset by high trauma resistance (65%) and sustain cards. Use bash periodically to maintain Meth Head stacks for stamina efficiency. Crouch when sniping for better pellet grouping (Hunker Down provides +10% accuracy and damage resistance while crouched). Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet). Battle Lust heals from bash/melee kills (+1 health + 0.125 trauma per kill). Food Scavenger synergizes with Heng for trauma management - Heng gains effects when teammates eat food, and food provides enhanced healing. Use Magnum as offhand for mutations. Goal: high damage output while maintaining sustain through kills and food.
+Shotgun specialist focusing on AA12 with hip-fire accuracy. Glass Cannon gives massive damage (+25%) but reduces health (-30%) - offset by high trauma resistance (65%) and sustain cards. Use bash periodically to maintain Meth Head stacks for stamina efficiency. Crouch when firing for better pellet grouping (Hunker Down provides +10% accuracy and damage resistance while crouched). Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet). Battle Lust heals from bash/melee kills (+1 health + 0.125 trauma per kill). Food Scavenger synergizes with Heng for trauma management - Heng gains effects when teammates eat food, and food provides enhanced healing. Use Magnum as offhand for mutations. Goal: high damage output while maintaining sustain through kills and food.
 
 HIGH DIFFICULTY CONSIDERATIONS:
 --------------------------------
