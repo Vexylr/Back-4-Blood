@@ -1,12 +1,12 @@
 TRENCHGUN BUILD GUIDE
 
-Shotgun specialist using the AA12 with hip-fire accuracy. High damage output, excellent trauma resistance (65%), and sustain through kills and food. Your job is dealing damage while maintaining sustain through bash/melee kills and food.
+Shotgun specialist using the AA12 with hip-fire accuracy. High damage output, excellent trauma resistance (65%), and sustain through temp health, food, and team healing. Your job is dealing damage while maintaining survivability through sustain cards and positioning.
 
 You're playing DPS/frontliner. Use the AA12 as your primary weapon with hip-fire - you can't aim down sights. Crouch when firing for better pellet grouping and damage resistance. Use your fast reload speed and movement speed while firing to maintain constant pressure.
 
 Crouch when firing - Hunker Down provides +40% accuracy and +10% damage resistance while crouched. Combined with Quick Kill's +50% accuracy, you get +90% accuracy while crouching. This improves pellet grouping and makes you tankier. Crouch when near teammates with Down in Front! to prevent friendly fire.
 
-Use AA12 as primary - you need to find it early for optimal performance. Use Magnum as offhand for mutations. You can't aim down sights (Meth Head, Mag Coupler, Quick Kill disable ADS), so hip-fire only.
+Use AA12 as primary - you need to find it early for optimal performance. Use Magnum as offhand for mutations. You can't aim down sights (Mag Coupler and Quick Kill disable ADS), so hip-fire only.
 
 Buckshot Bruiser provides temp health from shotgun hits - 0.25 per pellet, and the AA12 fires many pellets, so you get significant temp health. Amped Up provides team healing during hordes. Fresh Bandage provides trauma and health recovery at level start. Food Scavenger synergizes with Heng for trauma management.
 
