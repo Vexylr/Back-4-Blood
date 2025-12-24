@@ -1,4 +1,4 @@
-LIFELINE - HEALER
+FLORENCE - HEALER
 =================
 
 This deck is optimized for high-difficulty healing and medical support in multiplayer.

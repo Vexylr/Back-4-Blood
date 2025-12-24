@@ -1,4 +1,4 @@
-WIDOWMAKER - RIFLE
+SPRINGFIELD - RIFLE
 ==================
 
 This deck is optimized for high-difficulty rifle gameplay using M1A or Ranch Rifle.

@@ -1,4 +1,4 @@
-JUGGERNAUT - TANK
+SPARTAN - TANK
 =================
 
 This deck is optimized for high-difficulty tank gameplay in multiplayer.

@@ -1,4 +1,4 @@
-QUICKSILVER - SCOUT
+RECON - SCOUT
 ===================
 
 This deck is optimized for high-difficulty scouting and speed gameplay in multiplayer.

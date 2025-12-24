@@ -1,4 +1,4 @@
-DOOMGUY - SHOTGUN
+TRENCHGUN - SHOTGUN
 =================
 
 This deck is optimized for high-difficulty shotgun gameplay using the AA12.

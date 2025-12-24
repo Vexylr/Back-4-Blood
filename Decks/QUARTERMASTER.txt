@@ -1,4 +1,4 @@
-MERCHANT - SUPPLIER
+QUARTERMASTER - SUPPLIER
 ===================
 
 This deck is optimized for high-difficulty support and resource generation in multiplayer.

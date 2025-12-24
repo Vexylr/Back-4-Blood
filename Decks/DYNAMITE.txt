@@ -1,4 +1,4 @@
-BOOMSTICK - EXPLOSIVES
+DYNAMITE - EXPLOSIVES
 =======================
 
 This deck is optimized for high-difficulty explosive and fire damage in multiplayer.

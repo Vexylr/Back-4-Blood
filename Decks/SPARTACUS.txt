@@ -1,4 +1,4 @@
-WOLVERINE - MELEE
+SPARTACUS - MELEE
 ==================
 
 This deck is optimized for high-difficulty melee gameplay in multiplayer.

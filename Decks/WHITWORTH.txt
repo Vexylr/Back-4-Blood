@@ -1,4 +1,4 @@
-HAWKEYE - GLASS CANNON
+WHITWORTH - GLASS CANNON
 ======================
 
 This deck is optimized for high-difficulty damage-dealing in multiplayer.

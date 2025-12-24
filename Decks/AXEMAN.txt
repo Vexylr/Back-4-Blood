@@ -1,4 +1,4 @@
-BERSERKER - MELEE
+AXEMAN - MELEE
 =================
 
 This deck is optimized for high-difficulty melee combat in multiplayer.

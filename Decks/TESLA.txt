@@ -1,4 +1,4 @@
-IRONMAN - EXPERIMENTAL
+TESLA - EXPERIMENTAL
 =======================
 
 This deck is optimized for high-difficulty gameplay using experimental DLC technology in multiplayer.
