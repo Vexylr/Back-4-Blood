@@ -60,14 +60,14 @@ DECK COMPOSITION (15 cards)
 12. LARGE CALIBER ROUNDS (Discipline - Offense)
     +7.5% Bullet Damage. +200% Bullet Penetration.
 
-13. ENERGY BAR (Reflex - Mobility)
-    +30% Stamina Regeneration. +5 Health.
+13. AMMO SCAVENGER (Discipline - Utility)
+    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
 14. DOWN IN FRONT! (Discipline - Defense)
     While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
-15. UTILITY SCAVENGER (Discipline - Utility)
-    You can sense nearby Quick Accessories. More Quick Accessories spawn.
+15. FOOD SCAVENGER (Fortune - Utility)
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 
 TOTAL + BUFFS SUMMARY
@@ -109,7 +109,7 @@ STRENGTHS
 - Solo survivability (Breakout with 30s cooldown)
 - Hazard detection with Karlee (prevents team wipes)
 - Good damage output while maintaining speed
-- Quick item access (Utility Scavenger generates Quick Accessories)
+- Food sustain through Food Scavenger
 - Team stamina support
 - With Karlee: +50% Team Use Speed + +1 Quick Inventory + starts with Tool Kit
 - With Evangelo: Enhanced breakout capability + team movement speed

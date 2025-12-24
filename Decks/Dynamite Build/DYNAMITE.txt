@@ -54,14 +54,14 @@ DECK COMPOSITION (15 cards)
 12. BOMB SQUAD (Brawn - Offense)
     +25% Team Explosive Damage. +25% Team Explosive Resistance. +1 Additional Frag Grenade spawns in each map.
 
-13. CANNED GOODS (Brawn - Defense)
-    +45 Health. -25% Stamina.
+13. AMMO SCAVENGER (Discipline - Utility)
+    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
 14. DOWN IN FRONT! (Discipline - Defense)
     While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
-15. FIRE IN THE HOLE! (Reflex - Mobility)
-    When you throw an Offensive Accessory, gain 20 Temporary Health and 25% Sprint Speed for 5 seconds.
+15. FOOD SCAVENGER (Fortune - Utility)
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 
 TOTAL + BUFFS SUMMARY
@@ -73,7 +73,6 @@ BASE DECK:
 - Explosive Resistance: +25% Team
 - Offensive Inventory: +3 (Belt Clip +1 Quick, Grenade Pouch +1, Double Grenade Pouch +2)
 - Quick Slot Inventory: +1
-- Stamina: -5% net
 - Swap Speed: +25%
 - Use Speed: +10%
 - Ammo Capacity: -15%
@@ -87,7 +86,7 @@ WITH HOFFMAN:
 
 PLAYSTYLE
 
-Professional demolitionist and explosive specialist. Your grenades and Molotovs deal massive damage (+175% total). Use Offensive Scavenger to find items, Money Grubbers and Copper Scavenger for purchasing power. Pyro makes fire damage incredibly powerful (+100%) and gives temp health per kill (+3 temp health per fire kill). Fire in the Hole! provides sustain when throwing items (20 temp health + 25% sprint speed for 5 seconds). With Hoffman, you have +4 offensive inventory slots and generate items from kills. Your goal: eliminate bosses and mutations with explosive damage. Take down Breakers and Ogres with ease using your massive accessory damage bonuses. Use secondary weapon with unlimited ammo for common ridden, save offensive items for mutations and bosses.
+Professional demolitionist and explosive specialist. Your grenades and Molotovs deal massive damage (+175% total). Use Offensive Scavenger to find items, Money Grubbers and Copper Scavenger for purchasing power. Pyro makes fire damage incredibly powerful (+100%) and gives temp health per kill (+3 temp health per fire kill). Food Scavenger provides additional sustain through food items. With Hoffman, you have +4 offensive inventory slots and generate items from kills. Your goal: eliminate bosses and mutations with explosive damage. Take down Breakers and Ogres with ease using your massive accessory damage bonuses. Use secondary weapon with unlimited ammo for common ridden, save offensive items for mutations and bosses.
 
 
 STRENGTHS

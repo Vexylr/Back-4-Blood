@@ -53,14 +53,14 @@ DECK COMPOSITION (15 cards)
 11. DURABLE (Brawn - Defense)
     +15% Trauma Resistance. +10 Health. +20% Fire Resistance.
 
-12. COLD BREW COFFEE (Discipline - Mobility)
-    +15% Reload Speed. +25% Aim Speed. +25% Weapon Swap Speed. +25% Use Speed.
+12. AMMO SCAVENGER (Discipline - Utility)
+    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
-13. LARGE CALIBER ROUNDS (Discipline - Offense)
-    +7.5% Bullet Damage. +200% Bullet Penetration.
-
-14. FOOD SCAVENGER (Fortune - Utility)
+13. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
+
+14. WELL RESTED (Brawn - Utility)
+    +20% Team Overheal. +5% Team Healing Efficiency.
 
 15. SILVER BULLETS (Discipline - Offense)
     +10% Bullet Damage. +15% Effective Bullet Range.
@@ -70,16 +70,17 @@ TOTAL + BUFFS SUMMARY
 
 BASE DECK:
 - Health: -20% net (-30% Glass Cannon + +10 Down in Front! + +10 Durable)
-- Damage: +52.5% base (+25% Glass Cannon + 10% Tactical Vest + 10% Silver Bullets + 7.5% Large Caliber) + up to +30% when scoped (Patient Hunter)
+- Damage: +45% base (+25% Glass Cannon + 10% Tactical Vest + 10% Silver Bullets) + up to +30% when scoped (Patient Hunter)
 - Weakspot Damage: +85% (+75% Optics Enthusiast + 10% Front Sight Focus)
-- Bullet Penetration: +225%
+- Bullet Penetration: +25% (Line 'Em Up)
 - Effective Bullet Range: +25%
 - Ammo Capacity: +30% (rifles)
 - Trauma Resistance: +65% (Wooden Armor + Body Armor + Durable)
 - Fire Resistance: -80% net (Wooden Armor -100% + Durable +20%)
-- Aim Speed: +65%
+- Aim Speed: +40%
 - Accuracy: +20%
-- Reload Speed: +15%
+- Team Overheal: +20% (Well Rested)
+- Team Healing Efficiency: +5% (Well Rested)
 
 WITH HENG:
 - Food Synergy: More Food spawns + gains effects when teammates eat + +1 Trauma when consuming

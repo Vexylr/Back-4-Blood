@@ -56,14 +56,14 @@ DECK COMPOSITION (15 cards)
 12. FANNY PACK (Reflex - Utility)
     +1 Support Inventory. +15% Trauma Resistance.
 
-13. DOUBLE GRENADE POUCH (Brawn - Utility)
-    +2 Offensive Inventory.
+13. AMMO SCAVENGER (Discipline - Utility)
+    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
 14. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
-15. COPPER SCAVENGER (Fortune - Utility)
-    You can sense nearby Copper. More Copper Piles spawn.
+15. WELL RESTED (Brawn - Utility)
+    +20% Team Overheal. +5% Team Healing Efficiency.
 
 
 TOTAL + BUFFS SUMMARY

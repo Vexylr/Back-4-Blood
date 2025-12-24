@@ -57,11 +57,11 @@ DECK COMPOSITION (15 cards)
 13. SUPPORT SCAVENGER (Discipline - Utility)
     You can sense nearby Support Accessories. More Support Accessories spawn.
 
-14. EXPERIENCED EMT (Discipline - Utility)
-    When you use a Medical Accessory, the target gains +10% Maximum Health, Stamina, and Stamina Regen until end of level.
+14. AMMO SCAVENGER (Discipline - Utility)
+    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
-15. WELL FED (Fortune - Utility)
-    +10 Team Health.
+15. FOOD SCAVENGER (Fortune - Utility)
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 
 TOTAL + BUFFS SUMMARY

@@ -69,25 +69,25 @@ DECK COMPOSITION (15 cards)
 13. SUNDER (Brawn - Offense)
     Melee hits cause targets to take 3% increased damage (max 15%, stacks per hit). Melee hits that destroy Armor can create Makeshift Armor.
 
-14. BRAZEN (Reflex - Offense)
-    +15% Melee Stamina Efficiency. +20% Melee Attack Speed.
+14. FOOD SCAVENGER (Fortune - Utility)
+    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
-15. SLUGGER (Reflex - Offense)
-    +5% Health. +10% Melee Stamina Efficiency. +20% Melee Attack Speed.
+15. WELL RESTED (Brawn - Utility)
+    +20% Team Overheal. +5% Team Healing Efficiency.
 
 
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
-- Health: +20 (+10 Down in Front!, +10 Durable) + 5% (Slugger)
+- Health: +15 (+10 Down in Front!, +5% Slugger)
 - Melee Damage: +40% (Mean Drunk) + 20% vs Mutations (Ignore the Pain) + 15 Flat (Spiky Bits) + Berserker stacks
 - Melee Attack Speed: +40% (Brazen + Slugger) + up to +100% from stacks (Meth Head + Berserker)
 - Melee Stamina Efficiency: +25% (Brazen + Slugger) + up to +50% from Meth Head stacks
 - Trauma Resistance: +35% (Body Armor + Durable)
 - Damage Resistance: +20% while using Melee Weapon (Spiky Bits)
 - Fire Resistance: +20% (Durable)
-- Acid Resistance: +50% (Scar Tissue)
-- Damage Reduction: -1 flat damage from all Ridden (Scar Tissue)
+- Team Overheal: +20% (Well Rested)
+- Team Healing Efficiency: +5% (Well Rested)
 
 WITH HOLLY:
 - Health: +20 + 5% + +1 per kill (Grand Slam = +2 per kill with Battle Lust)

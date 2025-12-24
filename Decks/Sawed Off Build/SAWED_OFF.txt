@@ -56,14 +56,14 @@ DECK COMPOSITION (15 cards)
 12. DOWN IN FRONT! (Discipline - Defense)
     While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
-13. BUCKSHOT BRUISER (Brawn - Defense)
-    When using Shotguns, gain 0.25 Temporary Health for each pellet that hits.
+13. AMMO SCAVENGER (Discipline - Utility)
+    You can sense nearby Ammo. 1 Additional Ammo crate spawn.
 
 14. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
-15. FIT AS A FIDDLE (Brawn - Utility)
-    +20% Team Bolstered Health. +5 Team Health.
+15. WELL RESTED (Brawn - Utility)
+    +20% Team Overheal. +5% Team Healing Efficiency.
 
 
 TOTAL + BUFFS SUMMARY
@@ -76,7 +76,8 @@ BASE DECK:
 - Fire Resistance: -80% net (Wooden Armor -100% + Durable +20%)
 - Accuracy: +40% while crouching (Hunker Down)
 - Support Inventory: +1
-- Team Bolstered Health: +20%
+- Team Overheal: +20% (Well Rested)
+- Team Healing Efficiency: +5% (Well Rested)
 
 WITH HENG:
 - Food Synergy: More Food spawns + gains effects when teammates eat + +1 Trauma when consuming
@@ -87,7 +88,7 @@ WITH HENG:
 
 PLAYSTYLE
 
-Belgian specialist with unlimited ammo through Ammo Stash (Belgian is a secondary weapon). Extremely high trauma resistance (80%) and damage resistance (+35% while crouched) make you very tanky. Very fast reload speed (+130% total) compensates for Ammo Stash penalty (20% slower base reload). Crouch for additional defense and accuracy. Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet, 12 pellets = 3 temp health per hit if all connect). Food Scavenger synergizes with Heng for trauma management. Down in Front! prevents friendly fire when crouched.
+Belgian specialist with unlimited ammo through Ammo Stash (Belgian is a secondary weapon). Extremely high trauma resistance (80%) and damage resistance (+35% while crouched) make you very tanky. Very fast reload speed (+130% total) compensates for Ammo Stash penalty (20% slower base reload). Crouch for additional defense and accuracy. Ammo Scavenger ensures you have ammo for your unlimited Belgian ammo needs. Food Scavenger synergizes with Heng for trauma management. Down in Front! prevents friendly fire when crouched.
 
 
 STRENGTHS
