@@ -1,0 +1,12 @@
+Cleaner Name: Karlee
+Full Name: Karlee Fincher
+
+Default Weapons:
+Primary: AK47
+Secondary: TEC 9
+
+Traits:
+1. DANGER SENSE: Karlee can sense nearby hazards.
+2. DEXTEROUS (Team Effect): +50% Team Use Speed
+3. BAG OF TRICKS: +1 Quick Inventory
+4. NIMBLE FINGERED: Start with a Tool Kit

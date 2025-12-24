@@ -1,0 +1,12 @@
+Cleaner Name: Jim
+Full Name: Jim Hossler
+
+Default Weapons:
+Primary: Phoenix 350L
+Secondary: 357 Magnum
+
+Traits:
+1. CLEAN KILL: Precision kills increase Jim's damage by 2.5%, up to 10 times until he takes damage.
+2. SEASONED HUNTER (Team Effect): +10% Team Weakspot Damage
+3. MILITARY TRAINING: +25% Reload Speed
+4. RAZOR SNARE: Start with a Razor Wire

@@ -1,0 +1,14 @@
+Cleaner Name: Dan
+Full Name: Dan (Prophet Dan)
+
+Default Weapons:
+Primary: SCAR
+Secondary: Desert Eagle
+
+Traits:
+1. DIVINE INTERVENTION (Team Effect): A random effect is played whenever a Cleaner is Revived
+2. VENGEFUL: "Prophet" Dan has increased combat attributes when others are incapacitated
+3. PROTECT THE FLOCK (Team Effect): +3 Team Damage Resistance and Knockback immunity while Reviving
+4. LEGERDEMAIN: Start with a Smoke Grenade
+
+Note: Available in Children of the Worm expansion

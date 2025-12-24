@@ -1,0 +1,11 @@
+Cleaner Name: Mom
+Full Name: Christine Tuttle
+
+Default Weapons:
+Primary: Ranch Rifle
+Secondary: The Belgian
+
+Traits:
+1. DEN MOTHER: +1 Support Inventory
+2. KILL THE PAIN: Start with Pain Meds
+3. MOTIVATOR (Team Effect): +100% Team Revive Speed, 20% Slower Team Temp Health Decay

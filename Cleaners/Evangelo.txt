@@ -1,0 +1,12 @@
+Cleaner Name: Evangelo
+Full Name: Evangelo
+
+Default Weapons:
+Primary: Uzi
+Secondary: Machete
+
+Traits:
+1. BORN SURVIVOR: Evangelo can break out of grabs. +75% Breakout Speed
+2. LIGHT FOOTED (Team Effect): +5% Team Movement Speed
+3. FIT: +25% Stamina Regen
+4. FIRESTARTER: Start with a Molotov

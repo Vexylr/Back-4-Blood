@@ -1,0 +1,14 @@
+Cleaner Name: Sharice
+Full Name: Sharice
+
+Default Weapons:
+Primary: UMP45
+Secondary: Fire Axe
+
+Traits:
+1. ARMORER: Armor knocked off Ridden has a chance to become usable Makeshift Armor
+2. DAUNTLESS: +25% Trauma Resistance
+3. FIRST RESPONDER (Team Effect): +25% Team Bolstered Health
+4. STUNNER: Starts with a Flash Bang
+
+Note: Available in Tunnels of Terror expansion

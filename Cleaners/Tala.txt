@@ -1,0 +1,14 @@
+Cleaner Name: Tala
+Full Name: Tala Yazdi
+
+Default Weapons:
+Primary: Vector
+Secondary: Bow
+
+Traits:
+1. TEAM EFFECT (Team Effect): +1 Warped Chest and Whistle spawn in each map
+2. JEFF SUMMON: Jeff can be called by anyone with his whistle
+3. BLEEDING ATTACKS: Tala's attacks cause targets to bleed
+4. STARTING ITEM: Start with a Bait Jar
+
+Note: Available in River of Blood expansion. Limited to PvE game modes only (cannot be unlocked for Swarm mode).

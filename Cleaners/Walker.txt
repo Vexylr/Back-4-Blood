@@ -1,0 +1,12 @@
+Cleaner Name: Walker
+Full Name: Elijah Walker
+
+Default Weapons:
+Primary: M4 Carbine
+Secondary: Glock 23
+
+Traits:
+1. INCOMING!: Mutations that Walker pings are highlighted and deal 10% reduced damage.
+2. PRAGMATIC (Team Effect): +10 Team Health
+3. MODEL SOLDIER: +10% Damage
+4. EQUIPPED: Start with a Frag Grenade

@@ -9,7 +9,13 @@ This repository contains organized card references and deck builds for Back 4 Bl
   - Includes expansion cards: Tunnels of Terror, Children of the Worm, River of Blood
   - Each card stored as individual .txt files with full descriptions
 
-- **MELEE_NIGHTMARE_DECK.txt** - Optimized melee deck for Nightmare difficulty multiplayer
+- **Cleaners/** - All 12 playable Cleaners (characters) in Back 4 Blood
+  - Includes default weapons, traits, and abilities for each Cleaner
+  - Organized as individual .txt files with complete information
+
+- **Decks/** - Optimized deck builds for various playstyles and difficulties
+  - Melee Nightmare deck for multiplayer
+  - More decks will be added over time
 
 ## Card Categories
 

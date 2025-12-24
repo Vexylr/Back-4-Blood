@@ -1,0 +1,12 @@
+Cleaner Name: Doc
+Full Name: Seo-yeon
+
+Default Weapons:
+Primary: MP5
+Secondary: Beretta M9
+
+Traits:
+1. FIELD MEDIC: Doc can apply field dressings to each teammate once per level, healing them for 25 Health.
+2. SKILLED PHYSICIAN: +15% Healing Efficiency
+3. TRIAGE (Team Effect): +20% Team Trauma Resistance
+4. READY TO OPERATE: Start with a Bandage

@@ -1,0 +1,12 @@
+Cleaner Name: Hoffman
+Full Name: Howard Robert Hoffman
+
+Default Weapons:
+Primary: TAC14
+Secondary: M1911
+
+Traits:
+1. ALWAYS PREPARED: Hoffman has a chance to find ammo or Offensive Accessories when killing Ridden.
+2. CARGO POCKETS (Team Effect): +15% Max Team Ammo Capacity
+3. READY TO ROCK: +1 Offensive Inventory
+4. NEVER WITHOUT: Start with an Ammo Pack

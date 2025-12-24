@@ -1,0 +1,15 @@
+Cleaner Name: Heng
+Full Name: Heng
+
+Default Weapons:
+Primary: RPK
+Secondary: Hatchet
+
+Traits:
+1. SCAVENGER SENSES: Heng can sense nearby Food and Cards.
+2. PERSONAL CHEF: More Food spawns. Heng gains the same effects whenever a teammate eats food.
+3. COMFORT FOOD: Heng restores an additional 1 Trauma when consuming Food.
+4. HIGH CARB DIET (Team Effect): +1 Health and Stamina for each Food consumed
+5. I.E.D: Start with a Pipe Bomb
+
+Note: Available in Tunnels of Terror expansion

@@ -1,0 +1,12 @@
+Cleaner Name: Holly
+Full Name: Holly Forrester
+
+Default Weapons:
+Primary: 870 Express
+Secondary: Bat
+
+Traits:
+1. GRAND SLAM: Holly recovers 1 Health when she kills a Ridden.
+2. CARDIO (Team Effect): +25 Team Stamina
+3. TOUGH AS NAILS: +5% Team Damage Resistance
+4. SELF DEFENSE: Start with a Stun Gun
