@@ -21,3 +21,12 @@ This folder contains information about all 12 playable Cleaners in Back 4 Blood.
 
 All Cleaner information is sourced from the [Back 4 Blood Wiki - Cleaners](https://back4blood.fandom.com/wiki/Cleaners) page.
 
+## Cleaner Details
+
+Each Cleaner file contains:
+- Default weapons (Primary and Secondary)
+- All traits and abilities with full descriptions
+- Team effect indicators where applicable
+- Starting items
+- Expansion availability notes
+

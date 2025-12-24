@@ -1,21 +1,12 @@
 # Back 4 Blood - Card References & Deck Builder
 
-This repository contains organized card references and deck builds for Back 4 Blood.
+This repository contains organized references and optimized deck builds for Back 4 Blood.
 
 ## Contents
 
-- **Card References/** - Complete collection of all 191 Active Cards from Back 4 Blood
-  - Organized by category: Reflex, Discipline, Brawn, Fortune
-  - Includes expansion cards: Tunnels of Terror, Children of the Worm, River of Blood
-  - Each card stored as individual .txt files with full descriptions
-
-- **Cleaners/** - All 12 playable Cleaners (characters) in Back 4 Blood
-  - Includes default weapons, traits, and abilities for each Cleaner
-  - Organized as individual .txt files with complete information
-
-- **Decks/** - Optimized deck builds for various playstyles and difficulties
-  - Melee Nightmare deck for multiplayer
-  - More decks will be added over time
+- **Card References/** - Complete collection of all 191 Active Cards organized by category (Reflex, Discipline, Brawn, Fortune) and expansions
+- **Cleaners/** - All 12 playable Cleaners with their default weapons, traits, and abilities
+- **Decks/** - Optimized deck builds for various playstyles, difficulties, and game modes (multiple builds available and growing)
 
 ## Card Categories
 
@@ -24,9 +15,11 @@ This repository contains organized card references and deck builds for Back 4 Bl
 - **Brawn (Green)** - 48 cards - Health and resilience boosts
 - **Fortune (Yellow)** - 31 cards - Resource management and luck-based benefits
 
-## Source
+## Sources
 
-All card information is sourced from the [Back 4 Blood Wiki - Active Cards](https://back4blood.fandom.com/wiki/Active_cards) page.
+- **Cards:** [Back 4 Blood Wiki - Active Cards](https://back4blood.fandom.com/wiki/Active_cards)
+- **Cleaners:** [Back 4 Blood Wiki - Cleaners](https://back4blood.fandom.com/wiki/Cleaners)
+- **Game:** [Back 4 Blood - Steam Store Page](https://store.steampowered.com/app/924970/Back_4_Blood/)
 
 ## License
 
