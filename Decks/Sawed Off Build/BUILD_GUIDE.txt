@@ -4,7 +4,7 @@ Belgian shotgun specialist with unlimited ammo (Belgian is a secondary weapon). 
 
 You're playing DPS/frontliner. Use the Belgian as your secondary weapon - it has unlimited ammo through Ammo Stash. Crouch when firing for optimal defense (+35% damage resistance total while crouched). Your extremely high trauma resistance (80%) makes you very durable despite the close-range nature of the Belgian.
 
-Crouch when firing and when near teammates. Hunker Down provides +10% accuracy and +10% damage resistance while crouched, and you already have +25% base damage resistance from Padded Suit and Motorcycle Helmet for +35% total while crouched. This makes you very tanky.
+Crouch when firing and when near teammates. Hunker Down provides +40% accuracy and +10% damage resistance while crouched, and you already have +25% base damage resistance from Padded Suit and Motorcycle Helmet for +35% total while crouched. This makes you very tanky.
 
 Use Belgian as secondary (unlimited ammo). Use any primary weapon for mutations - you're focused on the Belgian for common ridden clearing. You can't aim down sights (Mag Coupler, Motorcycle Helmet disable ADS), so hip-fire only.
 
@@ -14,7 +14,7 @@ Buckshot Bruiser provides temp health from shotgun hits - 0.25 per pellet, and t
 
 You have 80% trauma resistance from Wooden Armor, Body Armor, Durable, and Fanny Pack - the best possible trauma resistance in the game. This makes you incredibly durable on high difficulties.
 
-You have +25% base damage resistance from Padded Suit and Motorcycle Helmet, plus +10% while crouching from Hunker Down, for +35% total while crouched. Combined with +25 health and 80% trauma resistance, you're very tanky.
+You have +25% base damage resistance from Padded Suit and Motorcycle Helmet, plus +10% while crouching from Hunker Down, for +35% total while crouched. You get +40% accuracy while crouching from Hunker Down. Combined with +25 health and 80% trauma resistance, you're very tanky.
 
 With Heng, food synergy is excellent. More Food spawns, you gain effects when teammates eat food, and food restores +1 trauma when you consume it. Your team gains +1 health and stamina per food consumed. This provides excellent sustain.
 

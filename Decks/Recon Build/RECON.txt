@@ -78,7 +78,8 @@ BASE DECK:
 - Sprint Speed: +5%
 - Stamina: +35% + +10% Team
 - Stamina Regen: +50% + +10% Team
-- Bullet Damage: +22.5% base + +10% weakspot
+- Bullet Damage: +20% base (Ammo Pouch +2.5%, Silver Bullets +10%, Large Caliber +7.5%) + +10% with SMGs (Mag Carrier) = +30% total with SMGs
+- Weakspot Damage: +10% (Front Sight Focus)
 - Ammo Capacity: +55%
 - Reload Speed: +50% (SMG)
 - Bullet Penetration: +200%

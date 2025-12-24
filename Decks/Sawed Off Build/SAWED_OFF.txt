@@ -32,8 +32,8 @@ DECK COMPOSITION (15 cards)
 4. WIDEMOUTH MAGWELL (Reflex - Offense)
    +40% Reload Speed.
 
-5. HUNKER DOWN (Brawn - Defense)
-   +10% Damage Resistance while crouching. +10% Accuracy while crouching.
+5. HUNKER DOWN (Discipline - Defense)
+   While crouching: +10% Damage Resistance and +40% Accuracy.
 
 6. MOTORCYCLE HELMET (Discipline - Defense)
    +15% Damage Resistance. +10 Health. DISABLES: Aim Down Sights.
@@ -74,7 +74,7 @@ BASE DECK:
 - Trauma Resistance: +80% (Wooden Armor + Body Armor + Durable + Fanny Pack)
 - Damage Resistance: +25% base + +10% while crouching = +35% total while crouched
 - Fire Resistance: -80% net (Wooden Armor -100% + Durable +20%)
-- Accuracy: +10% while crouching
+- Accuracy: +40% while crouching (Hunker Down)
 - Support Inventory: +1
 - Team Bolstered Health: +20%
 

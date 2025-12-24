@@ -4,7 +4,7 @@ Shotgun specialist using the AA12 with hip-fire accuracy. High damage output, ex
 
 You're playing DPS/frontliner. Use the AA12 as your primary weapon with hip-fire - you can't aim down sights. Crouch when firing for better pellet grouping and damage resistance. Use bash periodically to maintain Meth Head stacks for stamina efficiency.
 
-Crouch when firing - Hunker Down provides +10% accuracy and +10% damage resistance while crouched. This improves pellet grouping and makes you tankier. Crouch when near teammates with Down in Front! to prevent friendly fire.
+Crouch when firing - Hunker Down provides +40% accuracy and +10% damage resistance while crouched. Combined with Quick Kill's +50% accuracy, you get +90% accuracy while crouching. This improves pellet grouping and makes you tankier. Crouch when near teammates with Down in Front! to prevent friendly fire.
 
 Use AA12 as primary - you need to find it early for optimal performance. Use Magnum as offhand for mutations. You can't aim down sights (Meth Head, Mag Coupler, Quick Kill disable ADS), so hip-fire only.
 

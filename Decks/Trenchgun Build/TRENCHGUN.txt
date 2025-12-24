@@ -23,8 +23,8 @@ DECK COMPOSITION (15 cards)
 1. BUCKSHOT BRUISER (Brawn - Defense)
    When using Shotguns, gain 0.25 Temporary Health for each pellet that hits.
 
-2. HUNKER DOWN (Brawn - Defense)
-   +10% Damage Resistance while crouching. +10% Accuracy while crouching.
+2. HUNKER DOWN (Discipline - Defense)
+   While crouching: +10% Damage Resistance and +40% Accuracy.
 
 3. SCATTERGUN SKILLS (Discipline - Offense)
    +40% Reload Speed with Shotguns.
@@ -77,7 +77,7 @@ BASE DECK:
 - Damage Resistance: +10% while crouching (Hunker Down)
 - Fire Resistance: -100% (Wooden Armor)
 - Reload Speed: +90% (+50% Mag Coupler + +40% Scattergun Skills)
-- Accuracy: +50% (Quick Kill) + +10% while crouching (Hunker Down)
+- Accuracy: +50% base (Quick Kill) + +40% while crouching (Hunker Down) = +90% total while crouching
 - Move Speed: +35% while firing with Shotguns (Rolling Thunder)
 
 WITH HENG:
@@ -89,7 +89,7 @@ WITH HENG:
 
 PLAYSTYLE
 
-Shotgun specialist focusing on AA12 with hip-fire accuracy. Glass Cannon gives massive damage (+25%) but reduces health (-30%) - offset by high trauma resistance (65%) and sustain cards. Shell Carrier provides +10% shotgun damage and +30% shotgun ammo capacity. Rolling Thunder gives +10% shotgun damage and +35% movement speed while firing. Scattergun Skills provides +40% shotgun reload speed, combined with Mag Coupler for +90% total reload speed. Crouch when firing for better pellet grouping (Hunker Down provides +10% accuracy and damage resistance while crouched). Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet). Amped Up provides team healing during hordes. Fresh Bandage provides trauma/health recovery at level start. Food Scavenger synergizes with Heng for trauma management. Use Magnum as offhand for mutations.
+Shotgun specialist focusing on AA12 with hip-fire accuracy. Glass Cannon gives massive damage (+25%) but reduces health (-30%) - offset by high trauma resistance (65%) and sustain cards. Shell Carrier provides +10% shotgun damage and +30% shotgun ammo capacity. Rolling Thunder gives +10% shotgun damage and +35% movement speed while firing. Scattergun Skills provides +40% shotgun reload speed, combined with Mag Coupler for +90% total reload speed. Crouch when firing for better pellet grouping (Hunker Down provides +40% accuracy and +10% damage resistance while crouched). Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet). Amped Up provides team healing during hordes. Fresh Bandage provides trauma/health recovery at level start. Food Scavenger synergizes with Heng for trauma management. Use Magnum as offhand for mutations.
 
 
 STRENGTHS
@@ -98,7 +98,7 @@ STRENGTHS
 - Excellent trauma resistance (65%)
 - Good sustain through Buckshot Bruiser temp health, food, and team healing
 - Very fast reload speed (+90% total)
-- High hip-fire accuracy (+50% + crouch bonus)
+- High hip-fire accuracy (+50% base, +90% while crouching)
 - Movement speed while firing (+35%) for kiting
 - Shotgun ammo capacity (+30%)
 - With Heng: Enhanced food synergy and food sensing
