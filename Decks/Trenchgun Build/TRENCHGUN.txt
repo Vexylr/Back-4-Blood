@@ -4,7 +4,7 @@ Difficulty: No Hope
 Weapons: AA12 (primary), Magnum (offhand)
 Playstyles: dps, front liner
 
-This deck is optimized for high-difficulty shotgun gameplay using the AA12. Focus: High damage, damage resistance, trauma resistance, and melee/bash sustain.
+This deck is optimized for high-difficulty shotgun gameplay using the AA12. Focus: High damage, damage resistance, trauma resistance, and shotgun sustain.
 
 
 RECOMMENDED CLEANERS
@@ -26,20 +26,20 @@ DECK COMPOSITION (15 cards)
 2. HUNKER DOWN (Brawn - Defense)
    +10% Damage Resistance while crouching. +10% Accuracy while crouching.
 
-3. METH HEAD (Reflex - Offense)
-   Every Melee swing grants 5% Melee Attack Speed and 5% Melee Stamina Efficiency for 6 seconds, stacking up to 10 times. Your Melee Attacks no longer stick to tough enemies. DISABLES: Aim Down Sights.
+3. SCATTERGUN SKILLS (Discipline - Offense)
+   +40% Reload Speed with Shotguns.
 
-4. SPIKY BITS (Brawn - Offense)
-   +15 Melee Damage. +20% Damage Resistance while using a Melee Weapon. -15% Ammo Capacity.
+4. SHELL CARRIER (Fortune - Offense)
+   +30% Shotgun Ammo Capacity. +10% Damage with Shotguns.
 
-5. MEAN DRUNK (Brawn - Offense)
-   +40% Melee Damage. Your Melee Attacks cause cleave through enemies.
+5. ROLLING THUNDER (Reflex - Mobility)
+   +35% Movement Speed while firing with Shotguns. +10% Damage with Shotguns.
 
-6. BATTLE LUST (Brawn - Defense)
-   Melee kills heal 1 Health and 0.125 Trauma.
+6. AMPED UP (Brawn - Defense)
+   When a horde is triggered, your team gains 20 Health.
 
-7. BRAZEN (Reflex - Offense)
-   +15% Melee Stamina Efficiency. +20% Melee Attack Speed.
+7. FRESH BANDAGE (Brawn - Defense)
+   At the start of each level: recover 15 Trauma Damage, restore missing Health.
 
 8. WOODEN ARMOR (Brawn - Defense)
    +30% Trauma Resistance. -100% Fire Resistance.
@@ -56,7 +56,7 @@ DECK COMPOSITION (15 cards)
 12. QUICK KILL (Reflex - Offense)
     +50% Accuracy. DISABLES: Aim Down Sights.
 
-13. GLASS CANNON (Brawn - Offense)
+13. GLASS CANNON (Reflex - Offense)
     +25% Damage. -30% Health.
 
 14. DOWN IN FRONT! (Discipline - Defense)
@@ -69,17 +69,16 @@ DECK COMPOSITION (15 cards)
 TOTAL + BUFFS SUMMARY
 
 BASE DECK:
-- Health: -30% (Glass Cannon) + +10 (Down in Front!) = -20% net
-- Damage: +25% (Glass Cannon)
-- Melee Damage: +40% (Mean Drunk) + 15 Flat (Spiky Bits)
-- Melee Attack Speed: +20% (Brazen) + up to +50% (Meth Head stacks)
-- Melee Stamina Efficiency: +15% (Brazen) + up to +50% (Meth Head stacks)
+- Health: -20% net (-30% Glass Cannon + +10 Down in Front!)
+- Damage: +35% base (+25% Glass Cannon + +10% Shell Carrier) + +10% while firing (Rolling Thunder)
+- Shotgun Damage: +20% (+10% Shell Carrier + +10% Rolling Thunder)
+- Shotgun Ammo Capacity: +30% (Shell Carrier)
 - Trauma Resistance: +65% (Wooden Armor + Body Armor + Motorcycle Helmet)
-- Damage Resistance: +20% while using Melee Weapon (Spiky Bits) + +10% while crouching (Hunker Down)
+- Damage Resistance: +10% while crouching (Hunker Down)
 - Fire Resistance: -100% (Wooden Armor)
-- Reload Speed: +50% (Mag Coupler)
+- Reload Speed: +90% (+50% Mag Coupler + +40% Scattergun Skills)
 - Accuracy: +50% (Quick Kill) + +10% while crouching (Hunker Down)
-- Ammo Capacity: -15% (Spiky Bits)
+- Move Speed: +35% while firing with Shotguns (Rolling Thunder)
 
 WITH HENG:
 - Food Synergy: More Food spawns + gains effects when teammates eat + +1 Trauma when consuming
@@ -90,17 +89,18 @@ WITH HENG:
 
 PLAYSTYLE
 
-Shotgun specialist focusing on AA12 with hip-fire accuracy. Glass Cannon gives massive damage (+25%) but reduces health (-30%) - offset by high trauma resistance (65%) and sustain cards. Use bash periodically to maintain Meth Head stacks for stamina efficiency. Crouch when firing for better pellet grouping (Hunker Down provides +10% accuracy and damage resistance while crouched). Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet). Battle Lust heals from bash/melee kills (+1 health + 0.125 trauma per kill). Food Scavenger synergizes with Heng for trauma management. Use Magnum as offhand for mutations.
+Shotgun specialist focusing on AA12 with hip-fire accuracy. Glass Cannon gives massive damage (+25%) but reduces health (-30%) - offset by high trauma resistance (65%) and sustain cards. Shell Carrier provides +10% shotgun damage and +30% shotgun ammo capacity. Rolling Thunder gives +10% shotgun damage and +35% movement speed while firing. Scattergun Skills provides +40% shotgun reload speed, combined with Mag Coupler for +90% total reload speed. Crouch when firing for better pellet grouping (Hunker Down provides +10% accuracy and damage resistance while crouched). Buckshot Bruiser provides temp health from shotgun hits (0.25 per pellet). Amped Up provides team healing during hordes. Fresh Bandage provides trauma/health recovery at level start. Food Scavenger synergizes with Heng for trauma management. Use Magnum as offhand for mutations.
 
 
 STRENGTHS
 
-- High damage output (+25%)
+- High damage output (+35% base + +10% while firing = +45% total potential)
 - Excellent trauma resistance (65%)
-- Good sustain through kills and food
-- Fast reload speed (+50%)
+- Good sustain through Buckshot Bruiser temp health, food, and team healing
+- Very fast reload speed (+90% total)
 - High hip-fire accuracy (+50% + crouch bonus)
-- Melee sustain for common ridden (bash/knife with Battle Lust)
+- Movement speed while firing (+35%) for kiting
+- Shotgun ammo capacity (+30%)
 - With Heng: Enhanced food synergy and food sensing
 
 
@@ -108,6 +108,6 @@ WEAKNESSES
 
 - Low health pool (-20% net)
 - No fire resistance (-100%)
-- Requires maintaining Meth Head stacks with bash
 - Needs to find AA12 early for optimal performance
 - DISABLES: Aim Down Sights (hip-fire only)
+- Requires crouching for optimal defense
