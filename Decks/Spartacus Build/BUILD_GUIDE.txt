@@ -1,0 +1,84 @@
+SPARTACUS BUILD GUIDE
+
+OVERVIEW
+--------
+
+Frontline melee tank that clears common ridden for the team. High damage, excellent sustain through healing on kills, and good trauma resistance make you a durable frontline fighter. Your job is to handle hordes, clear common ridden efficiently, and heal your team through kills.
+
+HOW TO PLAY
+-----------
+
+Your role is frontliner/tank. Get in front of your team, crouch when near them (Down in Front!), and clear common ridden with your melee weapon. Your cleave damage and healing on kills keep you and your team alive while you handle the horde.
+
+POSITIONING:
+
+Crouch when near teammates (Down in Front!) to prevent friendly fire. You'll be in front clearing common ridden, so position yourself where you can protect your team while staying within Vanguard range (10 meters) to heal them with your kills.
+
+MELEE COMBAT:
+
+Use Fire Axe, Machete, or Bat. Mean Drunk gives you cleave - your attacks hit multiple enemies in a large area. This is perfect for hordes.
+
+Meth Head stacks build quickly (10 swings = max stacks for +50% speed and stamina efficiency). Start swinging immediately and maintain stacks with periodic attacks.
+
+Berserker stacks on each kill, making you stronger as you fight. The more you kill, the faster and more powerful you become.
+
+SUSTAIN:
+
+Battle Lust heals you +1 health and +0.125 trauma per melee kill. Vanguard heals you AND teammates within 10 meters +1 health per melee kill. With Holly, you get +2 health per kill total (Battle Lust + Grand Slam).
+
+This healing is active from your very first kill, so stay aggressive and keep killing to maintain your health.
+
+TRAUMA RESISTANCE:
+
+You have +35% trauma resistance (Body Armor + Durable), which is excellent. With Sharice, you get +60% total - the best possible trauma mitigation in the game. This makes you very durable on high difficulties.
+
+STACKING MECHANICS:
+
+- Meth Head: Stacks on each swing (up to 10 stacks = +50% speed/efficiency)
+- Berserker: Stacks on each kill (+5% damage, +5% speed, +5% move speed for 4 seconds per kill)
+- Sunder: Stacks on each melee hit (up to 15% increased damage taken by enemies)
+
+The longer you fight, the stronger you get. Start aggressive and maintain momentum.
+
+WITH HOLLY:
+
++2 health per kill (Battle Lust + Grand Slam) gives incredible sustain. +25 team stamina (Cardio) is massive for melee stamina management. +5% team damage resistance (Tough as Nails) helps the whole team.
+
+WITH SHARICE:
+
++60% trauma resistance total is the best in the game. Makeshift Armor generation from knocked armor synergizes with Sunder for double armor sources. Starts with Fire Axe.
+
+PLAYSTYLE PRIORITIES:
+
+1. Crouch when near teammates (Down in Front!)
+2. Clear common ridden with cleave damage
+3. Stack Meth Head with swings (10 swings = max)
+4. Stack Berserker with kills
+5. Use Vanguard to heal teammates (stay within 10 meters)
+6. Use Battle Lust for personal sustain
+7. Focus mutations with Ignore the Pain (+20% damage + healing)
+8. Use Food Scavenger for additional sustain
+
+WHAT TO DO:
+
+1. Get your melee weapon early (Fire Axe, Machete, or Bat)
+2. Crouch when near teammates
+3. Clear common ridden aggressively
+4. Stack Meth Head and Berserker quickly
+5. Stay within 10 meters of teammates to heal them
+6. Focus mutations when they appear
+7. Use food for additional sustain
+8. Stay aggressive - your sustain depends on kills
+
+WHAT NOT TO DO:
+
+- Don't forget to crouch (Down in Front! prevents friendly fire)
+- Don't abandon your team (you heal them with kills)
+- Don't waste time - start swinging immediately to build stacks
+- Don't ignore mutations - Ignore the Pain gives you +20% damage and healing vs them
+- Don't get separated from team - you need to be within 10 meters to heal them
+
+SUMMARY:
+
+You're a frontline melee tank. Get in front, crouch when near teammates, clear hordes with cleave damage, and heal your team through kills. Your trauma resistance and sustain make you durable, and your stacking mechanics make you stronger as you fight. Stay aggressive and keep killing to maintain momentum.
+

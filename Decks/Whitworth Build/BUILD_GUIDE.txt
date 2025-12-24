@@ -1,0 +1,78 @@
+WHITWORTH BUILD GUIDE
+
+OVERVIEW
+--------
+
+Glass cannon precision damage dealer focused on weakspot damage and mutation elimination. You deal massive damage but have low health - positioning and precision aiming are critical. Your job is to eliminate mutations and bosses efficiently through precise weakspot shots.
+
+HOW TO PLAY
+-----------
+
+Your role is DPS. You're a glass cannon with low health (+15 only), so stay at range and let your massive damage do the work. Position yourself safely, aim for weakspots, and eliminate mutations before they become a threat.
+
+POSITIONING:
+
+Stay at range. You're fragile, so find a safe position where you can aim at weakspots without taking damage. Use cover and elevation when possible. Crouch when near teammates (Down in Front!) to prevent friendly fire while scoped.
+
+AIMING AND DAMAGE STACKS:
+
+Patient Hunter: Aim down sights and hold for 2.25 seconds to max your stacks (+30% damage when fully scoped). This requires staying still while aiming, so position safely before scoping.
+
+Confident Killer: Stacks on mutation kills (up to +15% damage). Prioritize killing mutations early to build stacks quickly.
+
+With Jim: Clean Kill stacks on precision kills (up to +25% damage), but resets if you take damage. This requires skill - hit weakspots and avoid taking damage to maintain stacks.
+
+WEAPONS:
+
+Use Assault Rifles or LMGs. Tactical Vest gives +10% damage with these weapons. M1A or Ranch Rifle work great for precision. Snipers also work with Suppressing Fire utility. Prioritize weapons with good weakspot damage and manageable recoil.
+
+PLAYSTYLE PRIORITIES:
+
+1. Position safely at range
+2. Aim for weakspots (especially with Jim's +10% team weakspot damage)
+3. Stack Patient Hunter by aiming for 2.25 seconds
+4. Kill mutations to stack Confident Killer
+5. If using Jim: Get precision kills and avoid taking damage to stack Clean Kill
+6. Use Suppressing Fire with LMGs/Snipers for crowd control (40% slow chance)
+7. Crouch when near teammates (Down in Front!)
+
+DAMAGE MAXIMIZATION:
+
+Base damage is +52.5% (Glass Cannon + Tactical Vest + Silver Bullets + Large Caliber). Add up to +30% from Patient Hunter (when scoped), up to +15% from Confident Killer (mutation kills), and up to +25% from Jim's Clean Kill (precision kills, if using Jim). Total potential: up to +103% with Jim, +88% with Walker.
+
+With Jim: Focus on precision weakspot shots and avoid taking damage to maximize Clean Kill stacks. You're a high-skill build that rewards good aim.
+
+With Walker: More forgiving with consistent +10% damage. No need to maintain precision kill stacks, making it easier to play.
+
+SUSTAIN:
+
+Fresh Bandage heals 15 trauma and restores health at level start - crucial for your low health pool. You have minimal health bonuses, so positioning and avoiding damage is essential.
+
+TEAM UTILITY:
+
+On Your Mark gives team buffs during hordes (7.5% ammo restore, 10% move speed while firing, 15% reload speed, 25% swap speed for 30 seconds). Jim's Seasoned Hunter gives +10% team weakspot damage.
+
+WHAT TO DO:
+
+1. Position at range for optimal weakspot shots
+2. Aim down sights for 2.25 seconds to max Patient Hunter stacks
+3. Focus mutations first to stack Confident Killer
+4. Prioritize weakspot shots (especially with Jim)
+5. Use Suppressing Fire with LMGs/Snipers for crowd control
+6. Crouch when near teammates (Down in Front!)
+7. Use Fresh Bandage for sustain at level start
+8. With Jim: Avoid taking damage to maintain Clean Kill stacks
+
+WHAT NOT TO DO:
+
+- Don't get caught in close quarters (you're fragile)
+- Don't ignore positioning (low health means mistakes are fatal)
+- Don't waste ammo (manage it carefully)
+- Don't play aggressively (stay back and let damage do the work)
+- Don't forget to stack Patient Hunter (aim for 2.25 seconds)
+- With Jim: Don't take unnecessary damage (resets Clean Kill stacks)
+
+SUMMARY:
+
+You're a precision glass cannon. Position safely, aim for weakspots, stack your damage bonuses, and eliminate mutations efficiently. Your massive damage potential makes you valuable for boss fights and mutation elimination, but your low health requires careful positioning and good aim.
+
