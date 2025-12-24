@@ -1,7 +1,7 @@
 DYNAMITE - EXPLOSIVES
 
 Difficulty: No Hope
-Weapons: Secondary weapons (unlimited ammo), any primary for mutations
+Weapons: Secondary weapons (unlimited ammo), any primary for mutations (ALL IN on explosives/items)
 Playstyles: dps
 
 This deck is optimized for high-difficulty explosive and fire damage in multiplayer. Focus: Maximum explosive damage, offensive item capacity, grenade generation, and boss elimination.

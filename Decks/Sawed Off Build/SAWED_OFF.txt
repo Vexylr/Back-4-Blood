@@ -1,7 +1,7 @@
 SAWED_OFF - BELGIAN
 
 Difficulty: No Hope
-Weapons: Belgian (secondary), any primary for mutations
+Weapons: Belgian (secondary), any primary for mutations (ALL IN on Belgian shotgun)
 Playstyles: dps, front liner
 
 This deck is optimized for high-difficulty Belgian shotgun gameplay. Focus: Damage resistance, trauma resistance, sustain, and Belgian-specific mechanics.
