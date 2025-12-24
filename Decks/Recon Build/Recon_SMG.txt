@@ -66,6 +66,9 @@ DECK COMPOSITION (15 cards)
 14. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
+15. CONFIDENT KILLER (Brawn - Offense)
+    When you or your team kills a Mutation: gain 1% damage (up to 15%) until end of level.
+
 
 TOTAL + BUFFS SUMMARY
 
