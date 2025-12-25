@@ -1,10 +1,10 @@
 GOD - ONE-SHOT SURVIVABLE
 
 Difficulty: No Hope
-Weapons: Snipers (ALL IN on sniper rifles)
+Weapons: Assault Rifles (ALL IN on ARs)
 Playstyles: dps, survivable
 
-This deck is optimized for high-difficulty damage-dealing in multiplayer with survivability. Focus: Maximum damage output to one-shot mutations while maintaining survivability to avoid being one-shotted. The perfect balance of power and durability.
+This deck is optimized for high-difficulty damage-dealing in multiplayer with survivability. Focus: Maximum damage output to eliminate mutations quickly while maintaining survivability to avoid being one-shotted. The perfect balance of power and durability for assault rifle gameplay.
 
 
 RECOMMENDED CLEANERS
@@ -39,8 +39,8 @@ DECK COMPOSITION (15 cards)
 5. PATIENT HUNTER (Discipline - Offense)
    Every 0.75 seconds you Aim Down Sights increases Bullet Damage by 10% (up to 3 stacks).
 
-6. STOCK POUCH (Reflex - Offense)
-   +30% Sniper Ammo Capacity. +10% Damage with Sniper Rifles.
+6. TACTICAL VEST (Discipline - Offense)
+   +30% Rifle Ammo Capacity. +10% Damage with Assault Rifles and LMGs.
 
 7. HYPER-FOCUSED (Reflex - Offense)
    +50% Weakspot Damage. -40% Move Speed while shooting or melee attacking.
@@ -75,12 +75,12 @@ TOTAL + BUFFS SUMMARY
 BASE DECK:
 - Health: -15% net (Base 100 -30% Glass Cannon +10 Walker +5 Padded Suit = 85 health)
 - Damage Resistance: +10% (Padded Suit)
-- Bullet Damage: +52.5% base (+25% Glass Cannon + +7.5% Large Caliber + +10% Silver Bullets + +10% Stock Pouch Snipers) + up to +30% Patient Hunter (scoped) + up to +15% Confident Killer (mutation kills)
+- Bullet Damage: +52.5% base (+25% Glass Cannon + +7.5% Large Caliber + +10% Silver Bullets + +10% Tactical Vest ARs) + up to +30% Patient Hunter (scoped) + up to +15% Confident Killer (mutation kills)
 - Weakspot Damage: +80% (+50% Hyper-Focused + +20% Ridden Slayer + +10% Front Sight Focus)
 - Accuracy: +20% (Front Sight Focus)
 - Bullet Penetration: +200%
 - Effective Bullet Range: +25% (Silver Bullets + Line 'Em Up)
-- Ammo Capacity: +30% (Stock Pouch for snipers)
+- Ammo Capacity: +30% (Tactical Vest for ARs)
 - Reload: Admin Reload (automatic reload on weapon swap)
 - Move Speed: +12% base (Run Like Hell) - lost for 3s when taking damage
 - Sprint Speed: +15% (Run Like Hell)
@@ -104,17 +104,18 @@ WITH JIM (ALTERNATIVE):
 
 PLAYSTYLE
 
-The ultimate one-shot survivable build. Combines maximum damage output with damage resistance and health to avoid being one-shotted. Glass Cannon provides +25% damage but reduces health (-30%), offset by Walker's +10 team health and Padded Suit's +5 health and +10% damage resistance. Hyper-Focused, Ridden Slayer, and Front Sight Focus give massive weakspot damage (+80%, +90% with Jim) for one-shotting mutations. Position yourself at range for optimal weakspot shots. Use Patient Hunter's aiming stacks (aim for 2.25 seconds for max +30% damage). Focus mutations first to stack Confident Killer (+15% max). With Walker, ping mutations for 10% reduced damage from them. With Jim, prioritize precision kills to stack Clean Kill (+25% max) but avoid taking damage to maintain stacks. Admin Reload lets you swap weapons for instant reloads - perfect for sustained fire. Run Like Hell provides mobility (+12% move speed, +15% sprint speed) - enough for survival. Use Snipers for Stock Pouch bonus - ALL IN on sniper rifles. Stay at range, aim for weakspots, and let your massive damage do the work. The +10% damage resistance from Padded Suit means you take 10% less damage from all sources, significantly improving survivability.
+The ultimate one-shot survivable build. Combines maximum damage output with damage resistance and health to avoid being one-shotted. Glass Cannon provides +25% damage but reduces health (-30%), offset by Walker's +10 team health and Padded Suit's +5 health and +10% damage resistance. Hyper-Focused, Ridden Slayer, and Front Sight Focus give massive weakspot damage (+80%, +90% with Jim) for one-shotting mutations. Position yourself at range for optimal weakspot shots. Use Patient Hunter's aiming stacks (aim for 2.25 seconds for max +30% damage). Focus mutations first to stack Confident Killer (+15% max). With Walker, ping mutations for 10% reduced damage from them. With Jim, prioritize precision kills to stack Clean Kill (+25% max) but avoid taking damage to maintain stacks. Admin Reload lets you swap weapons for instant reloads - perfect for sustained fire. Run Like Hell provides mobility (+12% move speed, +15% sprint speed) - enough for survival. Use Assault Rifles for Tactical Vest bonus - ALL IN on ARs. Stay at medium range, aim for weakspots, and let your massive damage do the work. The +10% damage resistance from Padded Suit means you take 10% less damage from all sources, significantly improving survivability.
 
 
 STRENGTHS
 
 - Massive damage potential (up to +107.5% with Walker, +122.5% with Jim)
 - Massive weakspot damage (+80%, +90% with Jim) - essential for one-shotting mutations
-- Excellent penetration (+200%) for hitting multiple targets
+- Excellent penetration (+200%) for hitting multiple targets with ARs
 - Survivability: +10% damage resistance and 85 health with Walker (vs 70 health pure glass cannon)
 - Admin Reload enables constant weapon swapping for sustained fire
 - Good mobility with Run Like Hell (+12% move speed, +15% sprint speed)
+- Versatile range: ARs work at medium range, more forgiving than snipers
 - Copper generation for team upgrades
 - With Walker: Ping mutations for 10% reduced damage from them
 - Much more forgiving than pure glass cannon builds
