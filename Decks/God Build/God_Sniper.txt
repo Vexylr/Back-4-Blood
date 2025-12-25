@@ -1,0 +1,131 @@
+GOD - ONE-SHOT SURVIVABLE
+
+Difficulty: No Hope
+Weapons: Snipers (ALL IN on sniper rifles)
+Playstyles: dps, survivable
+
+This deck is optimized for high-difficulty damage-dealing in multiplayer with survivability. Focus: Maximum damage output to one-shot mutations while maintaining survivability to avoid being one-shotted. The perfect balance of power and durability.
+
+
+RECOMMENDED CLEANERS
+
+PRIMARY: WALKER
+- MODEL SOLDIER: +10% Damage
+- PRAGMATIC (Team): +10 Team Health (offsets Glass Cannon's -30% health penalty)
+- INCOMING!: Pings reduce mutation damage by 10%
+- EQUIPPED: Start with Frag Grenade
+
+ALTERNATIVE: JIM
+- CLEAN KILL: Precision kills increase damage by 2.5% (up to 10 times until taking damage)
+- SEASONED HUNTER (Team): +10% Team Weakspot Damage
+- MILITARY TRAINING: +25% Reload Speed
+- RAZOR SNARE: Start with Razor Wire
+
+
+DECK COMPOSITION (15 cards)
+
+1. GLASS CANNON (Reflex - Offense)
+   +25% Damage. -30% Health.
+
+2. PADDED SUIT (Discipline - Defense)
+   +10% Damage Resistance. +5 Health. -20% Stamina Efficiency.
+
+3. LINE 'EM UP (Brawn - Offense)
+   +10% Effective Bullet Range, +15% Recoil Control, +25% Bullet Penetration, +25% Aim Speed.
+
+4. CONFIDENT KILLER (Brawn - Offense)
+   When you or your team kills a Mutation: gain 1% damage (up to 15%) until end of level.
+
+5. PATIENT HUNTER (Discipline - Offense)
+   Every 0.75 seconds you Aim Down Sights increases Bullet Damage by 10% (up to 3 stacks).
+
+6. STOCK POUCH (Reflex - Offense)
+   +30% Sniper Ammo Capacity. +10% Damage with Sniper Rifles.
+
+7. HYPER-FOCUSED (Reflex - Offense)
+   +50% Weakspot Damage. -40% Move Speed while shooting or melee attacking.
+
+8. RIDDEN SLAYER (Reflex - Offense)
+   +20% Weakspot Damage.
+
+9. LARGE CALIBER ROUNDS (Discipline - Offense)
+   +7.5% Bullet Damage. +200% Bullet Penetration.
+
+10. SILVER BULLETS (Discipline - Offense)
+    +10% Bullet Damage. +15% Effective Bullet Range.
+
+11. FRONT SIGHT FOCUS (Discipline - Offense)
+    +20% Accuracy. +10% Weakspot Damage. +15% Aim Speed. +15% Recoil Control.
+
+12. RUN LIKE HELL (Reflex - Mobility)
+    +12% Move Speed. +15% Sprint Speed. When you take damage, you lose the benefits of Run like Hell for 3 seconds.
+
+13. ADMIN RELOAD (Fortune - Offense)
+    When you stow your weapon, it reloads.
+
+14. COPPER SCAVENGER (Fortune - Utility)
+    You can sense nearby Copper. More Copper Piles spawn.
+
+15. MONEY GRUBBERS (Fortune - Utility)
+    Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.
+
+
+TOTAL + BUFFS SUMMARY
+
+BASE DECK:
+- Health: -15% net (Base 100 -30% Glass Cannon +10 Walker +5 Padded Suit = 85 health)
+- Damage Resistance: +10% (Padded Suit)
+- Bullet Damage: +52.5% base (+25% Glass Cannon + +7.5% Large Caliber + +10% Silver Bullets + +10% Stock Pouch Snipers) + up to +30% Patient Hunter (scoped) + up to +15% Confident Killer (mutation kills)
+- Weakspot Damage: +80% (+50% Hyper-Focused + +20% Ridden Slayer + +10% Front Sight Focus)
+- Accuracy: +20% (Front Sight Focus)
+- Bullet Penetration: +200%
+- Effective Bullet Range: +25% (Silver Bullets + Line 'Em Up)
+- Ammo Capacity: +30% (Stock Pouch for snipers)
+- Reload: Admin Reload (automatic reload on weapon swap)
+- Move Speed: +12% base (Run Like Hell) - lost for 3s when taking damage
+- Sprint Speed: +15% (Run Like Hell)
+- Economy: Copper Scavenger + Money Grubbers
+
+WITH WALKER (PRIMARY):
+- Health: 85 (Base 100 -30% Glass Cannon = 70, +10 team health from Pragmatic = 80, +5 from Padded Suit = 85)
+- Damage Resistance: +10% (Padded Suit) + 10% reduced damage from pinged mutations (Incoming!)
+- Bullet Damage: +62.5% base (+52.5% cards + +10% Model Soldier) + up to +30% Patient Hunter + up to +15% Confident Killer = up to +107.5% total potential
+- Weakspot Damage: +80%
+- Starts with: Frag Grenade
+
+WITH JIM (ALTERNATIVE):
+- Health: 75 (Base 100 -30% Glass Cannon = 70, +5 from Padded Suit = 75)
+- Damage Resistance: +10% (Padded Suit)
+- Bullet Damage: +52.5% base + up to +30% Patient Hunter + up to +15% Confident Killer + up to +25% Clean Kill = up to +122.5% total potential
+- Weakspot Damage: +90% (+80% cards + +10% Team Weakspot from Seasoned Hunter)
+- Reload: Admin Reload + +25% reload speed (Military Training)
+- Starts with: Razor Wire
+
+
+PLAYSTYLE
+
+The ultimate one-shot survivable build. Combines maximum damage output with damage resistance and health to avoid being one-shotted. Glass Cannon provides +25% damage but reduces health (-30%), offset by Walker's +10 team health and Padded Suit's +5 health and +10% damage resistance. Hyper-Focused, Ridden Slayer, and Front Sight Focus give massive weakspot damage (+80%, +90% with Jim) for one-shotting mutations. Position yourself at range for optimal weakspot shots. Use Patient Hunter's aiming stacks (aim for 2.25 seconds for max +30% damage). Focus mutations first to stack Confident Killer (+15% max). With Walker, ping mutations for 10% reduced damage from them. With Jim, prioritize precision kills to stack Clean Kill (+25% max) but avoid taking damage to maintain stacks. Admin Reload lets you swap weapons for instant reloads - perfect for sustained fire. Run Like Hell provides mobility (+12% move speed, +15% sprint speed) - enough for survival. Use Snipers for Stock Pouch bonus - ALL IN on sniper rifles. Stay at range, aim for weakspots, and let your massive damage do the work. The +10% damage resistance from Padded Suit means you take 10% less damage from all sources, significantly improving survivability.
+
+
+STRENGTHS
+
+- Massive damage potential (up to +107.5% with Walker, +122.5% with Jim)
+- Massive weakspot damage (+80%, +90% with Jim) - essential for one-shotting mutations
+- Excellent penetration (+200%) for hitting multiple targets
+- Survivability: +10% damage resistance and 85 health with Walker (vs 70 health pure glass cannon)
+- Admin Reload enables constant weapon swapping for sustained fire
+- Good mobility with Run Like Hell (+12% move speed, +15% sprint speed)
+- Copper generation for team upgrades
+- With Walker: Ping mutations for 10% reduced damage from them
+- Much more forgiving than pure glass cannon builds
+
+
+WEAKNESSES
+
+- Lower health pool than tank builds (85 health with Walker, 75 with Jim)
+- Requires good aiming/positioning to maximize damage stacks
+- Vulnerable if caught in close quarters (but more survivable than pure glass cannon)
+- Needs teammates for protection
+- With Jim: Clean Kill stacks reset on taking damage
+- Patient Hunter requires aiming time - vulnerable during stack building
+- Padded Suit reduces stamina efficiency by 20% (minor drawback)

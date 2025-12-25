@@ -1,0 +1,172 @@
+GOD BUILD GUIDE
+═══════════════════════════════════════════════════════════════════════════════
+
+OVERVIEW
+───────────────────────────────────────────────────────────────────────────────
+
+The ultimate one-shot survivable build. Combines maximum damage output with 
+damage resistance and health to avoid being one-shotted while still maintaining 
+the power to eliminate mutations in a single shot. This build balances the 
+glass cannon approach with practical survivability - you deal massive damage 
+but won't die from a single mistake.
+
+ROLE & POSITIONING
+───────────────────────────────────────────────────────────────────────────────
+
+You're playing DPS with survivability. You have significant damage resistance 
+(+10%) and ~82 health with Walker (vs 70 health pure glass cannon), making you 
+much more durable while still maintaining massive damage output. Position 
+yourself at range for optimal weakspot shots, but you can take a hit or two 
+without dying.
+
+Stay at range when possible, but don't fear taking some damage. The +10% damage 
+resistance from Padded Suit means you take 10% less damage from all sources, 
+significantly improving your survivability compared to pure glass cannon builds.
+
+DAMAGE STACKING
+───────────────────────────────────────────────────────────────────────────────
+
+Patient Hunter
+  → Aim down sights and hold for 2.25 seconds to max your stacks
+  → Gives you +30% damage when fully scoped
+  → Requires staying still while aiming, so position safely before scoping
+
+Confident Killer
+  → Stacks on mutation kills, giving you up to +15% damage
+  → Prioritize killing mutations early to build stacks quickly
+
+Clean Kill (Jim only)
+  → Stacks on precision kills for up to +25% damage
+  → Resets if you take damage
+  → Requires skill - hit weakspots consistently and avoid taking damage
+
+DAMAGE CALCULATION
+───────────────────────────────────────────────────────────────────────────────
+
+Base Damage: +52.5% from cards
+  • +25% Glass Cannon
+  • +7.5% Large Caliber Rounds
+  • +10% Silver Bullets
+  • +10% Stock Pouch (Snipers)
+
+With Walker:
+  • +10% Model Soldier = +62.5% base
+  • Up to +30% from Patient Hunter (scoped)
+  • Up to +15% from Confident Killer (mutation kills)
+  • Total: Up to +107.5% damage potential
+
+With Jim:
+  • +52.5% base
+  • Up to +30% from Patient Hunter (scoped)
+  • Up to +15% from Confident Killer (mutation kills)
+  • Up to +25% from Clean Kill (precision kills)
+  • Total: Up to +122.5% damage potential
+
+WEAKSPOT DAMAGE
+───────────────────────────────────────────────────────────────────────────────
+
++80% Weakspot Damage (cards):
+  • +50% Hyper-Focused
+  • +20% Ridden Slayer
+  • +10% Front Sight Focus
+
+With Jim: +90% (+80% cards + +10% Team Weakspot from Seasoned Hunter)
+
+This massive weakspot damage combined with your base damage multipliers means 
+you can one-shot most mutations with a well-placed weakspot shot.
+
+SURVIVABILITY
+───────────────────────────────────────────────────────────────────────────────
+
+Health Calculation (with Walker):
+  • Base: 100 health
+  • Glass Cannon: -30% = 70 health
+  • Walker's Pragmatic: +10 team health (flat) = 80 health
+  • Padded Suit: +5 health = 85 health total
+
+Damage Resistance:
+  • +10% from Padded Suit (all damage sources)
+  • +10% reduced damage from pinged mutations (Walker's Incoming! trait)
+
+This means:
+  • You have 21% more health than pure glass cannon builds (85 vs 70)
+  • You take 10% less damage from all sources
+  • You take 10% less damage from mutations you ping (with Walker)
+
+WEAPONS
+───────────────────────────────────────────────────────────────────────────────
+
+Use Snipers. Stock Pouch gives +10% damage with Snipers and +30% sniper ammo 
+capacity. M1A, Ranch Rifle, or Phoenix 350L work great for precision. Snipers 
+have the highest base damage and benefit most from weakspot damage multipliers, 
+making them ideal for one-shotting mutations.
+
+RECOMMENDED CLEANERS
+───────────────────────────────────────────────────────────────────────────────
+
+Walker (Primary)
+  → +10 flat team health offsets some of Glass Cannon's penalty (85 vs 75 with Jim)
+  → +10% consistent damage bonus
+  → Ping mutations for 10% reduced damage from them
+  → More forgiving and survivable
+
+Jim (Alternative)
+  → Highest damage potential with Clean Kill (+25% max)
+  → +10% team weakspot damage
+  → +25% reload speed
+  → Requires skill to maintain stacks (resets on taking damage)
+
+UTILITY & SUSTAIN
+───────────────────────────────────────────────────────────────────────────────
+
+Admin Reload
+  → Automatic reload on weapon swap
+  → Enables constant weapon swapping for sustained fire
+  → Perfect for maintaining damage output during hordes
+
+Run Like Hell
+  → +12% move speed and +15% sprint speed
+  → Provides enough mobility for survival
+  → Benefits lost for 3 seconds when taking damage
+
+Copper Scavenger + Money Grubbers
+  → Economy cards for team upgrades
+  → Money Grubbers can provide up to 75 additional copper per level
+  → Essential for purchasing upgrades and items
+
+KEY STRATEGIES
+───────────────────────────────────────────────────────────────────────────────
+
+✓ Position at range for optimal weakspot shots
+✓ Aim down sights for 2.25 seconds to max Patient Hunter stacks
+✓ Focus mutations first to stack Confident Killer
+✓ Prioritize weakspot shots for one-shot potential
+✓ With Walker: Ping mutations before engaging for 10% damage reduction
+✓ Use Admin Reload to maintain constant fire
+✓ Take advantage of +10% damage resistance - you can take some hits
+
+CRITICAL TIPS
+───────────────────────────────────────────────────────────────────────────────
+
+✗ Don't get overconfident - you're more durable than glass cannon, but still 
+  fragile compared to tank builds
+✗ Don't waste ammo - manage it carefully
+✗ Don't ignore positioning - range and cover are still important
+✗ With Jim: Don't take unnecessary damage or you'll reset Clean Kill stacks
+✗ Don't forget to stack Patient Hunter by aiming for 2.25 seconds
+✗ Don't forget to ping mutations with Walker for 10% damage reduction
+
+ONE-SHOT TARGETS
+───────────────────────────────────────────────────────────────────────────────
+
+With maximum stacks and weakspot shots, you can one-shot:
+  • Stingers
+  • Stalkers
+  • Hockers
+  • Retches
+  • Exploders
+  • Many Tallboys (with perfect weakspot shots)
+  • Reekers
+
+Bosses require multiple shots, but you'll deal massive damage with each weakspot 
+hit, making boss fights much faster.
