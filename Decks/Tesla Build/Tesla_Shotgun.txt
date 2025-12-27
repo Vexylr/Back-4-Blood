@@ -116,6 +116,8 @@ PLAYSTYLE
 
 Experimental tech specialist using DLC gadgets with Tala. Your gadgets replace item slots but cost ammo instead of consumables. Expired T5 is your main offensive tool - Pyro doubles its fire damage (+100%) and Glass Cannon adds +25% damage, making T5 extremely powerful. Use Tala's Marked For Death: mark enemies with your shotgun, then hit them with T5 for +15% bonus damage from the mark. Ultrasonic Wound Therapy provides team healing. Experimental Stun Gun gives crowd control but makes you fragile. Use shotgun to balance ammo consumption across all 3 ammo types. Admin Reload enables constant weapon swapping. Run Like Hell provides mobility. This is a very dynamic deck - learn to play without Down In Front by aiming and positioning properly. Ammo Scavenger finds ammo crates for gadget fuel. Copper Scavenger and Money Grubbers generate copper for upgrades.
 
+NOTE: Per guide recommendations, ensure at least one teammate has On Your Mark (ammo), Needs of the Many + Medical Professional (lives/health), and Amped Up (healing). This deck focuses on gadget utility - team support cards should be handled by other players.
+
 
 STRENGTHS
 

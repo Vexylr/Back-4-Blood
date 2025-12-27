@@ -62,7 +62,6 @@ DECK COMPOSITION (15 cards)
 
 15. RUN LIKE HELL (Reflex - Mobility)
     +12% Move Speed. +15% Sprint Speed. When you take damage, you lose the benefits of Run like Hell for 3 seconds.
-    You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
 
 
 TOTAL + BUFFS SUMMARY
@@ -88,6 +87,8 @@ WITH HOFFMAN:
 PLAYSTYLE
 
 Professional demolitionist and explosive specialist. Your grenades and Molotovs deal massive damage (+175% total). Use Offensive Scavenger to find items, Money Grubbers and Copper Scavenger for purchasing power. Pyro makes fire damage incredibly powerful (+100%) and gives temp health per kill (+3 temp health per fire kill). Food Scavenger provides additional sustain through food items. With Hoffman, you have +4 offensive inventory slots and generate items from kills. Your goal: eliminate bosses and mutations with explosive damage. Take down Breakers and Ogres with ease using your massive accessory damage bonuses. Use secondary weapon with unlimited ammo for common ridden, save offensive items for mutations and bosses. Run Like Hell provides mobility (+12% move speed, +15% sprint speed) for positioning. Learn to aim and position properly - no Down In Front for friendly fire protection.
+
+NOTE: Per guide recommendations, this deck matches the guide's Hoffman Grenadier build. Ensure at least one teammate has On Your Mark (ammo), Needs of the Many + Medical Professional (lives/health), and Amped Up (healing). This deck focuses on explosive damage - team support cards should be handled by other players.
 
 
 STRENGTHS

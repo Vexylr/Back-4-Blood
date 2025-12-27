@@ -33,41 +33,41 @@ DECK COMPOSITION (15 cards)
 3. DOWN IN FRONT! (Discipline - Defense)
    While crouching you neither take nor deal Friendly Fire damage. +10 Health.
 
-4. VANGUARD (Discipline - Offense)
+4. AVENGE THE FALLEN (Discipline - Offense)
+   When you or your teammate becomes incapacitated: all teammates gain 30% Damage, 20% Reload Speed, and Unlimited Ammo for 10 seconds.
+
+5. VANGUARD (Discipline - Offense)
    Melee kills heal 1 Health to yourself AND teammates within 10 meters.
 
-5. MEAN DRUNK (Brawn - Offense)
+6. MEAN DRUNK (Brawn - Offense)
    +40% Melee Damage. Melee Attacks cause cleave through enemies.
 
-6. BERSERKER (Brawn - Offense)
+7. BERSERKER (Brawn - Offense)
    Each Melee kill grants 5% Melee Damage, 5% Melee Speed, 5% Move Speed for 4 seconds.
 
-7. IGNORE THE PAIN (Brawn - Defense)
+8. IGNORE THE PAIN (Brawn - Defense)
    +20% Melee Damage against Mutations. When you deal Melee damage to a Mutation: heal 2 Health and 3 Stamina.
 
-8. SPIKY BITS (Brawn - Offense)
+9. SPIKY BITS (Brawn - Offense)
    +15 Melee Damage. +20% Damage Resistance while using a Melee Weapon. -15% Ammo Capacity.
 
-9. EMT BAG (Discipline - Defense)
-   +50% Healing Efficiency.
+10. EMT BAG (Discipline - Defense)
+    +50% Healing Efficiency.
 
-10. BRAZEN (Reflex - Offense)
+11. BRAZEN (Reflex - Offense)
     +15% Melee Stamina Efficiency. +20% Melee Attack Speed.
 
-11. SLUGGER (Reflex - Offense)
+12. SLUGGER (Reflex - Offense)
     +5% Health. +10% Melee Stamina Efficiency. +20% Melee Attack Speed.
 
-12. COPPER SCAVENGER (Fortune - Utility)
+13. COPPER SCAVENGER (Fortune - Utility)
     You can sense nearby Copper. More Copper Piles spawn.
 
-13. MONEY GRUBBERS (Fortune - Utility)
+14. MONEY GRUBBERS (Fortune - Utility)
     Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.
 
-14. FOOD SCAVENGER (Fortune - Utility)
+15. FOOD SCAVENGER (Fortune - Utility)
     You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food Items restore an additional 3 Health.
-
-15. RUN LIKE HELL (Reflex - Mobility)
-   +12% Move Speed. +15% Sprint Speed. When you take damage, you lose the benefits of Run like Hell for 3 seconds.
 
 
 TOTAL + BUFFS SUMMARY
@@ -75,6 +75,7 @@ TOTAL + BUFFS SUMMARY
 BASE DECK:
 - Health: +15 (+10 Down in Front!, +5% Slugger)
 - Melee Damage: +40% (Mean Drunk) + 20% vs Mutations (Ignore the Pain) + 15 Flat (Spiky Bits) + Berserker stacks
+- Emergency Power: Avenge the Fallen provides +30% Damage, +20% Reload Speed, Unlimited Ammo for 10 seconds when teammate goes down
 - Melee Attack Speed: +40% (Brazen + Slugger) + up to +100% from stacks (Meth Head + Berserker)
 - Melee Stamina Efficiency: +25% (Brazen + Slugger) + up to +50% from Meth Head stacks
 - Trauma Resistance: +25% (Sharice's Dauntless)
@@ -106,6 +107,7 @@ STRENGTHS
 - Cleave damage handles hordes well
 - Scales better as you kill enemies (Berserker stacks)
 - All bonuses active from level start
+- Emergency team power: Avenge the Fallen provides massive team buffs when teammates go down (mandatory card per guide)
 
 
 WEAKNESSES

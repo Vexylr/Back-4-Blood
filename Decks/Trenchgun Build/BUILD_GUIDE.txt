@@ -72,7 +72,7 @@ Fresh Bandage
     restore)
 
 Food Scavenger
-  → Synergizes with Heng for trauma management
+  → Provides additional food items for sustain
 
 TRAUMA RESISTANCE
 ───────────────────────────────────────────────────────────────────────────────
@@ -86,11 +86,12 @@ This keeps you durable on high difficulties.
 RECOMMENDED CLEANER
 ───────────────────────────────────────────────────────────────────────────────
 
-Heng
-  → More Food spawns, you gain effects when teammates eat food, and food 
-    restores +1 trauma when you consume it
-  → Your team gains +1 health and stamina per food consumed
-  → This food synergy provides excellent sustain
+Holly
+  → Health regeneration from melee kills (Battle Lust: +2 health per kill)
+  → Team stamina support (+25 team stamina from Cardio)
+  → Team damage resistance (+5% team damage resistance from Tough as Nails)
+  → Guide recommends Holly on shotguns (preferably AA12)
+  → With the right cards, you can intelligently use her health regeneration ability and convert it to temporary health
 
 KEY STRATEGIES
 ───────────────────────────────────────────────────────────────────────────────
@@ -99,7 +100,7 @@ KEY STRATEGIES
 ✓ Crouch when firing for better accuracy (+90% while crouching) and damage 
   resistance
 ✓ Use Magnum for mutations
-✓ Use food for sustain, especially with Heng
+✓ Use food for sustain
 ✓ Crouch when near teammates
 ✓ Stay aggressive - use your movement speed while firing to kite enemies and 
   maintain pressure
@@ -108,7 +109,7 @@ CRITICAL TIPS
 ───────────────────────────────────────────────────────────────────────────────
 
 ✗ Don't try to aim down sights - you can't, it's hip-fire only
-✗ Don't waste food - it's important for sustain with Heng
+✗ Don't waste food - it's important for sustain
 ✗ Don't forget fire resistance is negative (-100%) - avoid fire damage
 ✗ Don't play at long range - shotgun is close-range
 ✗ Don't forget to crouch - optimal accuracy and defense require it
@@ -119,7 +120,7 @@ SUMMARY
 You're an AA12 shotgun specialist. Crouch when firing for maximum accuracy 
 (+90%) and defense (+25% damage resistance while crouched), and use your 
 movement speed while firing to kite enemies. Your high trauma resistance (50%) 
-keeps you durable. With Heng, 
-food synergy provides excellent sustain. Your goal is dealing sustained damage 
-with the AA12 while maintaining survivability through temp health, food, and 
-team healing.
+keeps you durable. With Holly, health regeneration from melee kills provides 
+excellent sustain, and you can convert it to temporary health with proper cards. 
+Your goal is dealing sustained damage with the AA12 while maintaining 
+survivability through temp health, food, and team healing.

@@ -103,6 +103,8 @@ PLAYSTYLE
 
 Fast-moving scout that runs ahead to clear obstacles, detect hazards, and report back to team. With Karlee, sense sleepers and traps to prevent team wipes, and sense Tool Kits for objectives. Use SMGs for maximum speed bonuses (up to +75% movement speed while firing). Your incredible movement speed lets you kite enemies and escape dangerous situations. Breakout ensures you can escape grabs when separated from team (30s cooldown). Your role: clear the path, detect threats, and handle yourself solo when needed. Stay mobile, stay ahead, but don't abandon the team completely. Use your speed to kite mutations and common ridden while team focuses fire. With Walker, you get +10% damage and can ping mutations to reduce their damage output.
 
+NOTE: Per guide recommendations, this deck matches the guide's Karlee use speed build. Ensure at least one teammate has On Your Mark (ammo), Needs of the Many + Medical Professional (lives/health), and Amped Up (healing). This deck focuses on mobility and scouting - team support cards should be handled by other players.
+
 
 STRENGTHS
 

@@ -103,6 +103,8 @@ PLAYSTYLE
 
 Glass cannon precision damage dealer. Glass Cannon provides +25% damage but reduces health (-30%), making positioning critical. Hyper-Focused, Ridden Slayer, and Front Sight Focus give massive weakspot damage (+80%, +90% with Jim). Position yourself at range for optimal weakspot shots. Use Patient Hunter's aiming stacks (aim for 2.25 seconds for max +30% damage). Focus mutations first to stack Confident Killer (+15% max). With Jim, prioritize precision kills to stack Clean Kill (+25% max) but avoid taking damage to maintain stacks. Admin Reload lets you swap weapons for instant reloads - perfect for sustained fire. Run Like Hell provides mobility (+12% move speed, +15% sprint speed) - enough for survival. Use Snipers for Stock Pouch bonus - ALL IN on sniper rifles. Stay at range, aim for weakspots, and let your massive damage do the work. Learn to aim and position properly - no Down In Front for friendly fire protection.
 
+NOTE: Per guide recommendations, ensure at least one teammate has On Your Mark (ammo), Needs of the Many + Medical Professional (lives/health), and Amped Up (healing). This deck focuses on damage - team support cards should be handled by other players.
+
 
 STRENGTHS
 

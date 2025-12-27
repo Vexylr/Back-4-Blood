@@ -88,6 +88,8 @@ PLAYSTYLE
 
 Team support specialist focused on keeping everyone alive. Use Support Scavenger to find medical items. Medical Professional allows First Aid/Defibs to restore extra lives and heal 10 trauma. Needs Of The Many gives the team an extra life. Saferoom Recovery provides passive team recovery (15 health, 7 trauma, 10% ammo) at each level start. Pep Talk makes your revives heal teammates (+10 health) and reduces damage taken while reviving. Group Therapy makes every medical use heal the entire team (+8 health each). Medical Expert provides +50% revive speed and +1 trauma healing. Field Surgeon adds +3 trauma healing per medical use. Antibiotic Ointment gives +20 temp health per medical use. Charitable Soul keeps you healthy while healing others (50% of healing applies to you). You have no damage output - focus entirely on team support. Learn to aim and position yourself - you don't need Down In Front since you deal no damage. With Dan, every revive triggers random effects.
 
+NOTE: Per guide recommendations, this deck includes the mandatory Needs of the Many + Medical Professional cards for No Hope. Ensure at least one teammate has On Your Mark (ammo) and Amped Up (healing) - though you provide the core medical support.
+
 
 STRENGTHS
 
