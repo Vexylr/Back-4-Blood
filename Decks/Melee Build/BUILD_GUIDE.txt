@@ -1,4 +1,4 @@
-SPARTACUS BUILD GUIDE
+MELEE BUILD GUIDE
 ═══════════════════════════════════════════════════════════════════════════════
 
 OVERVIEW

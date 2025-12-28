@@ -1,4 +1,4 @@
-TRENCHGUN - SHOTGUN
+SHOTGUN - AA12 SPECIALIST
 
 Difficulty: No Hope
 Weapons: AA12 (primary), Magnum (offhand)
